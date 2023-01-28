@@ -1,0 +1,19 @@
+{
+    "id": "cb98c13f9c1a25a675b7384be85f5906",
+    "metadata": {
+        "fullname": "xrandr-STD Computer Inc-MD270F-1234567890123",
+        "name": "DisplayPort-2"
+    },
+    "mode": {
+        "refresh": 164.6903839111328,
+        "size": {
+            "height": 1440,
+            "width": 2560
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

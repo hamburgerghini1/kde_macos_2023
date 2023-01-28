@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=UNCHARTED™: Legacy of Thieves Collection
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1659420
+Icon=steam_icon_1659420
+Terminal=false
+Type=Application
+Categories=Game;

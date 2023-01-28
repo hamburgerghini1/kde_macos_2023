@@ -1,0 +1,22 @@
+SiiNunit
+{
+global_input_config : _nameless.66f.3290 {
+ version: 1
+ ui_whitelisted: 0
+ ui_blacklisted: 0
+ display_names: 12
+ display_names[0]: "`sys.keyboard`|@@keyboard@@"
+ display_names[1]: "`sys.mouse`|@@i_mouse@@"
+ display_names[2]: "`evdev.'/dev/input/event8@usb-0951:16dc@7F34917D@usb-0000:00:14.0-2/input2@'`|Kingston HyperX Alloy FPS RGB Keyboard"
+ display_names[3]: "`evdev.'/dev/input/event7@usb-0951:16dc@671335BA@usb-0000:00:14.0-2/input2@'`|Kingston HyperX Alloy FPS RGB Consumer Control"
+ display_names[4]: "`evdev.'/dev/input/event6@usb-0951:16dc@EA464239@usb-0000:00:14.0-2/input2@'`|Kingston HyperX Alloy FPS RGB System Control"
+ display_names[5]: "`evdev.'/dev/input/event5@usb-0951:16dc@B6ECB851@usb-0000:00:14.0-2/input2@'`|Kingston HyperX Alloy FPS RGB Mouse"
+ display_names[6]: "`evdev.'/dev/input/event4@usb-0951:16dc@65511421@usb-0000:00:14.0-2/input1@'`|Kingston HyperX Alloy FPS RGB"
+ display_names[7]: "`evdev.'/dev/input/event3@usb-0951:16dc@7F34917D@usb-0000:00:14.0-2/input0@'`|Kingston HyperX Alloy FPS RGB"
+ display_names[8]: "`dialogs.keyboard`|@@keyboard@@"
+ display_names[9]: "`dialogs.mouse`|@@i_mouse@@"
+ display_names[10]: "`fusion.mouse`|@@i_mouse@@"
+ display_names[11]: "`steam.s0045E28E3315321F`|@@steam_controller@@ 0045E28E3315321F"
+}
+
+}

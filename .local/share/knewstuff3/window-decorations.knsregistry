@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Fireflies Dark Round</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1757391</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>36695</downloads>
+  <installedfile>/home/tommi/.local/share/aurorae/themes/Fireflies-dark-round/*</installedfile>
+  <id>1757391</id>
+  <releasedate>2022-04-07</releasedate>
+  <summary>Fireflies based Window Decoration for Fireflies Theme. Respects your Color Scheme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1757391/2022-04-07-16-12.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1757391/2022-04-07-16-12.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkzMjg5ODYiLCJvIjoiMSIsInMiOiI1NjNhNGM1Y2NjZjFjNmQ2YmUyZjNiYTU1MjI3MjBlM2NlOTE3NDdiMGVkMmYwMmYwYmYxM2IyOGZlNmQ4MGYwZmYzZGE0MzA4YzBmNGI3YzA2ZjQzMmM0MjFkZTcwNDgyMzMxMDdkMmI2MTZmNWY2NmZmNGM1YjBmNTAzMDUwOSIsInQiOjE2NzQ1NzUwOTIsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0._Y9pHj1a9w_ujqYhUrOQ3TTXYCVrps5atFzJQvA9btU/Fireflies-dark-round.tar.gz</payload>
+  <tags>sweet,plasma,unix,theme,linux,arch,fireflies,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

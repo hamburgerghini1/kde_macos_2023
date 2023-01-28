@@ -1,0 +1,32 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AppImage Pool
+Icon=appimagekit_87ce70c3a479fb695fb41a0a02440fdc_appimagepool
+Exec=/home/tommi/Applications/appimagepool-5.0.0-x86_64_57f732b9d7f041f503bd0afa0bdd6cb3.AppImage %u
+StartupWMClass=appimagepool
+Categories=Utility;
+Keywords=AppImage;Store;AppImageHub;Flutter;Gtk;
+TryExec=/home/tommi/Applications/appimagepool-5.0.0-x86_64_57f732b9d7f041f503bd0afa0bdd6cb3.AppImage
+X-AppImage-Old-Icon=appimagepool
+X-AppImage-Identifier=87ce70c3a479fb695fb41a0a02440fdc
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2020-09-29 21:36:22 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/tommi/Applications/appimagepool-5.0.0-x86_64_57f732b9d7f041f503bd0afa0bdd6cb3.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

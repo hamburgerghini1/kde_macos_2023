@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Noctis Lightly Colors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1610049</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>15364</downloads>
+  <installedfile>/home/tommi/.local/share/color-schemes/NoctisLightly.colors</installedfile>
+  <id>1610049</id>
+  <releasedate>2021-10-03</releasedate>
+  <summary>Noctis Color Scheme for Noctis Theme:&lt;br />
+Requirements : Lightly and Lightly shaders&lt;br />
+Install these before using the current colorscheme</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1610049/b9588be0691b84532f92dbda2d9fa810268a027ff95cfe1775174ac049eb474b0057.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1610049/b9588be0691b84532f92dbda2d9fa810268a027ff95cfe1775174ac049eb474b0057.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzMyNjAyMDciLCJvIjoiMSIsInMiOiI2MWFiYzdmMGQzZmE0NjAwYzUzN2Y1ODVjYmRhYzEzOGVmMzNiOTMwMGE0MDQ4NzM4YzExZTA1ODFlNjkzZWMzNDUzNzA2NWI1MTYzMzllMGEwMTk4YzU5Y2VlNGZmZWVmMTY3OGMxMmUwMWMyZGM5MWI5ODVjMTk0NzQzOGQ1ZSIsInQiOjE2NzQ1NzU4NTcsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.duXXojKkjv0qwwQEtljS86bVE6Tjb0X3HgCfRJ5Emhs/NoctisLightly.colors.tar.gz</payload>
+  <tags>kde,gplv3,colorscheme,plasma,original-product,unix,theme,noctis,linux,arch</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Fireflies Color Scheme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1757392</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>10046</downloads>
+  <installedfile>/home/tommi/.local/share/color-schemes/Fireflies.colors</installedfile>
+  <id>1757392</id>
+  <releasedate>2022-04-08</releasedate>
+  <summary>Nature Inspired Fireflies Color Scheme. </summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1757392/screenshot-20220407-1610011.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1757392/screenshot-20220407-1610011.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkzOTgyMDIiLCJvIjoiMSIsInMiOiI1ZjU5YzBjYTdmYzJmMzdmN2E4MGI0MjQ2NDkzNmZlODc3N2JiM2YxYzE5ODlhNWM0NjNmZDZiN2MyNTYzMTM1ODYzYzllYWNmMTRkMzdjMjYyMzdhZWFhZmI3OWE1OGQzNjU5NGZlZTQ4ODEwMmVjYTUxOGNiYjM1ZmM5MWExMyIsInQiOjE2NzQ1NzUwNDAsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.XC5xa_FxjQ-xYxVTs4ipeqx616l9m35GzXvrGx-Siko/Fireflies.tar.gz</payload>
+  <tags>kde,gplv3,colorscheme,theme,sweet,unix,plasma,arch,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,80 @@
+1674742548588	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms. (why=schedule)
+1674745044776	Sync.Service	DEBUG	User-Agent: Firefox/108.0.1 (Linux x86_64) FxSync/1.110.0.20221231063103.desktop
+1674745044776	Sync.Service	INFO	Starting sync at 2023-01-26 16:57:24 in browser session QtxOK3BRUOuB
+1674745044776	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1674745044778	Sync.Status	INFO	Resetting Status.
+1674745044778	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1674745044778	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1674745044778	FirefoxAccounts	DEBUG	getOAuthToken enter
+1674745044778	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1674745044778	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1674745044778	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1674745044779	Sync.SyncAuthManager	INFO	Getting sync key
+1674745044779	Sync.SyncAuthManager	INFO	Getting a sync token from: https://token.services.mozilla.com/1.0/sync/1.5
+1674745044779	Sync.SyncAuthManager	DEBUG	Getting a token using OAuth
+1674745044779	FirefoxAccounts	DEBUG	getOAuthToken enter
+1674745044779	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1674745044779	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1674745044779	Services.Common.TokenServerClient	DEBUG	Beginning OAuth token exchange: https://token.services.mozilla.com/1.0/sync/1.5
+1674745044779	Services.Common.RESTRequest	DEBUG	GET request to https://token.services.mozilla.com/1.0/sync/1.5
+1674745044982	Services.Common.RESTRequest	DEBUG	GET https://token.services.mozilla.com/1.0/sync/1.5 401
+1674745044982	Services.Common.TokenServerClient	DEBUG	Got token response: 401
+1674745044982	Services.Common.TokenServerClient	INFO	Server-reported error: {"location":"body","name":"","description":"Unauthorized"}
+1674745044983	Services.Common.RESTRequest	DEBUG	POST request to https://api.accounts.firefox.com/v1/oauth/destroy
+1674745044983	Services.Common.RESTRequest	DEBUG	POST Length: 969
+1674745044983	FirefoxAccounts	DEBUG	_updateAccountData with items: ["oauthTokens"]
+1674745044983	FirefoxAccounts	DEBUG	writing plain storage: ["email","sessionToken","uid","verified","device","oauthTokens","encryptedSendTabKeys","profileCache"]
+1674745044983	FirefoxAccounts	TRACE	starting write of json user data: ["email","sessionToken","uid","verified","device","oauthTokens","encryptedSendTabKeys","profileCache"]
+1674745044983	Sync.SyncAuthManager	WARN	Token server returned 401, retrying token fetch with fresh credentials
+1674745044984	Sync.SyncAuthManager	INFO	Getting a sync token from: https://token.services.mozilla.com/1.0/sync/1.5
+1674745044984	Sync.SyncAuthManager	DEBUG	Getting a token using OAuth
+1674745044984	FirefoxAccounts	DEBUG	getOAuthToken enter
+1674745044984	Services.Common.RESTRequest	DEBUG	POST request to https://api.accounts.firefox.com/v1/oauth/token
+1674745044985	Services.Common.RESTRequest	DEBUG	POST Length: 127
+1674745044985	FirefoxAccounts	TRACE	finished write of json user data - took: 2
+1674745044985	FirefoxAccounts	DEBUG	writing secure storage: ["scopedKeys","kSync","kXCS","kExtSync","kExtKbHash"]
+1674745044985	FirefoxAccounts	TRACE	starting write of user data to the login manager
+1674745044987	FirefoxAccounts	TRACE	finished write of user data to the login manager
+1674745045491	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile 401
+1674745045491	FirefoxAccounts	INFO	Fetching the profile returned a 401 - revoking our token and retrying
+1674745045491	Services.Common.RESTRequest	DEBUG	POST request to https://api.accounts.firefox.com/v1/oauth/destroy
+1674745045491	Services.Common.RESTRequest	DEBUG	POST Length: 900
+1674745045492	FirefoxAccounts	DEBUG	_updateAccountData with items: ["oauthTokens"]
+1674745045492	FirefoxAccounts	DEBUG	writing plain storage: ["email","sessionToken","uid","verified","device","oauthTokens","encryptedSendTabKeys","profileCache"]
+1674745045492	FirefoxAccounts	TRACE	starting write of json user data: ["email","sessionToken","uid","verified","device","oauthTokens","encryptedSendTabKeys","profileCache"]
+1674745045492	FirefoxAccounts	DEBUG	getOAuthToken enter
+1674745045493	FirefoxAccounts	TRACE	finished write of json user data - took: 1
+1674745045493	FirefoxAccounts	DEBUG	writing secure storage: ["scopedKeys","kSync","kXCS","kExtSync","kExtKbHash"]
+1674745045493	FirefoxAccounts	TRACE	starting write of user data to the login manager
+1674745045495	FirefoxAccounts	TRACE	finished write of user data to the login manager
+1674745045497	Services.Common.RESTRequest	DEBUG	POST request to https://api.accounts.firefox.com/v1/oauth/token
+1674745045497	Services.Common.RESTRequest	DEBUG	POST Length: 81
+1674745045680	Services.Common.RESTRequest	DEBUG	POST https://api.accounts.firefox.com/v1/oauth/destroy 200
+1674745045680	Hawk	DEBUG	(Response) /oauth/destroy: code: 200 - Status text: OK
+1674745045680	Hawk	DEBUG	Clock offset vs https://api.accounts.firefox.com/v1: -680
+1674745045716	Services.Common.RESTRequest	DEBUG	POST https://api.accounts.firefox.com/v1/oauth/token 200
+1674745045716	Hawk	DEBUG	(Response) /oauth/token: code: 200 - Status text: OK
+1674745045716	Hawk	DEBUG	Clock offset vs https://api.accounts.firefox.com/v1: -716
+1674745045716	FirefoxAccounts	DEBUG	_updateAccountData with items: ["oauthTokens"]
+1674745045716	FirefoxAccounts	DEBUG	writing plain storage: ["email","sessionToken","uid","verified","device","oauthTokens","encryptedSendTabKeys","profileCache"]
+1674745045716	FirefoxAccounts	TRACE	starting write of json user data: ["email","sessionToken","uid","verified","device","oauthTokens","encryptedSendTabKeys","profileCache"]
+1674745045716	Services.Common.TokenServerClient	DEBUG	Beginning OAuth token exchange: https://token.services.mozilla.com/1.0/sync/1.5
+1674745045716	Services.Common.RESTRequest	DEBUG	GET request to https://token.services.mozilla.com/1.0/sync/1.5
+1674745045717	FirefoxAccounts	TRACE	finished write of json user data - took: 1
+1674745045717	FirefoxAccounts	DEBUG	writing secure storage: ["scopedKeys","kSync","kXCS","kExtSync","kExtKbHash"]
+1674745045717	FirefoxAccounts	TRACE	starting write of user data to the login manager
+1674745045719	FirefoxAccounts	TRACE	finished write of user data to the login manager
+1674745045922	Services.Common.RESTRequest	DEBUG	GET https://token.services.mozilla.com/1.0/sync/1.5 200
+1674745045922	Services.Common.TokenServerClient	DEBUG	Got token response: 200
+1674745045923	Services.Common.TokenServerClient	DEBUG	Successful token response
+1674745045923	Sync.Status	DEBUG	Status.login: success.login => success.login
+1674745045923	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1674745046173	Sync.Resource	DEBUG	GET success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/170338910/info/collections?v=1.110.0
+1674745046173	Sync.Service	DEBUG	Fetching server configuration: https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/170338910/info/configuration
+1674745046177	Sync.Resource	WARN	GET request to https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/170338910/info/configuration failed: [Exception... "The connection was established, but no data was ever received"  nsresult: "0x804b0014 (NS_ERROR_NET_RESET)"  location: "<unknown>"  data: no] No traceback available
+1674745046177	Sync.Service	WARN	Failed to fetch info/configuration: [Exception... "The connection was established, but no data was ever received"  nsresult: "0x804b0014 (NS_ERROR_NET_RESET)"  location: "<unknown>"  data: no] No traceback available
+1674745046177	Sync.Status	DEBUG	Status.sync: success.sync => error.login.reason.network
+1674745046177	Sync.Status	DEBUG	Status.service: success.status_ok => error.sync.failed
+1674745046178	Sync.ErrorHandler	ERROR	Sync encountered an error: Error: Aborting sync, remote setup failed(resource://services-sync/stages/enginesync.js:98:13) JS Stack trace: sync@enginesync.js:98:13
+1674745046178	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1674745046180	Sync.Service	DEBUG	Exception calling anonymous function: Error: Aborting sync, remote setup failed(resource://services-sync/stages/enginesync.js:98:13) JS Stack trace: sync@enginesync.js:98:13

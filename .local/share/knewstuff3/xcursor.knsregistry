@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Sweet cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1393084</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>88</rating>
+  <downloads>464399</downloads>
+  <installedfile>/home/tommi/.icons/Sweet-cursors/*</installedfile>
+  <id>1393084</id>
+  <releasedate>2020-06-12</releasedate>
+  <summary>Cursor theme with some gradients to fit my sweet themes, based on breeze</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1393084/c90e248bf7a72a4ec8aaec653db520630cca.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1393084/c90e248bf7a72a4ec8aaec653db520630cca.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTE5OTM4NTUiLCJvIjoiMSIsInMiOiIxYzk3NDE0YjBmOGJhZDhhMDM4MjM5OTBiNjU2YTdhMzhjNzdkNTczNTMxNmJkOTIwM2IyNWIwMmRkM2NhNzRiNmVkZDVjMjFlZDIyMzBiYmU3MGMwMzZmOTgzOTVhNWNiNWRlNThmMzY1YjQ5Yjc4Zjk3MTdjNGNhNWZiZjIyYiIsInQiOjE2NzQ1NzUwOTAsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.kRFM6T4k4ifmL-ROan48Eburp8MXODR9qTBiK3OceRY/Sweet-cursors.tar.xz</payload>
+  <tags>linux,unix,cursor,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,14 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+window-position=578,350
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Screenshot_20230125_134537.png,file:$HOME/Pictures/Screenshot_20230128_125332.png,file:$HOME/Pictures/Screenshot_20230128_122217.png,file:$HOME/Pictures/Screenshot_20230128_115333.png,file:$HOME/Pictures/Screenshot_20230127_105358.png,file:$HOME/Pictures/Screenshot_20230126_160113.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/tommi/Pictures/Screenshot_20230128_125332.png
+lastSaveLocation=file:///home/tommi/Pictures/Screenshot_20230128_125332.png

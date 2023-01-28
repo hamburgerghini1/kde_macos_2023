@@ -1,0 +1,29 @@
+{
+  "Cormorant": {
+    "app_name": "Cormorant",
+    "base_urls": [
+      "https://download.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
+      "https://download2.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
+      "https://download3.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
+      "https://download4.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "sr5/SRLauncher.exe",
+    "install_path": "/run/user/1000/doc/c1ed32d7/Heroic/SaintsRow",
+    "install_size": 47645737956,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "-packfiles thqnocfg=thqnocfg_epic_standalone_voice",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": true,
+    "save_path": null,
+    "title": "Saints Row",
+    "version": "PD_RC5_CL4519289-230117_1657UTC"
+  }
+}

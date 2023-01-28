@@ -1,0 +1,54 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+Recent Files[$e]=Screenshot_20230126_160113.png,file:$HOME/Pictures/Screenshot_20230127_105358.png,file:$HOME/Pictures/Screenshot_20230126_160113.png
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=16
+
+[MainWindow]
+DP-3 Height 2560x1440 DP-3=761
+DP-3 Width 2560x1440 DP-3=662
+DP-3 Window-Maximized 2560x1440 DP-3=true
+DisplayPort-2=DisplayPort-2
+DisplayPort-2 Height 2560x1440 DisplayPort-2=1384
+DisplayPort-2 Width 2560x1440 DisplayPort-2=1280
+DisplayPort-2 Window-Maximized 2560x1440 DisplayPort-2=true
+DisplayPort-2 XPosition 2560x1440 DisplayPort-2=640
+DisplayPort-2 YPosition 2560x1440 DisplayPort-2=56
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACgAAAAU+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.icons/MacOs-Icon-Theme/screenshots/screenshot1.png
+File10[$e]=$HOME/Pictures/Screenshot_20230128_125332.png
+File2[$e]=$HOME/Downloads/Lightly-Config/Lightly-Application-Style-3.png
+File3[$e]=$HOME/Downloads/Lightly-Config/Lightly-Application-Style-4.png
+File4[$e]=$HOME/Downloads/Lightly-Config/Lightly-Application-Style-5.png
+File5[$e]=$HOME/Downloads/Lightly-Config/Lightly-Window-Decorations-1.png
+File6[$e]=$HOME/Downloads/Lightly-Config/Lightly-Window-Decorations-2.png
+File7[$e]=$HOME/Downloads/Lightly-Config/Lightly-Application-Style-2.png
+File8[$e]=$HOME/Downloads/Lightly-Config/Lightly-Window-Decorations-3.png
+File9[$e]=$HOME/Downloads/Lightly-Config/Lightly-Application-Style-1.png
+Name1[$e]=screenshot1.png
+Name10[$e]=Screenshot_20230128_125332.png
+Name2[$e]=Lightly-Application-Style-3.png
+Name3[$e]=Lightly-Application-Style-4.png
+Name4[$e]=Lightly-Application-Style-5.png
+Name5[$e]=Lightly-Window-Decorations-1.png
+Name6[$e]=Lightly-Window-Decorations-2.png
+Name7[$e]=Lightly-Application-Style-2.png
+Name8[$e]=Lightly-Window-Decorations-3.png
+Name9[$e]=Lightly-Application-Style-1.png
+
+[SideBar]
+InformationSplitterSizes=221,254
+IsVisible ViewMode=true
+SideBarSplitterSizes=213,2346

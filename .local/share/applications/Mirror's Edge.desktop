@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mirror's Edge
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/17410
+Icon=steam_icon_17410
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=2 exec:///usr/bin/systemsettings,1 exec:///usr/bin/flatpak run --branch=stable --arch=x86_64 --command=heroic-run --file-forwarding com.heroicgameslauncher.hgl @@u @@,2 exec:///usr/bin/dolphin,1 exec:///usr/bin/net.davidotek.pupgui2,1 exec:///usr/bin/nvim,1 exec:///usr/bin/env GDK_BACKEND=x11 /usr/bin/ulauncher --hide-window,1 exec:///usr/bin/partitionmanager,15 exec:///usr/bin/konsole,1 exec:///usr/bin/plank,1 exec:///usr/bin/flatpak run --branch=stable --arch=x86_64 --command=brave --file-forwarding com.brave.Browser @@u @@,1 exec:///usr/bin/cairo-dock,1 exec:///usr/bin/timeshift-launcher,2 exec:///home/tommi/Applications/ProtonUp-Qt-2.7.7-x86_64_9b3a38d0d2f1aeffa11be43732ccf546.AppImage,1 exec:///usr/bin/vim,1 exec:///usr/bin/alacritty,2 exec:///usr/bin/steam,1 exec:///usr/bin/inkscape,2 exec:///usr/bin/emacs,3 krunner_systemsettings_kcm_bluetooth,3 exec:///usr/bin/blueman-manager,2 exec:///usr/bin/Discord
+
+[PlasmaRunnerManager][History]
+00000000-0000-0000-0000-000000000000=ula,dol,kon,pla,y

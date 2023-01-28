@@ -1,0 +1,1585 @@
+************ : log created on : Friday January 27 2023 @ 14:04:34
+00:00:00.000 : [sys] running on x86_64 / Linux
+00:00:00.000 : [sys] Command line:  /media/pelissd/SteamLibrary/steamapps/common/Euro Truck Simulator 2/bin/linux_x64/eurotrucks2
+00:00:00.000 : [cpu] CPU0: GenuineIntel [Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz] with 6 cores (12 threads) at ~4104MHz.
+00:00:00.000 : [sys] using 4 worker thread(s)
+00:00:00.000 : [sys] and 3 worker threads for IO.
+00:00:00.000 : [sys] plus 3 real-time worker threads.
+00:00:00.000 : [sys] using CGT CLOCK_MONOTONIC_RAW timer with 1nsec resolution.
+00:00:00.000 : [mem] physical total: 31993M
+00:00:00.000 : [mem] physical avail: 1269M
+00:00:00.000 : [mem] virtual total: 17592186044415M
+00:00:00.000 : [mem] virtual avail: 17592186044415M
+00:00:00.000 : [mem] Trying to allocate memory pool (2097152K)
+00:00:00.000 : [mem] Allocated 5 temporary loading buffer(s)
+00:00:00.015 : [hashfs] effect.scs: Created and validated, 15720 entries (871FAF20D71537D38BE6CA6B3B0A9A994E970EC9589162B9AFC939FCA22E6CC7)
+00:00:00.015 : [fs] device effect.scs mounted.
+00:00:00.075 : [hashfs] base.scs: Created and validated, 160780 entries (113C2C69E0330D2CFC4D9325D35D30E39513A848B75A81C03A3C330937916FEE)
+00:00:00.075 : [fs] device base.scs mounted.
+00:00:00.076 : [hashfs] core.scs: Created and validated, 9 entries (4D552050E6BBD24C1E4C51AB254674EAE58F488BD0108F72F57947BFA652E0B2)
+00:00:00.076 : [fs] device core.scs mounted.
+00:00:00.134 : [hashfs] def.scs: Created and validated, 34563 entries (FB4C951A50F679F998DA2E23FB6D2CE803ADB3C2E5E7633D5298483210A41DB1)
+00:00:00.134 : [fs] device def.scs mounted.
+00:00:00.195 : [hashfs] locale.scs: Created and validated, 172 entries (E346860CE0BB0FB5C003830D0F11FE55ECBEABC55B11E75F03909965E79E4BDD)
+00:00:00.195 : [fs] device locale.scs mounted.
+00:00:00.196 : [hashfs] base_cfg.scs: Created and validated, 1 entries (B645711B9AB00158132DD45CBD8D69BDE2C162DE749D58FB200423EBAC60A1F9)
+00:00:00.196 : [fs] device base_cfg.scs mounted.
+00:00:00.196 : [ufs] Home directory: '/home/tommi/.local/share/Euro Truck Simulator 2'.
+00:00:00.196 : [fs] device /home/tommi/.local/share/Euro Truck Simulator 2 mounted.
+00:00:00.198 : [hashfs] dlc_actros_tuning.scs: Created and validated, 2614 entries (6E0226B2550F9263997DA7A4F2952D8A3D2F72F75003DE97D17E58FC8283564F)
+00:00:00.205 : [hashfs] dlc_balt.scs: Created and validated, 7817 entries (75BE4EF4366037EB2535880DF5EF3021B8DF73CCA0B245E2E0855758D0B8A77A)
+00:00:00.208 : [hashfs] dlc_christmas.scs: Created and validated, 3509 entries (085841E54C79051C3C225C29314E25B07C04BDB4CB8B04AE83AAD7EDA8BCEA2E)
+00:00:00.222 : [hashfs] dlc_daf_2021.scs: Created and validated, 2520 entries (6FCF5F767302AE739FDB2AB4B39D33881AF18D02E472F50B73745D790399A1F3)
+00:00:00.225 : [hashfs] dlc_daf_tuning_pack.scs: Created and validated, 2542 entries (BA20DE518BED74DF16A8BD47CFFD30EA9D89F57565667B9AD84047E47DCB1CB9)
+00:00:00.226 : [hashfs] dlc_dragon.scs: Created and validated, 765 entries (B22D01F0A11C71DAC508E0A4C3A037DA27BC153EDB756B8C530D1A0BFFD2D860)
+00:00:00.227 : [hashfs] dlc_east.scs: Created and validated, 969 entries (553A84467F2346E7801EE6A5842AF879AAF3C7B287E67F760AD1ADAF42F3C486)
+00:00:00.229 : [hashfs] dlc_fantasy.scs: Created and validated, 1862 entries (C1C60A6D374A8EEEAF72937670B76B3B2963DE50D12E21E3F1B2D46D15E7D9A6)
+00:00:00.234 : [hashfs] dlc_feldbinder.scs: Created and validated, 5764 entries (CB76A4DD61E1F22E02BB5A7CEDE302349DAE1F6B1F7F0A62DE6D6101F056785E)
+00:00:00.235 : [hashfs] dlc_flags_at.scs: Created and validated, 1220 entries (4A10D67B8D7863050367932352A908CC0F5EA2E855AE685F7D9FE50A02BDDBC3)
+00:00:00.238 : [hashfs] dlc_flags_aus.scs: Created and validated, 1419 entries (635FA87E58302669E8DFBC708CC7731099657C8BF587429364015DFCA3011482)
+00:00:00.241 : [hashfs] dlc_flags_be.scs: Created and validated, 1478 entries (72BEC0A2B88D5436923F8D1317601E0705EB17392037E6FF45A96F27ADFD76F2)
+00:00:00.243 : [hashfs] dlc_flags_bg.scs: Created and validated, 1183 entries (E714C32712FC9EDCB7357F628609EB2D5C24FB30809BF5F4244F63FBDDF0EBE1)
+00:00:00.245 : [hashfs] dlc_flags_bz.scs: Created and validated, 1236 entries (35CCDA09844F7CA7F3A2D5270D0FBAB1D3BA90932AEFE7D018678FDE5EDAC350)
+00:00:00.247 : [hashfs] dlc_flags_ca.scs: Created and validated, 1245 entries (8248136F1DEED055B30E835A3F76890EB3D383CD4A84D26F0EC94254FF83A718)
+00:00:00.253 : [hashfs] dlc_flags_ch.scs: Created and validated, 1076 entries (7A184D0361CE51BAC7D15B4D1A0537093062A44322785F6C194CE365E15C2CB7)
+00:00:00.254 : [hashfs] dlc_flags_cn.scs: Created and validated, 1130 entries (9D691439E66AF1F601AF815AFF521602DBED9E3BC1DA67B535F112C7DC699CF6)
+00:00:00.256 : [hashfs] dlc_flags_cz.scs: Created and validated, 1233 entries (00D760F7D282DAA9FA38AD1E2DC946D464B8C580C101AC5E69FECC925B22998C)
+00:00:00.259 : [hashfs] dlc_flags_de.scs: Created and validated, 1179 entries (35240361093E17921BB1BEF835ADE4571A3BAC7DC3F05D84C784750510CD199B)
+00:00:00.261 : [hashfs] dlc_flags_dk.scs: Created and validated, 1169 entries (89D76C4FBE1D19C3BE942AE02A61E9AA44532064705641A0289660FECBC2C891)
+00:00:00.263 : [hashfs] dlc_flags_ee.scs: Created and validated, 1564 entries (EBEA2E9D702FBFAD5A98D4D0EB091E2AA820BF560461B523FDADEAA89016982B)
+00:00:00.265 : [hashfs] dlc_flags_es.scs: Created and validated, 1689 entries (18F10DF565D27E52C8C46D94E004918FA19DCCCD7D7B58F0D188126AA0A4FC9E)
+00:00:00.267 : [hashfs] dlc_flags_fi.scs: Created and validated, 1103 entries (624DD0FE6B2E1AC9E8F7D381F52A85D700E787CD180154357900BA404E666EDB)
+00:00:00.270 : [hashfs] dlc_flags_fr.scs: Created and validated, 1219 entries (2454E04D4E4B08A5D61DB0A00819ECEEDAFBB6EBDF08F3065CBBF1DA8AD4E64D)
+00:00:00.272 : [hashfs] dlc_flags_hu.scs: Created and validated, 1442 entries (F8B2AF5FF7BBA3A06577654F882F545EE799B636BD0F5E71F60D00B8F609178F)
+00:00:00.273 : [hashfs] dlc_flags_ie.scs: Created and validated, 1278 entries (D450A7784F5686A0AA7E25002F68F9D9AD23E1B924D96CED4819D772D9A57CBE)
+00:00:00.276 : [hashfs] dlc_flags_it.scs: Created and validated, 1158 entries (D09C5E0E9C1501D107679D5C6956D9C34F541021B9DFC77335FC80F84D068AFF)
+00:00:00.278 : [hashfs] dlc_flags_jp.scs: Created and validated, 1240 entries (DCC2CEE86C91FF29FEBEC009A94147CB3B1333695639F450B2E0705785088CCE)
+00:00:00.280 : [hashfs] dlc_flags_kr.scs: Created and validated, 1444 entries (F3DEAAEAFA260DCB0601D5F5C34BCB6B03BC12BC8ABF33678D9AF56776FF3F24)
+00:00:00.282 : [hashfs] dlc_flags_lt.scs: Created and validated, 1207 entries (094F13A45053B04FA454B5A33BA98D72F2050E2D94A0A8223A4859784717AE81)
+00:00:00.285 : [hashfs] dlc_flags_lv.scs: Created and validated, 1127 entries (76C4BADF13DDDDE4B4837E27CD5B06919E841997749B8088CCCDC818BEC0D1FB)
+00:00:00.286 : [hashfs] dlc_flags_n.scs: Created and validated, 1178 entries (4A4810C02C9BD6BB76C2017756C1526298F251BA2DC38F643E5A82B885E23DFC)
+00:00:00.289 : [hashfs] dlc_flags_nl.scs: Created and validated, 1269 entries (EC9B1374F6C333F397681702A437E9280286656F30AA2144A5592C873593E2D3)
+00:00:00.291 : [hashfs] dlc_flags_pl.scs: Created and validated, 1012 entries (EA805CF98C4FA3B0999F89D8754CDD3C5FB340F7055719DFDB7FF01C65433E33)
+00:00:00.293 : [hashfs] dlc_flags_pt.scs: Created and validated, 1644 entries (690484B1CB637B47B913C37197D0E77A29E95DC5F794384E11E744044972E972)
+00:00:00.295 : [hashfs] dlc_flags_ro.scs: Created and validated, 1094 entries (9E7BD3C61A07F6BB03703D510CD6DED6BDADBE5A5715B29CEC354FAC3D0F841B)
+00:00:00.297 : [hashfs] dlc_flags_ru.scs: Created and validated, 1256 entries (AE2CD8DFE924DAF5A57DDF83AE89DE0C7AB757F7146B0953EBEEB17877E4B73F)
+00:00:00.299 : [hashfs] dlc_flags_s.scs: Created and validated, 1258 entries (5975DBAD82F749E63406A4D1C9CFF0FC9EB85E3A2D3AED6C2B16E6DBA2FBD7F8)
+00:00:00.301 : [hashfs] dlc_flags_sc.scs: Created and validated, 1323 entries (54358A046E50429A03B7C9A4CFFBD5FADAD80694D935D0910141267F82C3B973)
+00:00:00.303 : [hashfs] dlc_flags_sk.scs: Created and validated, 1086 entries (016AA92E430454A6C9ECCEADD355B505F7872C42C865CE93610F260F80B0B46B)
+00:00:00.305 : [hashfs] dlc_flags_tr.scs: Created and validated, 1247 entries (1EC8C5739569C3E2BF8EB4979E2DDAF2CFD388806FC15A7720CBD471BD2858D0)
+00:00:00.307 : [hashfs] dlc_flags_uk.scs: Created and validated, 1200 entries (F54CE8D11D3931C67FD0A8AEE285E39837C1F0F8F0316DF9D9766E7DFD87C55E)
+00:00:00.310 : [hashfs] dlc_flags_ukr.scs: Created and validated, 1147 entries (F57B3236A9D3C377F41BB91390E90A6EADEABB51469B223CDF24B50217988F53)
+00:00:00.311 : [hashfs] dlc_flags_us.scs: Created and validated, 1278 entries (566C2A0C62FBF68482BFD5E78FA9DBE70D737826C775279DCF583D88F8FDF6A4)
+00:00:00.314 : [hashfs] dlc_goodyear.scs: Created and validated, 1611 entries (4449DE0F5F097E3332A6D15271DBFC49B84010B9B6410EB782DD05F7E94A50F3)
+00:00:00.327 : [hashfs] dlc_halloween.scs: Created and validated, 2584 entries (4B3CD394DC42FE58E15ABE132779D72D7A579705AE4C27348BC63EC65CD320D0)
+00:00:00.329 : [hashfs] dlc_heavy_cargo.scs: Created and validated, 1010 entries (8AFE71C7A724ABD01C7B67B8B97DFBAB71DD1DAEB045FBE7BCEF6FA397E2D72A)
+00:00:00.332 : [hashfs] dlc_hs_schoch.scs: Created and validated, 1532 entries (BCC5663345CF1A3C7268A10F6E2A98BC3C3635673C8EEC8E34EB9D2ED495B4EC)
+00:00:00.338 : [hashfs] dlc_krone.scs: Created and validated, 5262 entries (C62C3AA11755C46ADC30B6AA33658532E641521E95DC97F925A3B3124A232FEB)
+00:00:00.342 : [hashfs] dlc_lunar_new_year.scs: Created and validated, 7141 entries (A25262C1C979C20964489E8EC77C693DA726EA42E2B04C8887774EF05863A5BF)
+00:00:00.344 : [hashfs] dlc_metallics.scs: Created and validated, 642 entries (DD7F740F3A2111C9F832853A7D0779DA7A34A43A85D839FD0EC02A153BD84F69)
+00:00:00.346 : [hashfs] dlc_metallics2.scs: Created and validated, 736 entries (38A3EC4A7A915A753615166D4F823A934B607E0AB24FD4ADB107AB2B50A93EFC)
+00:00:00.348 : [hashfs] dlc_michelin.scs: Created and validated, 2613 entries (D050817668225E7A6E182FF30D3F111C8A05322F0961D6880073B9150254E8B8)
+00:00:00.352 : [hashfs] dlc_mighty_griffin.scs: Created and validated, 2955 entries (483087CB6A951D79B62A393A64387931A9FCA7532926D67D67F4D98F32BF6B1C)
+00:00:00.354 : [hashfs] dlc_nature.scs: Created and validated, 2701 entries (0170DAA00D19CB55A77528F3911D9B2B7D866810365D9A85D44E5CD247ECDD3E)
+00:00:00.356 : [hashfs] dlc_north.scs: Created and validated, 3178 entries (B289617F7C32D890710864A95B4882B890F086FE84BF0FC1DA18976C8361FD41)
+00:00:00.359 : [hashfs] dlc_oversize.scs: Created and validated, 704 entries (8EB17E79CFB4DE16C5F3F088E076D500AD514CC100228D7313E3B64CC5518DD8)
+00:00:00.361 : [hashfs] dlc_pcg.scs: Created and validated, 173 entries (0206CE207BAB601D2574CEB54BD0ADF79F470C3D2DBE9E258990BDD798EFD106)
+00:00:00.376 : [hashfs] dlc_phys_flags.scs: Created and validated, 10558 entries (39862A0A56A1718A684A0606DED1C51C54FC51FC3911499D4326D34D3DCB5382)
+00:00:00.378 : [hashfs] dlc_pink_ribbon.scs: Created and validated, 970 entries (BA926A25206AC62A47982F902C9F011E0785FDC7B094CF0E39A21DFFDE208F7E)
+00:00:00.380 : [hashfs] dlc_pirates.scs: Created and validated, 2628 entries (4BC7E61D05B341B744328D76D7A83C98FF4CCCE6723768FAE74356615B979E96)
+00:00:00.382 : [hashfs] dlc_prehistoric.scs: Created and validated, 2666 entries (B5C955A941D6FC473572D3E4E14EA5A7D896D99DE28FCAD8E39FFDF81EA50C4D)
+00:00:00.384 : [hashfs] dlc_raven.scs: Created and validated, 1522 entries (FC1351316120F7E86A75F62CE03B6B9B85BC6AB245218D5310F6FD42C3B32D96)
+00:00:00.387 : [hashfs] dlc_renault_t_tuning.scs: Created and validated, 2835 entries (AB116D067DECF07A85C777272AB30062D87954F192E1DCE688788B61C963F923)
+00:00:00.387 : [hashfs] dlc_rims.scs: Created and validated, 837 entries (BC1EFC94C4D3A98590372791ECC6B63D2E1C0DD6DCC1EA5A0E7569EDFF0E2B08)
+00:00:00.388 : [hashfs] dlc_rocket_league.scs: Created and validated, 142 entries (601E45A1A2023CCD0ABAB2F3EC1030F2B4275B6FD9EC46A0A0CC772EBEEAB6DC)
+00:00:00.391 : [hashfs] dlc_schwarzmuller.scs: Created and validated, 3989 entries (A7E73EFA5B042277933F895C3FEE6B7D9B12EA281C8AE360273AA002268F7654)
+00:00:00.394 : [hashfs] dlc_space.scs: Created and validated, 2382 entries (4BFFF152DAFEFAE3739C6141979D1AF6CD7713C5E7B337118EB229DC72F437C4)
+00:00:00.396 : [hashfs] dlc_streetart.scs: Created and validated, 2153 entries (E4F8B0902FAA3E8AF2BBF9EFF26FD30B9CA0C55928454C1929B424B722842C9B)
+00:00:00.399 : [hashfs] dlc_super_stripes.scs: Created and validated, 3615 entries (D28D5B7FB33181752243A605B678A66BB25254411E625D98F85613C08EABEDF3)
+00:00:00.403 : [hashfs] dlc_toys.scs: Created and validated, 2690 entries (C1B2A4E7FE8FDCAA217BDC1A3CB18D7ACFF62111995D188A7CF330B5382486D3)
+00:00:00.406 : [hashfs] dlc_trailers.scs: Created and validated, 2665 entries (67254599E97E606C3B98AAE7EED585EAA4D45C79125F0050990587F096989D47)
+00:00:00.408 : [hashfs] dlc_valentine.scs: Created and validated, 1919 entries (E2843F65F12847400FB36BBD5B963CD5F28BCE5C69DBF66DCA11C856E03598AB)
+00:00:00.409 : [hashfs] dlc_vikings.scs: Created and validated, 1834 entries (A73ADFE654B435CF8BC381522B736AEE4D299D5615952E522564FD6345C7F453)
+00:00:00.411 : [hashfs] dlc_volvo_construction.scs: Created and validated, 2018 entries (F66D0794455FA288965F252CCB6207A708A8F770C9FDF414F742AC34CCEF7616)
+00:00:00.414 : [hashfs] dlc_volvo_tuning_pack.scs: Created and validated, 2566 entries (879B5F21CEACFEA2511D0D6FA9CBEE837482BBE1A3F6B25ED4FB1B48C4F9ED3C)
+00:00:00.416 : [hashfs] dlc_winter.scs: Created and validated, 2931 entries (9D246879C4E0C0E3D3A99C1A5BB20EE293C59904F9DF2E7C1A84F8A65A006F70)
+00:00:00.420 : [mod_package_manager] Requesting Steam Workshop content..
+00:00:00.421 : exec /home/config.cfg
+00:00:00.421 : [sys] Failed to execute (/home/config.cfg), the file does not exist.
+00:00:00.422 : [lang] Language autodetection: 0
+00:00:00.430 : Selected language: en_gb
+00:00:00.430 : Euro Truck Simulator 2 init ver.1.46.2.13s (rev. 39c1386d38ec)
+00:00:00.444 : [gfx] Selected rendering device: gl
+00:00:00.469 : [gl] GLX extensions: GLX_ARB_context_flush_control GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_video_sync 
+00:00:00.469 : [gl] Compatible sRGB FBconfig found
+00:00:00.470 : [net]  LOG INFO: Started
+00:00:00.470 : [fs] device  mounted.
+00:00:00.471 : Setting UI reference mode to: 1440x900...
+00:00:00.471 : [x11] xlib: Xinerama extension version 0.0 detected
+00:00:00.471 : [x11] randr: protocol version 1.6 detected
+00:00:00.471 : [x11] xlib: Output 0 @ (0, 0) is XWAYLAND2
+00:00:00.471 : [gfx] Using the xlib display backend
+00:00:00.474 : [gl] glxCreateContextAttribs: OK
+00:00:00.554 : [gl] Max texture image units: 32
+00:00:00.554 : [gl] Max combined texture image units: 192
+00:00:00.554 : [gl] base_instance: yes
+00:00:00.554 : [gl] buffer_storage: yes
+00:00:00.555 : [gl] debug: yes
+00:00:00.555 : [gl] debug_label: yes
+00:00:00.555 : [gl] debug_marker: no
+00:00:00.555 : [gl] framebuffer_multisample_coverage: no
+00:00:00.555 : [gl] invalidate_subdata: yes
+00:00:00.555 : [gl] multi_bind: yes
+00:00:00.555 : [gl] multi_draw_indirect: yes
+00:00:00.555 : [gl] draw_indirect: yes
+00:00:00.555 : [gl] gpu_meminfo: yes
+00:00:00.555 : [gl] depth_bounds_test: yes
+00:00:00.555 : [gl] pack_invert: yes
+00:00:00.555 : [gl] polygon_offset_clamp: yes
+00:00:00.555 : [gl] Max anisotropy factor: 16.000000
+00:00:00.555 : [gl] vertex_attrib_binding: yes
+00:00:00.555 : [gl] pipeline_statistics: yes
+00:00:00.555 : [gl] driver: AMD Radeon RX 6700 XT (navi22, LLVM 15.0.6, DRM 3.49, 6.1.4-203.fsync.fc37.x86_64)
+00:00:00.555 : [gl] vendor: AMD
+00:00:00.555 : [gl] version: 4.6 (Core Profile) Mesa 22.3.3
+00:00:00.555 : [gl] Using GLSL rendering path
+00:00:00.555 : [gl] quirk: explicitly disable GL_FRAMEBUFFER_SRGB during glBlitFramebuffer, to prevent non-standard sRGB conversion
+00:00:00.555 : [x11] xlib: Mode 0 - 2560 x 1440 (165 Hz) on XWAYLAND2 already set
+00:00:00.555 : [gl] Setting vsync period to 1 (requested 1)
+00:00:00.555 : [disp] Adapter 0: RandR on xlib backend
+00:00:00.555 : [disp] Output 0 : XWAYLAND2 - CRTC @ (0, 0, 2560, 1440)
+00:00:00.555 : [disp] Detected color modes:
+00:00:00.555 : [disp] Mode 0 - SDR
+00:00:00.555 : [disp] Display MinLum: 0.000000, MaxLum 0.000000, MaxAvgLum: 0.000000
+00:00:00.555 : [disp] Mode 0 - 2560x1440 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 1 - 1920x1440 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 2 - 1600x1200 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 3 - 1440x1080 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 4 - 1400x1050 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 5 - 1280x1024 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 6 - 1280x960 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 7 - 1152x864 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 8 - 1024x768 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 9 - 800x600 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 10 - 640x480 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 11 - 320x240 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 12 - 1920x1200 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 13 - 1680x1050 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 14 - 1440x900 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 15 - 1280x800 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 16 - 720x480 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 17 - 640x400 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 18 - 320x200 (32bpp) [162Hz]
+00:00:00.555 : [disp] Mode 19 - 2048x1152 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 20 - 1920x1080 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 21 - 1600x900 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 22 - 1368x768 (32bpp) [165Hz]
+00:00:00.555 : [disp] Mode 23 - 1280x720 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 24 - 1024x576 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 25 - 864x486 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 26 - 720x400 (32bpp) [164Hz]
+00:00:00.555 : [disp] Mode 27 - 640x350 (32bpp) [164Hz]
+00:00:00.616 : [gfx] Considered entries:
+00:00:00.616 :   Generic >300MB
+00:00:00.681 : [sound] Available drivers: #3
+00:00:00.681 : [sound] Driver 0 = TUF H3 Wireless Analog Stereo (48000 Hz) ({29bdcc64-0000-0000-0000-000000000000})
+00:00:00.681 : [sound] Driver 1 = Navi 21/23 HDMI/DP Audio Controller Digital Stereo (HDMI 5) (48000 Hz) ({d4beaa9b-0000-0000-0000-000000000000})
+00:00:00.681 : [sound] Driver 2 = Built-in Audio Digital Stereo (IEC958) (48000 Hz) ({f30082cb-0000-0000-0000-000000000000})
+00:00:00.854 : [sound] Selecting default audio driver (0).
+00:00:00.885 : Game is running on Steamdeck: no, g_steam_steamdeck_mode 0
+00:00:00.885 : [evd] detected normal device "Kingston HyperX Alloy FPS RGB Keyboard" (/dev/input/event8@usb-0951:16dc@7F34917D@usb-0000:00:14.0-2/input2@) [uniq: unknown]
+00:00:00.885 : [evd] created button (1) : Undef b1
+00:00:00.885 : [evd] created button (2) : Undef b2
+00:00:00.885 : [evd] created button (3) : Undef b3
+00:00:00.885 : [evd] created button (4) : Undef b4
+00:00:00.885 : [evd] created button (5) : Undef b5
+00:00:00.885 : [evd] created button (6) : Undef b6
+00:00:00.885 : [evd] created button (7) : Undef b7
+00:00:00.885 : [evd] created button (8) : Undef b8
+00:00:00.885 : [evd] created button (9) : Undef b9
+00:00:00.885 : [evd] created button (10) : Undef b10
+00:00:00.885 : [evd] created button (11) : Undef b11
+00:00:00.885 : [evd] created button (12) : Undef b12
+00:00:00.885 : [evd] created button (13) : Undef b13
+00:00:00.885 : [evd] created button (14) : Undef b14
+00:00:00.885 : [evd] created button (15) : Undef b15
+00:00:00.885 : [evd] created button (16) : Undef b16
+00:00:00.885 : [evd] created button (17) : Undef b17
+00:00:00.885 : [evd] created button (18) : Undef b18
+00:00:00.885 : [evd] created button (19) : Undef b19
+00:00:00.885 : [evd] created button (20) : Undef b20
+00:00:00.885 : [evd] created button (21) : Undef b21
+00:00:00.885 : [evd] created button (22) : Undef b22
+00:00:00.885 : [evd] created button (23) : Undef b23
+00:00:00.885 : [evd] created button (24) : Undef b24
+00:00:00.885 : [evd] created button (25) : Undef b25
+00:00:00.885 : [evd] created button (26) : Undef b26
+00:00:00.886 : [evd] created button (27) : Undef b27
+00:00:00.886 : [evd] created button (28) : Undef b28
+00:00:00.886 : [evd] created button (29) : Undef b29
+00:00:00.886 : [evd] created button (30) : Undef b30
+00:00:00.886 : [evd] created button (31) : Undef b31
+00:00:00.886 : [evd] created button (32) : Undef b32
+00:00:00.886 : [evd] created button (33) : Undef b33
+00:00:00.886 : [evd] created button (34) : Undef b34
+00:00:00.886 : [evd] created button (35) : Undef b35
+00:00:00.886 : [evd] created button (36) : Undef b36
+00:00:00.886 : [evd] created button (37) : Undef b37
+00:00:00.886 : [evd] created button (38) : Undef b38
+00:00:00.886 : [evd] created button (39) : Undef b39
+00:00:00.886 : [evd] created button (40) : Undef b40
+00:00:00.886 : [evd] created button (41) : Undef b41
+00:00:00.886 : [evd] created button (42) : Undef b42
+00:00:00.886 : [evd] created button (43) : Undef b43
+00:00:00.886 : [evd] created button (44) : Undef b44
+00:00:00.886 : [evd] created button (45) : Undef b45
+00:00:00.886 : [evd] created button (46) : Undef b46
+00:00:00.886 : [evd] created button (47) : Undef b47
+00:00:00.886 : [evd] created button (48) : Undef b48
+00:00:00.886 : [evd] created button (49) : Undef b49
+00:00:00.886 : [evd] created button (50) : Undef b50
+00:00:00.886 : [evd] created button (51) : Undef b51
+00:00:00.886 : [evd] created button (52) : Undef b52
+00:00:00.886 : [evd] created button (53) : Undef b53
+00:00:00.886 : [evd] created button (54) : Undef b54
+00:00:00.886 : [evd] created button (55) : Undef b55
+00:00:00.886 : [evd] created button (56) : Undef b56
+00:00:00.886 : [evd] created button (57) : Undef b57
+00:00:00.886 : [evd] created button (58) : Undef b58
+00:00:00.886 : [evd] created button (59) : Undef b59
+00:00:00.886 : [evd] created button (60) : Undef b60
+00:00:00.886 : [evd] created button (61) : Undef b61
+00:00:00.886 : [evd] created button (62) : Undef b62
+00:00:00.886 : [evd] created button (63) : Undef b63
+00:00:00.886 : [evd] created button (64) : Undef b64
+00:00:00.886 : [evd] created button (65) : Undef b65
+00:00:00.886 : [evd] created button (66) : Undef b66
+00:00:00.886 : [evd] created button (67) : Undef b67
+00:00:00.886 : [evd] created button (68) : Undef b68
+00:00:00.886 : [evd] created button (69) : Undef b69
+00:00:00.886 : [evd] created button (70) : Undef b70
+00:00:00.886 : [evd] created button (71) : Undef b71
+00:00:00.886 : [evd] created button (72) : Undef b72
+00:00:00.886 : [evd] created button (73) : Undef b73
+00:00:00.886 : [evd] created button (74) : Undef b74
+00:00:00.886 : [evd] created button (75) : Undef b75
+00:00:00.886 : [evd] created button (76) : Undef b76
+00:00:00.886 : [evd] created button (77) : Undef b77
+00:00:00.886 : [evd] created button (78) : Undef b78
+00:00:00.886 : [evd] created button (79) : Undef b79
+00:00:00.886 : [evd] created button (80) : Undef b80
+00:00:00.886 : [evd] created button (81) : Undef b81
+00:00:00.886 : [evd] created button (82) : Undef b82
+00:00:00.886 : [evd] created button (83) : Undef b83
+00:00:00.886 : [evd] created button (85) : Undef b85
+00:00:00.886 : [evd] created button (86) : Undef b86
+00:00:00.886 : [evd] created button (87) : Undef b87
+00:00:00.886 : [evd] created button (88) : Undef b88
+00:00:00.886 : [evd] created button (89) : Undef b89
+00:00:00.886 : [evd] created button (90) : Undef b90
+00:00:00.886 : [evd] created button (91) : Undef b91
+00:00:00.886 : [evd] created button (92) : Undef b92
+00:00:00.886 : [evd] created button (93) : Undef b93
+00:00:00.886 : [evd] created button (94) : Undef b94
+00:00:00.886 : [evd] created button (95) : Undef b95
+00:00:00.886 : [evd] created button (96) : Undef b96
+00:00:00.886 : [evd] created button (97) : Undef b97
+00:00:00.886 : [evd] created button (98) : Undef b98
+00:00:00.886 : [evd] created button (99) : Undef b99
+00:00:00.886 : [evd] created button (100) : Undef b100
+00:00:00.886 : [evd] created button (102) : Undef b102
+00:00:00.886 : [evd] created button (103) : Undef b103
+00:00:00.886 : [evd] created button (104) : Undef b104
+00:00:00.886 : [evd] created button (105) : Undef b105
+00:00:00.886 : [evd] created button (106) : Undef b106
+00:00:00.886 : [evd] created button (107) : Undef b107
+00:00:00.886 : [evd] created button (108) : Undef b108
+00:00:00.886 : [evd] created button (109) : Undef b109
+00:00:00.886 : [evd] created button (110) : Undef b110
+00:00:00.886 : [evd] created button (111) : Undef b111
+00:00:00.886 : [evd] created button (113) : Undef b113
+00:00:00.886 : [evd] created button (114) : Undef b114
+00:00:00.886 : [evd] created button (115) : Undef b115
+00:00:00.886 : [evd] created button (116) : Undef b116
+00:00:00.886 : [evd] created button (117) : Undef b117
+00:00:00.886 : [evd] created button (119) : Undef b119
+00:00:00.886 : [evd] created button (121) : Undef b121
+00:00:00.886 : [evd] created button (122) : Undef b122
+00:00:00.886 : [evd] created button (123) : Undef b123
+00:00:00.886 : [evd] created button (124) : Undef b124
+00:00:00.886 : [evd] created button (125) : Undef b125
+00:00:00.886 : [evd] created button (126) : Undef b126
+00:00:00.886 : [evd] created button (127) : Undef b127
+00:00:00.886 : [evd] created button (128) : Undef b128
+00:00:00.886 : [evd] created button (129) : Undef b129
+00:00:00.886 : [evd] created button (130) : Undef b130
+00:00:00.886 : [evd] created button (131) : Undef b131
+00:00:00.886 : [evd] created button (132) : Undef b132
+00:00:00.886 : [evd] created button (133) : Undef b133
+00:00:00.886 : [evd] created button (134) : Undef b134
+00:00:00.886 : [evd] created button (135) : Undef b135
+00:00:00.886 : [evd] created button (136) : Undef b136
+00:00:00.886 : [evd] created button (137) : Undef b137
+00:00:00.886 : [evd] created button (138) : Undef b138
+00:00:00.886 : [evd] created button (140) : Undef b140
+00:00:00.886 : [evd] created button (142) : Undef b142
+00:00:00.886 : [evd] created button (150) : Undef b150
+00:00:00.886 : [evd] created button (152) : Undef b152
+00:00:00.886 : [evd] created button (158) : Undef b158
+00:00:00.886 : [evd] created button (159) : Undef b159
+00:00:00.886 : [evd] created button (161) : Undef b161
+00:00:00.886 : [evd] created button (163) : Undef b163
+00:00:00.886 : [evd] created button (164) : Undef b164
+00:00:00.886 : [evd] created button (165) : Undef b165
+00:00:00.886 : [evd] created button (166) : Undef b166
+00:00:00.886 : [evd] created button (173) : Undef b173
+00:00:00.886 : [evd] created button (176) : Undef b176
+00:00:00.886 : [evd] created button (177) : Undef b177
+00:00:00.886 : [evd] created button (178) : Undef b178
+00:00:00.886 : [evd] created button (179) : Undef b179
+00:00:00.886 : [evd] created button (180) : Undef b180
+00:00:00.886 : [evd] created button (183) : Undef b183
+00:00:00.886 : [evd] created button (184) : Undef b184
+00:00:00.886 : [evd] created button (185) : Undef b185
+00:00:00.886 : [evd] created button (186) : Undef b186
+00:00:00.886 : [evd] created button (187) : Undef b187
+00:00:00.886 : [evd] created button (188) : Undef b188
+00:00:00.886 : [evd] created button (189) : Undef b189
+00:00:00.886 : [evd] created button (190) : Undef b190
+00:00:00.886 : [evd] created button (191) : Undef b191
+00:00:00.886 : [evd] created button (192) : Undef b192
+00:00:00.886 : [evd] created button (193) : Undef b193
+00:00:00.886 : [evd] created button (194) : Undef b194
+00:00:00.886 : [evd] created button (240) : Undef b240
+00:00:00.886 : [evd] detected normal device "Kingston HyperX Alloy FPS RGB Consumer Control" (/dev/input/event7@usb-0951:16dc@671335BA@usb-0000:00:14.0-2/input2@) [uniq: unknown]
+00:00:00.886 : [evd] created button (1) : Undef b1
+00:00:00.886 : [evd] created button (28) : Undef b28
+00:00:00.886 : [evd] created button (74) : Undef b74
+00:00:00.886 : [evd] created button (78) : Undef b78
+00:00:00.886 : [evd] created button (103) : Undef b103
+00:00:00.886 : [evd] created button (105) : Undef b105
+00:00:00.886 : [evd] created button (106) : Undef b106
+00:00:00.886 : [evd] created button (108) : Undef b108
+00:00:00.886 : [evd] created button (110) : Undef b110
+00:00:00.886 : [evd] created button (111) : Undef b111
+00:00:00.886 : [evd] created button (113) : Undef b113
+00:00:00.886 : [evd] created button (114) : Undef b114
+00:00:00.886 : [evd] created button (115) : Undef b115
+00:00:00.886 : [evd] created button (116) : Undef b116
+00:00:00.886 : [evd] created button (119) : Undef b119
+00:00:00.886 : [evd] created button (120) : Undef b120
+00:00:00.886 : [evd] created button (128) : Undef b128
+00:00:00.886 : [evd] created button (130) : Undef b130
+00:00:00.886 : [evd] created button (131) : Undef b131
+00:00:00.886 : [evd] created button (133) : Undef b133
+00:00:00.886 : [evd] created button (134) : Undef b134
+00:00:00.886 : [evd] created button (135) : Undef b135
+00:00:00.886 : [evd] created button (136) : Undef b136
+00:00:00.886 : [evd] created button (137) : Undef b137
+00:00:00.886 : [evd] created button (138) : Undef b138
+00:00:00.886 : [evd] created button (139) : Undef b139
+00:00:00.886 : [evd] created button (140) : Undef b140
+00:00:00.886 : [evd] created button (142) : Undef b142
+00:00:00.886 : [evd] created button (144) : Undef b144
+00:00:00.886 : [evd] created button (150) : Undef b150
+00:00:00.886 : [evd] created button (152) : Undef b152
+00:00:00.886 : [evd] created button (155) : Undef b155
+00:00:00.886 : [evd] created button (156) : Undef b156
+00:00:00.886 : [evd] created button (158) : Undef b158
+00:00:00.886 : [evd] created button (159) : Undef b159
+00:00:00.886 : [evd] created button (161) : Undef b161
+00:00:00.886 : [evd] created button (163) : Undef b163
+00:00:00.886 : [evd] created button (164) : Undef b164
+00:00:00.886 : [evd] created button (165) : Undef b165
+00:00:00.886 : [evd] created button (166) : Undef b166
+00:00:00.886 : [evd] created button (167) : Undef b167
+00:00:00.886 : [evd] created button (168) : Undef b168
+00:00:00.886 : [evd] created button (169) : Undef b169
+00:00:00.886 : [evd] created button (171) : Undef b171
+00:00:00.886 : [evd] created button (172) : Undef b172
+00:00:00.886 : [evd] created button (173) : Undef b173
+00:00:00.886 : [evd] created button (174) : Undef b174
+00:00:00.886 : [evd] created button (176) : Undef b176
+00:00:00.886 : [evd] created button (177) : Undef b177
+00:00:00.886 : [evd] created button (178) : Undef b178
+00:00:00.886 : [evd] created button (181) : Undef b181
+00:00:00.886 : [evd] created button (182) : Undef b182
+00:00:00.886 : [evd] created button (204) : Undef b204
+00:00:00.886 : [evd] created button (206) : Undef b206
+00:00:00.886 : [evd] created button (207) : Undef b207
+00:00:00.886 : [evd] created button (208) : Undef b208
+00:00:00.886 : [evd] created button (209) : Undef b209
+00:00:00.886 : [evd] created button (210) : Undef b210
+00:00:00.886 : [evd] created button (212) : Undef b212
+00:00:00.886 : [evd] created button (216) : Undef b216
+00:00:00.886 : [evd] created button (217) : Undef b217
+00:00:00.886 : [evd] created button (219) : Undef b219
+00:00:00.886 : [evd] created button (223) : Undef b223
+00:00:00.886 : [evd] created button (224) : Undef b224
+00:00:00.886 : [evd] created button (225) : Undef b225
+00:00:00.886 : [evd] created button (228) : Undef b228
+00:00:00.886 : [evd] created button (229) : Undef b229
+00:00:00.886 : [evd] created button (230) : Undef b230
+00:00:00.886 : [evd] created button (231) : Undef b231
+00:00:00.886 : [evd] created button (232) : Undef b232
+00:00:00.886 : [evd] created button (233) : Undef b233
+00:00:00.886 : [evd] created button (234) : Undef b234
+00:00:00.886 : [evd] created button (235) : Undef b235
+00:00:00.886 : [evd] created button (240) : Undef b240
+00:00:00.886 : [evd] created button (241) : Undef b241
+00:00:00.886 : [evd] created button (244) : Undef b244
+00:00:00.886 : [evd] created button (256) : Button 1
+00:00:00.886 : [evd] created button (353) : Undef b353
+00:00:00.886 : [evd] created button (354) : Undef b354
+00:00:00.886 : [evd] created button (358) : Undef b358
+00:00:00.886 : [evd] created button (362) : Undef b362
+00:00:00.886 : [evd] created button (366) : Undef b366
+00:00:00.886 : [evd] created button (370) : Undef b370
+00:00:00.886 : [evd] created button (372) : Undef b372
+00:00:00.886 : [evd] created button (374) : Undef b374
+00:00:00.886 : [evd] created button (375) : Undef b375
+00:00:00.886 : [evd] created button (376) : Undef b376
+00:00:00.886 : [evd] created button (377) : Undef b377
+00:00:00.886 : [evd] created button (378) : Undef b378
+00:00:00.886 : [evd] created button (379) : Undef b379
+00:00:00.886 : [evd] created button (380) : Undef b380
+00:00:00.886 : [evd] created button (381) : Undef b381
+00:00:00.886 : [evd] created button (383) : Undef b383
+00:00:00.886 : [evd] created button (384) : Undef b384
+00:00:00.886 : [evd] created button (386) : Undef b386
+00:00:00.886 : [evd] created button (387) : Undef b387
+00:00:00.886 : [evd] created button (389) : Undef b389
+00:00:00.886 : [evd] created button (392) : Undef b392
+00:00:00.886 : [evd] created button (393) : Undef b393
+00:00:00.886 : [evd] created button (396) : Undef b396
+00:00:00.886 : [evd] created button (397) : Undef b397
+00:00:00.886 : [evd] created button (398) : Undef b398
+00:00:00.886 : [evd] created button (399) : Undef b399
+00:00:00.886 : [evd] created button (400) : Undef b400
+00:00:00.886 : [evd] created button (401) : Undef b401
+00:00:00.886 : [evd] created button (402) : Undef b402
+00:00:00.886 : [evd] created button (403) : Undef b403
+00:00:00.886 : [evd] created button (405) : Undef b405
+00:00:00.886 : [evd] created button (407) : Undef b407
+00:00:00.886 : [evd] created button (408) : Undef b408
+00:00:00.886 : [evd] created button (409) : Undef b409
+00:00:00.886 : [evd] created button (410) : Undef b410
+00:00:00.886 : [evd] created button (412) : Undef b412
+00:00:00.886 : [evd] created button (416) : Undef b416
+00:00:00.886 : [evd] created button (417) : Undef b417
+00:00:00.886 : [evd] created button (418) : Undef b418
+00:00:00.886 : [evd] created button (419) : Undef b419
+00:00:00.886 : [evd] created button (420) : Undef b420
+00:00:00.886 : [evd] created button (421) : Undef b421
+00:00:00.886 : [evd] created button (422) : Undef b422
+00:00:00.886 : [evd] created button (423) : Undef b423
+00:00:00.886 : [evd] created button (424) : Undef b424
+00:00:00.886 : [evd] created button (425) : Undef b425
+00:00:00.886 : [evd] created button (426) : Undef b426
+00:00:00.886 : [evd] created button (427) : Undef b427
+00:00:00.886 : [evd] created button (428) : Undef b428
+00:00:00.886 : [evd] created button (429) : Undef b429
+00:00:00.886 : [evd] created button (430) : Undef b430
+00:00:00.886 : [evd] created button (431) : Undef b431
+00:00:00.886 : [evd] created button (432) : Undef b432
+00:00:00.886 : [evd] created button (433) : Undef b433
+00:00:00.886 : [evd] created button (439) : Undef b439
+00:00:00.886 : [evd] created button (442) : Undef b442
+00:00:00.886 : [evd] created button (576) : Undef b576
+00:00:00.886 : [evd] created button (577) : Undef b577
+00:00:00.886 : [evd] created button (578) : Undef b578
+00:00:00.886 : [evd] created button (579) : Undef b579
+00:00:00.886 : [evd] created button (580) : Undef b580
+00:00:00.886 : [evd] created button (581) : Undef b581
+00:00:00.886 : [evd] created button (582) : Undef b582
+00:00:00.886 : [evd] created button (583) : Undef b583
+00:00:00.886 : [evd] created button (584) : Undef b584
+00:00:00.886 : [evd] created button (585) : Undef b585
+00:00:00.886 : [evd] created button (586) : Undef b586
+00:00:00.886 : [evd] created button (592) : Undef b592
+00:00:00.886 : [evd] created button (593) : Undef b593
+00:00:00.886 : [evd] created button (608) : Undef b608
+00:00:00.886 : [evd] created button (609) : Undef b609
+00:00:00.886 : [evd] created button (610) : Undef b610
+00:00:00.886 : [evd] created button (611) : Undef b611
+00:00:00.886 : [evd] created button (612) : Undef b612
+00:00:00.886 : [evd] created button (613) : Undef b613
+00:00:00.886 : [evd] created axis (32): Volume, min: 0, max: 32767, fuzz: 0, flat: 0, res: 0
+00:00:00.886 : [evd] created relative (6) : HWheel
+00:00:00.886 : [evd] created relative (12) : Undef r12
+00:00:00.886 : [evd] detected normal device "Kingston HyperX Alloy FPS RGB System Control" (/dev/input/event6@usb-0951:16dc@EA464239@usb-0000:00:14.0-2/input2@) [uniq: unknown]
+00:00:00.886 : [evd] created button (116) : Undef b116
+00:00:00.886 : [evd] created button (142) : Undef b142
+00:00:00.886 : [evd] created button (143) : Undef b143
+00:00:00.887 : [evd] detected normal device "Kingston HyperX Alloy FPS RGB Mouse" (/dev/input/event5@usb-0951:16dc@B6ECB851@usb-0000:00:14.0-2/input2@) [uniq: unknown]
+00:00:00.887 : [evd] created button (272) : L
+00:00:00.887 : [evd] created button (273) : R
+00:00:00.887 : [evd] created button (274) : Mouse Middle
+00:00:00.887 : [evd] created button (275) : Mouse Side
+00:00:00.887 : [evd] created button (276) : Mouse Extra
+00:00:00.887 : [evd] created relative (0) : RelX
+00:00:00.887 : [evd] created relative (1) : RelY
+00:00:00.887 : [evd] created relative (6) : HWheel
+00:00:00.887 : [evd] created relative (8) : Wheel
+00:00:00.887 : [evd] created relative (11) : Undef r11
+00:00:00.887 : [evd] created relative (12) : Undef r12
+00:00:00.887 : [evd] detected normal device "Kingston HyperX Alloy FPS RGB" (/dev/input/event4@usb-0951:16dc@65511421@usb-0000:00:14.0-2/input1@) [uniq: unknown]
+00:00:00.887 : [evd] created button (1) : Undef b1
+00:00:00.887 : [evd] created button (2) : Undef b2
+00:00:00.887 : [evd] created button (3) : Undef b3
+00:00:00.887 : [evd] created button (4) : Undef b4
+00:00:00.887 : [evd] created button (5) : Undef b5
+00:00:00.887 : [evd] created button (6) : Undef b6
+00:00:00.887 : [evd] created button (7) : Undef b7
+00:00:00.887 : [evd] created button (8) : Undef b8
+00:00:00.887 : [evd] created button (9) : Undef b9
+00:00:00.887 : [evd] created button (10) : Undef b10
+00:00:00.887 : [evd] created button (11) : Undef b11
+00:00:00.887 : [evd] created button (12) : Undef b12
+00:00:00.887 : [evd] created button (13) : Undef b13
+00:00:00.887 : [evd] created button (14) : Undef b14
+00:00:00.887 : [evd] created button (15) : Undef b15
+00:00:00.887 : [evd] created button (16) : Undef b16
+00:00:00.887 : [evd] created button (17) : Undef b17
+00:00:00.887 : [evd] created button (18) : Undef b18
+00:00:00.887 : [evd] created button (19) : Undef b19
+00:00:00.887 : [evd] created button (20) : Undef b20
+00:00:00.887 : [evd] created button (21) : Undef b21
+00:00:00.887 : [evd] created button (22) : Undef b22
+00:00:00.887 : [evd] created button (23) : Undef b23
+00:00:00.887 : [evd] created button (24) : Undef b24
+00:00:00.887 : [evd] created button (25) : Undef b25
+00:00:00.887 : [evd] created button (26) : Undef b26
+00:00:00.887 : [evd] created button (27) : Undef b27
+00:00:00.887 : [evd] created button (28) : Undef b28
+00:00:00.887 : [evd] created button (29) : Undef b29
+00:00:00.887 : [evd] created button (30) : Undef b30
+00:00:00.887 : [evd] created button (31) : Undef b31
+00:00:00.887 : [evd] created button (32) : Undef b32
+00:00:00.887 : [evd] created button (33) : Undef b33
+00:00:00.887 : [evd] created button (34) : Undef b34
+00:00:00.887 : [evd] created button (35) : Undef b35
+00:00:00.887 : [evd] created button (36) : Undef b36
+00:00:00.887 : [evd] created button (37) : Undef b37
+00:00:00.887 : [evd] created button (38) : Undef b38
+00:00:00.887 : [evd] created button (39) : Undef b39
+00:00:00.887 : [evd] created button (40) : Undef b40
+00:00:00.887 : [evd] created button (41) : Undef b41
+00:00:00.887 : [evd] created button (42) : Undef b42
+00:00:00.887 : [evd] created button (43) : Undef b43
+00:00:00.887 : [evd] created button (44) : Undef b44
+00:00:00.887 : [evd] created button (45) : Undef b45
+00:00:00.887 : [evd] created button (46) : Undef b46
+00:00:00.887 : [evd] created button (47) : Undef b47
+00:00:00.887 : [evd] created button (48) : Undef b48
+00:00:00.887 : [evd] created button (49) : Undef b49
+00:00:00.887 : [evd] created button (50) : Undef b50
+00:00:00.887 : [evd] created button (51) : Undef b51
+00:00:00.887 : [evd] created button (52) : Undef b52
+00:00:00.887 : [evd] created button (53) : Undef b53
+00:00:00.887 : [evd] created button (54) : Undef b54
+00:00:00.887 : [evd] created button (55) : Undef b55
+00:00:00.887 : [evd] created button (56) : Undef b56
+00:00:00.887 : [evd] created button (57) : Undef b57
+00:00:00.887 : [evd] created button (58) : Undef b58
+00:00:00.887 : [evd] created button (59) : Undef b59
+00:00:00.887 : [evd] created button (60) : Undef b60
+00:00:00.887 : [evd] created button (61) : Undef b61
+00:00:00.887 : [evd] created button (62) : Undef b62
+00:00:00.887 : [evd] created button (63) : Undef b63
+00:00:00.887 : [evd] created button (64) : Undef b64
+00:00:00.887 : [evd] created button (65) : Undef b65
+00:00:00.887 : [evd] created button (66) : Undef b66
+00:00:00.887 : [evd] created button (67) : Undef b67
+00:00:00.887 : [evd] created button (68) : Undef b68
+00:00:00.887 : [evd] created button (69) : Undef b69
+00:00:00.887 : [evd] created button (70) : Undef b70
+00:00:00.887 : [evd] created button (71) : Undef b71
+00:00:00.887 : [evd] created button (72) : Undef b72
+00:00:00.887 : [evd] created button (73) : Undef b73
+00:00:00.887 : [evd] created button (74) : Undef b74
+00:00:00.887 : [evd] created button (75) : Undef b75
+00:00:00.887 : [evd] created button (76) : Undef b76
+00:00:00.887 : [evd] created button (77) : Undef b77
+00:00:00.887 : [evd] created button (78) : Undef b78
+00:00:00.887 : [evd] created button (79) : Undef b79
+00:00:00.887 : [evd] created button (80) : Undef b80
+00:00:00.887 : [evd] created button (81) : Undef b81
+00:00:00.887 : [evd] created button (82) : Undef b82
+00:00:00.887 : [evd] created button (83) : Undef b83
+00:00:00.887 : [evd] created button (86) : Undef b86
+00:00:00.887 : [evd] created button (87) : Undef b87
+00:00:00.887 : [evd] created button (88) : Undef b88
+00:00:00.887 : [evd] created button (89) : Undef b89
+00:00:00.887 : [evd] created button (92) : Undef b92
+00:00:00.887 : [evd] created button (93) : Undef b93
+00:00:00.887 : [evd] created button (94) : Undef b94
+00:00:00.887 : [evd] created button (96) : Undef b96
+00:00:00.887 : [evd] created button (97) : Undef b97
+00:00:00.887 : [evd] created button (98) : Undef b98
+00:00:00.887 : [evd] created button (99) : Undef b99
+00:00:00.887 : [evd] created button (100) : Undef b100
+00:00:00.887 : [evd] created button (102) : Undef b102
+00:00:00.887 : [evd] created button (103) : Undef b103
+00:00:00.887 : [evd] created button (104) : Undef b104
+00:00:00.887 : [evd] created button (105) : Undef b105
+00:00:00.887 : [evd] created button (106) : Undef b106
+00:00:00.887 : [evd] created button (107) : Undef b107
+00:00:00.887 : [evd] created button (108) : Undef b108
+00:00:00.887 : [evd] created button (109) : Undef b109
+00:00:00.887 : [evd] created button (110) : Undef b110
+00:00:00.887 : [evd] created button (111) : Undef b111
+00:00:00.887 : [evd] created button (116) : Undef b116
+00:00:00.887 : [evd] created button (117) : Undef b117
+00:00:00.887 : [evd] created button (119) : Undef b119
+00:00:00.887 : [evd] created button (122) : Undef b122
+00:00:00.887 : [evd] created button (123) : Undef b123
+00:00:00.887 : [evd] created button (124) : Undef b124
+00:00:00.887 : [evd] created button (125) : Undef b125
+00:00:00.887 : [evd] created button (126) : Undef b126
+00:00:00.887 : [evd] created button (127) : Undef b127
+00:00:00.887 : [evd] detected normal device "Kingston HyperX Alloy FPS RGB" (/dev/input/event3@usb-0951:16dc@7F34917D@usb-0000:00:14.0-2/input0@) [uniq: unknown]
+00:00:00.887 : [evd] created button (1) : Undef b1
+00:00:00.887 : [evd] created button (2) : Undef b2
+00:00:00.887 : [evd] created button (3) : Undef b3
+00:00:00.887 : [evd] created button (4) : Undef b4
+00:00:00.887 : [evd] created button (5) : Undef b5
+00:00:00.887 : [evd] created button (6) : Undef b6
+00:00:00.887 : [evd] created button (7) : Undef b7
+00:00:00.887 : [evd] created button (8) : Undef b8
+00:00:00.887 : [evd] created button (9) : Undef b9
+00:00:00.887 : [evd] created button (10) : Undef b10
+00:00:00.887 : [evd] created button (11) : Undef b11
+00:00:00.887 : [evd] created button (12) : Undef b12
+00:00:00.887 : [evd] created button (13) : Undef b13
+00:00:00.887 : [evd] created button (14) : Undef b14
+00:00:00.887 : [evd] created button (15) : Undef b15
+00:00:00.887 : [evd] created button (16) : Undef b16
+00:00:00.887 : [evd] created button (17) : Undef b17
+00:00:00.887 : [evd] created button (18) : Undef b18
+00:00:00.887 : [evd] created button (19) : Undef b19
+00:00:00.887 : [evd] created button (20) : Undef b20
+00:00:00.887 : [evd] created button (21) : Undef b21
+00:00:00.887 : [evd] created button (22) : Undef b22
+00:00:00.887 : [evd] created button (23) : Undef b23
+00:00:00.887 : [evd] created button (24) : Undef b24
+00:00:00.887 : [evd] created button (25) : Undef b25
+00:00:00.887 : [evd] created button (26) : Undef b26
+00:00:00.887 : [evd] created button (27) : Undef b27
+00:00:00.887 : [evd] created button (28) : Undef b28
+00:00:00.887 : [evd] created button (29) : Undef b29
+00:00:00.887 : [evd] created button (30) : Undef b30
+00:00:00.887 : [evd] created button (31) : Undef b31
+00:00:00.887 : [evd] created button (32) : Undef b32
+00:00:00.887 : [evd] created button (33) : Undef b33
+00:00:00.887 : [evd] created button (34) : Undef b34
+00:00:00.887 : [evd] created button (35) : Undef b35
+00:00:00.887 : [evd] created button (36) : Undef b36
+00:00:00.887 : [evd] created button (37) : Undef b37
+00:00:00.887 : [evd] created button (38) : Undef b38
+00:00:00.887 : [evd] created button (39) : Undef b39
+00:00:00.887 : [evd] created button (40) : Undef b40
+00:00:00.887 : [evd] created button (41) : Undef b41
+00:00:00.887 : [evd] created button (42) : Undef b42
+00:00:00.887 : [evd] created button (43) : Undef b43
+00:00:00.887 : [evd] created button (44) : Undef b44
+00:00:00.887 : [evd] created button (45) : Undef b45
+00:00:00.887 : [evd] created button (46) : Undef b46
+00:00:00.887 : [evd] created button (47) : Undef b47
+00:00:00.887 : [evd] created button (48) : Undef b48
+00:00:00.887 : [evd] created button (49) : Undef b49
+00:00:00.887 : [evd] created button (50) : Undef b50
+00:00:00.887 : [evd] created button (51) : Undef b51
+00:00:00.887 : [evd] created button (52) : Undef b52
+00:00:00.887 : [evd] created button (53) : Undef b53
+00:00:00.887 : [evd] created button (54) : Undef b54
+00:00:00.887 : [evd] created button (55) : Undef b55
+00:00:00.887 : [evd] created button (56) : Undef b56
+00:00:00.887 : [evd] created button (57) : Undef b57
+00:00:00.887 : [evd] created button (58) : Undef b58
+00:00:00.887 : [evd] created button (59) : Undef b59
+00:00:00.887 : [evd] created button (60) : Undef b60
+00:00:00.887 : [evd] created button (61) : Undef b61
+00:00:00.887 : [evd] created button (62) : Undef b62
+00:00:00.887 : [evd] created button (63) : Undef b63
+00:00:00.887 : [evd] created button (64) : Undef b64
+00:00:00.887 : [evd] created button (65) : Undef b65
+00:00:00.887 : [evd] created button (66) : Undef b66
+00:00:00.887 : [evd] created button (67) : Undef b67
+00:00:00.887 : [evd] created button (68) : Undef b68
+00:00:00.887 : [evd] created button (69) : Undef b69
+00:00:00.887 : [evd] created button (70) : Undef b70
+00:00:00.887 : [evd] created button (71) : Undef b71
+00:00:00.887 : [evd] created button (72) : Undef b72
+00:00:00.887 : [evd] created button (73) : Undef b73
+00:00:00.887 : [evd] created button (74) : Undef b74
+00:00:00.887 : [evd] created button (75) : Undef b75
+00:00:00.887 : [evd] created button (76) : Undef b76
+00:00:00.887 : [evd] created button (77) : Undef b77
+00:00:00.887 : [evd] created button (78) : Undef b78
+00:00:00.887 : [evd] created button (79) : Undef b79
+00:00:00.887 : [evd] created button (80) : Undef b80
+00:00:00.887 : [evd] created button (81) : Undef b81
+00:00:00.887 : [evd] created button (82) : Undef b82
+00:00:00.887 : [evd] created button (83) : Undef b83
+00:00:00.887 : [evd] created button (85) : Undef b85
+00:00:00.887 : [evd] created button (86) : Undef b86
+00:00:00.887 : [evd] created button (87) : Undef b87
+00:00:00.887 : [evd] created button (88) : Undef b88
+00:00:00.887 : [evd] created button (89) : Undef b89
+00:00:00.887 : [evd] created button (90) : Undef b90
+00:00:00.887 : [evd] created button (91) : Undef b91
+00:00:00.887 : [evd] created button (92) : Undef b92
+00:00:00.887 : [evd] created button (93) : Undef b93
+00:00:00.887 : [evd] created button (94) : Undef b94
+00:00:00.887 : [evd] created button (95) : Undef b95
+00:00:00.887 : [evd] created button (96) : Undef b96
+00:00:00.887 : [evd] created button (97) : Undef b97
+00:00:00.887 : [evd] created button (98) : Undef b98
+00:00:00.887 : [evd] created button (99) : Undef b99
+00:00:00.887 : [evd] created button (100) : Undef b100
+00:00:00.887 : [evd] created button (102) : Undef b102
+00:00:00.887 : [evd] created button (103) : Undef b103
+00:00:00.887 : [evd] created button (104) : Undef b104
+00:00:00.887 : [evd] created button (105) : Undef b105
+00:00:00.887 : [evd] created button (106) : Undef b106
+00:00:00.887 : [evd] created button (107) : Undef b107
+00:00:00.887 : [evd] created button (108) : Undef b108
+00:00:00.887 : [evd] created button (109) : Undef b109
+00:00:00.887 : [evd] created button (110) : Undef b110
+00:00:00.887 : [evd] created button (111) : Undef b111
+00:00:00.887 : [evd] created button (113) : Undef b113
+00:00:00.887 : [evd] created button (114) : Undef b114
+00:00:00.887 : [evd] created button (115) : Undef b115
+00:00:00.887 : [evd] created button (116) : Undef b116
+00:00:00.887 : [evd] created button (117) : Undef b117
+00:00:00.887 : [evd] created button (119) : Undef b119
+00:00:00.887 : [evd] created button (121) : Undef b121
+00:00:00.887 : [evd] created button (122) : Undef b122
+00:00:00.887 : [evd] created button (123) : Undef b123
+00:00:00.887 : [evd] created button (124) : Undef b124
+00:00:00.887 : [evd] created button (125) : Undef b125
+00:00:00.887 : [evd] created button (126) : Undef b126
+00:00:00.887 : [evd] created button (127) : Undef b127
+00:00:00.887 : [evd] created button (128) : Undef b128
+00:00:00.887 : [evd] created button (129) : Undef b129
+00:00:00.887 : [evd] created button (130) : Undef b130
+00:00:00.887 : [evd] created button (131) : Undef b131
+00:00:00.887 : [evd] created button (132) : Undef b132
+00:00:00.887 : [evd] created button (133) : Undef b133
+00:00:00.887 : [evd] created button (134) : Undef b134
+00:00:00.887 : [evd] created button (135) : Undef b135
+00:00:00.887 : [evd] created button (136) : Undef b136
+00:00:00.887 : [evd] created button (137) : Undef b137
+00:00:00.887 : [evd] created button (138) : Undef b138
+00:00:00.887 : [evd] created button (140) : Undef b140
+00:00:00.887 : [evd] created button (142) : Undef b142
+00:00:00.887 : [evd] created button (150) : Undef b150
+00:00:00.887 : [evd] created button (152) : Undef b152
+00:00:00.887 : [evd] created button (158) : Undef b158
+00:00:00.887 : [evd] created button (159) : Undef b159
+00:00:00.887 : [evd] created button (161) : Undef b161
+00:00:00.887 : [evd] created button (163) : Undef b163
+00:00:00.887 : [evd] created button (164) : Undef b164
+00:00:00.887 : [evd] created button (165) : Undef b165
+00:00:00.887 : [evd] created button (166) : Undef b166
+00:00:00.887 : [evd] created button (173) : Undef b173
+00:00:00.887 : [evd] created button (176) : Undef b176
+00:00:00.887 : [evd] created button (177) : Undef b177
+00:00:00.887 : [evd] created button (178) : Undef b178
+00:00:00.887 : [evd] created button (179) : Undef b179
+00:00:00.887 : [evd] created button (180) : Undef b180
+00:00:00.887 : [evd] created button (183) : Undef b183
+00:00:00.887 : [evd] created button (184) : Undef b184
+00:00:00.887 : [evd] created button (185) : Undef b185
+00:00:00.887 : [evd] created button (186) : Undef b186
+00:00:00.887 : [evd] created button (187) : Undef b187
+00:00:00.887 : [evd] created button (188) : Undef b188
+00:00:00.887 : [evd] created button (189) : Undef b189
+00:00:00.887 : [evd] created button (190) : Undef b190
+00:00:00.887 : [evd] created button (191) : Undef b191
+00:00:00.887 : [evd] created button (192) : Undef b192
+00:00:00.887 : [evd] created button (193) : Undef b193
+00:00:00.887 : [evd] created button (194) : Undef b194
+00:00:00.887 : [evd] created button (240) : Undef b240
+00:00:00.970 : Banlist loading...
+00:00:00.970 : === BAN LIST ===
+00:00:00.970 : ================
+00:00:00.991 : [mod_package_manager] Received list of the steam workshop subscribed mods. (received 0 mods total, 0 loaded, 0 scheduled for download)
+00:00:00.992 : dispatch
+00:00:00.992 : exit
+00:00:01.091 : [bullet] Starting physics server: Bullet
+00:00:07.138 : [steam] Initializing device '@@steam_controller@@ 0045E28E3315321F' as 's0045E28E3315321F' hw: X360 (2)
+00:00:09.671 : mm_flush_repeatedly
+00:00:09.678 : [fs] device dlc_actros_tuning.scs mounted.
+00:00:09.678 : [fs] device dlc_balt.scs mounted.
+00:00:09.678 : [fs] device dlc_christmas.scs mounted.
+00:00:09.678 : [fs] device dlc_daf_2021.scs mounted.
+00:00:09.678 : [fs] device dlc_daf_tuning_pack.scs mounted.
+00:00:09.678 : [fs] device dlc_dragon.scs mounted.
+00:00:09.678 : [fs] device dlc_east.scs mounted.
+00:00:09.678 : [fs] device dlc_fantasy.scs mounted.
+00:00:09.678 : [fs] device dlc_feldbinder.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_at.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_aus.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_be.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_bg.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_bz.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_ca.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_ch.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_cn.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_cz.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_de.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_dk.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_ee.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_es.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_fi.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_fr.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_hu.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_ie.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_it.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_jp.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_kr.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_lt.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_lv.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_n.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_nl.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_pl.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_pt.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_ro.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_ru.scs mounted.
+00:00:09.678 : [fs] device dlc_flags_s.scs mounted.
+00:00:09.679 : [fs] device dlc_flags_sc.scs mounted.
+00:00:09.679 : [fs] device dlc_flags_sk.scs mounted.
+00:00:09.679 : [fs] device dlc_flags_tr.scs mounted.
+00:00:09.679 : [fs] device dlc_flags_uk.scs mounted.
+00:00:09.679 : [fs] device dlc_flags_ukr.scs mounted.
+00:00:09.679 : [fs] device dlc_flags_us.scs mounted.
+00:00:09.679 : [fs] device dlc_goodyear.scs mounted.
+00:00:09.679 : [fs] device dlc_halloween.scs mounted.
+00:00:09.679 : [fs] device dlc_heavy_cargo.scs mounted.
+00:00:09.679 : [fs] device dlc_hs_schoch.scs mounted.
+00:00:09.679 : [fs] device dlc_krone.scs mounted.
+00:00:09.679 : [fs] device dlc_lunar_new_year.scs mounted.
+00:00:09.679 : [fs] device dlc_metallics.scs mounted.
+00:00:09.679 : [fs] device dlc_metallics2.scs mounted.
+00:00:09.679 : [fs] device dlc_michelin.scs mounted.
+00:00:09.679 : [fs] device dlc_mighty_griffin.scs mounted.
+00:00:09.679 : [fs] device dlc_nature.scs mounted.
+00:00:09.679 : [fs] device dlc_north.scs mounted.
+00:00:09.679 : [fs] device dlc_oversize.scs mounted.
+00:00:09.679 : [fs] device dlc_pcg.scs mounted.
+00:00:09.679 : [fs] device dlc_phys_flags.scs mounted.
+00:00:09.679 : [fs] device dlc_pink_ribbon.scs mounted.
+00:00:09.679 : [fs] device dlc_pirates.scs mounted.
+00:00:09.679 : [fs] device dlc_prehistoric.scs mounted.
+00:00:09.679 : [fs] device dlc_raven.scs mounted.
+00:00:09.679 : [fs] device dlc_renault_t_tuning.scs mounted.
+00:00:09.679 : [fs] device dlc_rims.scs mounted.
+00:00:09.679 : [fs] device dlc_rocket_league.scs mounted.
+00:00:09.679 : [fs] device dlc_schwarzmuller.scs mounted.
+00:00:09.679 : [fs] device dlc_space.scs mounted.
+00:00:09.679 : [fs] device dlc_streetart.scs mounted.
+00:00:09.679 : [fs] device dlc_super_stripes.scs mounted.
+00:00:09.679 : [fs] device dlc_toys.scs mounted.
+00:00:09.679 : [fs] device dlc_trailers.scs mounted.
+00:00:09.679 : [fs] device dlc_valentine.scs mounted.
+00:00:09.679 : [fs] device dlc_vikings.scs mounted.
+00:00:09.679 : [fs] device dlc_volvo_construction.scs mounted.
+00:00:09.679 : [fs] device dlc_volvo_tuning_pack.scs mounted.
+00:00:09.679 : [fs] device dlc_winter.scs mounted.
+00:00:09.682 : <WARNING> Could not load profile config for the cvar group: 1. Loading defaults...
+00:00:09.683 : uset s_reverb_world "1"
+00:00:09.683 : uset s_reverb_cabin "1"
+00:00:09.683 : uset s_noise_aero "1"
+00:00:09.683 : uset s_noise_windows "1"
+00:00:09.683 : uset s_rumble_enabled "1"
+00:00:09.683 : uset s_reverse_enabled "1"
+00:00:09.683 : uset s_cb_radio_beep_type "roger01"
+00:00:09.683 : uset s_cb_radio_beep_own "0"
+00:00:09.683 : uset s_cb_radio_beep_enabled "1"
+00:00:09.683 : uset s_cb_radio_noise_enabled "1"
+00:00:09.683 : uset g_mp_name_tags "1"
+00:00:09.683 : uset g_chat_fade_out_timer "5"
+00:00:09.683 : uset g_chat_partial_fade_out "0"
+00:00:09.683 : uset g_chat_on_navigation "1"
+00:00:09.683 : uset g_chat_activate "1"
+00:00:09.683 : uset g_chat_close_automatic "0"
+00:00:09.683 : uset g_disable_beacons "0"
+00:00:09.683 : uset g_show_game_blockers "1"
+00:00:09.683 : uset g_show_game_elements "1"
+00:00:09.683 : uset g_hmd_no_3d_background "0"
+00:00:09.683 : uset g_hmd_no_special_menu "0"
+00:00:09.683 : uset g_hmd_reduced_cabin_movement "1"
+00:00:09.683 : uset g_hmd_no_artifical_movement "0"
+00:00:09.683 : uset g_eye_pause_gaze "3000"
+00:00:09.683 : uset g_eye_pause "0"
+00:00:09.683 : uset g_cam_blinker "0"
+00:00:09.683 : uset g_camera_horizon_lock "0.5"
+00:00:09.683 : uset g_cam_physics_value "1.0"
+00:00:09.683 : uset g_cam_physics "1"
+00:00:09.683 : uset g_max_traffic_jam_speed "0.0"
+00:00:09.683 : uset g_acc_sens "20"
+00:00:09.683 : uset g_emergency_mode "1"
+00:00:09.683 : uset g_emergency_brake "0"
+00:00:09.683 : uset g_acc "0.0"
+00:00:09.683 : uset g_blinker_auto_off "1"
+00:00:09.683 : uset g_cruise_control_smart "5.0"
+00:00:09.683 : uset g_cruise_control_grid "5.0"
+00:00:09.683 : uset g_adaptive_shift "0.0"
+00:00:09.683 : uset g_fuel_simulation "0"
+00:00:09.683 : uset g_hardcore_simulation "0"
+00:00:09.683 : uset g_reg_setting ""
+00:00:09.683 : uset g_brake_light_all "0"
+00:00:09.683 : uset g_use_speed_limiter "1"
+00:00:09.683 : uset g_hud_speed_warning "0"
+00:00:09.683 : uset g_hud_speed_limit "1"
+00:00:09.683 : uset g_axle_drop_auto "1"
+00:00:09.683 : uset g_engine_start_auto "1"
+00:00:09.683 : uset g_motor_brake_auto "0"
+00:00:09.683 : uset g_retarder_auto "0"
+00:00:09.683 : uset g_cabin_suspension_stiffness "1.0"
+00:00:09.683 : uset g_suspension_stiffness "1.0"
+00:00:09.683 : uset g_trailer_stability "0.5"
+00:00:09.683 : uset g_driveshaft_torque "0.0"
+00:00:09.683 : uset g_truck_stability "0.5"
+00:00:09.683 : uset g_mpg "3"
+00:00:09.683 : uset g_gallon "0"
+00:00:09.683 : uset g_fahrenheit "0"
+00:00:09.683 : uset g_pounds "kg"
+00:00:09.683 : uset g_mph "0"
+00:00:09.683 : uset g_road_events "1.0"
+00:00:09.683 : uset g_detours "1.0"
+00:00:09.684 : uset g_online_billboards "1"
+00:00:09.684 : uset g_name_localization_secondary "0"
+00:00:09.684 : uset g_name_localization "1"
+00:00:09.684 : uset g_lang_set "1"
+00:00:09.684 : uset g_lang "en_gb"
+00:00:09.684 : uset g_cutscenes "1"
+00:00:09.684 : uset g_phys_mirrors "0"
+00:00:09.684 : uset g_world_map_zoom "7"
+00:00:09.684 : uset g_cargo_load_require_park_brake "0"
+00:00:09.684 : uset g_cargo_load_require_engine_off "1"
+00:00:09.684 : uset g_event_desktop_bcg_change "0"
+00:00:09.684 : uset g_event_desktop_bcg_restore "config"
+00:00:09.684 : uset g_last_event_desktop_bcg_change "1671087600"
+00:00:09.684 : uset g_show_always_wotr_event "0"
+00:00:09.684 : uset g_last_wotr_event_start "0"
+00:00:09.684 : uset g_multiplayer_backup_index "-1"
+00:00:09.684 : uset g_force_load_selector "0"
+00:00:09.684 : uset g_autoload_ignore_autosave "0"
+00:00:09.684 : uset g_start_in_truck "0"
+00:00:09.684 : uset g_park_brake_init "0"
+00:00:09.684 : uset g_trailer_advanced_coupling "0"
+00:00:09.684 : uset g_parking_difficulty "0"
+00:00:09.684 : uset g_simple_parking_doubles "1"
+00:00:09.684 : uset g_speed_warning "2"
+00:00:09.684 : uset g_voice_navigation_pack "english_skye_uk"
+00:00:09.684 : uset g_voice_navigation "1"
+00:00:09.684 : uset g_job_distance "1.0"
+00:00:09.684 : uset g_job_distance_limit "-1.0"
+00:00:09.684 : uset g_income_factor "1.0"
+00:00:09.684 : uset g_currency "0"
+00:00:09.684 : uset g_bad_weather_factor "0.07"
+00:00:09.684 : uset g_truck_analysis_fold "0"
+00:00:09.684 : uset g_desktop_rnd "0"
+00:00:09.684 : uset g_desktop_bcg "config"
+00:00:09.684 : uset g_save_idx "2"
+00:00:09.684 : uset g_ui_map_align "1"
+00:00:09.684 : uset g_gps_routing_mode "0"
+00:00:09.684 : uset g_gps_navigation "3"
+00:00:09.684 : uset g_heavy_cargo_popup "1"
+00:00:09.684 : uset g_mirrors "1"
+00:00:09.684 : uset g_adviser_eta "1"
+00:00:09.684 : uset g_adviser_running_message "1"
+00:00:09.684 : uset g_adviser_auto_parking "1"
+00:00:09.684 : uset g_adviser_keep_hidden "0"
+00:00:09.684 : uset g_adviser "1"
+00:00:09.684 : uset g_desktop_tutorial "0"
+00:00:09.684 : uset g_tutorial "0"
+00:00:09.684 : uset g_fatigue "1"
+00:00:09.684 : uset g_time_zones "0"
+00:00:09.684 : uset g_police "1"
+00:00:09.684 : uset g_subtitles "0"
+00:00:09.684 : uset g_clock_24 "1"
+00:00:09.685 : <WARNING> Could not load profile config for the cvar group: 1. Loading defaults...
+00:00:09.686 : uset s_reverb_world "1"
+00:00:09.686 : uset s_reverb_cabin "1"
+00:00:09.686 : uset s_noise_aero "1"
+00:00:09.686 : uset s_noise_windows "1"
+00:00:09.686 : uset s_rumble_enabled "1"
+00:00:09.686 : uset s_reverse_enabled "1"
+00:00:09.686 : uset s_cb_radio_beep_type "roger01"
+00:00:09.686 : uset s_cb_radio_beep_own "0"
+00:00:09.686 : uset s_cb_radio_beep_enabled "1"
+00:00:09.686 : uset s_cb_radio_noise_enabled "1"
+00:00:09.686 : uset g_mp_name_tags "1"
+00:00:09.686 : uset g_chat_fade_out_timer "5"
+00:00:09.686 : uset g_chat_partial_fade_out "0"
+00:00:09.686 : uset g_chat_on_navigation "1"
+00:00:09.686 : uset g_chat_activate "1"
+00:00:09.686 : uset g_chat_close_automatic "0"
+00:00:09.686 : uset g_disable_beacons "0"
+00:00:09.686 : uset g_show_game_blockers "1"
+00:00:09.686 : uset g_show_game_elements "1"
+00:00:09.686 : uset g_hmd_no_3d_background "0"
+00:00:09.686 : uset g_hmd_no_special_menu "0"
+00:00:09.686 : uset g_hmd_reduced_cabin_movement "1"
+00:00:09.686 : uset g_hmd_no_artifical_movement "0"
+00:00:09.686 : uset g_eye_pause_gaze "3000"
+00:00:09.686 : uset g_eye_pause "0"
+00:00:09.686 : uset g_cam_blinker "0"
+00:00:09.686 : uset g_camera_horizon_lock "0.5"
+00:00:09.686 : uset g_cam_physics_value "1.0"
+00:00:09.686 : uset g_cam_physics "1"
+00:00:09.686 : uset g_max_traffic_jam_speed "0.0"
+00:00:09.686 : uset g_acc_sens "20"
+00:00:09.686 : uset g_emergency_mode "1"
+00:00:09.686 : uset g_emergency_brake "0"
+00:00:09.686 : uset g_acc "0.0"
+00:00:09.686 : uset g_blinker_auto_off "1"
+00:00:09.686 : uset g_cruise_control_smart "5.0"
+00:00:09.686 : uset g_cruise_control_grid "5.0"
+00:00:09.686 : uset g_adaptive_shift "0.0"
+00:00:09.686 : uset g_fuel_simulation "0"
+00:00:09.686 : uset g_hardcore_simulation "0"
+00:00:09.686 : uset g_reg_setting ""
+00:00:09.686 : uset g_brake_light_all "0"
+00:00:09.686 : uset g_use_speed_limiter "1"
+00:00:09.686 : uset g_hud_speed_warning "0"
+00:00:09.686 : uset g_hud_speed_limit "1"
+00:00:09.686 : uset g_axle_drop_auto "1"
+00:00:09.686 : uset g_engine_start_auto "1"
+00:00:09.686 : uset g_motor_brake_auto "0"
+00:00:09.686 : uset g_retarder_auto "0"
+00:00:09.686 : uset g_cabin_suspension_stiffness "1.0"
+00:00:09.686 : uset g_suspension_stiffness "1.0"
+00:00:09.686 : uset g_trailer_stability "0.5"
+00:00:09.686 : uset g_driveshaft_torque "0.0"
+00:00:09.686 : uset g_truck_stability "0.5"
+00:00:09.686 : uset g_mpg "3"
+00:00:09.686 : uset g_gallon "0"
+00:00:09.686 : uset g_fahrenheit "0"
+00:00:09.686 : uset g_pounds "kg"
+00:00:09.686 : uset g_mph "0"
+00:00:09.686 : uset g_road_events "1.0"
+00:00:09.686 : uset g_detours "1.0"
+00:00:09.686 : uset g_online_billboards "1"
+00:00:09.686 : uset g_name_localization_secondary "0"
+00:00:09.686 : uset g_name_localization "1"
+00:00:09.686 : uset g_lang_set "1"
+00:00:09.686 : uset g_lang "en_gb"
+00:00:09.686 : uset g_cutscenes "1"
+00:00:09.686 : uset g_phys_mirrors "0"
+00:00:09.686 : uset g_world_map_zoom "7"
+00:00:09.686 : uset g_cargo_load_require_park_brake "0"
+00:00:09.686 : uset g_cargo_load_require_engine_off "1"
+00:00:09.686 : uset g_event_desktop_bcg_change "0"
+00:00:09.686 : uset g_event_desktop_bcg_restore "config"
+00:00:09.686 : uset g_last_event_desktop_bcg_change "1671087600"
+00:00:09.686 : uset g_show_always_wotr_event "0"
+00:00:09.686 : uset g_last_wotr_event_start "0"
+00:00:09.686 : uset g_multiplayer_backup_index "-1"
+00:00:09.686 : uset g_force_load_selector "0"
+00:00:09.686 : uset g_autoload_ignore_autosave "0"
+00:00:09.686 : uset g_start_in_truck "0"
+00:00:09.686 : uset g_park_brake_init "0"
+00:00:09.686 : uset g_trailer_advanced_coupling "0"
+00:00:09.686 : uset g_parking_difficulty "0"
+00:00:09.686 : uset g_simple_parking_doubles "1"
+00:00:09.686 : uset g_speed_warning "2"
+00:00:09.686 : uset g_voice_navigation_pack "english_skye_uk"
+00:00:09.686 : uset g_voice_navigation "1"
+00:00:09.686 : uset g_job_distance "1.0"
+00:00:09.686 : uset g_job_distance_limit "-1.0"
+00:00:09.686 : uset g_income_factor "1.0"
+00:00:09.686 : uset g_currency "0"
+00:00:09.686 : uset g_bad_weather_factor "0.07"
+00:00:09.686 : uset g_truck_analysis_fold "0"
+00:00:09.686 : uset g_desktop_rnd "0"
+00:00:09.686 : uset g_desktop_bcg "config"
+00:00:09.686 : uset g_save_idx "2"
+00:00:09.686 : uset g_ui_map_align "1"
+00:00:09.686 : uset g_gps_routing_mode "0"
+00:00:09.686 : uset g_gps_navigation "3"
+00:00:09.686 : uset g_heavy_cargo_popup "1"
+00:00:09.686 : uset g_mirrors "1"
+00:00:09.686 : uset g_adviser_eta "1"
+00:00:09.686 : uset g_adviser_running_message "1"
+00:00:09.686 : uset g_adviser_auto_parking "1"
+00:00:09.686 : uset g_adviser_keep_hidden "0"
+00:00:09.686 : uset g_adviser "1"
+00:00:09.686 : uset g_desktop_tutorial "0"
+00:00:09.686 : uset g_tutorial "0"
+00:00:09.686 : uset g_fatigue "1"
+00:00:09.686 : uset g_time_zones "0"
+00:00:09.686 : uset g_police "1"
+00:00:09.686 : uset g_subtitles "0"
+00:00:09.686 : uset g_clock_24 "1"
+00:00:09.734 : New profile selected: ':steam/Hamburgerghini'
+00:00:09.734 : Creating backup of local profiles inside '/home/profiles(1.46.2.13s).bak'
+00:00:09.734 : Local profiles backup complete
+00:00:09.734 : Creating backup of steam profiles inside '/home/steam_profiles(1.46.2.13s).bak'
+00:00:09.773 : Steam profiles backup complete
+00:00:09.773 : Profiles backup complete
+00:00:40.147 : mm_flush_repeatedly
+00:00:40.192 : <WARNING> Could not load profile config for the cvar group: 1. Loading defaults...
+00:00:40.193 : uset s_reverb_world "1"
+00:00:40.193 : uset s_reverb_cabin "1"
+00:00:40.193 : uset s_noise_aero "1"
+00:00:40.193 : uset s_noise_windows "1"
+00:00:40.193 : uset s_rumble_enabled "1"
+00:00:40.193 : uset s_reverse_enabled "1"
+00:00:40.193 : uset s_cb_radio_beep_type "roger01"
+00:00:40.193 : uset s_cb_radio_beep_own "0"
+00:00:40.193 : uset s_cb_radio_beep_enabled "1"
+00:00:40.193 : uset s_cb_radio_noise_enabled "1"
+00:00:40.193 : uset g_mp_name_tags "1"
+00:00:40.193 : uset g_chat_fade_out_timer "5"
+00:00:40.193 : uset g_chat_partial_fade_out "0"
+00:00:40.193 : uset g_chat_on_navigation "1"
+00:00:40.193 : uset g_chat_activate "1"
+00:00:40.193 : uset g_chat_close_automatic "0"
+00:00:40.193 : uset g_disable_beacons "0"
+00:00:40.193 : uset g_show_game_blockers "1"
+00:00:40.193 : uset g_show_game_elements "1"
+00:00:40.193 : uset g_hmd_no_3d_background "0"
+00:00:40.193 : uset g_hmd_no_special_menu "0"
+00:00:40.193 : uset g_hmd_reduced_cabin_movement "1"
+00:00:40.193 : uset g_hmd_no_artifical_movement "0"
+00:00:40.193 : uset g_eye_pause_gaze "3000"
+00:00:40.193 : uset g_eye_pause "0"
+00:00:40.193 : uset g_cam_blinker "0"
+00:00:40.193 : uset g_camera_horizon_lock "0.5"
+00:00:40.193 : uset g_cam_physics_value "1.0"
+00:00:40.193 : uset g_cam_physics "1"
+00:00:40.193 : uset g_max_traffic_jam_speed "0.0"
+00:00:40.193 : uset g_acc_sens "20"
+00:00:40.193 : uset g_emergency_mode "1"
+00:00:40.193 : uset g_emergency_brake "0"
+00:00:40.193 : uset g_acc "0.0"
+00:00:40.193 : uset g_blinker_auto_off "1"
+00:00:40.193 : uset g_cruise_control_smart "5.0"
+00:00:40.193 : uset g_cruise_control_grid "5.0"
+00:00:40.193 : uset g_adaptive_shift "0.0"
+00:00:40.193 : uset g_fuel_simulation "0"
+00:00:40.193 : uset g_hardcore_simulation "0"
+00:00:40.193 : uset g_reg_setting ""
+00:00:40.193 : uset g_brake_light_all "0"
+00:00:40.193 : uset g_use_speed_limiter "1"
+00:00:40.193 : uset g_hud_speed_warning "0"
+00:00:40.193 : uset g_hud_speed_limit "1"
+00:00:40.193 : uset g_axle_drop_auto "1"
+00:00:40.193 : uset g_engine_start_auto "1"
+00:00:40.193 : uset g_motor_brake_auto "0"
+00:00:40.193 : uset g_retarder_auto "0"
+00:00:40.193 : uset g_cabin_suspension_stiffness "1.0"
+00:00:40.193 : uset g_suspension_stiffness "1.0"
+00:00:40.193 : uset g_trailer_stability "0.5"
+00:00:40.193 : uset g_driveshaft_torque "0.0"
+00:00:40.193 : uset g_truck_stability "0.5"
+00:00:40.193 : uset g_mpg "3"
+00:00:40.193 : uset g_gallon "0"
+00:00:40.193 : uset g_fahrenheit "0"
+00:00:40.193 : uset g_pounds "kg"
+00:00:40.193 : uset g_mph "0"
+00:00:40.193 : uset g_road_events "1.0"
+00:00:40.193 : uset g_detours "1.0"
+00:00:40.193 : uset g_online_billboards "1"
+00:00:40.193 : uset g_name_localization_secondary "0"
+00:00:40.193 : uset g_name_localization "1"
+00:00:40.193 : uset g_lang_set "1"
+00:00:40.193 : uset g_lang "en_gb"
+00:00:40.193 : uset g_cutscenes "1"
+00:00:40.193 : uset g_phys_mirrors "0"
+00:00:40.193 : uset g_world_map_zoom "7"
+00:00:40.193 : uset g_cargo_load_require_park_brake "0"
+00:00:40.193 : uset g_cargo_load_require_engine_off "1"
+00:00:40.193 : uset g_event_desktop_bcg_change "0"
+00:00:40.193 : uset g_event_desktop_bcg_restore "config"
+00:00:40.193 : uset g_last_event_desktop_bcg_change "1671087600"
+00:00:40.193 : uset g_show_always_wotr_event "0"
+00:00:40.193 : uset g_last_wotr_event_start "0"
+00:00:40.193 : uset g_multiplayer_backup_index "-1"
+00:00:40.193 : uset g_force_load_selector "0"
+00:00:40.193 : uset g_autoload_ignore_autosave "0"
+00:00:40.193 : uset g_start_in_truck "0"
+00:00:40.193 : uset g_park_brake_init "0"
+00:00:40.193 : uset g_trailer_advanced_coupling "0"
+00:00:40.193 : uset g_parking_difficulty "0"
+00:00:40.193 : uset g_simple_parking_doubles "1"
+00:00:40.193 : uset g_speed_warning "2"
+00:00:40.193 : uset g_voice_navigation_pack "english_skye_uk"
+00:00:40.193 : uset g_voice_navigation "1"
+00:00:40.194 : uset g_job_distance "1.0"
+00:00:40.194 : uset g_job_distance_limit "-1.0"
+00:00:40.194 : uset g_income_factor "1.0"
+00:00:40.194 : uset g_currency "0"
+00:00:40.194 : uset g_bad_weather_factor "0.07"
+00:00:40.194 : uset g_truck_analysis_fold "0"
+00:00:40.194 : uset g_desktop_rnd "0"
+00:00:40.194 : uset g_desktop_bcg "config"
+00:00:40.194 : uset g_save_idx "2"
+00:00:40.194 : uset g_ui_map_align "1"
+00:00:40.194 : uset g_gps_routing_mode "0"
+00:00:40.194 : uset g_gps_navigation "3"
+00:00:40.194 : uset g_heavy_cargo_popup "1"
+00:00:40.194 : uset g_mirrors "1"
+00:00:40.194 : uset g_adviser_eta "1"
+00:00:40.194 : uset g_adviser_running_message "1"
+00:00:40.194 : uset g_adviser_auto_parking "1"
+00:00:40.194 : uset g_adviser_keep_hidden "0"
+00:00:40.194 : uset g_adviser "1"
+00:00:40.194 : uset g_desktop_tutorial "0"
+00:00:40.194 : uset g_tutorial "0"
+00:00:40.194 : uset g_fatigue "1"
+00:00:40.194 : uset g_time_zones "0"
+00:00:40.194 : uset g_police "1"
+00:00:40.194 : uset g_subtitles "0"
+00:00:40.194 : uset g_clock_24 "1"
+00:00:40.238 : New profile selected: ':steam/Hamburgerghini'
+00:00:44.724 : [mods] Active 0 mods (local: 0, workshop: 0)
+00:00:45.153 : [inp] Device change detected
+00:00:45.453 : [inp] Initial evaluation
+00:00:45.453 : [inp] Classifying devices
+00:00:45.453 : [inp] Analyzing "Kingston HyperX Alloy FPS RGB Keyboard" "evdev.'/dev/input/event8@usb-0951:16dc@7F34917D@usb-0000:00:14.0-2/input2@'"
+00:00:45.453 : [inp] Applying input.clutch.default
+00:00:45.453 : [inp] Applying input.look.default
+00:00:45.454 : [inp] Applying input.gearbox.updown.default
+00:00:45.454 : [inp] Applying input.gearbox.drive.default
+00:00:45.454 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.454 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.454 : [inp] Classified as: unknown
+00:00:45.454 : [inp] Analyzing "Kingston HyperX Alloy FPS RGB Consumer Control" "evdev.'/dev/input/event7@usb-0951:16dc@671335BA@usb-0000:00:14.0-2/input2@'"
+00:00:45.454 : [inp] Applying input.clutch.default
+00:00:45.454 : [inp] Applying input.look.default
+00:00:45.454 : [inp] Applying input.gearbox.updown.default
+00:00:45.454 : [inp] Applying input.gearbox.drive.default
+00:00:45.454 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.454 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.454 : [inp] Classified as: unknown
+00:00:45.454 : [inp] Analyzing "Kingston HyperX Alloy FPS RGB System Control" "evdev.'/dev/input/event6@usb-0951:16dc@EA464239@usb-0000:00:14.0-2/input2@'"
+00:00:45.454 : [inp] Applying input.clutch.default
+00:00:45.454 : [inp] Applying input.look.default
+00:00:45.454 : [inp] Applying input.gearbox.updown.default
+00:00:45.454 : [inp] Applying input.gearbox.drive.default
+00:00:45.454 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.454 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.454 : [inp] Classified as: unknown
+00:00:45.454 : [inp] Analyzing "Kingston HyperX Alloy FPS RGB Mouse" "evdev.'/dev/input/event5@usb-0951:16dc@B6ECB851@usb-0000:00:14.0-2/input2@'"
+00:00:45.454 : [inp] Applying input.clutch.default
+00:00:45.454 : [inp] Applying input.look.default
+00:00:45.454 : [inp] Applying input.gearbox.updown.default
+00:00:45.454 : [inp] Applying input.gearbox.drive.default
+00:00:45.454 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.454 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.454 : [inp] Classified as: unknown
+00:00:45.454 : [inp] Analyzing "Kingston HyperX Alloy FPS RGB" "evdev.'/dev/input/event4@usb-0951:16dc@65511421@usb-0000:00:14.0-2/input1@'"
+00:00:45.454 : [inp] Applying input.clutch.default
+00:00:45.454 : [inp] Applying input.look.default
+00:00:45.454 : [inp] Applying input.gearbox.updown.default
+00:00:45.454 : [inp] Applying input.gearbox.drive.default
+00:00:45.455 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.455 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.455 : [inp] Classified as: unknown
+00:00:45.455 : [inp] Analyzing "Kingston HyperX Alloy FPS RGB" "evdev.'/dev/input/event3@usb-0951:16dc@7F34917D@usb-0000:00:14.0-2/input0@'"
+00:00:45.455 : [inp] Applying input.clutch.default
+00:00:45.455 : [inp] Applying input.look.default
+00:00:45.455 : [inp] Applying input.gearbox.updown.default
+00:00:45.455 : [inp] Applying input.gearbox.drive.default
+00:00:45.455 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.455 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.455 : [inp] Classified as: unknown
+00:00:45.455 : [inp] Analyzing "@@steam_controller@@ 0045E28E3315321F" "steam.s0045E28E3315321F"
+00:00:45.455 : [inp] Applying input.clutch.default
+00:00:45.455 : [inp] Applying input.look.default
+00:00:45.455 : [inp] Applying input.gearbox.updown.default
+00:00:45.455 : [inp] Applying input.gearbox.drive.default
+00:00:45.455 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.455 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.455 : [inp] Classified as: semantical controller
+00:00:45.455 : [inp] Applying input.clutch.default
+00:00:45.455 : [inp] Applying input.look.default
+00:00:45.455 : [inp] Applying input.gearbox.updown.default
+00:00:45.455 : [inp] Applying input.gearbox.drive.default
+00:00:45.455 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.455 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.455 : [inp] No steering axis found, fallback selection
+00:00:45.455 : [inp] Trying to find a valid combination
+00:00:45.455 : [inp] Trying evdev.'/dev/input/event8@usb-0951:16dc@7F34917D@usb-0000:00:14.0-2/input2@'
+00:00:45.455 : [inp] Applying input.clutch.default
+00:00:45.455 : [inp] Applying input.look.default
+00:00:45.456 : [inp] Applying input.gearbox.updown.default
+00:00:45.456 : [inp] Applying input.gearbox.drive.default
+00:00:45.456 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.456 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.456 : [inp] No steering axis found
+00:00:45.456 : [inp] Trying evdev.'/dev/input/event7@usb-0951:16dc@671335BA@usb-0000:00:14.0-2/input2@'
+00:00:45.456 : [inp] Applying input.clutch.default
+00:00:45.456 : [inp] Applying input.look.default
+00:00:45.456 : [inp] Applying input.gearbox.updown.default
+00:00:45.456 : [inp] Applying input.gearbox.drive.default
+00:00:45.456 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.456 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.456 : [inp] No steering axis found
+00:00:45.456 : [inp] Trying evdev.'/dev/input/event6@usb-0951:16dc@EA464239@usb-0000:00:14.0-2/input2@'
+00:00:45.456 : [inp] Applying input.clutch.default
+00:00:45.456 : [inp] Applying input.look.default
+00:00:45.456 : [inp] Applying input.gearbox.updown.default
+00:00:45.456 : [inp] Applying input.gearbox.drive.default
+00:00:45.456 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.456 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.456 : [inp] No steering axis found
+00:00:45.456 : [inp] Trying evdev.'/dev/input/event5@usb-0951:16dc@B6ECB851@usb-0000:00:14.0-2/input2@'
+00:00:45.456 : [inp] Applying input.clutch.default
+00:00:45.456 : [inp] Applying input.look.default
+00:00:45.456 : [inp] Applying input.gearbox.updown.default
+00:00:45.456 : [inp] Applying input.gearbox.drive.default
+00:00:45.456 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.456 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.456 : [inp] No steering axis found
+00:00:45.456 : [inp] Trying evdev.'/dev/input/event4@usb-0951:16dc@65511421@usb-0000:00:14.0-2/input1@'
+00:00:45.457 : [inp] Applying input.clutch.default
+00:00:45.457 : [inp] Applying input.look.default
+00:00:45.457 : [inp] Applying input.gearbox.updown.default
+00:00:45.457 : [inp] Applying input.gearbox.drive.default
+00:00:45.457 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.457 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.457 : [inp] No steering axis found
+00:00:45.457 : [inp] Trying evdev.'/dev/input/event3@usb-0951:16dc@7F34917D@usb-0000:00:14.0-2/input0@'
+00:00:45.457 : [inp] Applying input.clutch.default
+00:00:45.457 : [inp] Applying input.look.default
+00:00:45.457 : [inp] Applying input.gearbox.updown.default
+00:00:45.457 : [inp] Applying input.gearbox.drive.default
+00:00:45.457 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.457 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:45.457 : [inp] No steering axis found
+00:00:45.457 : [inp] No combination found.
+00:00:45.457 : [inp] Applying input.steer.default
+00:00:45.457 : [inp] Applying input.pedals.default
+00:00:45.457 : [inp] Applying input.clutch.default
+00:00:45.457 : [inp] Applying input.look.default
+00:00:45.457 : [inp] Applying input.gearbox.updown.default
+00:00:45.457 : [inp] Applying input.gearbox.drive.default
+00:00:45.457 : [inp] Applying input.gearbox.hshifter.default
+00:00:45.457 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:48.125 : [inp] Looking for new devices
+00:00:48.750 : Both Steam Controller and classical controller are available, asking user
+00:00:53.918 : [inp] Applying input.steer.default
+00:00:53.918 : [inp] Applying input.pedals.default
+00:00:53.918 : [inp] Applying input.clutch.default
+00:00:53.918 : [inp] Applying input.look.default
+00:00:53.918 : [inp] Applying input.gearbox.updown.default
+00:00:53.918 : [inp] Applying input.gearbox.drive.default
+00:00:53.918 : [inp] Applying input.gearbox.hshifter.default
+00:00:53.918 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:53.918 : H-shifter HW not detected
+00:01:00.888 : game
+00:01:01.000 : [bullet] Starting physics server: Bullet
+00:01:01.103 : Loaded trailers: 115
+00:01:01.111 : Loaded traffic trailers of type 'truck_semi': 31
+00:01:01.112 : Loaded traffic trailers of type 'truck_long': 0
+00:01:01.112 : Loaded traffic trailers of type 'train_cargo': 10
+00:01:01.113 : Loaded traffic trailers of type 'car': 2
+00:01:01.113 : Loaded traffic trailers of type 'bus': 0
+00:01:01.114 : Loaded traffic trailers of type 'truck': 12
+00:01:01.114 : Loaded traffic trailers of type 'tram': 19
+00:01:01.115 : Loaded traffic trailers of type 'train': 39
+00:01:01.116 : Loaded traffic trailers of type 'special': 11
+00:01:01.120 : Loaded traffic vehicles of type 'car': 80
+00:01:01.122 : Loaded traffic vehicles of type 'car_custom': 32
+00:01:01.124 : Loaded traffic vehicles of type 'truck': 38
+00:01:01.125 : Loaded traffic vehicles of type 'truck_light': 13
+00:01:01.127 : Loaded traffic vehicles of type 'truck_medium': 3
+00:01:01.127 : Loaded traffic vehicles of type 'truck_heavy': 5
+00:01:01.127 : Loaded traffic vehicles of type 'truck_long': 0
+00:01:01.128 : Loaded traffic vehicles of type 'truck_custom': 7
+00:01:01.129 : Loaded traffic vehicles of type 'bus': 22
+00:01:01.129 : Loaded traffic vehicles of type 'bus_custom': 0
+00:01:01.130 : Loaded traffic vehicles of type 'tram': 22
+00:01:01.131 : Loaded traffic vehicles of type 'train': 8
+00:01:01.131 : Loaded traffic vehicles of type 'train_wire': 12
+00:01:01.132 : Loaded traffic vehicles of type 'train_custom': 1
+00:01:01.134 : Loaded traffic vehicles of type 'police': 39
+00:01:01.135 : Loaded traffic vehicles of type 'fire': 23
+00:01:01.136 : Loaded traffic vehicles of type 'medical': 18
+00:01:01.136 : Loaded traffic vehicles of type 'escort_front': 1
+00:01:01.137 : Loaded traffic vehicles of type 'escort_back': 1
+00:01:01.137 : Loaded traffic vehicles of type 'special': 6
+00:01:01.140 : Loaded addon hookups: 174
+00:01:01.142 : Loading resource server data ....
+00:01:01.142 : Loading condition data ....
+00:01:01.142 : Loading vegetation data ....
+00:01:01.151 : Loading traffic rule data ....
+00:01:01.152 : Loading traffic semaphore data ....
+00:01:01.155 : Loading road data ....
+00:01:01.160 : Loading terrain data ....
+00:01:01.167 : Loading railing data ....
+00:01:01.168 : Loading building data ....
+00:01:01.183 : Loading model data ....
+00:01:01.203 : Loading prefab data ....
+00:01:01.502 : Loading sign data ....
+00:01:01.530 : Loading sign template data ....
+00:01:01.547 : Loading city data ....
+00:01:01.554 : Loading country data ....
+00:01:01.564 : Linking cities with countries ....
+00:01:01.564 : Loading stamp data ....
+00:01:01.566 : Loading sound item reverbs ....
+00:01:01.566 : Loading sound item data ....
+00:01:01.567 : Loading sound ambient ....
+00:01:01.567 : Loading live stream data ....
+00:01:01.568 : Loading movers data ....
+00:01:02.545 : Loading ferry data ....
+00:01:02.547 : Loading hinges data ....
+00:01:02.547 : Loading trigger action data ....
+00:01:02.548 : Loading cutscene data ....
+00:01:02.550 : Loading routes data ....
+00:01:02.550 : Loading overrides ....
+00:01:02.551 : Loading cargo data ....
+00:01:02.584 : Loading company cargo data ....
+00:01:02.831 : Loading unlock data ....
+00:01:02.969 : Map '/map/europe.mbd' loading started ....
+00:01:03.297 : <WARNING> Unable to find 'city.v_novgorod' for 'City' 0x348D1F9C950A0001
+00:01:03.301 : <WARNING> Unable to find 'city.volkhov' for 'City' 0x348D21949D0A0001
+00:01:03.301 : <WARNING> Unable to find 'city.volkhov' for 'City' 0x3D3D6AEC96CA0000
+00:01:03.301 : <WARNING> Unable to find 'city.volkhov' for 'City' 0x3D3D6B54A64A0000
+00:01:03.301 : <WARNING> Unable to find 'city.kirishi' for 'City' 0x3DE08B24E4160000
+00:01:03.302 : <WARNING> Unable to find 'city.kirishi' for 'City' 0x420FBBA887D60AC6
+00:01:03.311 : <WARNING> Unable to find 'city.suzzara' for 'City' 0x7A0AF909BEB0000
+00:01:03.333 : <WARNING> Unable to find 'city.parma' for 'City' 0x7794BF639BB0001
+00:01:03.334 : <WARNING> Unable to find 'city.olbia' for 'City' 0x2C4FBD9C7A870000
+00:01:03.344 : <WARNING> Unable to find 'city.genova' for 'City' 0x76E9D6BFB9B0001
+00:01:03.346 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FADE0DFC70000
+00:01:03.346 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FB09CD0470000
+00:01:03.346 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FB21CE5070000
+00:01:03.346 : <WARNING> Unable to find 'city.olbia' for 'City' 0x2C4FBC04BE870000
+00:01:03.346 : <WARNING> Unable to find 'city.bonifacio' for 'City' 0x2F99EB34DD070001
+00:01:03.351 : <WARNING> Unable to find 'city.werlte' for 'City' 0x456B2570E7D102BC
+00:01:03.357 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FACBCDD070000
+00:01:03.580 : <ERROR> Missing data for ferry item! (ferry.portotorres, uid: 0x2FEEFBFCC9C70001)
+00:01:03.584 : Map base sectors successfully loaded.
+00:01:03.593 : Map loaded
+00:01:03.606 : Loading save '/steam/profiles/48616D6275726765726768696E69/save/autosave/game.sii'
+00:01:03.654 : Route data generation started.
+00:01:03.868 : Route data generation finished.
+00:01:03.996 : Road network navigation caching started.
+00:01:10.860 : Garage update started.
+00:01:10.940 : Garage update finished.
+00:01:11.031 : Sector force started.
+00:01:11.088 : Sector force finished.
+00:01:11.237 : [actor] Initialized at [-45683.4;35.9;-21550.6]
+00:01:20.117 : Forcing sector data!
+00:01:20.117 : Sector force started.
+00:01:20.518 : Sector force finished.
+00:01:47.891 : [actor] Teleported from [-45683.5;35.9;-21550.6] to [-45899.3;35.1;-20494.0]
+00:01:47.896 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/autosave/game.sii) ...
+00:02:18.353 : pause
+00:02:30.005 : pause
+00:02:55.133 : g_mode 2560 1440 165 1
+00:02:55.137 : [x11] xlib: Mode 0 - 2560 x 1440 (165 Hz) on XWAYLAND2 already set
+00:03:13.331 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/1/game.sii) ...
+00:09:33.428 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/autosave_drive_9/game.sii) ...
+00:13:44.570 : [trigger] Handled action (Parking HUD activation (auto reset))
+00:14:01.888 : [trigger] Reset action (Parking HUD activation (auto reset))
+00:15:55.726 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/autosave_drive/game.sii) ...
+00:21:24.864 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/autosave_drive_1/game.sii) ...
+00:21:39.332 : pause
+00:21:41.245 : pause
+00:26:02.240 : [actor] Teleported from [-53885.4;24.0;-14689.9] to [-53886.6;24.4;-14688.7]
+00:26:10.199 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/autosave/game.sii) ...
+00:27:18.175 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/autosave_job_2/game.sii) ...
+00:27:18.199 : [actor] Initialized at [-53852.8;24.0;-14713.4]
+00:28:15.034 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/autosave_drive_2/game.sii) ...
+00:29:09.742 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/1/game.sii) ...
+00:34:09.430 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/autosave_drive_3/game.sii) ...
+00:35:25.068 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/1/game.sii) ...
+00:35:32.658 : quit
+00:35:32.658 : Creating save-game file (/steam/profiles/48616D6275726765726768696E69/save/autosave/game.sii) ...
+00:35:32.756 : [sound] Sound library - shutdown.
+00:35:32.756 : [sound] Sound system - shutdown.
+00:35:33.072 : [sound] FMOD libraries released.
+00:35:33.250 : [net]  LOG INFO: Stopped
+00:35:33.251 : [hashfs] dlc_winter.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_volvo_tuning_pack.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_volvo_construction.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_vikings.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_valentine.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_trailers.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_toys.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_super_stripes.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_streetart.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_space.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_schwarzmuller.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_rocket_league.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_rims.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_renault_t_tuning.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_raven.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_prehistoric.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_pirates.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_pink_ribbon.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_phys_flags.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_pcg.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_oversize.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_north.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_nature.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_mighty_griffin.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_michelin.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_metallics2.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_metallics.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_lunar_new_year.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_krone.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_hs_schoch.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_heavy_cargo.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_halloween.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_goodyear.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_us.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_ukr.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_uk.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_tr.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_sk.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_sc.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_s.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_ru.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_ro.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_pt.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_pl.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_nl.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_n.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_lv.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_lt.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_kr.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_jp.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_it.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_ie.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_hu.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_fr.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_fi.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_es.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_ee.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_dk.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_de.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_cz.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_cn.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_ch.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_ca.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_bz.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_bg.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_be.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_aus.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_flags_at.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_feldbinder.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_fantasy.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_east.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_dragon.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_daf_tuning_pack.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_daf_2021.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_christmas.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_balt.scs: Unmounted.
+00:35:33.251 : [hashfs] dlc_actros_tuning.scs: Unmounted.
+00:35:33.251 : [hashfs] base_cfg.scs: Unmounted.
+00:35:33.251 : [hashfs] locale.scs: Unmounted.
+00:35:33.251 : [hashfs] def.scs: Unmounted.
+00:35:33.251 : [hashfs] core.scs: Unmounted.
+00:35:33.251 : [hashfs] base.scs: Unmounted.
+00:35:33.251 : [hashfs] effect.scs: Unmounted.
+00:35:33.377 : [sys] Process manager shutdown.

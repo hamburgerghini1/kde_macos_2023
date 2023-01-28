@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="489">
+  <name>Fireflies</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1757403</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>9375</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/desktoptheme/Fireflies</installedfile>
+  <id>1757403</id>
+  <releasedate>2022-04-07</releasedate>
+  <summary>Natuere Inspire Fireflies theme. Install the Gloval theme from store for better experience. </summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1757403/screenshot-20220407-160301.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1757403/screenshot-20220407-160301.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkzMzA2ODEiLCJvIjoiMSIsInMiOiI2Mjk0YjYxYjhhMmEwYmQxN2VhMGY4YWMyMDk5NmQ0NTVkNzQ4MGE0N2M4M2M4ZWM0YzViM2VlN2I5Y2IzYTQ4MDNhYjUzNzg3YzcxY2M3ZTVmNDkzMzE0YTllMDJkYThmMGEzMDU3MDVlN2FlZTg2NTczOTAxMzMzYjEwZjVjMSIsInQiOjE2NzQ1NzUwNDIsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.wKsvy21v4GqVKRmYzqY6bK1BZlSABX2Fm_HGnLn1YuQ/Fireflies.tar.gz</payload>
+  <tags>linux,sweet,theme,plasma,unix,kde,gplv3,green,fireflies,arch</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Noctis round</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1610052</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>16671</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/desktoptheme/Noctis-round</installedfile>
+  <id>1610052</id>
+  <releasedate>2021-10-03</releasedate>
+  <summary>Noctis Plasma Theme&lt;br />
+Lightly and Lightly shaders required for this theme &lt;br />
+Install them before using this theme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1610052/b9588be0691b84532f92dbda2d9fa810268a13f6cdca3d17226860666149ed014a90.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1610052/b9588be0691b84532f92dbda2d9fa810268a13f6cdca3d17226860666149ed014a90.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzMyNjEzNjEiLCJvIjoiMSIsInMiOiIxZTE5YWZjNTgyZWEzOWVlMjU5NTEzYzU2OTA4YmFkYjJhN2JiNjlmYzAyNTEyYzRkYWQ4OWQ2MGU3MTQzZDY1ODUxNWYwNDEzYmY5YjdmN2QyOGE3NGEzYTA0YWNmZWUwZDZiOTIyODdmYzdiMThmYTVlNjVkNTIzMzlhYjgwNCIsInQiOjE2NzQ1NzU4NjAsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.MlzfaOHjlSU0tTBlrjJ9aDdYkwSbVzbI4YCX3jU4FXk/Noctis-round.tar.gz</payload>
+  <tags>gplv3,kde,arch,plasma,round,theme,unix,noctis,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

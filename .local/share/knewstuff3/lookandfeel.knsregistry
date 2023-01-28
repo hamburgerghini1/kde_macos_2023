@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Fireflies</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1757462</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>11676</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/look-and-feel/Fireflies</installedfile>
+  <id>1757462</id>
+  <releasedate>2022-04-07</releasedate>
+  <summary>Ensure that "Use Desktop theme from layout" is checked while applying the theme. </summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1757462/screenshot-20220407-160301.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1757462/screenshot-20220407-160301.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkzMzY0NTIiLCJvIjoiMSIsInMiOiJlNWExODJjYjdjMzZiNzk4ODBmMGM5NzU3OGE5NGUwNmRmMDYxZjlmMGQ4MmNmODcyZWE5NjBiOWU3YzFmMmY3MDc5YjYxMjU2YWJhMGI4MDIyZWRiMTEzYzIyYWJiOTkxNTNjZjdiMmUxNzZkMTIzNjk1ZDYzOWY2YTNjMmVhMyIsInQiOjE2NzQ1NzUwMzgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.bLMssJnMiv4IroNJniixcJV6L-_BzXq8PWLaLcdHWyI/Fireflies.tar.gz</payload>
+  <tags>arch,unix,sweet,plasma,theme,fireflies,gplv3,green,kde,linux,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Noctis round</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1610056</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>16167</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/look-and-feel/Noctis-round</installedfile>
+  <id>1610056</id>
+  <releasedate>2021-10-03</releasedate>
+  <summary>Install Lightly and Lightly shaders before installing this theme to get this exact look shown in the image.&lt;br />
+https://github.com/Luwx/Lightly&lt;br />
+https://github.com/Luwx/LightlyShaders&lt;br />
+&lt;br />
+To get more customizability with rounded corners&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1610056/c169b0d27fe37ac054c0ecc971307d4586b2059d24c6d7091c52899bc17b17d8977a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1610056/c169b0d27fe37ac054c0ecc971307d4586b2059d24c6d7091c52899bc17b17d8977a.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzMyODAwMDgiLCJvIjoiMSIsInMiOiJmOGU5NTgyZDlmODc2YzkyYTViNTBjOTljNjVmY2ZhYjgyOWNiZDEzODllNTllZTQxZjcxOWVlMjliYzEzNWZiNDc4MWU3NDczZWY1MDQ4ZjAxMmMxZDllN2JkMTcyN2M2M2ViMTNmMWNiMzJkZDM4ODVjN2IwNjUwMDMxNzYwZSIsInQiOjE2NzQ1NzU4NDgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.8L0hxYsWGRhjlAqJbfzGiLDO0HVg83coolZbcCDMf6I/Noctis-round.tar.gz</payload>
+  <tags>kde,gplv3,linux,look-and-feel,noctis,unix,plasma,theme,arch</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

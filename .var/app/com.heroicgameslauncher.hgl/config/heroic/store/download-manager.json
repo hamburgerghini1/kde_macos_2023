@@ -1,0 +1,47 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "Cormorant",
+				"path": "/run/user/1000/doc/c1ed32d7/Heroic",
+				"installDlcs": false,
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "Cormorant",
+					"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SaintsRow_DeepSilverVolition_S1_2560x1440-1ba560d3f228fe5c7341777a6ac9abb7",
+					"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24",
+					"cloud_save_enabled": true,
+					"developer": "Plaion",
+					"extra": {
+						"about": {},
+						"reqs": []
+					},
+					"folder_name": "SaintsRow",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "0d23bb77ee2f45b7a571bde68caddb09",
+					"is_mac_native": false,
+					"save_folder": "{InstallDir}/sr5/_cloudfolder/saves/SR",
+					"title": "Saints Row",
+					"canRunOffline": true,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/saints-row"
+				},
+				"size": "38.16 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1674585661961,
+			"endTime": 1674586230732,
+			"startTime": 1674585661965,
+			"status": "done"
+		}
+	],
+	"queue": []
+}

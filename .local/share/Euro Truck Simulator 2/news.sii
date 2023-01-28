@@ -1,0 +1,613 @@
+SiiNunit
+{
+news_messages : _nameless.1f52.9e60 {
+ update_timestamp: 1674821087
+ for_version: "1.46.2.13s"
+ content_id: ""
+ lang_id: en_gb
+ latest_version: "1.46.2.13s"
+ latest_version_url: "https://eurotrucksimulator2.com/update.php"
+ messages: 60
+ messages[0]: _nameless.de4.b280
+ messages[1]: _nameless.21e5.4a70
+ messages[2]: _nameless.de5.6ad0
+ messages[3]: _nameless.1c4d.7c70
+ messages[4]: _nameless.ffd.72d0
+ messages[5]: _nameless.e90.c5d0
+ messages[6]: _nameless.13cc.1470
+ messages[7]: _nameless.1d79.6800
+ messages[8]: _nameless.13c9.4ac0
+ messages[9]: _nameless.1804.f2f0
+ messages[10]: _nameless.1614.b240
+ messages[11]: _nameless.15a9.6a10
+ messages[12]: _nameless.1ca8.e810
+ messages[13]: _nameless.de1.6430
+ messages[14]: _nameless.1597.fc70
+ messages[15]: _nameless.1298.f4f0
+ messages[16]: _nameless.239c.4af0
+ messages[17]: _nameless.21d0.0eb0
+ messages[18]: _nameless.176f.2350
+ messages[19]: _nameless.1d92.8fc0
+ messages[20]: _nameless.13c2.2d90
+ messages[21]: _nameless.133d.6920
+ messages[22]: _nameless.1be4.acc0
+ messages[23]: _nameless.f89.1fe0
+ messages[24]: _nameless.1a77.3140
+ messages[25]: _nameless.1e6b.26f0
+ messages[26]: _nameless.1528.1ee0
+ messages[27]: _nameless.1bce.4750
+ messages[28]: _nameless.1e16.5d50
+ messages[29]: _nameless.1de4.f5f0
+ messages[30]: _nameless.6d0.b2a0
+ messages[31]: _nameless.6d5.1c50
+ messages[32]: _nameless.6d4.79f0
+ messages[33]: _nameless.6d2.9470
+ messages[34]: _nameless.6d1.ef50
+ messages[35]: _nameless.6d1.da20
+ messages[36]: _nameless.6d0.bed0
+ messages[37]: _nameless.6d3.3400
+ messages[38]: _nameless.6d8.1910
+ messages[39]: _nameless.6d7.fee0
+ messages[40]: _nameless.6d7.f4e0
+ messages[41]: _nameless.6d7.c440
+ messages[42]: _nameless.6d7.af50
+ messages[43]: _nameless.a95.87e0
+ messages[44]: _nameless.6d8.ed70
+ messages[45]: _nameless.14aa.f670
+ messages[46]: _nameless.1f56.f3b0
+ messages[47]: _nameless.17bf.f660
+ messages[48]: _nameless.1f0e.7e40
+ messages[49]: _nameless.7ad.1290
+ messages[50]: _nameless.1d8c.b890
+ messages[51]: _nameless.6d5.c610
+ messages[52]: _nameless.133b.fb60
+ messages[53]: _nameless.1e50.f300
+ messages[54]: _nameless.133c.c9f0
+ messages[55]: _nameless.1e01.a970
+ messages[56]: _nameless.14ec.9550
+ messages[57]: _nameless.239f.8b80
+ messages[58]: _nameless.1f8a.0b20
+ messages[59]: _nameless.127d.9ee0
+}
+
+news_message : _nameless.de4.b280 {
+ timestamp: 1674633600
+ type: news
+ title: "Switzerland Rework - Geneve"
+ image_hash: 76EA3CF220884319B0514DF52C6E0C725937A84A6EB6952C18057B18B5CC754E
+ url: "https://blog.scssoft.com/2023/01/switzerland-rework-geneve.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Last month we officially announced our plans to rework the country of Switzerland in Euro Truck Simulator 2 and since the work is progressing really nicely, we are now ready to take a look at another wonderful city..."
+}
+
+news_message : _nameless.21e5.4a70 {
+ timestamp: 1673942400
+ type: news
+ title: "Christmas Reflections and Cruising Texas Events Conclusion"
+ image_hash: BB7BD8E8CDB4D1AA3CD4AC6C6E80605084BA4374B8633BB12A407887F1706874
+ url: "https://blog.scssoft.com/2023/01/christmas-reflections-and-cruising.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "In December, we hosted our annual Christmas World of Trucks event. This year's theme focused on Love, Peace, Hope, Care and the positivity that comes from sharing them with others. Over the holiday period we asked you to deliver Gifts to and from all cities in Euro Truck Simulator 2..."
+}
+
+news_message : _nameless.de5.6ad0 {
+ timestamp: 1673510400
+ type: news
+ title: "West Balkans - Border Crossing #2"
+ image_hash: 29E949A19BCFFC6E8F75E6A02DF914ECE726ABE13FF251B8CE8868893C420E1A
+ url: "https://blog.scssoft.com/2023/01/west-balkans-border-crossing-2.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Last month, we shared a blogpost containing information and previews of Border Crossings in our upcoming West Balkans DLC for Euro Truck Simulator 2. With 30 crossings in total, we couldn't fit them all in just one blogpost! Today we are happy to share with you even more screenshots..."
+}
+
+news_message : _nameless.1c4d.7c70 {
+ timestamp: 1673337600
+ type: news
+ title: "Germany Rework - Frankfurt am Main"
+ image_hash: 171850EBBA01107F8757174AC4D745FC387CCF73061D312BD4BE8D67F37987BF
+ url: "https://blog.scssoft.com/2023/01/germany-rework-frankfurt-am-main.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Hallo, Freunde! It's time to look at another city that will receive a brand-new look in the upcoming rework of the German cities that we are currently working on. Today, we'll show and tell you a bit about what changes you can expect to see in the amazing city of Frankfurt am Main."
+}
+
+news_message : _nameless.ffd.72d0 {
+ timestamp: 1671696000
+ type: news
+ title: "Happy Holidays!"
+ image_hash: 9AC7E14A4F7422176E1E18C9AAC1F5BF78842FA2492EE8F49906EA4A405D7FC4
+ url: "https://blog.scssoft.com/2022/12/happy-holidays.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "As the holiday season approaches, we at SCS Software are filled with joy and gratitude, and we want to share that with you. We wish you the opportunity to spend quality time with the people you love, and that you'll find ways to show compassion and generosity to others."
+}
+
+news_message : _nameless.e90.c5d0 {
+ timestamp: 1671177600
+ type: news
+ title: "Christmas Paint Jobs Pack DLCs Update"
+ image_hash: A76E661D4BAD987C81C79D1CB7175F4F52BF2CF5E0997FE79461A6412061E987
+ url: "https://blog.scssoft.com/2022/12/christmas-paint-jobs-pack-dlcs-update.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Christmas gifts are part of the holiday tradition and since you, our #BestCommunityEver, have been extremely good and supportive this year, we'd like to show you our gratitude in the form of a small early present."
+}
+
+news_message : _nameless.13cc.1470 {
+ timestamp: 1671091200
+ type: news
+ title: "Christmas Reflections Event 2022"
+ image_hash: 32BB5AC875AF293E9CB57B260284BB09DF4ACD4072C630CA6231466E99A69C05
+ url: "https://blog.scssoft.com/2022/12/christmas-reflections-event-2022.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Join our Christmas Reflections event and share wishes of love, peace, hope and care to those most in need while delivering Gifts across all territories! An exclusive achievement and many rewards are waiting!"
+}
+
+news_message : _nameless.1d79.6800 {
+ timestamp: 1670839200
+ type: news
+ title: "Switzerland Rework: Bern"
+ image_hash: 3B07F57367FC4EF4FE272CA104718EE804C10755971636DAEF21200292340D58
+ url: "https://blog.scssoft.com/2022/12/switzerland-rework-bern.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Today we are excited to announce and confirm that we are in the process of completely reworking the country of Switzerland in Euro Truck Simulator 2. As one of our older base game areas, it will be receiving a complete overhaul as part of a free update for players."
+}
+
+news_message : _nameless.13c9.4ac0 {
+ timestamp: 1670580000
+ type: news
+ title: "West Balkans - Border Crossing"
+ image_hash: 79A6171CE9BE278350308077715C2E54A36B9ABEB3D8DAD2AD32E6CB530DE47C
+ url: "https://blog.scssoft.com/2022/12/west-balkans-border-crossing.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "With 8 countries included in the upcoming West Balkans DLC, something drivers will be doing a lot of is crossing border controls. With 30 of them in total, we recommend having your paperwork and documentation always in reach and ready."
+}
+
+news_message : _nameless.1804.f2f0 {
+ timestamp: 1670493600
+ type: news
+ title: "Convoy: Dedicated Servers Support"
+ image_hash: 25175386AF877E52C70FF18F42F951463D9C8FBCA9504B405D771F540469CFDF
+ url: "https://blog.scssoft.com/2022/12/convoy-dedicated-servers-support.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Since the release of Convoy, our native multiplayer mode for Euro Truck Simulator 2, we have been making small updates to further improve the players' experience. Today we are excited to share that a much-requestedaddition has arrived and that is the option to host a dedicated server!"
+}
+
+news_message : _nameless.1614.b240 {
+ timestamp: 1670320800
+ type: news
+ title: "Germany Rework - Stuttgart"
+ image_hash: AF4125DDEFF0918EE87729A9A52376D8BAFD33B39CBC2F08EA4AB57C1BEDB8BC
+ url: "https://blog.scssoft.com/2022/12/germany-rework-stuttgart.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "A while ago, at the end of our blog post dedicated to the rework of the city of Hannover, we teased you with a potential new look coming to other cities in Germany as well. We are excited to let you know that our work continues with a brand- new rework of Stuttgart!"
+}
+
+news_message : _nameless.15a9.6a10 {
+ timestamp: 1669802400
+ type: news
+ title: "Feldbinder Trailers DLC Release"
+ image_hash: 8006C8510B1D05B82374F5B87E8F2035AAD1CA0002490153CDAB4BCBC5255632
+ url: "https://blog.scssoft.com/2022/11/feldbinder-trailers-dlc-release.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Today, we are very excited to share with you that the Feldbinder Trailers DLC is now available for Euro Truck Simulator 2."
+}
+
+news_message : _nameless.1ca8.e810 {
+ timestamp: 1668679200
+ type: news
+ title: "Czech & Slovak Games Week 2022"
+ image_hash: AD555368AD0FFC57DDA3B67D45CBEC3B366D3998A97BBE4D5549B47DE3FB7F0F
+ url: "https://blog.scssoft.com/2022/11/czech-slovak-games-week-2022.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Since 2020, we've been participating in Czech & Slovak Games Week, an annual event that celebrates games created by studios based in Czechia and Slovakia. Last year, 223 games from 92 game studios participated across a multitude of platforms, including Steam..."
+}
+
+news_message : _nameless.de1.6430 {
+ timestamp: 1668592800
+ type: news
+ title: "Happy Hauloween Conclusion"
+ image_hash: 73C0A2944B25C3241B796E4C9E12913A5911DEC5DD9BE72D3AD61EE7A1990A89
+ url: "https://blog.scssoft.com/2022/11/happy-hauloween-conclusion.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Brilliant work! You\xe2\x80\x99ve delivered yummy Halloween Treats in our especially spooky cargo trailer, across all trucking territories. 666,000 deliveries in fact! The spirit of our Happy Hauloween event has now been shared with all, well done."
+}
+
+news_message : _nameless.1597.fc70 {
+ timestamp: 1668074400
+ type: news
+ title: "Euro Truck Simulator 2 - 1.46 Update"
+ image_hash: 29C1C32BCCCE3752981EC25BB8430DA6A3C2105060BBB13804CD2879C3CE699B
+ url: "https://blog.scssoft.com/2022/11/euro-truck-simulator-2-146-update.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "We are happy to announce that the 1.46 update for Euro Truck Simulator 2 has been released and is now available on Steam. This update features bug fixes, changes and new content, which are featured below, so we recommend taking a read!"
+}
+
+news_message : _nameless.1298.f4f0 {
+ timestamp: 1667815200
+ type: news
+ title: "ETS2 - Street Art Paint Jobs Pack DLC"
+ image_hash: 5319690064B45EF9A12EA7388BE459E32F4037870229ABF31D23B75880E4CC42
+ url: "https://blog.scssoft.com/2022/11/ets2-street-art-paint-jobs-pack-dlc.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "No matter where you travel in Europe, there is one type of art that you can consistently find. From bustling cities to small quiet villages, street art can be found anywhere from the streets to the side of buildings..."
+}
+
+news_message : _nameless.239c.4af0 {
+ timestamp: 1667815200
+ type: dlc
+ title: "Street Art Paint Jobs Pack"
+ image_hash: 5319690064B45EF9A12EA7388BE459E32F4037870229ABF31D23B75880E4CC42
+ url: "https://store.steampowered.com/app/1967650/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Freshen up your trucks with an original and modern livery. Introducing the Street Art Paint Jobs Pack, now available for all current truck models in Euro Truck Simulator 2 and to some of the ownable trailers as well!"
+}
+
+news_message : _nameless.21d0.0eb0 {
+ timestamp: 1667721600
+ type: news
+ title: "ETS2 & ATS: 1.46 Update - Gallery"
+ image_hash: 8096193AE3CD0A4F2534066D850D277B86B12CAC49A61EDAC0CED322FAF42A83
+ url: "https://blog.scssoft.com/2022/11/ets2-ats-146-update-gallery.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "There\xe2\x80\x99s a brand new feature on the horizon for both American Truck Simulator and Euro Truck Simulator 2. This addition will arrive with the 1.46 update and it will be further refined and expanded with additional content over future updates. Say hello to Gallery!"
+}
+
+news_message : _nameless.176f.2350 {
+ timestamp: 1666857600
+ type: news
+ title: "#HappyHauloween Event Extended!"
+ image_hash: 6763E0F92C49FF85E35768D79752F4F9D1303807B0A89C62BE1C7A17EAEBD66F
+ url: "https://blog.scssoft.com/2022/10/happyhauloween-event-extended.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "To our #BestCommunityEver, we would like to offer our sincere apologies if we caused any concerns to those who are currently testing our Euro Truck Simulator 2 and American Truck Simulator 1.46 Open Beta..."
+}
+
+news_message : _nameless.1d92.8fc0 {
+ timestamp: 1666598400
+ type: news
+ title: "Happy Hauloween Event"
+ image_hash: E4CD6B8B2F9630D0C88FD5E70355C4683A11F0B5FD44975269E7C3600EAA1B29
+ url: "https://blog.scssoft.com/2022/10/happy-hauloween-event.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Join the fun as we celebrate Halloween in our own special way by delivering yummy Halloween Treats for everyone everywhere, in our Happy Hauloween event this year!"
+}
+
+news_message : _nameless.13c2.2d90 {
+ timestamp: 1666339200
+ type: news
+ title: "West Balkans - Religion"
+ image_hash: 9661A544BC29E66A2C3378C564B2A2760361490CF65007A284B5E77E475A34C1
+ url: "https://blog.scssoft.com/2022/10/west-balkans-religion.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Religion is an integral part of society and it has been accompanying us in different shapes and forms for hundreds of years. While the West Balkans are one of the most religiously diverse regions in Europe, these beliefs became such an integral part of the local countries.."
+}
+
+news_message : _nameless.133d.6920 {
+ timestamp: 1665993600
+ type: news
+ title: "Euro Truck Simulator 2's 10th Anniversary"
+ image_hash: 234EE1004CCA285C4754D4A5434BCEDADE2F4BD77A0272D91F75759A09E0B544
+ url: "https://blog.scssoft.com/2022/10/euro-truck-simulator-2s-10th-anniversary.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Join us in celebrating 10th Anniversary of Euro Truck Simulator 2 by completing a single delivery to earn a special reward and achievement as well as our heartfelt thanks!"
+}
+
+news_message : _nameless.1be4.acc0 {
+ timestamp: 1665561600
+ type: news
+ title: "Feldbinder Trailers - Work in Progress Update"
+ image_hash: 82487521409116E59D604B09E5C81695D05DD5F51324E11BE33F609D0B643CA8
+ url: "https://blog.scssoft.com/2022/10/feldbinder-trailers-work-in-progress.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Last year, a small team of our vehicle artists went to Germany and visited Feldbinder Spezialfahrzeugwerk GmbH to check out their amazing vehicles at two of their facilities at Winsen and Lutherstadt Wittenberg. There, they gathered a lot of information..."
+}
+
+news_message : _nameless.f89.1fe0 {
+ timestamp: 1665043200
+ type: news
+ title: "Euro Truck Simulator 2: 1.46 Open Beta"
+ image_hash: C52521C543CAA3FC03330704E950FE1906A951555401391C699905F9A622934C
+ url: "https://blog.scssoft.com/2022/10/euro-truck-simulator-2-146-open-beta.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Today, we are happy to share with you that the 1.46 Open Beta branch for ETS2 is now available to try and test out. If you plan on participating in this Open Beta, we ask that you please help us by reporting any bugs you may encounter in the appropriate section(s) of our official forums."
+}
+
+news_message : _nameless.1a77.3140 {
+ timestamp: 1664438400
+ type: news
+ title: "1.46 Update: Ownable Chemical Tankers"
+ image_hash: FD641EBF2E2D3C521037EBE2405192E067110881D94622E8937CB96EFD33ECAE
+ url: "https://blog.scssoft.com/2022/09/146-update-ownable-chemical-tankers.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "We are happy to share with you the next addition to our ownable cistern collection which will be available in 1.46 for Euro Truck Simulator 2. 1.46 will see the introduction of ownable chemical cistern trailers. Let\xe2\x80\x99s take a more detailed look at this trailer type, shall we?"
+}
+
+news_message : _nameless.1e6b.26f0 {
+ timestamp: 1664179200
+ type: news
+ title: "#DestinationHannover Conclusion"
+ image_hash: B75429BB59F35EF5E3A0DA03BAAFF6B8EF66EB7E693B0FC7EF77A1DEBF3D0047
+ url: "https://blog.scssoft.com/2022/09/cruisingmontana-destinationhannover.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Great work truckers, thanks for helping set up the IAA transportation show at Destination Hannover and for delivering all 7 of the required cargo and Krone trailers. The show was a fantastic success, we hope you enjoyed being part of this event as much as we did!"
+}
+
+news_message : _nameless.1528.1ee0 {
+ timestamp: 1663920000
+ type: news
+ title: "West Balkans - New Industries"
+ image_hash: 684DAE0FC319E8FAB3CE5AF0B709D70D03D104AFD6ADCBED7A1108CEAD22F916
+ url: "https://blog.scssoft.com/2022/09/west-balkans-new-industries.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "They say that truckers make the world go round, and considering the number of materials and other cargo being transported somewhere out there virtually every second, we have to agree! That is why the topic of New Industries is the best first step into..."
+}
+
+news_message : _nameless.1bce.4750 {
+ timestamp: 1663747200
+ type: news
+ title: "1.46 Update: Iberia - New Spanish Signage"
+ image_hash: 6D0B6D505B25B5656555681960F89B75E731F2F3421A5F9B820EFCF88B47C541
+ url: "https://blog.scssoft.com/2022/09/146-update-iberia-new-spanish-signage.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Today, we are happy to share with you a new addition coming to the roads of the Iberia DLC for Euro Truck Simulator 2 with the next 1.46 update."
+}
+
+news_message : _nameless.1e16.5d50 {
+ timestamp: 1663660800
+ type: news
+ title: "1.46 Update: Iberia Custom City Intro"
+ image_hash: 68BFFF181D8300EFAD601E02CBD43CE7E5364B65A2FD24A4408736F3B0992A5D
+ url: "https://blog.scssoft.com/2022/09/146-update-colorado-wyoming-iberia.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "Recently, we introduced a new experimental feature for ETS2 - custom city introductions. Thanks to the positive feedback that we have seen from the community, we are glad to let you know that we will further expand this feature in the upcoming 1.46 update!"
+}
+
+news_message : _nameless.1de4.f5f0 {
+ timestamp: 1663142400
+ type: news
+ title: "1.46 Update: Iberia New Content"
+ image_hash: 161406EFAF611BED1AC481F4D881A3F848D1DF7A525A50F49D8C308F05ACD382
+ url: "https://blog.scssoft.com/2022/09/146-update-iberia-new-content.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "After every update release, wondering about what content is coming next is only logical, as there is always room for improvement in your experience of driving across our games by adding smaller and more complex features."
+}
+
+news_message : _nameless.6d0.b2a0 {
+ timestamp: 1662451200
+ type: news
+ title: "Rework - Guess Where We Are?"
+ image_hash: 886CED30108D4F4576347E5D28135B937D317BF5CF2CA6DC820F8871DCD63E4A
+ url: "https://blog.scssoft.com/2022/09/ets2-rework-guess-where-we-are.html?utm_source=ingame_ets2&utm_medium=news"
+ text: "The journey of revisiting and reworking the older parts of our base map in ETS2 continues! Shortly after we completed work on recreating Austria, our rework team got right to their next project!"
+}
+
+news_message : _nameless.6d5.1c50 {
+ timestamp: 1654509600
+ type: dlc
+ title: "West Balkans"
+ image_hash: F0DC2D7BCB023798E2CA1E9EF8E4F4050CFC9D603D119565889FC7539F679526
+ url: "https://store.steampowered.com/app/2004210/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Discover, deliver and expand your trucking company to the countries of Albania, Bosnia and Herzegovina, Croatia, Kosovo, Montenegro, North Macedonia, Serbia, and Slovenia."
+}
+
+news_message : _nameless.6d4.79f0 {
+ timestamp: 1653472800
+ type: dlc
+ title: "Renault Trucks T Tuning Pack"
+ image_hash: 0FAD998DE331F110AC51576D67DBE19151755C947E5FF68CFFCAEDD6E4B6630C
+ url: "https://store.steampowered.com/app/1967640/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "With a wide range of tuning options, this pack will make sure you will always stand out while on the roads of ETS2."
+}
+
+news_message : _nameless.6d2.9470 {
+ timestamp: 1646388000
+ type: dlc
+ title: "Ukrainian Paint Jobs Pack"
+ image_hash: E1A38EF08F164DED6801E20D4D119C451BE133D781BF363DBC34B5B15F497F16
+ url: "https://store.steampowered.com/app/1918370/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Customize your truck with a unique set of Ukrainian paint jobs!"
+}
+
+news_message : _nameless.6d1.ef50 {
+ timestamp: 1617901200
+ type: dlc
+ title: "Volvo Construction Equipment"
+ image_hash: 3C7C98A314792EF496CA5B56479EB75484B33B123221C579D8950359D608C742
+ url: "https://store.steampowered.com/app/1704460/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Volvo Construction Equipment is among the world\xe2\x80\x99s leading manufacturers of articulated haulers and wheel loaders, and one of the world\xe2\x80\x99s foremost manufacturers of excavation equipment, road development machines, and compact construction equipment."
+}
+
+news_message : _nameless.6d1.da20 {
+ timestamp: 1617901200
+ type: dlc
+ title: Iberia
+ image_hash: E9F60230F298E1B962F73CB176F63F75B9089D655ECD51250F80F59339F4714C
+ url: "https://store.steampowered.com/app/1209460/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "The Iberian Peninsula is full of rich and diverse landscapes, from semi-arid southeastern deserts to the green coniferous forests. Be an important part of the strong export economy and deliver cargo from Iberia through Europe."
+}
+
+news_message : _nameless.6d0.bed0 {
+ timestamp: 1612980000
+ type: dlc
+ title: "Lunar New Year Pack"
+ image_hash: 8CFFD9AC413F6226AE46B63907AFFCD6D045F5AC1BEAEDECACCAA912DA70F1A5
+ url: "https://store.steampowered.com/app/526950/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "The Lunar New Year is celebrated across several countries and other territories in Asia. We hope these 12 beautiful paint designs representing each zodiac animal sign will bring you good luck now and in the coming years."
+}
+
+news_message : _nameless.6d3.3400 {
+ timestamp: 1600354800
+ type: dlc
+ title: "Super Stripes Paint Jobs Pack"
+ image_hash: DB31641EAB63259CB9D94D21CFF004D8BDF8D581A12FE90445DCDCCFA0041DBF
+ url: "https://store.steampowered.com/app/1415700/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Freshen up your trucks with an original and modern livery! These new unique and colorful designs have been hand-crafted by our talented artists."
+}
+
+news_message : _nameless.6d8.1910 {
+ timestamp: 1591110000
+ type: dlc
+ title: "FH Tuning Pack"
+ image_hash: 234307EAB96D57C861632BA7E33E81C7D589127802AFDBE8F4970996362A77DA
+ url: "https://store.steampowered.com/app/1299530/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Show off your Volvo truck loud and proud, by adorning it with the myriad of shiny new accessories included in the FH Tuning Pack! From the millions of possible combinations, you are bound to find one that is uniquely yours."
+}
+
+news_message : _nameless.6d7.fee0 {
+ timestamp: 1584633600
+ type: dlc
+ title: "HS-Schoch Tuning Pack"
+ image_hash: C3E90E0CFE567855751D69A047924D96266936648BCCA80F0FD0725EBF607B31
+ url: "https://store.steampowered.com/app/1209461/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Since 1986, HS-Schoch has been a leading expert in the creation of truck styling and accessories for the leading truck brand across Europe. Featuring custom light bars, bump bars, sidebars, side steps, roof bars and much more!"
+}
+
+news_message : _nameless.6d7.f4e0 {
+ timestamp: 1575651600
+ type: dlc
+ title: "Road to the Black Sea"
+ image_hash: F6DF8905EAA06A33A2D792B8BF8CA92C60903EBE2A94823EB8465E8EF3D3DD48
+ url: "https://store.steampowered.com/app/1056760/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Explore three new European regions: Romania, Bulgaria, and the European part of Turkey. 20 new major cities, 22 new companies to deliver with, an extensive road network and much more."
+}
+
+news_message : _nameless.6d7.c440 {
+ timestamp: 1575651000
+ type: dlc
+ title: "Bulgarian Paint Jobs Pack"
+ image_hash: 9166715D900AD5B19808A1C3416C8E84A90A79D98295000B635A93F0B2C4FB38
+ url: "https://store.steampowered.com/app/1159030/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Customize your truck with a unique set of Bulgarian paint jobs!"
+}
+
+news_message : _nameless.6d7.af50 {
+ timestamp: 1569920400
+ type: dlc
+ title: "Pink Ribbon Charity Pack"
+ image_hash: 8C1D332523F32F7A9296200BA3D799A7252146E880E1DB9380C6A1B08AD16DE2
+ url: "https://store.steampowered.com/app/1068290/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "We will donate 100% of our proceeds of this DLC to reputable Breast Cancer charities. Join in for a good cause!"
+}
+
+news_message : _nameless.a95.87e0 {
+ timestamp: 1567611000
+ type: dlc
+ title: "Actros Tuning Pack"
+ image_hash: 7C4333BD964E20294812AF1341D36673CB6B82047E0D0BE92D9333CB36BA9C63
+ url: "https://store.steampowered.com/app/1056761/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Trick up your Actros trucks in Euro Truck Simulator 2 with a million possible combinations of aftermarket parts!"
+}
+
+news_message : _nameless.6d8.ed70 {
+ timestamp: 1564756200
+ type: dlc
+ title: "Goodyear Tyres Pack"
+ image_hash: B512319424523567270A3DF29BA43DA6439148E4932431253620D0E38E667FAF
+ url: "https://store.steampowered.com/app/1117140/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "We are proud to introduce a new set of truck tyres and truck accessories, officially licensed from Goodyear to Euro Truck Simulator 2."
+}
+
+news_message : _nameless.14aa.f670 {
+ timestamp: 1543523762
+ type: dlc
+ title: "Beyond the Baltic Sea"
+ image_hash: 63B86564CBEB22388B46A1F3EFBCAB7DC6F4379D0DD50A2F96C4B9C992B7C77C
+ url: "https://store.steampowered.com/app/925580/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Beyond the Baltic Sea DLC brings to Euro Truck Simulator 2 the countries of Lithuania, Latvia and Estonia, parts of western Russia, and the south of Finland..."
+}
+
+news_message : _nameless.1f56.f3b0 {
+ timestamp: 1543494962
+ type: dlc
+ title: "Lithuanian Paint Jobs Pack"
+ image_hash: 55D76B635F37A670BE196E56DC9BDFB581BEE7B0C680373484BB9C995B7181AE
+ url: "https://store.steampowered.com/app/980592/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation..."
+}
+
+news_message : _nameless.17bf.f660 {
+ timestamp: 1543494961
+ type: dlc
+ title: "Latvian Paint Jobs Pack"
+ image_hash: 0378DC6638B801D41A3FF3D953D1ADFD6EF961C74246DD75B568C470649EE5B1
+ url: "https://store.steampowered.com/app/980591/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation..."
+}
+
+news_message : _nameless.1f0e.7e40 {
+ timestamp: 1543494960
+ type: dlc
+ title: "Estonian Paint Jobs Pack"
+ image_hash: 85B676233E51EF7D6FCAD23AEAB00CE98065B89A862AC1C38B672922A4563E41
+ url: "https://store.steampowered.com/app/980590/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Customize your truck with your country flag! A choice of four unique paint jobs will come handy if you feel you need to show your affiliation..."
+}
+
+news_message : _nameless.7ad.1290 {
+ timestamp: 1537187760
+ type: dlc
+ title: "Krone Trailer Pack"
+ image_hash: 3AC80EE6738D99E7A3DB0AAF546280CD742E7B339FFD7CB839BF592588E247AF
+ url: "https://store.steampowered.com/app/933610/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Deliver with Krone trailers! Enjoy the benefits of trailer ownership with great new trailers ready for tuning and alternate paintjobs...."
+}
+
+news_message : _nameless.1d8c.b890 {
+ timestamp: 1535978160
+ type: dlc
+ title: "Space Paint Jobs Pack"
+ image_hash: 1D387454C20C258A94F4F131D18AD420629094356BE154CF342D9F5F19E91193
+ url: "https://store.steampowered.com/app/925650/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Raise your eyes to the sky and marvel at the night sky - this pack brings a touch of extra-terrestrial experience to the game. We have created 6 spacy paint jobs to decorate..."
+}
+
+news_message : _nameless.6d5.c610 {
+ timestamp: 1534163760
+ type: dlc
+ title: "Dragon Truck Design Pack"
+ image_hash: 31623C83E97B5B86EC25F0B00032FDAF3BB37A4D6CE6B1199AFC2DD9410F8383
+ url: "https://store.steampowered.com/app/558240/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Tune up your diesel beast in the dragon motifs and accessories contained in this unique pack which was originally designed as a reward for Christmas event in 2016..."
+}
+
+news_message : _nameless.133b.fb60 {
+ timestamp: 1532608560
+ type: dlc
+ title: "Dutch Paint Jobs Pack"
+ image_hash: 1597FEC4FEA6442B9C066E1C2C5F8803A2993E3CD7DBA3E206E069151F850908
+ url: "https://store.steampowered.com/app/909640/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "The citizens of the Netherlands and all others who like this beautiful country now have a way how to let the world around them know their allegiance with the Dutch paint..."
+}
+
+news_message : _nameless.1e50.f300 {
+ timestamp: 1528461360
+ type: dlc
+ title: "Portuguese Paint Jobs Pack"
+ image_hash: 405FD028098C83068865E15B34DD3313C3B0BADBEED0CA71ED6C297E5B86916D
+ url: "https://store.steampowered.com/app/876980/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "The citizens of Portugal and all others who like this beautiful country now have a way how to let the world around them know their allegiance with the Portuguese paint..."
+}
+
+news_message : _nameless.133c.c9f0 {
+ timestamp: 1513168560
+ type: dlc
+ title: "Special Transport Available Now!"
+ image_hash: E95543644EA6EB531BB1C04696150578AFF373902D6C2AFDCD561100BA8E37AD
+ url: "https://store.steampowered.com/app/558245/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "We are proud to bring you the final major release of 2017 - Special Transport DLC. It has been a very busy year for SCS Software, a year of major studio growth, and also..."
+}
+
+news_message : _nameless.1e01.a970 {
+ timestamp: 1512477360
+ type: dlc
+ title: "Italia Available Now!"
+ image_hash: A5E2B4A04015F3E0F4741593D9D442678FE02D4DA7377A75E88DDB8041F31562
+ url: "https://store.steampowered.com/app/558244/?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Italia map DLC expands ETS2 with our rendition of the beautiful European country Italy with its rich history, modern industry, traditional architecture, and diverse natural environments."
+}
+
+news_message : _nameless.14ec.9550 {
+ timestamp: 1503014400
+ type: dlc
+ title: "XF Tuning Pack"
+ image_hash: FEE19E6FECB392C14C4404BB2842A9D1203A37AF1962824845074ADD4E246B31
+ url: "https://store.steampowered.com/app/461249?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Truck tuning is something that is close to the heart of all truckers.  Tons of chrome, expensive hand-made parts, lights and paints - they can turn a regular truck into the work of art! Trick up your New DAF XF and DAF XF 105..."
+}
+
+news_message : _nameless.239f.8b80 {
+ timestamp: 1494460800
+ type: dlc
+ title: "Heavy Cargo Pack"
+ image_hash: 2BF11BFD615F44D824A2BC575DAE0A60A45C07DB1D93B6CF377B3C8B7B873C7A
+ url: "https://store.steampowered.com/app/531131?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Test your driving skills with these brand news and really heavy cargoes on a new trailers with steering axles... Click to view on Steam."
+}
+
+news_message : _nameless.1f8a.0b20 {
+ timestamp: 1488153600
+ type: dlc
+ title: "Raven Truck Design Pack"
+ image_hash: 4F259240EB3EF173679987C8A4B990DA46351775B2EA678132100C0DBF6E24E6
+ url: "https://store.steampowered.com/app/318521?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Long-term desired and popular Raven Truck Design Pack is now available for everyone! Tune up your truck, wheels and cabin in the legendary Raven motifs... Click to view on Steam."
+}
+
+news_message : _nameless.127d.9ee0 {
+ timestamp: 1486684800
+ type: dlc
+ title: "Valentine's Paint Jobs Pack"
+ image_hash: 6603A9C00D6B270F39B08B3947DBD49630B35B7AC467D41DDF75E736F217E47A
+ url: "https://store.steampowered.com/app/558243?utm_source=ingame_ets2&utm_medium=dlc"
+ text: "Love is in the air and now you can customize your trucks with these new paint jobs to show your feelings or passion. We have also added small bonus in the form of a cabin accessory..."
+}
+
+}

@@ -1,0 +1,14 @@
+[Applications][com.heroicgameslauncher.hgl]
+Seen=true
+
+[Applications][com.spotify.Client]
+ShowBadges=false
+ShowInHistory=false
+ShowPopups=false
+
+[Applications][firefox]
+Seen=true
+
+[Notifications]
+CriticalInDndMode=false
+PopupPosition=BottomRight

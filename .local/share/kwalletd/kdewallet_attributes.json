@@ -1,0 +1,14 @@
+{
+    "$fdo_created": "1674896725",
+    "$fdo_modified": "1674897863",
+    "GitHub - https://api.github.com/hamburgerghini1": {
+        "$fdo_created": "1674897863",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1674897863",
+        "attributes": {
+            "account": "hamburgerghini1",
+            "service": "GitHub - https://api.github.com",
+            "xdg:schema": "org.freedesktop.Secret.Generic"
+        }
+    }
+}

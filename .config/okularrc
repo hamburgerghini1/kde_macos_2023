@@ -1,0 +1,17 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+DisplayPort-2=DisplayPort-2
+DisplayPort-2 XPosition 2560x1440 DisplayPort-2=512
+DisplayPort-2 YPosition 2560x1440 DisplayPort-2=324
+State=AAAA/wAAAAD9AAAAAAAABgAAAAMEAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.local/share/icons/MacOs-Icon-Theme/README.md
+File2[$e]=$HOME/.icons/MacOs-Icon-Theme/README.md
+File3[$e]=$HOME/.icons/MacOs-Icon-Theme/Thanks.md
+Name1[$e]=README.md
+Name2[$e]=README.md
+Name3[$e]=Thanks.md

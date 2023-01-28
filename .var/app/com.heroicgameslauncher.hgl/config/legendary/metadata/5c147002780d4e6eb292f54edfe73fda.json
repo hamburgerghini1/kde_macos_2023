@@ -1,0 +1,153 @@
+{
+  "app_name": "5c147002780d4e6eb292f54edfe73fda",
+  "app_title": "Evil Dead The Game",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5c147002780d4e6eb292f54edfe73fda",
+      "asset_id": "5c147002780d4e6eb292f54edfe73fda",
+      "build_version": "S1850_Patch14",
+      "catalog_item_id": "4a896599a11348d0925d66f852977059",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "95e09a8c24c44684bca1a6f25aea920c"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-10T17:55:09.022Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "EvilDeadTheGame"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "95e09a8c24c44684bca1a6f25aea920c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Evil Dead The Game",
+    "developer": "Saber Interactive",
+    "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-25T16:42:44.289Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Savini Variant Ash Alternate Skin audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "4b5ff96646b543ac9530acc933122fd9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4b5ff96646b543ac9530acc933122fd9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-25T16:44:40.768Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Savini Variant Ash Alternate Skin audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4a896599a11348d0925d66f852977059",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4a896599a11348d0925d66f852977059",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "fde136bc32f2b93006b9df0bc421fec0",
+        "size": 749910,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-02-08T07:47:17.336Z",
+        "url": "https://cdn1.epicgames.com/item/95e09a8c24c44684bca1a6f25aea920c/evilDeadWide_2560x1440-fde136bc32f2b93006b9df0bc421fec0",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "8e839d708bc638cd58c219ae38d58f6f",
+        "size": 861659,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-02-08T07:47:26.488Z",
+        "url": "https://cdn1.epicgames.com/item/95e09a8c24c44684bca1a6f25aea920c/evilDeadTall_1200x1600-8e839d708bc638cd58c219ae38d58f6f",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-05-12T22:45:29.326Z",
+    "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+    "releaseInfo": [
+      {
+        "appId": "5c147002780d4e6eb292f54edfe73fda",
+        "id": "7e988dc5822046ad864e0b6db48fa0d2",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Evil Dead The Game",
+    "unsearchable": true
+  }
+}

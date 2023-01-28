@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Tela circle icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1359276</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>15882</downloads>
+  <installedfile>/home/tommi/.local/share/icons/Tela-circle/*</installedfile>
+  <installedfile>/home/tommi/.local/share/icons/Tela-circle-dark/*</installedfile>
+  <id>1359276</id>
+  <releasedate>2023-01-03</releasedate>
+  <summary>&lt;strong> Tela circle Icon Theme &lt;/strong>&lt;br />
+Circle version icon theme of Tela: &lt;a href="https://www.pling.com/p/1279924" target="_blank" rel="nofollow">https://www.pling.com/p/1279924&lt;/a>&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong> Supported desktops &lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>1.&lt;/strong> Gnome&lt;br />
+&lt;strong>2.&lt;/strong> Kde Plasma&lt;br />
+&lt;strong>3.&lt;/strong> Budgie&lt;br />
+&lt;strong>4.&lt;/strong> Cinnamon&lt;br />
+&lt;strong>5.&lt;/strong> Elementary Pantheon&lt;br />
+&lt;strong>6.&lt;/strong> Xfce4&lt;br />
+&lt;strong>7.&lt;/strong> Mate&lt;br />
+&lt;strong>...&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1359276/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1359276/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzI3MjE1NzkiLCJvIjoiMSIsInMiOiIyZjNlOGE1YjA1NzJmZjEwZTM0YjI4NGY5YmYwMTFhYWRmY2ZjZWM4OGQ5ZjZjYjFhZTJmOTIxYWVhMWYwMWU3ZmM5MjM3YmRiZDUyYmNmNDhhZjY0OTQ4NmJmMTQ3YTZhMmJjMDZiZGIwMzhjM2U0MDE3NTMyODVkNDE1Y2I1YyIsInQiOjE2NzQ1NzUwNzQsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.bNrmT--0_a_-8RplH0QgigV3sbHxMbzOns0Rh-cSO2Q/01-Tela-circle.tar.xz</payload>
+  <tags>linux,unix,gplv3,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Tela-icon-theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1279924</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>17709</downloads>
+  <installedfile>/home/tommi/.local/share/icons/Tela/*</installedfile>
+  <installedfile>/home/tommi/.local/share/icons/Tela-dark/*</installedfile>
+  <id>1279924</id>
+  <releasedate>2023-01-06</releasedate>
+  <summary>&lt;strong> Tela Icon Theme &lt;/strong>&lt;br />
+A flat colorful Design icon theme&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;strong> Full circular version &lt;/strong>&lt;br />
+Tela-circle: &lt;br />
+&lt;a href="https://www.gnome-look.org/p/1359276/" target="_blank" rel="nofollow">https://www.gnome-look.org/p/1359276/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong> Based on &lt;/strong>&lt;br />
+1. numix-icon-theme-circle: &lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a>&lt;br />
+2. papirus-icon-theme: &lt;br />
+&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme" target="_blank" rel="nofollow">https://github.com/PapirusDevelopmentTeam/papirus-icon-theme&lt;/a>&lt;br />
+3. paper-icon-theme: &lt;br />
+&lt;a href="https://github.com/snwh/paper-icon-theme" target="_blank" rel="nofollow">https://github.com/snwh/paper-icon-theme&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong> Supported desktops &lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>1.&lt;/strong> Gnome&lt;br />
+&lt;strong>2.&lt;/strong> Kde Plasma&lt;br />
+&lt;strong>3.&lt;/strong> Budgie&lt;br />
+&lt;strong>4.&lt;/strong> Cinnamon&lt;br />
+&lt;strong>5.&lt;/strong> Elementary Pantheon&lt;br />
+&lt;strong>6.&lt;/strong> Xfce4&lt;br />
+&lt;strong>7.&lt;/strong> Mate&lt;br />
+&lt;strong>...&lt;/strong>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>Github&lt;/strong>: &lt;a href="https://github.com/vinceliuice/Tela-icon-theme" target="_blank" rel="nofollow">https://github.com/vinceliuice/Tela-icon-theme&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>Donation&lt;/strong>: &lt;a href="https://www.paypal.me/vinceliuice" target="_blank" rel="nofollow">https://www.paypal.me/vinceliuice&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzMwMjc4OTEiLCJvIjoiMSIsInMiOiJiNzNlMmFmOGRkMGZkOGU3YmM1NzgwMjg2NDMwZmZiNGEyZjg2OWE3N2FkMmE3OTBhYWJiM2NlMmRhNTMwY2M3NGYyN2Y3ZTBiMmM4ZTA0Y2NhNWY1ZDU3YWNkNWJkMDA0ZWY0OTg5ZmE0NjhkZjA4NmUzOWI3MmE2NTBiNGE3NiIsInQiOjE2NzQ1NzU4NjIsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.TLhx6reZ_N1z0seQegZyseWdmUvKDRDe38bjnkWIlBQ/01-Tela.tar.xz</payload>
+  <tags>original-product,unix,linux,gplv3,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

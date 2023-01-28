@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Bayonetta
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/460790
+Icon=steam_icon_460790
+Terminal=false
+Type=Application
+Categories=Game;

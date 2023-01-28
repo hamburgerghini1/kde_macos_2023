@@ -1,0 +1,9 @@
+[default-routes]
+alsa_card.usb-ASUS_TUF_H3_Wireless-00:input:analog-input-mic:channelMap=MONO;
+alsa_card.usb-ASUS_TUF_H3_Wireless-00:input:analog-input-mic:channelVolumes=0.0;
+alsa_card.usb-ASUS_TUF_H3_Wireless-00:input:analog-input-mic:latencyOffsetNsec=0
+alsa_card.usb-ASUS_TUF_H3_Wireless-00:input:analog-input-mic:mute=true
+alsa_card.usb-ASUS_TUF_H3_Wireless-00:output:analog-output:channelMap=FL;FR;
+alsa_card.usb-ASUS_TUF_H3_Wireless-00:output:analog-output:channelVolumes=0.19138050079346;0.19138050079346;
+alsa_card.usb-ASUS_TUF_H3_Wireless-00:output:analog-output:latencyOffsetNsec=0
+alsa_card.usb-ASUS_TUF_H3_Wireless-00:profile:output:analog-stereo+input:mono-fallback=analog-output;analog-input-mic;

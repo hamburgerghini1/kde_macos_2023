@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="105">
+  <name>Control Centre</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>prayagjain</author>
+  <homepage>https://store.kde.org/p/1916655</homepage>
+  <licence></licence>
+  <version>0.1.0</version>
+  <rating>76</rating>
+  <downloads>16440</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/com.github.prayag2.controlcentre</installedfile>
+  <id>1916655</id>
+  <releasedate>2022-10-17</releasedate>
+  <summary>NOTE&lt;br />
+This is a beta release. Please expect some bugs!&lt;br />
+&lt;br />
+If you like my work, then please consider supporting me!&lt;br />
+Paypal Address: prayagjain2@gmail.com&lt;br />
+Ko-Fi: https://ko-fi.com/prayagjain&lt;br />
+Liberapay: https://liberapay.com/Prayag/donate&lt;br />
+&lt;br />
+This is a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/60/43/39/1916655/logo1.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/60/43/39/1916655/logo1.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjU5OTA5NzgiLCJvIjoiMSIsInMiOiI2MzhmNjUwNTQ2ZDljZTE0MDRiMGNjZjFlYWUxMThlYjE1ZDczZjA0MDRkMTNjMWZhN2I3M2RiM2ZmNjk0YzUwYjI3YTA2YWQ0OGQ4MDhmYThjMDU2MjI0YWQ5NjllYTczY2Y2NDliNzA1NDY2MGM2Y2YxZTE5NjU1YTczZGJiYyIsInQiOjE2NzQ5MDA1OTAsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.WgBHXiJWuo0U4BjN3xO4VdDEr1yDg_J-wvhZ5llq380/kde-controlcentre0.1.0.tar.gz</payload>
+  <tags>center,centre,control,gplv3,extension,kde,linux,mac,macos,original-product,plasma,plasma##majorversion=5,unix,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="399">
+  <name>Better inline clock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>marianarlt</author>
+  <homepage>https://store.kde.org/p/1245902</homepage>
+  <licence></licence>
+  <version>3.1</version>
+  <rating>82</rating>
+  <downloads>237879</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/org.kde.plasma.betterinlineclock</installedfile>
+  <id>1245902</id>
+  <releasedate>2020-06-23</releasedate>
+  <summary>The hottest clock around!&lt;br />
+· Formats not found in any other clock, including custom!&lt;br />
+· Disable the separator with a simple check box!&lt;br />
+· Option for manual font size!&lt;br />
+· Correctly calculated width at any time and date!&lt;br />
+· Manual spacing and offsetting!&lt;br />
+·...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTI5NjY2NTUiLCJvIjoiMSIsInMiOiJiYzA5NWFhOGEyY2NiOGNmZjc1ODRjODkzMTA2NzBkMzNjN2Y2MjhkZTE5NjAxN2Y1YThiZDExMDg1MzExMjU3MDg0YmZhNTY1NTkxNmFkMDhiMDNlZTkwOTU3NmUzZjcxZTFmYzE1MTFhY2RmYTcwNzlmYTE2NTY0ZGY2NDczYiIsInQiOjE2NzQ5MDA2NTgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0._YcWpg69i6cksJpZ_3E8MtG361jDIhmilmw_3UiDKO8/betterinlineclock.tar.gz</payload>
+  <tags>unix,plasma##majorversion=5,plasmoid,plasma,modification-product,linux,widget,kde,extension,gplv3,clock</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Window Buttons Applet Prebuilt</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1906579</homepage>
+  <licence></licence>
+  <version>0.11.1-prebuilt-1</version>
+  <rating>64</rating>
+  <downloads>1110</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/org.kde.windowbuttons</installedfile>
+  <id>1906579</id>
+  <releasedate>2023-01-27</releasedate>
+  <summary>This is a prebuilt distribution of &lt;a href="https://store.kde.org/p/1272871/" target="_blank" rel="nofollow">Window Buttons Applet&lt;/a> by &lt;a href="https://store.kde.org/u/Psifidotos" target="_blank" rel="nofollow">Psifidotos&lt;/a>. I am in no way the original developer of this product nor have I...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1906579/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1906579/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzQ4MTExODciLCJvIjoiMSIsInMiOiJlMjUzZGY1MzZlMjc0NTZiNmEwMzZjYWNhNTZmOWQwYmY4YmYwNDFjZGM5MDI2ZWQ2NmQ2MDJjMDk4NzFlNWZiYzQ3OThlYzg0NWE2ZjMyODUzMWM4NWRiZDFiOTQzYWU0NzMyNzdhMzkwY2I4NTY0YWJjNTliMmU2MTRiOGU2MyIsInQiOjE2NzQ5MDA0MjgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0._zDm_rW0qknovQ2OQTOYSmYprfuTqo4WnWTp_D5P5KM/Window-Buttons-Applet.plasmoid</payload>
+  <tags>widget,gplv2-later,kde,extension,plasma,plasma##majorversion=5,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Currently Playing</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>junongx</author>
+  <homepage>https://store.kde.org/p/1821551</homepage>
+  <licence></licence>
+  <version>1.01</version>
+  <rating>64</rating>
+  <downloads>3813</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/com.junongx.kde.currentlyplaying</installedfile>
+  <id>1821551</id>
+  <releasedate>2022-12-09</releasedate>
+  <summary>A minimal media info widget for KDE Plasma, displaying the title and artist of the item currently playing.&lt;br />
+&lt;br />
+Features&lt;br />
+ - Display of current media using the data engine `mpris2`&lt;br />
+ - Switch sequence of track title and artist&lt;br />
+ - Customizable separator string between...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/44/36/1821551/screenshot-20220609-000705.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/44/36/1821551/screenshot-20220609-000705.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzA1OTcxNTkiLCJvIjoiMSIsInMiOiJmY2ZlMmI5N2QwYjQ2YzZmYWY5NmNjZjcyYzQ4YzJhNDY3ZDgyMTc0ZDFjMjI4NWU4NDNhNWI4YmQ5NjVjMDBkYzgyM2Y0MTZkOGJhZWM2MjIyYjFhY2ZiODFmNDU3OTY5NGIwNzFiMDA5ZjJmYmMwNWRlZGUyMWYyMmM0OGU5MCIsInQiOjE2NzQ5MDYzNzMsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.w30VX3HIbHE-wI-yPXV8V5xc6R4mWiWLsF5bOBmwu90/currentlyplaying-v1.01.plasmoid</payload>
+  <tags>extension,kde,kde5,media,mit-license,linux,widget,original-product,unix,plasma,plasma##majorversion=5,plasma5</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>Kpple Menu</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rborgniet</author>
+  <homepage>https://store.kde.org/p/1384156</homepage>
+  <licence></licence>
+  <version>1.4</version>
+  <rating>75</rating>
+  <downloads>41375</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/org.kpple.kppleMenu</installedfile>
+  <id>1384156</id>
+  <releasedate>2021-11-14</releasedate>
+  <summary>The Kpple menu is a drop-down menu of Kpple OS, similar to the Apple's menu.&lt;br />
+&lt;br />
+NOTE: Kpple Menu requires Plasma version 5.9 or higher and KDE Frameworks version 5.34 or higher.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/57/28/08/1384156/e4cfab5c747f234d2513f07bd233e41f0b131.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/57/28/08/1384156/e4cfab5c747f234d2513f07bd233e41f0b131.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY5Mjk1MDUiLCJvIjoiMSIsInMiOiIzNzc4N2MxNjI0MDA4OWIxM2VlNTY3MjM4OWEwYmI5OGE5MzY4ZDQyOTlmNDQwMDNkODE0YmUyYjU3M2NmOWRhNDM2MGUyNzM1ZDc2NDI0YWM0NzgwNGUwYjJmNmZkZTFiNmVhY2ZlNThkZGE2ZmQ1N2IxMjU1YjUzYTcyNzgxMiIsInQiOjE2NzQ5MDA0NDAsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.RdfRHKQQlld9ni7AmEVXMt-uo7n5m9bevefYgpijlpE/org.kpple.kppleMenu.tar.gz</payload>
+  <tags>linux,menu,plasma##majorversion=5,plasma,unix,widget,kde,kpple,lgplv2,extension</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Window Title Applet</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1274218</homepage>
+  <licence></licence>
+  <version>0.7.1</version>
+  <rating>88</rating>
+  <downloads>135034</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/org.kde.windowtitle</installedfile>
+  <id>1274218</id>
+  <releasedate>2022-09-24</releasedate>
+  <summary>This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;br />
+You can install this applet directly from Plasma 5 Widgets Explorer</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjQwMDMyNDIiLCJvIjoiMSIsInMiOiI0MWEzNjlhNjg5ZTliZGM2M2ExNDlhMGJjZmUzMjA0ZjdiNTBlZjI0MGIxNDU4MjdhZTA3ZmM3ZjBiMzVmZGQxYjVlMGFjOTYxOTMxYTAwNjI2MDFmYTkzZTRlMDUyMWRlZGEwYjEyZGJjZjY3YWNiOWFjMWZhNGM2ZDkzYmJlYyIsInQiOjE2NzQ5MDIwNzIsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.oM-b8fxdQguotwruf5cdJowyLx1U_BcXJpjh8jWQfNI/applet-window-title-0.7.1.plasmoid</payload>
+  <tags>panel,original-product,title,plasma##majorversion=5,plasma,unix,widget,window,kde,gplv2,extension,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

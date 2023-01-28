@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="296">
+  <name>Noctis</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1610199</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>14682</downloads>
+  <installedfile>/home/tommi/.local/share/wallpapers/Noctis/*</installedfile>
+  <id>1610199</id>
+  <releasedate>2021-10-03</releasedate>
+  <summary>Wallpaper for Noctis theme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1610199/09d0b3f40f25680d11a3c7cd9b291e4cc212f2e934e46df37206e85f0d8ce43bc149.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1610199/09d0b3f40f25680d11a3c7cd9b291e4cc212f2e934e46df37206e85f0d8ce43bc149.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzMyNzc5OTgiLCJvIjoiMSIsInMiOiI3OGQzYTQxZjc3MzlmZThlYjUxODRjY2RhM2Q5ZGZlNDg0ZGMxY2Q1MGQ0ZDdkNjM5NjgwMDIyZGM4NGMwNGRiZTA3MGNhZmVhMTg5ZDIzMDZmZGVhNmYwNmY0ZmZkYTg1ZTQ4MjYwODE4ZTUyMTYyYThiN2EyYmRlYjE0OTUyOSIsInQiOjE2NzQ1NzU4NzksInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.3QX9XRrVP6NCIL_dK76xFHPVKrgTJWUw4Y6WlS8NqUk/Noctis.tar.gz</payload>
+  <tags>wallpaper,gplv3,efi,artwork,abstract,noctis</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>fedora-linux</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>andriafernando</author>
+  <homepage>https://store.kde.org/p/1650635</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>644</downloads>
+  <installedfile>/home/tommi/.local/share/wallpapers/fedora-linux_system_desktop_background_wallpaper Wallpaper_1920x1080[10wallpaper.com].jpg</installedfile>
+  <id>1650635</id>
+  <releasedate>2021-11-25</releasedate>
+  <summary>1920*1080 Quality</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/63/36/11/1650635/53a6496259a4476b2b272557579bd7d8bedfe24cb9e0beaeb2678182b3bb3a486d70.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/63/36/11/1650635/53a6496259a4476b2b272557579bd7d8bedfe24cb9e0beaeb2678182b3bb3a486d70.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mzc4NDkwNzEiLCJvIjoiMSIsInMiOiI5MzU5NTQwYmIwMmMxYTczM2Y2MDhiN2NjYjYwN2RhYWFjYzU0YjZjYTRhY2M2MjhmNDFiOGZmNzI5MDkyYjZiYWJmODIxMWJkYTU4MWY5ZjJjZTQwM2EzZmQxMzgyYTdmYWVlMmM2YWY0ZDUzY2NjNjFmMWU1MDkyMjQ2NGU4OCIsInQiOjE2NzQ1NzUyOTksInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.9pVqvQBEWRi_7rbdLr_Jt_6R8g7ESGIIIZL0fFNeupI/fedora-linux_system_desktop_background_wallpaper Wallpaper_1920x1080[10wallpaper.com].jpg</payload>
+  <tags>artwork,abstract,cc0,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Perspective</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541308</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>90419</downloads>
+  <installedfile>/home/tommi/.local/share/wallpapers/ArchPerspective/*</installedfile>
+  <id>1541308</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>Perspective themed wallpaper for Arch Linux </summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541308/f61ca864b86d27a996dcc61a3cfa254e1814be94e78d37f6bcdf76f296bf8d72d74b.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541308/f61ca864b86d27a996dcc61a3cfa254e1814be94e78d37f6bcdf76f296bf8d72d74b.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzQzMTkiLCJvIjoiMSIsInMiOiI4MGE3MWRkY2Y1MDJmMWM4ZjczMTk3MmMyZjc0YmUwMTFmNmM1M2Q1ZjM4Mjg5MGZhNWM2MTlmMmU1ZDQ1ODUxNDlmMzFmYTliZmIxMGIxYWUwZGYyNGZjMmEwMDEyM2Y2MjYyOTcyZGU3YmQyMmM0YzA3NjE1NThmYzY3NDE1ZCIsInQiOjE2NzQ1NzUwODYsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.KAcgHSj9ikQC0MG0oHYOfBIHktDgApNmFhiwRpstd4g/ArchPerspective.tar.gz</payload>
+  <tags>wallpaper,theme,original-product,linux,arch,artwork,kde,gplv2-later</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Light</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1598039</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>50404</downloads>
+  <installedfile>/home/tommi/.local/share/wallpapers/ArchLight/*</installedfile>
+  <id>1598039</id>
+  <releasedate>2021-09-16</releasedate>
+  <summary>Arch logo wallpaper for Arch Light Theme</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1598039/accd27e99695f13d7084237f08b0238d9881c26c79ab0ce1fc5c31fafb384cd2aaff.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1598039/accd27e99695f13d7084237f08b0238d9881c26c79ab0ce1fc5c31fafb384cd2aaff.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzE4MTM3MTAiLCJvIjoiMSIsInMiOiIxN2NjYWQ2OTkwNjlkZjI5MmVkNTBlMDM1MDE5NWVkNTgxY2UyMGY5YzM5Zjc0NDM5YmY4ZDBhNThmNDU5MmQ1NjkzNzkxZTJmYjljMjdiNGY5ZjUyOWFhNDc3MGQ1N2I4MmU1NmM4ZmE0YWQ4Y2IyOTMxNGU2MDg5NWU3YjJjZCIsInQiOjE2NzQ1NzUwODgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.NR397A-yHbEBA3ET2jZ1vg7ZYZeGxuvAUNq-aQfov_Y/ArchLight.tar.gz</payload>
+  <tags>wallpaper,gplv3,kde,light,plasma,original-product,artwork,arch</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Minimal</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541309</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>131615</downloads>
+  <installedfile>/home/tommi/.local/share/wallpapers/Arch/*</installedfile>
+  <id>1541309</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>A minimal Arch Linux Wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541309/8675888c9d0c9cff2412c99ec1695877528eafc1182572d3e94345d3c014ae3ef166.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541309/8675888c9d0c9cff2412c99ec1695877528eafc1182572d3e94345d3c014ae3ef166.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzQ3ODIiLCJvIjoiMSIsInMiOiI0YzhiN2E3YTZmYmY1OGEwMjQxM2YxZjcwOTY5YTAxOWE2NzA3YjNjOWFiOTRhZDFkNzg2ZTk4MDYxZWUwNTAzMmE3MzQ5MWEzODcwMTVlZWE3OThkZDJhMzBlYTNjOGFlZGIwMTc4OWUyMzMxMjdhOTIzZDU4YTUzODNlZmVkYyIsInQiOjE2NzQ1NzUwNzgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.p4g0ocNnCefHsMLyit3BAG8xMAwhvn5_7fK99q4-5m0/Arch-20210708195131.tar.gz</payload>
+  <tags>gplv2-later,kde,original-product,theme,wallpaper,artwork,arch,linux,minimal</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Grass</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541302</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>135652</downloads>
+  <installedfile>/home/tommi/.local/share/wallpapers/ArchGrass/*</installedfile>
+  <id>1541302</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>A Simple Grass Icon Arch Wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541302/840b95d864d487cadf7cc4948ea798610cabc03859af59c7b6acd79609a4fdbd962e.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541302/840b95d864d487cadf7cc4948ea798610cabc03859af59c7b6acd79609a4fdbd962e.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzM3MDUiLCJvIjoiMSIsInMiOiI0NGRhZjZhZWVjODAyYzk4MWNhZTZiMmUxODE5MDQ4MjgxM2Y0ZDQ0NTY1YTQ0NzI2NGRiYTUxZGE4ODY5ZTA4ODk0NWU1NTBiNDk5Y2Y3OGQ5Y2ZkNTEzYjg1NjM5MDc5YzRiMjk3ZTFhODlhMWE2YTc4OWFiYjYwYmM3MjExMiIsInQiOjE2NzQ1NzUwODEsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.31UAw3vsjvm6Co4tlwyl8486UVMPJ1mH6hos_ierZCo/ArchGrass.tar.gz</payload>
+  <tags>arch,artwork,wallpaper,gplv2-later,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Green Liquid</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1757401</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>33250</downloads>
+  <installedfile>/home/tommi/.local/share/wallpapers/ArchGreenLiquid/*</installedfile>
+  <id>1757401</id>
+  <releasedate>2022-04-07</releasedate>
+  <summary>Arch Green Liquid Wallpaper for Fireflies Theme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1757401/1920x1080-1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1757401/1920x1080-1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkzMzExODkiLCJvIjoiMSIsInMiOiJlMDk1YzYxZGZmNTJlYzIyNzg0YmVjYjZlYjUwNDVhN2I3MjEyZTAwM2MxYmI2OWU3MjE4NjIxNjczYTFjNGFjOGNiZDg0NDI0ZGEwODJjMDBlZjQwNzgxNzQ0OTliZDg0ZDliOGMyMjRmZWI3MjdlNTc2YjkxZmQ5ODY2MzBiMyIsInQiOjE2NzQ1NzUwODMsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.sbMQ2A5nm57hApNWl4vEfwi3f7JCxgAZxBh-Jei9_-k/ArchGreenLiquid.tar.gz</payload>
+  <tags>gplv3,green,kde,wallpaper,artwork,arch,plasma,sweet</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Liquid</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541305</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>130872</downloads>
+  <installedfile>/home/tommi/.local/share/wallpapers/ArchLiquid/*</installedfile>
+  <id>1541305</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>A Liquid themed wallpaper for Arch Linux.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541305/81d1e361a784c8ea5cde873365ebe6a2ea80ef8ff08c3ab51e6734e2c1fb00255c10.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541305/81d1e361a784c8ea5cde873365ebe6a2ea80ef8ff08c3ab51e6734e2c1fb00255c10.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzQ0MjAiLCJvIjoiMSIsInMiOiJhNzk3Y2UyMzZkOTEwZjQyMTg1OGZmYjA2YzdjY2U5NzM0ODBjNzlkOGZmNjFiZDZlZWQxZWNjMjE0OTc4NDU5N2MzZjM4ZWQwZTEzNTM0MTRlM2UzY2FiZWE4OTgxNDUwMTkzYjkzNzg0MjNhOWE5YThiNDExNTk3NmI3ZTQwMiIsInQiOjE2NzQ1NzUwODAsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.8402MJpc0kkGsQI90OE8JNJCX3qRB6w73ncWrRo4uuM/ArchLiquid.tar.gz</payload>
+  <tags>arch,artwork,original-product,theme,wallpaper,gplv2-later,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
