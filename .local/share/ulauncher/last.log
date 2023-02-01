@@ -151,3 +151,34 @@
 2023-01-28 12:57:29,215 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
 2023-01-28 12:57:29,546 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application GitHub Desktop (3.1.1-linux1) (/home/tommi/.local/share/applications/appimagekit_383fe3d02587a5b9e775e88e5a3b8ab4-GitHub_Desktop.desktop) Exec ['/home/tommi/Applications/GitHubDesktop-linux-3.1.1-linux1_e9bec7a83b86c3eb0fb2993e19e990a2.AppImage', '--no-sandbox']
 2023-01-28 12:57:29,555 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-01-28 13:04:40,867 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-01-28 13:04:40,867 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-01-28 13:04:40,871 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-01-28 13:04:43,244 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application System Settings (/usr/share/applications/systemsettings.desktop) Exec ['systemsettings']
+2023-01-28 13:07:42,908 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-01-28 13:07:42,908 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-01-28 13:07:42,923 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-01-28 13:07:43,325 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
+2023-01-28 13:07:43,489 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-01-28 13:07:43,579 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-01-28 13:07:43,802 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
+2023-01-28 13:07:44,427 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application GitHub Desktop (3.1.1-linux1) (/home/tommi/.local/share/applications/appimagekit_383fe3d02587a5b9e775e88e5a3b8ab4-GitHub_Desktop.desktop) Exec ['/home/tommi/Applications/GitHubDesktop-linux-3.1.1-linux1_e9bec7a83b86c3eb0fb2993e19e990a2.AppImage', '--no-sandbox']
+2023-01-28 13:07:44,459 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-01-28 13:36:45,948 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-01-28 13:36:45,948 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-01-28 13:36:45,953 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-01-28 13:36:46,350 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
+2023-01-28 13:36:46,480 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-01-28 13:36:46,590 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-01-28 13:36:46,777 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
+2023-01-28 13:36:47,170 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application GitHub Desktop (3.1.1-linux1) (/home/tommi/.local/share/applications/appimagekit_383fe3d02587a5b9e775e88e5a3b8ab4-GitHub_Desktop.desktop) Exec ['/home/tommi/Applications/GitHubDesktop-linux-3.1.1-linux1_e9bec7a83b86c3eb0fb2993e19e990a2.AppImage', '--no-sandbox']
+2023-01-28 13:36:47,177 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-01-28 13:41:04,135 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-01-28 13:41:04,135 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-01-28 13:41:04,140 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-01-28 13:41:04,566 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
+2023-01-28 13:41:04,715 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-01-28 13:41:04,811 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-01-28 13:41:05,014 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
+2023-01-28 13:41:05,438 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application GitHub Desktop (3.1.1-linux1) (/home/tommi/.local/share/applications/appimagekit_383fe3d02587a5b9e775e88e5a3b8ab4-GitHub_Desktop.desktop) Exec ['/home/tommi/Applications/GitHubDesktop-linux-3.1.1-linux1_e9bec7a83b86c3eb0fb2993e19e990a2.AppImage', '--no-sandbox']
+2023-01-28 13:41:05,445 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results

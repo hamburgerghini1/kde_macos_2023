@@ -723,7 +723,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230128_125332.png" added="2023-01-28T10:53:37.279000Z" modified="2023-01-28T10:55:16.928821Z" visited="2023-01-28T10:53:39.051000Z">
+  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230128_125332.png" added="2023-01-28T10:53:37.279000Z" modified="2023-01-28T11:25:10.500456Z" visited="2023-01-28T10:53:39.051000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -733,18 +733,38 @@
         <bookmark:applications>
           <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-28T10:53:37.389000Z" count="2"/>
           <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-28T10:53:39.051000Z" count="1"/>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T10:54:33.095595Z" count="1"/>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T11:25:10.500430Z" count="2"/>
           <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-28T10:55:16.928815Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Documents/GitHub/kde_macos_2023" added="2023-01-28T10:57:52.922000Z" modified="2023-01-28T10:57:52.922000Z" visited="2023-01-28T10:57:52.922000Z">
+  <bookmark href="file:///home/tommi/Documents/GitHub/kde_macos_2023" added="2023-01-28T10:57:52.922000Z" modified="2023-01-28T11:42:24.364000Z" visited="2023-01-28T11:42:24.364000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-01-28T10:57:52.922000Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2023-01-28T11:42:24.364000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/WhiteSur-firefox-theme-2021-08-17(1).zip" added="2023-01-28T11:16:21.647835Z" modified="2023-01-28T11:16:21.647839Z" visited="2023-01-28T11:16:21.647836Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T11:16:21.647837Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Documents/GitHub/kde_macos_2023/.local/share" added="2023-01-28T11:39:17.028000Z" modified="2023-01-28T11:39:17.028000Z" visited="2023-01-28T11:39:17.028000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2023-01-28T11:39:17.028000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -1,0 +1,312 @@
+"Registry"
+{
+	"HKLM"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"SteamPID"		"0"
+					"TempAppCmdLine"		""
+					"ReLaunchCmdLine"		""
+					"ClientLauncherType"		"0"
+				}
+			}
+		}
+	}
+	"HKCU"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"RunningAppID"		"0"
+					"steamglobal"
+					{
+						"language"		"english"
+					}
+					"language"		"english"
+					"SourceModInstallPath"		"/home/tommi/.local/share/Steam/steamapps\\sourcemods"
+					"AutoLoginUser"		"pussydestroyer66629"
+					"Rate"		"30000"
+					"AlreadyRetriedOfflineMode"		"0"
+					"apps"
+					{
+						"1151340"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1172470"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1174180"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Red Dead Redemption 2"
+						}
+						"12210"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1551360"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Forza Horizon 5"
+						}
+						"1588010"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1846380"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Need for Speed™ Unbound"
+						}
+						"205100"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"2221490"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Tom Clancy's The Division 2"
+						}
+						"227300"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Euro Truck Simulator 2"
+						}
+						"243470"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"360430"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Mafia III: Definitive Edition"
+						}
+						"730"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"752590"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"A Plague Tale: Innocence"
+						}
+						"760160"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"228980"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1493710"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1391110"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"241100"
+						{
+							"Updating"		"0"
+						}
+						"1613280"
+						{
+							"Installed"		"1"
+						}
+						"1091500"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+						}
+						"1236300"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+						}
+						"518790"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+						}
+						"1552810"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"Twin Mirror"
+						}
+						"474960"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"637650"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"292120"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"460790"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"name"		"Bayonetta"
+							"Running"		"0"
+						}
+						"1826330"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1546990"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1659420"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"UNCHARTED™: Legacy of Thieves Collection"
+						}
+						"1341820"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+							"name"		"As Dusk Falls"
+							"Running"		"0"
+						}
+						"1182480"
+						{
+							"name"		"EALink"
+						}
+						"1763020"
+						{
+							"Installed"		"0"
+						}
+						"2230260"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1817230"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"name"		"Hi-Fi RUSH"
+							"Running"		"0"
+						}
+						"1466640"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"name"		"Road 96"
+							"Running"		"0"
+						}
+						"1665280"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"name"		"Skábma™ - Snowfall"
+							"Running"		"0"
+						}
+						"287700"
+						{
+							"Installed"		"0"
+							"Updating"		"0"
+						}
+						"17410"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"206420"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"939850"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"1693980"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"name"		" Dead Space"
+							"Running"		"0"
+						}
+						"2180100"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+					}
+					"StartupMode"		"0"
+				}
+			}
+		}
+	}
+}

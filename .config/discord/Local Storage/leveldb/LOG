@@ -1,6 +1,0 @@
-2023/01/28-12:10:05.721 e58 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/01/28-12:10:05.722 e58 Recovering log #289
-2023/01/28-12:10:05.722 e58 Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000289.log 
-2023/01/28-12:11:06.145 e57 Level-0 table #293: started
-2023/01/28-12:11:06.146 e57 Level-0 table #293: 13631 bytes OK
-2023/01/28-12:11:06.147 e57 Delete type=0 #289

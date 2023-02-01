@@ -28,11 +28,11 @@ _k_friendly_name=Custom Shortcuts Service
 [kmix]
 _k_friendly_name=Audio Volume
 decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Decrease Microphone Volume
-decrease_volume=Volume Down,Volume Down,Decrease Volume
+decrease_volume=F10\tVolume Down,Volume Down,Decrease Volume
 increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Increase Microphone Volume
-increase_volume=Volume Up,Volume Up,Increase Volume
+increase_volume=Volume Up\tF11,Volume Up,Increase Volume
 mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Mute Microphone
-mute=Volume Mute,Volume Mute,Mute
+mute=F9\tVolume Mute,Volume Mute,Mute
 
 [ksmserver]
 Halt Without Confirmation=none,,Halt Without Confirmation
@@ -195,11 +195,11 @@ view_zoom_out=Meta+-,Meta+-,Zoom Out
 _k_friendly_name=Media Controller
 mediavolumedown=none,,Media volume down
 mediavolumeup=none,,Media volume up
-nextmedia=Media Next,Media Next,Media playback next
+nextmedia=F8\tMedia Next,Media Next,Media playback next
 pausemedia=Media Pause,Media Pause,Pause media playback
 playmedia=none,,Play media playback
-playpausemedia=Media Play,Media Play,Play/Pause media playback
-previousmedia=Media Previous,Media Previous,Media playback previous
+playpausemedia=Media Play\tF7,Media Play,Play/Pause media playback
+previousmedia=F6\tMedia Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback
 
 [org.kde.dolphin.desktop]

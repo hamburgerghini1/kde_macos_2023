@@ -72,3 +72,69 @@ Error: EISDIR: illegal operation on a directory, read
 2023-01-28T10:57:43.373Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/kde_macos_2023.git - hamburgerghini1 (has token)
 2023-01-28T10:57:44.054Z - info: [ui] [AppStore] adding repository at /home/tommi/Documents/GitHub/kde_macos_2023 to store
 2023-01-28T10:57:44.174Z - info: [ui] [BranchPruner] Last prune took place 1 hour ago - skipping
+2023-01-28T11:02:22.918Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 4.586s
+2023-01-28T11:03:45.137Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 49.455s)
+2023-01-28T11:03:47.434Z - info: [ui] Executing createCommit: git commit -F - (took 2.291s)
+2023-01-28T11:03:47.611Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 54.221s
+2023-01-28T11:03:47.628Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-01-28T11:04:01.632Z - info: [ui] Executing getChangesFiles: git log 0b2d0f70daf563b579e442ac646acfaaaed31a2a -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 13.772s)
+2023-01-28T11:04:20.845Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-01-28T11:05:55.869Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 95.015s)
+2023-01-28T11:07:39.246Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-01-28T11:07:46.580Z - info: [ui] [AppStore] loading 4 repositories from store
+2023-01-28T11:07:46.584Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-01-28T11:07:46.632Z - info: [ui] [BranchPruner] Last prune took place 10 minutes ago - skipping
+2023-01-28T11:07:46.700Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.4-203.fsync.fc37.x86_64)
+2023-01-28T11:07:46.701Z - info: [ui] execPath: '/tmp/.mount_GitHubYS3HGX/github-desktop'
+2023-01-28T11:07:46.829Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-01-28T11:07:47.190Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-01-28T11:36:49.367Z - info: [ui] [AppStore] loading 4 repositories from store
+2023-01-28T11:36:49.370Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-01-28T11:36:49.417Z - info: [ui] [BranchPruner] Last prune took place 39 minutes ago - skipping
+2023-01-28T11:36:49.487Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.4-203.fsync.fc37.x86_64)
+2023-01-28T11:36:49.487Z - info: [ui] execPath: '/tmp/.mount_GitHubjca6i4/github-desktop'
+2023-01-28T11:36:49.654Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-01-28T11:36:49.962Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-01-28T11:36:52.069Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-01-28T11:36:53.706Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-01-28T11:37:04.311Z - info: [ui] Executing getChangesFiles: git log 0b2d0f70daf563b579e442ac646acfaaaed31a2a -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 14.653s)
+2023-01-28T11:40:07.555Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 3 repositories took 0.8s of which 0.0s paused, total 0.8s
+2023-01-28T11:40:08.612Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-01-28T11:40:17.946Z - error: [ui] 'git status' emitted 24929150 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-01-28T11:40:18.010Z - error: [ui] 'git status' emitted 24929150 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-01-28T11:40:19.382Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/kde_macos_2023.git - hamburgerghini1 (has token)
+2023-01-28T11:40:19.411Z - error: [ui] `git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/kde_macos_2023.git /home/tommi/Documents/GitHub/kde_macos_2023` exited with an unexpected code: 128.
+stderr:
+fatal: destination path '/home/tommi/Documents/GitHub/kde_macos_2023' already exists and is not an empty directory.
+
+2023-01-28T11:40:23.010Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/kde_macos_2023.git - hamburgerghini1 (has token)
+2023-01-28T11:40:23.034Z - error: [ui] `git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/kde_macos_2023.git /home/tommi/Documents/GitHub/kde_macos_2023` exited with an unexpected code: 128.
+stderr:
+fatal: destination path '/home/tommi/Documents/GitHub/kde_macos_2023' already exists and is not an empty directory.
+
+2023-01-28T11:40:23.557Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/kde_macos_2023.git - hamburgerghini1 (has token)
+2023-01-28T11:40:23.580Z - error: [ui] `git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/kde_macos_2023.git /home/tommi/Documents/GitHub/kde_macos_2023` exited with an unexpected code: 128.
+stderr:
+fatal: destination path '/home/tommi/Documents/GitHub/kde_macos_2023' already exists and is not an empty directory.
+
+2023-01-28T11:40:25.287Z - error: [ui] 'git status' emitted 24929150 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-01-28T11:40:26.526Z - error: [ui] 'git status' emitted 24929150 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-01-28T11:41:07.594Z - info: [ui] [AppStore] loading 4 repositories from store
+2023-01-28T11:41:07.596Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-01-28T11:41:07.657Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.4-203.fsync.fc37.x86_64)
+2023-01-28T11:41:07.657Z - info: [ui] execPath: '/tmp/.mount_GitHub0p85Im/github-desktop'
+2023-01-28T11:41:08.161Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-01-28T11:41:11.130Z - info: [ui] [BranchPruner] Last prune took place 2 hours ago - skipping
+2023-01-28T11:41:13.365Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.4s of which 0.0s paused, total 0.4s
+2023-01-28T11:41:14.852Z - error: [ui] 'git status' emitted 24929150 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-01-28T11:41:14.934Z - error: [ui] 'git status' emitted 24929150 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-01-28T11:41:28.289Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/kde_macos_2023.git - hamburgerghini1 (has token)
+2023-01-28T11:42:11.312Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/kde_macos_2023.git /home/tommi/Documents/GitHub/kde_macos_2023 (took 43.022s)
+2023-01-28T11:42:11.319Z - info: [ui] [AppStore] adding repository at /home/tommi/Documents/GitHub/kde_macos_2023 to store
+2023-01-28T11:42:11.420Z - info: [ui] [BranchPruner] Last prune took place 2 hours ago - skipping
+2023-01-28T11:42:11.594Z - info: [ui] [BranchPruner] Last prune took place 44 minutes ago - skipping
+2023-01-28T11:42:24.593Z - info: [ui] Executing getChangesFiles: git log 0b2d0f70daf563b579e442ac646acfaaaed31a2a -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 12.599s)

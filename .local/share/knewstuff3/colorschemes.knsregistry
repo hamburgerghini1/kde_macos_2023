@@ -43,4 +43,26 @@ Install these before using the current colorscheme</summary>
   <tags>kde,gplv3,colorscheme,theme,sweet,unix,plasma,arch,linux</tags>
   <status>installed</status>
  </stuff>
+ <stuff category="112">
+  <name>WhiteSur Color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398831</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>102197</downloads>
+  <installedfile>/home/tommi/.local/share/color-schemes/WhiteSurDark.colors</installedfile>
+  <installedfile>/home/tommi/.local/share/color-schemes/WhiteSur.colors</installedfile>
+  <installedfile>/home/tommi/.local/share/color-schemes/WhiteSurAlt.colors</installedfile>
+  <id>1398831</id>
+  <releasedate>2022-02-11</releasedate>
+  <summary>MacOS big sur theme for kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1398831/129887a42b22bb843754c81631903b901c02.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1398831/129887a42b22bb843754c81631903b901c02.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQ1OTA4OTEiLCJvIjoiMSIsInMiOiJkOTQwNjUyNTE2OWViNWZlNjM2YjEzZjA1YmIzZWJjZjQ2NjM5ZjY1NzFkZTFhY2JjZDhmOTRlODZlZGZmMjA2ZDZlZjU4ZDRjMjY5MGRhMDA0MTJhYTViNmVlMWY1MTE4N2M3ZmIxZDk5MjI4NDU3NjZjNGVjMzVhMjkxNWVmZiIsInQiOjE2NzQ5MDkzNjIsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.GqWCL88Nk34e-S3-2U4GsPC6Bi7rXTquyPiPg0oW06o/WhiteSur.tar.gz</payload>
+  <tags>theme,original-product,plasma,unix,gplv3,colorscheme,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
 </hotnewstuffregistry>
