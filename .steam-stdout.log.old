@@ -1,0 +1,2866 @@
+steam.sh[2185]: Running Steam on nobara 37 64-bit
+steam.sh[2185]: STEAM_RUNTIME is enabled automatically
+setup.sh[2267]: Steam runtime environment up-to-date!
+steam.sh[2185]: Steam client's requirements are satisfied
+[2023-02-03 16:23:54] Startup - updater built Feb  3 2023 03:45:42
+[2023-02-03 16:23:54] Startup - Steam Client launched with: '/home/tommi/.local/share/Steam/ubuntu12_32/steam' '-gamepadui' '-newbigpicture' '-steamdeck' '-steamos3'
+[2023-02-03 16:23:54] Opted in to client beta 'publicbeta' via beta file
+You are in the 'publicbeta' client beta.
+[2023-02-03 16:23:54] Defaulting to Steam Deck stable branch
+[2023-02-03 16:23:54] Checking for update on startup
+[2023-02-03 16:23:54] Error: HTTP client not initialized
+[2023-02-03 16:23:54] Error: Failed to determine download location for universe 1
+[2023-02-03 16:23:54] Verifying installation...
+[2023-02-03 16:23:54] Performing checksum verification of executable files
+[2023-02-03 16:23:54] Unable to read and verify install manifest /home/tommi/.local/share/Steam/package/steam_client_steamdeck_stable_ubuntu12.installed
+[2023-02-03 16:23:54] Verification complete
+[2023-02-03 16:23:54] Downloading update...
+[2023-02-03 16:23:54] Error: HTTP client not initialized
+[2023-02-03 16:23:54] Error: Steam needs to be online to update. Please confirm your network connection and try again.
+[2023-02-03 16:23:54] Background update loop checking for update. . .
+[2023-02-03 16:23:54] Error: HTTP client not initialized
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[2023-02-03 16:23:54] Loading cached metrics from disk (/home/tommi/.local/share/Steam/package/steam_client_metrics.bin)
+[2023-02-03 16:23:54] Using the following download hosts for Public, Realm steamglobal
+[2023-02-03 16:23:54] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-02-03 16:23:54] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-02-03 16:23:54] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+src/tier0/threadtools.cpp (3696) : Tried to create a thread that has already been created!
+assert_20230203162354_5.dmp[2358]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20230203162354_5.dmp
+Loaded SDL version 3.0.0-765-gc4db0725e
+GetWin32Stats: display was not open yet, good
+ComputeStartupMode: forcing gamepadui via clisteamwebhelper.sh[2368]: Runtime for steamwebhelper: defaulting to /home/tommi/.local/share/Steam/ubuntu12_64/steam-runtime-heavy
+steamwebhelper.sh[2368]: glibc >= 2.34, partially disabling sandbox until CEF supports clone3()
+steamwebhelper.sh[2368]: CEF sandbox already disabled
+WARNING: using plain als gain get
+sudo: a password is required
+CAppInfoCacheReadFromDiskThread took 93 milliseconds to initialize
+privileged write polkit:auto -> /sys/class/drm/card0/device/power_dpm_force_performance_level
+Error: BWriteValueToFileAsUser: steamos-priv-write failed /sys/class/drm/card0/device/power_dpm_force_performance_level: auto
+privileged write: auto -> /sys/class/drm/card0/device/power_dpm_force_performance_level
+Error: BWriteValuetoFileAsRoot: failed to write to /sys/class/drm/card0/device/power_dpm_force_performance_level: auto
+privileged write polkit:auto -> /sys/class/drm/card0/device/power_dpm_force_performance_level
+Error: BWriteValueToFileAsUser: steamos-priv-write failed /sys/class/drm/card0/device/power_dpm_force_performance_level: auto
+privileged write: auto -> /sys/class/drm/card0/device/power_dpm_force_performance_level
+Error: BWriteValuetoFileAsRoot: failed to write to /sys/class/drm/card0/device/power_dpm_force_performance_level: auto
+privileged write polkit:15000000 -> /sys/class/hwmon/hwmon3/power1_cap
+Error: BWriteValueToFileAsUser: steamos-priv-write failed /sys/class/hwmon/hwmon3/power1_cap: 15000000
+privileged write: 15000000 -> /sys/class/hwmon/hwmon3/power1_cap
+Error: BWriteValuetoFileAsRoot: failed to write to /sys/class/hwmon/hwmon3/power1_cap: 15000000
+Failed to unload module: Module module-echo-cancel not loaded
+536870913
+Failed to init SteamVR because it isn't installed
+src/tier0/threadtools.cpp (3696) : Tried to create a thread that has already been created!
+XRRGetOutputInfo Workaround: initialized with override: 1 real: 0xebf670d0
+XRRGetCrtcInfo Workaround: initialized with override: 1 real: 0xebf65840
+src/clientdll/user.cpp (8138) : Calling GetUserConfigFolder before we know our SteamID
+src/clientdll/user.cpp (8138) : Calling GetUserConfigFolder before we know our SteamID
+assert_20230203162355_29.dmp[2627]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20230203162355_29.dmp
+assert_20230203162354_5.dmp[2358]: Finished uploading minidump (out-of-process): success = yes
+assert_20230203162354_5.dmp[2358]: response: CrashID=bp-22824538-7cc3-42fb-b8b9-5f1c82230203
+assert_20230203162354_5.dmp[2358]: file ''/tmp/dumps/assert_20230203162354_5.dmp'', upload yes: ''CrashID=bp-22824538-7cc3-42fb-b8b9-5f1c82230203''
+sh: line 1: lsb_release: command not found
+GetWin32Stats: restoring previous glx context
+sh: line 1: lsb_release: command not found
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+assert_20230203162355_29.dmp[2627]: Finished uploading minidump (out-of-process): success = yes
+assert_20230203162355_29.dmp[2627]: response: CrashID=bp-2241c51d-5996-4666-8a30-7db9a2230203
+assert_20230203162355_29.dmp[2627]: file ''/tmp/dumps/assert_20230203162355_29.dmp'', upload yes: ''CrashID=bp-2241c51d-5996-4666-8a30-7db9a2230203''
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+sh: line 1: /usr/bin/steamos-polkit-helpers/jupiter-dock-updater: No such file or directory
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+WARNING: using plain set-timezone
+ERROR: SetTimezone: failed to set timezone
+JSSetTimeZone: system() failed, errno 2
+
+(steam:2348): GLib-CRITICAL **: 16:24:26.205: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:24:26.206: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:24:27.213: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:24:27.214: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+steamos-update: using duplicate detection: 0
+
+(steam:2348): Gtk-WARNING **: 16:24:28.639: gtk_disable_setlocale() must be called before gtk_init()
+local (potentially out of sync) copy of roaming config loaded - 7381 bytes.
+roaming config store loaded successfully - 7381 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 1ms
+CDesktopCapturePipeWire: Opening DRM render node /dev/dri/renderD128
+CDesktopCapturePipeWire: setting stream node ID: 58
+ExecCommandLine: "'/home/tommi/.local/share/Steam/ubuntu12_32/steam' '-gamepadui' '-newbigpicture' '-steamdeck' '-steamos3'"
+System startup time: 36.10 seconds
+BuildCompleteAppOverviewChange: 590 apps
+
+(steam:2348): Gtk-WARNING **: 16:24:31.063: gtk_disable_setlocale() must be called before gtk_init()
+RegisterForAppOverview 1: 8ms
+RegisterForAppOverview 2: 8ms
+sh: line 1: steamos-select-branch: command not found
+sh: line 1: steamos-select-branch: command not found
+sh: line 1: steamos-select-branch: command not found
+sh: line 1: steamos-select-branch: command not found
+
+** (steam:2348): WARNING **: 16:24:55.966: Error setting property `Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Busy:  (g-io-error-quark, 36)
+Local Device Found
+  type: 045e 028e
+  path: sdl://1
+  serial_number:  - 0
+  Manufacturer: 
+  Product:      Xbox 360 Controller
+  Release:      1130
+  Interface:    -1
+
+!! Steam controller device opened for index 0.
+No cached sticky mapping in DeactivateActionSetLayer.sh: line 1: steamos-select-branch: command not found
+sh: line 1: steamos-select-branch: command not found
+
+(steam:2348): GLib-CRITICAL **: 16:25:34.840: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:25:34.840: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:25:37.674: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:25:37.674: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+sh: line 1: steamos-select-branch: command not found
+sh: line 1: steamos-select-branch: command not found
+
+(steam:2348): GLib-CRITICAL **: 16:25:45.844: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:25:45.844: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:25:51.915: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:25:51.915: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+sh: line 1: steamos-select-branch: command not found
+sh: line 1: steamos-select-branch: command not found
+sh: line 1: steamos-select-branch: command not found
+sh: line 1: steamos-select-branch: command not found
+
+(steam:2348): GLib-CRITICAL **: 16:25:55.169: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:25:55.169: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+[2023-02-03 16:25:55] Background update loop checking for update. . .
+[2023-02-03 16:25:55] Checking for available updates...
+[2023-02-03 16:25:55] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_client_steamdeck_stable_ubuntu12
+[2023-02-03 16:25:55] Manifest download: send request
+[2023-02-03 16:25:55] Manifest download: waiting for download to finish
+[2023-02-03 16:25:56] Manifest download: finished
+[2023-02-03 16:25:56] Downloaded new manifest: /steam_client_steamdeck_stable_ubuntu12 version 1675222473, installed version 0, existing pending version 0
+[2023-02-03 16:25:56] Package file steamui_websrc_all.zip.vz.b0737bee283d79adb878a88d1b07d52b653a1972_21142187 missing or incorrect size
+[2023-02-03 16:25:56] Package file bins_ubuntu12.zip.vz.163fc8cbef156fb0260fca985b8751a35fe3f124_30866554 missing or incorrect size
+[2023-02-03 16:25:56] Package file bins_pub_ubuntu12.zip.vz.59ab9260ecdabb28f6be4d18b3f24aa609458103_9035582 missing or incorrect size
+[2023-02-03 16:25:56] Package file bins_sdk_ubuntu12.zip.vz.ae104fdd5bc3b12029be62e779d6bcccd00b8261_18841306 missing or incorrect size
+[2023-02-03 16:25:56] Package file bins_misc_ubuntu12.zip.vz.ed910b4582f98dea2a694417654056c69364998b_17778980 missing or incorrect size
+[2023-02-03 16:25:56] Package file steam_ubuntu12.zip.vz.b1660098284ed7acd57eac92b061e4be2c0d4958_2367655 missing or incorrect size
+[2023-02-03 16:25:56] Add pending download: https://client-update.akamai.steamstatic.com/steamui_websrc_all.zip.vz.b0737bee283d79adb878a88d1b07d52b653a1972_21142187
+[2023-02-03 16:25:56] Manifest download: send request
+[2023-02-03 16:25:56] Add pending download: https://client-update.akamai.steamstatic.com/bins_ubuntu12.zip.vz.163fc8cbef156fb0260fca985b8751a35fe3f124_30866554
+[2023-02-03 16:25:56] Manifest download: send request
+[2023-02-03 16:25:56] Add pending download: https://client-update.akamai.steamstatic.com/bins_pub_ubuntu12.zip.vz.59ab9260ecdabb28f6be4d18b3f24aa609458103_9035582
+[2023-02-03 16:25:56] Manifest download: send request
+[2023-02-03 16:25:56] Add pending download: https://client-update.akamai.steamstatic.com/bins_sdk_ubuntu12.zip.vz.ae104fdd5bc3b12029be62e779d6bcccd00b8261_18841306
+[2023-02-03 16:25:56] Manifest download: send request
+[2023-02-03 16:25:56] Add pending download: https://client-update.akamai.steamstatic.com/bins_misc_ubuntu12.zip.vz.ed910b4582f98dea2a694417654056c69364998b_17778980
+[2023-02-03 16:25:56] Manifest download: send request
+[2023-02-03 16:25:56] Add pending download: https://client-update.akamai.steamstatic.com/steam_ubuntu12.zip.vz.b1660098284ed7acd57eac92b061e4be2c0d4958_2367655
+[2023-02-03 16:25:56] Manifest download: send request
+[2023-02-03 16:25:56] Downloading update (471 of 97,687 KB)...
+[2023-02-03 16:25:56] Downloading update (1,178 of 97,687 KB)...
+[2023-02-03 16:25:56] Downloading update (3,514 of 97,687 KB)...
+[2023-02-03 16:25:57] Downloading update (5,789 of 97,687 KB)...
+[2023-02-03 16:25:57] Downloading update (8,019 of 97,687 KB)...
+[2023-02-03 16:25:57] Downloading update (10,123 of 97,687 KB)...
+[2023-02-03 16:25:57] Downloading update (12,366 of 97,687 KB)...
+[2023-02-03 16:25:58] Downloading update (14,780 of 97,687 KB)...
+[2023-02-03 16:25:58] Downloading update (16,406 of 97,687 KB)...
+[2023-02-03 16:25:58] Downloading update (18,522 of 97,687 KB)...
+[2023-02-03 16:25:58] Downloading update (20,394 of 97,687 KB)...
+[2023-02-03 16:25:59] Downloading update (22,470 of 97,687 KB)...
+[2023-02-03 16:25:59] Downloading update (24,502 of 97,687 KB)...
+[2023-02-03 16:25:59] Downloading update (26,506 of 97,687 KB)...
+[2023-02-03 16:25:59] Downloading update (28,393 of 97,687 KB)...
+[2023-02-03 16:26:00] Downloading update (30,189 of 97,687 KB)...
+[2023-02-03 16:26:00] Downloading update (32,141 of 97,687 KB)...
+[2023-02-03 16:26:00] Downloading update (33,772 of 97,687 KB)...
+[2023-02-03 16:26:00] Downloading update (35,764 of 97,687 KB)...
+[2023-02-03 16:26:01] Downloading update (37,919 of 97,687 KB)...
+[2023-02-03 16:26:01] Downloading update (39,745 of 97,687 KB)...
+[2023-02-03 16:26:01] 
+(steam:2348): GLib-CRITICAL **: 16:26:06.295: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:26:06.295: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:26:07.316: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:2348): GLib-CRITICAL **: 16:26:07.316: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+sh: line 1: steamos-select-branch: command not found
+sh: line 1: steamos-select-branch: command not found
+Downloading update (42,003 of 97,687 KB)...
+[2023-02-03 16:26:01] Downloading update (43,809 of 97,687 KB)...
+[2023-02-03 16:26:02] Downloading update (45,646 of 97,687 KB)...
+[2023-02-03 16:26:02] Downloading update (47,869 of 97,687 KB)...
+[2023-02-03 16:26:02] Downloading update (50,012 of 97,687 KB)...
+[2023-02-03 16:26:02] Downloading update (52,060 of 97,687 KB)...
+[2023-02-03 16:26:03] Downloading update (54,160 of 97,687 KB)...
+[2023-02-03 16:26:03] Downloading update (56,287 of 97,687 KB)...
+[2023-02-03 16:26:03] Downloading update (57,985 of 97,687 KB)...
+[2023-02-03 16:26:03] Downloading update (60,079 of 97,687 KB)...
+[2023-02-03 16:26:04] Downloading update (62,531 of 97,687 KB)...
+[2023-02-03 16:26:04] Downloading update (64,563 of 97,687 KB)...
+[2023-02-03 16:26:04] Downloading update (66,682 of 97,687 KB)...
+[2023-02-03 16:26:04] Downloading update (68,786 of 97,687 KB)...
+[2023-02-03 16:26:05] Downloading update (70,444 of 97,687 KB)...
+[2023-02-03 16:26:05] Downloading update (72,266 of 97,687 KB)...
+[2023-02-03 16:26:05] Downloading update (74,103 of 97,687 KB)...
+[2023-02-03 16:26:05] Downloading update (76,123 of 97,687 KB)...
+[2023-02-03 16:26:06] Downloading update (78,306 of 97,687 KB)...
+[2023-02-03 16:26:06] Downloading update (80,270 of 97,687 KB)...
+[2023-02-03 16:26:06] Downloading update (81,829 of 97,687 KB)...
+[2023-02-03 16:26:07] Downloading update (84,473 of 97,687 KB)...
+[2023-02-03 16:26:07] Downloading update (85,861 of 97,687 KB)...
+[2023-02-03 16:26:07] Downloading update (86,712 of 97,687 KB)...
+[2023-02-03 16:26:07] Downloading update (87,889 of 97,687 KB)...
+[2023-02-03 16:26:08] Downloading update (89,810 of 97,687 KB)...
+[2023-02-03 16:26:08] Downloading update (91,231 of 97,687 KB)...
+[2023-02-03 16:26:08] Downloading update (91,888 of 97,687 KB)...
+[2023-02-03 16:26:08] Downloading update (92,528 of 97,687 KB)...
+[2023-02-03 16:26:09] Downloading update (93,200 of 97,687 KB)...
+[2023-02-03 16:26:09] Downloading update (93,919 of 97,687 KB)...
+[2023-02-03 16:26:09] Downloading update (94,683 of 97,687 KB)...
+[2023-02-03 16:26:09] Downloading update (95,299 of 97,687 KB)...
+[2023-02-03 16:26:10] Downloading update (96,019 of 97,687 KB)...
+[2023-02-03 16:26:10] Downloading update (96,743 of 97,687 KB)...
+[2023-02-03 16:26:10] Downloading update (97,479 of 97,687 KB)...
+[2023-02-03 16:26:10] Downloading update (97,687 of 97,687 KB)...
+[2023-02-03 16:26:10] Download complete.
+[2023-02-03 16:26:10] Saving metrics to disk (/home/tommi/.local/share/Steam/package/steam_client_metrics.bin)
+src/common/completionportmanager_posix.cpp (358) : Assertion Failed: Async I/O on closed handle 98
+src/common/completionportmanager_posix.cpp (358) : Assertion Failed: Async I/O on closed handle 98
+assert_20230203162623_100.dmp[5272]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20230203162623_100.dmp
+src/common/completionportmanager_posix.cpp (358) : Assertion Failed: Async I/O on closed handle 72
+src/common/completionportmanager_posix.cpp (358) : Assertion Failed: Async I/O on closed handle 72
+src/common/completionportmanager_posix.cpp (358) : Assertion Failed: Async I/O on closed handle 102
+src/common/completionportmanager_posix.cpp (358) : Assertion Failed: Async I/O on closed handle 102
+
+(steam:2348): GLib-GObject-CRITICAL **: 16:26:24.585: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(steam:2348): GLib-GObject-CRITICAL **: 16:26:24.636: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+assert_20230203162623_100.dmp[5272]: Finished uploading minidump (out-of-process): success = yes
+assert_20230203162623_100.dmp[5272]: response: CrashID=bp-a056b8fe-04a7-4df5-a04b-934e22230203
+assert_20230203162623_100.dmp[5272]: file ''/tmp/dumps/assert_20230203162623_100.dmp'', upload yes: ''CrashID=bp-a056b8fe-04a7-4df5-a04b-934e22230203''
+[2023-02-03 16:26:24] Shutdown
+steam.sh[2185]: Restarting Steam by request...
+steam.sh[2185]: Running Steam on nobara 37 64-bit
+steam.sh[2185]: STEAM_RUNTIME has been set by the user to: /home/tommi/.local/share/Steam/ubuntu12_32/steam-runtime
+setup.sh[5331]: Steam runtime environment up-to-date!
+steam.sh[2185]: Steam client's requirements are satisfied
+[2023-02-03 16:26:25] Startup - updater built Feb  3 2023 03:45:42
+[2023-02-03 16:26:25] Startup - Steam Client launched with: '/home/tommi/.local/share/Steam/ubuntu12_32/steam' '-gamepadui' '-newbigpicture' '-steamdeck' '-steamos3'
+[2023-02-03 16:26:25] Opted in to client beta 'steamdeck_stable' via beta file
+You are in the 'steamdeck_stable' client beta.
+[2023-02-03 16:26:25] Loading cached metrics from disk (/home/tommi/.local/share/Steam/package/steam_client_metrics.bin)
+[2023-02-03 16:26:25] Using the following download hosts for Public, Realm steamglobal
+[2023-02-03 16:26:25] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-02-03 16:26:25] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-02-03 16:26:25] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-02-03 16:26:25] uninstalled manifest found in /home/tommi/.local/share/Steam/package/steam_client_steamdeck_stable_ubuntu12 (1).
+[2023-02-03 16:26:25] Found pending update
+[2023-02-03 16:26:25] Installing update...
+[2023-02-03 16:26:25] Extracting package...
+[2023-02-03 16:26:32] Installing update...
+[2023-02-03 16:26:38] Cleaning up...
+[2023-02-03 16:26:38] Update complete, launching Steam...
+[2023-02-03 16:26:38] Shutdown
+steam.sh[2185]: Restarting Steam by request...
+steam.sh[2185]: Running Steam on nobara 37 64-bit
+steam.sh[2185]: STEAM_RUNTIME has been set by the user to: /home/tommi/.local/share/Steam/ubuntu12_32/steam-runtime
+setup.sh[5486]: Steam runtime environment up-to-date!
+steam.sh[2185]: Steam client's requirements are satisfied
+Loaded SDL version 3.0.0-765-gc4db0725e
+GetWin32Stats: display was not open yet, good
+ComputeStartupMode: forcing gamepadui via clisteamwebhelper.sh[5558]: Runtime for steamwebhelper: defaulting to /home/tommi/.local/share/Steam/ubuntu12_64/steam-runtime-heavy
+steamwebhelper.sh[5558]: glibc >= 2.34, partially disabling sandbox until CEF supports clone3()
+steamwebhelper.sh[5558]: CEF sandbox already disabled
+WARNING: using plain als gain get
+sudo: a password is required
+privileged write polkit:auto -> /sys/class/drm/card0/device/power_dpm_force_performance_level
+Error: BWriteValueToFileAsUser: steamos-priv-write failed /sys/class/drm/card0/device/power_dpm_force_performance_level: auto
+privileged write: auto -> /sys/class/drm/card0/device/power_dpm_force_performance_level
+Error: BWriteValuetoFileAsRoot: failed to write to /sys/class/drm/card0/device/power_dpm_force_performance_level: auto
+privileged write polkit:auto -> /sys/class/drm/card0/device/power_dpm_force_performance_level
+Error: BWriteValueToFileAsUser: steamos-priv-write failed /sys/class/drm/card0/device/power_dpm_force_performance_level: auto
+privileged write: auto -> /sys/class/drm/card0/device/power_dpm_force_performance_level
+Error: BWriteValuetoFileAsRoot: failed to write to /sys/class/drm/card0/device/power_dpm_force_performance_level: auto
+privileged write polkit:15000000 -> /sys/class/hwmon/hwmon3/power1_cap
+Error: BWriteValueToFileAsUser: steamos-priv-write failed /sys/class/hwmon/hwmon3/power1_cap: 15000000
+privileged write: 15000000 -> /sys/class/hwmon/hwmon3/power1_cap
+Error: BWriteValuetoFileAsRoot: failed to write to /sys/class/hwmon/hwmon3/power1_cap: 15000000
+CAppInfoCacheReadFromDiskThread took 81 milliseconds to initialize
+536870913
+Failed to init SteamVR because it isn't installed
+
+(steam:5540): Gtk-WARNING **: 16:26:39.151: gtk_disable_setlocale() must be called before gtk_init()
+local (potentially out of sync) copy of roaming config loaded - 7381 bytes.
+Local Device Found
+  type: 045e 028e
+  path: sdl://1
+  serial_number:  - 0
+  Manufacturer: 
+  Product:      Xbox 360 Controller
+  Release:      1130
+  Interface:    -1
+
+!! Steam controller device opened for index 0.
+sh: line 1: lsb_release: command not found
+GetWin32Stats: restoring previous glx context
+sh: line 1: lsb_release: command not found
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+BRefreshApplicationsInLibrary 1: 1ms
+roaming config store loaded successfully - 7381 bytes.
+migrating temporary roaming config store
+CDesktopCapturePipeWire: Opening DRM render node /dev/dri/renderD128
+CDesktopCapturePipeWire: setting stream node ID: 58
+ExecCommandLine: "'/home/tommi/.local/share/Steam/ubuntu12_32/steam' '-gamepadui' '-newbigpicture' '-steamdeck' '-steamos3'"
+System startup time: 4.22 seconds
+BuildCompleteAppOverviewChange: 590 apps
+
+(steam:5540): Gtk-WARNING **: 16:26:42.982: gtk_disable_setlocale() must be called before gtk_init()
+RegisterForAppOverview 1: 5ms
+RegisterForAppOverview 2: 6ms
+sh: line 1: /usr/bin/steamos-polkit-helpers/jupiter-dock-updater: No such file or directory
+GameAction [AppID 1551360, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+Proton: Upgrading prefix from None to 7.0-101 (/home/tommi/.local/share/Steam/steamapps/compatdata/1551360/)
+fsync: up and running.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+GameAction [AppID 1551360, ActionID 1] : LaunchApp changed task to RunningInstallScript with ""
+GameAction [AppID 1551360, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 1551360, ActionID 1] : LaunchApp changed task to SynchronizingControllerConfig with ""
+GameAction [AppID 1551360, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 1551360, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 1551360, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 1551360, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+/bin/sh\0-c\0gamescope -w 1920 -h 1080 -W 2560 -H 1440 -b -- hdr-enabled mangohud /home/tommi/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=1551360 -- /home/tommi/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/tommi/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/tommi/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/media/pelissd/SteamLibrary/steamapps/common/ForzaHorizon5/ForzaHorizon5.exe'\0
+Game process added : AppID 1551360 "gamescope -w 1920 -h 1080 -W 2560 -H 1440 -b -- hdr-enabled mangohud /home/tommi/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=1551360 -- /home/tommi/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/tommi/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/tommi/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/media/pelissd/SteamLibrary/steamapps/common/ForzaHorizon5/ForzaHorizon5.exe'", ProcID 8305, IP 0.0.0.0:0
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+No CAP_SYS_NICE, falling back to regular-priority compute and threads.
+Performance will be affected.
+wlserver: [backend/headless/backend.c:68] Creating headless backend
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+ATTENTION: default value of option vk_xwayland_wait_ready overridden by environment.
+vulkan: selecting physical device 'AMD Radeon RX 6700 XT (RADV NAVI22)': queue family 1
+vulkan: physical device supports DRM format modifiers
+GameAction [AppID 1551360, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+GameAction [AppID 1551360, ActionID 1] : LaunchApp changed task to Completed with ""
+Fossilize INFO: Overriding serialization path: "/home/tommi/.local/share/Steam/steamapps/shadercache/1551360/fozpipelinesv6/steamapprun_pipeline_cache".
+vulkan: supported DRM formats for sampling usage:
+vulkan:   AR24 (0x34325241)
+vulkan:   XR24 (0x34325258)
+vulkan:   AB24 (0x34324241)
+vulkan:   XB24 (0x34324258)
+vulkan:   NV12 (0x3231564E)
+vulkan:   AB4H (0x48344241)
+vulkan:   AB48 (0x38344241)
+vulkan:   AB30 (0x30334241)
+vulkan:   XB30 (0x30334258)
+vulkan:   AR30 (0x30335241)
+vulkan:   XR30 (0x30335258)
+wlserver: [wayland] unable to lock lockfile /run/user/1000/gamescope-0.lock, maybe another compositor is running
+wlserver: Running compositor on wayland display 'gamescope-1'
+wlserver: [backend/headless/backend.c:16] Starting headless backend
+wlserver: [xwayland/sockets.c:63] Failed to bind socket @/tmp/.X11-unix/X0: Address already in use
+wlserver: [xwayland/server.c:108] Starting Xwayland on :3
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.374: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:5540): LIBDBUSMENU-GLIB-WARNING **: 16:27:33.375: Trying to remove a child that doesn't believe we're it's parent.
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/tommi/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+wlserver: [types/wlr_compositor.c:673] New wlr_surface 0x55d2629c7760 (res 0x55d2629c4520)
+wlserver: [xwayland/server.c:273] Xserver is ready
+pipewire: stream state changed: connecting
+pipewire: stream state changed: paused
+pipewire: stream available on node ID: 100
+xwm: execvp failed: No such file or directory
+steamos-update: using duplicate detection: 0
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+vblankmanager: write failed: Resource temporarily unavailable
+gamescope: received kill signal, terminating!
+(EE) failed to read Wayland events: Broken pipe
+gamescope: received kill signal, terminating!
+Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
