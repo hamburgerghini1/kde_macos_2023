@@ -9,11 +9,11 @@
   <licence></licence>
   <version></version>
   <rating>92</rating>
-  <downloads>15882</downloads>
-  <installedfile>/home/tommi/.local/share/icons/Tela-circle/*</installedfile>
+  <downloads>8514</downloads>
   <installedfile>/home/tommi/.local/share/icons/Tela-circle-dark/*</installedfile>
+  <installedfile>/home/tommi/.local/share/icons/Tela-circle/*</installedfile>
   <id>1359276</id>
-  <releasedate>2023-01-03</releasedate>
+  <releasedate>2023-01-29</releasedate>
   <summary>&lt;strong> Tela circle Icon Theme &lt;/strong>&lt;br />
 Circle version icon theme of Tela: &lt;a href="https://www.pling.com/p/1279924" target="_blank" rel="nofollow">https://www.pling.com/p/1279924&lt;/a>&lt;br />
 You can use this theme on all popular desktops&lt;br />
@@ -32,7 +32,7 @@ You can use this theme on all popular desktops&lt;br />
   <changelog></changelog>
   <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1359276/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</preview>
   <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1359276/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzI3MjE1NzkiLCJvIjoiMSIsInMiOiIyZjNlOGE1YjA1NzJmZjEwZTM0YjI4NGY5YmYwMTFhYWRmY2ZjZWM4OGQ5ZjZjYjFhZTJmOTIxYWVhMWYwMWU3ZmM5MjM3YmRiZDUyYmNmNDhhZjY0OTQ4NmJmMTQ3YTZhMmJjMDZiZGIwMzhjM2U0MDE3NTMyODVkNDE1Y2I1YyIsInQiOjE2NzQ1NzUwNzQsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.bNrmT--0_a_-8RplH0QgigV3sbHxMbzOns0Rh-cSO2Q/01-Tela-circle.tar.xz</payload>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzQ5OTA0OTciLCJvIjoiMSIsInMiOiJmNjNkZWRjNTRmYjk4M2ZiYWY0ZDUzMjg2NTc3ZTY1MmJkMmMwM2NkMDM2NDM1MjY0NTc0NzE2NzE3YTQyNDc4MDY5YWM2N2RjYjkwODBmYjE4ZGFhNTEzNzg1ZjJiYzQzMjIxYjU4YzFhNDA3N2UxMDRjNDcyNjAzYTg3NDdiMCIsInQiOjE2NzUwNjQxNTQsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0._VSXLWcoy1eRU8QzF5HlJEWyfzMFGl8Zd9SmU_g3iGg/01-Tela-circle.tar.xz</payload>
   <tags>linux,unix,gplv3,icon-theme</tags>
   <status>installed</status>
  </stuff>
@@ -44,11 +44,11 @@ You can use this theme on all popular desktops&lt;br />
   <licence></licence>
   <version></version>
   <rating>93</rating>
-  <downloads>17709</downloads>
-  <installedfile>/home/tommi/.local/share/icons/Tela/*</installedfile>
+  <downloads>6281</downloads>
   <installedfile>/home/tommi/.local/share/icons/Tela-dark/*</installedfile>
+  <installedfile>/home/tommi/.local/share/icons/Tela/*</installedfile>
   <id>1279924</id>
-  <releasedate>2023-01-06</releasedate>
+  <releasedate>2023-02-02</releasedate>
   <summary>&lt;strong> Tela Icon Theme &lt;/strong>&lt;br />
 A flat colorful Design icon theme&lt;br />
 You can use this theme on all popular desktops&lt;br />
@@ -85,8 +85,8 @@ Tela-circle: &lt;br />
   <changelog></changelog>
   <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</preview>
   <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzMwMjc4OTEiLCJvIjoiMSIsInMiOiJiNzNlMmFmOGRkMGZkOGU3YmM1NzgwMjg2NDMwZmZiNGEyZjg2OWE3N2FkMmE3OTBhYWJiM2NlMmRhNTMwY2M3NGYyN2Y3ZTBiMmM4ZTA0Y2NhNWY1ZDU3YWNkNWJkMDA0ZWY0OTg5ZmE0NjhkZjA4NmUzOWI3MmE2NTBiNGE3NiIsInQiOjE2NzQ1NzU4NjIsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.TLhx6reZ_N1z0seQegZyseWdmUvKDRDe38bjnkWIlBQ/01-Tela.tar.xz</payload>
-  <tags>original-product,unix,linux,gplv3,icon-theme</tags>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzUzNjEwMzUiLCJvIjoiMSIsInMiOiJhMDc3YTA4YTFmNzljNDQ4NWIzYjFiZjZlMjVhZjFhN2Y3NGFjZWUwNjJkZGE1OWM5OTAwNDk4ZTRlOGJmODhlZWFkNDNjMzc3NjdhMTE2YmZkZWI2ZWQzM2JkYmRhYzZhM2Q3MTBkYzFjMjg3OTFhNTEyM2I1NDMxNDc0MWFhNCIsInQiOjE2NzU2NzUwODEsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.VpdWqj9aBZ2jtj9z0LNK_unKoZ22av1snZYbU3TRwl8/01-Tela.tar.xz</payload>
+  <tags>original-product,unix,linux,icon-theme,gplv3</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

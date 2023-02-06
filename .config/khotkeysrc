@@ -998,8 +998,14 @@ DirSelectDialog Size[$d]
 History Items[$d]
 
 [General]
+AccentColor[$d]
+AllowKDEAppsToRememberWindowPositions[$d]
 ColorScheme[$d]
 ColorSchemeHash[$d]
+LastUsedCustomAccentColor[$d]
+UseSystemBell[$d]
+XftHintStyle[$d]
+XftSubPixel[$d]
 fixed[$d]
 font[$d]
 menuFont[$d]
@@ -1053,12 +1059,16 @@ AlreadyImported=defaults,kde32b1,konqueror_gestures_kde321
 Disabled=false
 Version=2
 
+[Shortcuts]
+CreateFolder[$d]
+
 [Voice]
 Shortcut=
 
 [WM]
 activeBackground[$d]
 activeBlend[$d]
+activeFont[$d]
 activeForeground[$d]
 inactiveBackground[$d]
 inactiveBlend[$d]

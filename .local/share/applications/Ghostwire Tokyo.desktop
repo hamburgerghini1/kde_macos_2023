@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ghostwire: Tokyo
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1475810
+Icon=steam_icon_1475810
+Terminal=false
+Type=Application
+Categories=Game;

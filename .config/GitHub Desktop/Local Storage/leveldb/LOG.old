@@ -1,3 +1,3 @@
-2023/01/28-13:36:48.959 5984 Reusing MANIFEST /home/tommi/.config/GitHub Desktop/Local Storage/leveldb/MANIFEST-000001
-2023/01/28-13:36:48.959 5984 Recovering log #3
-2023/01/28-13:36:48.959 5984 Reusing old log /home/tommi/.config/GitHub Desktop/Local Storage/leveldb/000003.log 
+2023/02/01-08:04:50.304 2455 Reusing MANIFEST /home/tommi/.config/GitHub Desktop/Local Storage/leveldb/MANIFEST-000001
+2023/02/01-08:04:50.304 2455 Recovering log #3
+2023/02/01-08:04:50.304 2455 Reusing old log /home/tommi/.config/GitHub Desktop/Local Storage/leveldb/000003.log 

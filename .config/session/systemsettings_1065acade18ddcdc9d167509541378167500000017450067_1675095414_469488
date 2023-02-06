@@ -1,0 +1,13 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=SettingsBase
+DisplayPort-2=DisplayPort-2
+DisplayPort-2 Height 2560x1440 DisplayPort-2=909
+DisplayPort-2 Width 2560x1440 DisplayPort-2=1698
+DisplayPort-2 XPosition 2560x1440 DisplayPort-2=0
+DisplayPort-2 YPosition 2560x1440 DisplayPort-2=0
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABqIAAAONAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA

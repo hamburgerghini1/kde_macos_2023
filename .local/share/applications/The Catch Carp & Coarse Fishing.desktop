@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Catch: Carp & Coarse Fishing
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1237610
+Icon=steam_icon_1237610
+Terminal=false
+Type=Application
+Categories=Game;

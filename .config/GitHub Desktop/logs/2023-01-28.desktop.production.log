@@ -138,3 +138,12 @@ fatal: destination path '/home/tommi/Documents/GitHub/kde_macos_2023' already ex
 2023-01-28T11:42:11.420Z - info: [ui] [BranchPruner] Last prune took place 2 hours ago - skipping
 2023-01-28T11:42:11.594Z - info: [ui] [BranchPruner] Last prune took place 44 minutes ago - skipping
 2023-01-28T11:42:24.593Z - info: [ui] Executing getChangesFiles: git log 0b2d0f70daf563b579e442ac646acfaaaed31a2a -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 12.599s)
+2023-01-28T11:45:51.567Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-01-28T11:45:58.057Z - error: [ui] 'git status' emitted 27144205 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-01-28T11:46:00.165Z - error: [ui] 'git status' emitted 27144205 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-01-28T11:46:05.055Z - error: [ui] 'git status' emitted 27144205 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-01-28T11:46:06.946Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/kde_macos_2023.git - hamburgerghini1 (has token)
+2023-01-28T11:46:06.973Z - error: [ui] `git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/kde_macos_2023.git /home/tommi/Documents/GitHub/kde_macos_2023` exited with an unexpected code: 128.
+stderr:
+fatal: destination path '/home/tommi/Documents/GitHub/kde_macos_2023' already exists and is not an empty directory.
+

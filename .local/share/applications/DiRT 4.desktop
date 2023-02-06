@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=DiRT 4
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/421020
+Icon=steam_icon_421020
+Terminal=false
+Type=Application
+Categories=Game;

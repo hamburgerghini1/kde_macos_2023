@@ -1,0 +1,8 @@
+[FileDialogSize]
+DisplayPort-2 Height 2560x1440 DisplayPort-2=773
+DisplayPort-2 Width 2560x1440 DisplayPort-2=1300
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/Chromium.Web.Store.crx,file:$HOME/Downloads/proton_recovery_codes.txt
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Documents/
+detailViewIconSize=16

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>FedoraMinimal</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>riyadulmollick</author>
+  <homepage>https://store.kde.org/p/1544891</homepage>
+  <licence></licence>
+  <version>1</version>
+  <rating>50</rating>
+  <downloads>2166</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/look-and-feel/FedoraMinimal</installedfile>
+  <id>1544891</id>
+  <releasedate>2021-06-27</releasedate>
+  <summary>FedoraMinimal is a splash screen specially made for Fedora KDE users. It is minimal and based on KDE Breeze Splash Screen.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/92/80/1544891/7b8b2019f577388265b98de15fde1fa251e001cd70017fb4b9a7465319bdec69a5b6.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/92/80/1544891/7b8b2019f577388265b98de15fde1fa251e001cd70017fb4b9a7465319bdec69a5b6.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjQ4MDg2MTYiLCJvIjoiMSIsInMiOiJmMTZiYzMzNDYwMzc2NDYwYjA4NTk5N2E0YzVkZTcwNWZiNTIzYjBiODUxNzU3ZjMxZGZlMjFhN2E4ODMyN2RlMjg3NWJmN2RmNTdlMWRmYzkyYjM3NmYxMDE4ZmMyYWVjNTVjMjQwNWM4M2IzNDc1MDE2NTNmNzBlMzhjMTFhOSIsInQiOjE2NzQ5MTk5NDYsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.gHszFCFWy8BboJlk9Fe79a0OloEb-15IG-qX_gx3CrI/FedoraMinimal.tar.gz</payload>
+  <tags>kde,fedora,gplv3,splashscreen,splash,plasma,plasma##majorversion=5,theme,original-product,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

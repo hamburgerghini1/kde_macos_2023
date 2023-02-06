@@ -1,0 +1,11 @@
+game:
+  exe: /home/tommi/Games/Emu/xenia/xenia.exe
+system:
+  game_path: /home/tommi/Games/Emu/xenia-lutris
+  mangohud: true
+wine:
+  battleye: false
+  eac: false
+  esync: false
+  fsr: false
+  fsync: false

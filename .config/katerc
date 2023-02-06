@@ -121,6 +121,13 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
+[KTextEditor::Search]
+Search History=gpu
+
+[MainWindow]
+DisplayPort-2 Height 2560x1440 DisplayPort-2=1381
+DisplayPort-2 Width 2560x1440 DisplayPort-2=1272
+
 [filetree]
 editShade=1,86,102
 listMode=false

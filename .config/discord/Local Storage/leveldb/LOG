@@ -1,0 +1,6 @@
+2023/02/06-10:19:59.022 aa2 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/02/06-10:19:59.024 aa2 Recovering log #1388
+2023/02/06-10:19:59.024 aa2 Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/001388.log 
+2023/02/06-10:20:59.765 bad Level-0 table #1392: started
+2023/02/06-10:20:59.766 bad Level-0 table #1392: 17105 bytes OK
+2023/02/06-10:20:59.768 bad Delete type=0 #1388

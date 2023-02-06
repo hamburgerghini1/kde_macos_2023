@@ -1,3 +1,27 @@
+[file:///home/tommi/*message*-20230203-093054]
+Bookmarks=
+Checksum=9f60d7206bebdcfb4a39371edf8e1c6cce5e6048
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,2,6,9,2,41.7
+URL=file:///home/tommi/*message*-20230203-093054
+
+[file:///home/tommi/.config/rpcs3/GuiConfigs/CurrentSettings.ini]
+Bookmarks=
+Checksum=98de7aa271e95df65c263aaff34da6008c753070
+Encoding=UTF-8
+Highlighting=INI Files
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=INI Files
+Mode Set By User=false
+Time=2023,2,2,6,16,2.865
+URL=file:///home/tommi/.config/rpcs3/GuiConfigs/CurrentSettings.ini
+
 [file:///home/tommi/.icons/MacOs-Icon-Theme/COPYING]
 Bookmarks=
 Checksum=b73447403b53fe31ce06e2f5d374c562bd345f96
@@ -22,6 +46,18 @@ Mode Set By User=false
 Time=2023,1,28,10,0,13.792
 URL=file:///home/tommi/.icons/MacOs-Icon-Theme/index.theme
 
+[file:///home/tommi/.local/share/chezmoi/dot_bashrc]
+Bookmarks=
+Checksum=88f22e39e8238209fee0cb366121672f4632700b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,2,1,6,6,16.874
+URL=file:///home/tommi/.local/share/chezmoi/dot_bashrc
+
 [file:///home/tommi/.local/share/icons/macOS Cursor Set/COPYRIGHT]
 Bookmarks=
 Checksum=c31e220f4a4e0ac645b56610f51f266ad247cdac
@@ -33,6 +69,42 @@ Mode=Normal
 Mode Set By User=false
 Time=2023,1,28,9,55,59.229
 URL=file:///home/tommi/.local/share/icons/macOS Cursor Set/COPYRIGHT
+
+[file:///home/tommi/Documents/GitHub/kde_macos_2023/.xsession-errors]
+Bookmarks=
+Checksum=54d8d4663207dcefcbda24aa6b5aac9b255c8cdb
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,2,1,6,19,19.557
+URL=file:///home/tommi/Documents/GitHub/kde_macos_2023/.xsession-errors
+
+[file:///home/tommi/Downloads/v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff]
+Bookmarks=
+Checksum=27bed965e5444d06942db4e37f5e3d12e77d0698
+Encoding=UTF-8
+Highlighting=Diff
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Diff
+Mode Set By User=false
+Time=2023,2,2,10,41,32.744
+URL=file:///home/tommi/Downloads/v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff
+
+[file:///home/tommi/Games/Emu/xenia/xenia.config.toml]
+Bookmarks=
+Checksum=9aa03163098d8d015d9e6c0297f769d497906043
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,2,4,17,17,18.34
+URL=file:///home/tommi/Games/Emu/xenia/xenia.config.toml
 
 [file:///home/tommi/Mac OS Wallpapers/.directory]
 Bookmarks=

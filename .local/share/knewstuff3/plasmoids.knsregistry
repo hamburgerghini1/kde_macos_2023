@@ -1,6 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
+ <stuff category="399">
+  <name>Clear Clock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>qewer</author>
+  <homepage>https://store.kde.org/p/1666554</homepage>
+  <licence></licence>
+  <version>0.3</version>
+  <rating>80</rating>
+  <downloads>22459</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/org.kde.plasma.clearclock</installedfile>
+  <id>1666554</id>
+  <releasedate>2022-02-06</releasedate>
+  <summary>Clear Clock is a simple but configurable KDE plasmoid/widget for displaying date and time. Made for desktop use, won't work on panels/docks.&lt;br />
+&lt;br />
+Please open an issue in the GitHub repo (https://github.com/qewer33/ClearClock) for bugs or feature requests. For any questions, you can...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/20/66/1666554/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/20/66/1666554/logo.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQxNTQ3OTEiLCJvIjoiMSIsInMiOiIxZjE3NDMxY2FmMThlODQ3NTEyMmEzNWE0MGI4ZDE1Y2E0OGE4MjgxZjRiN2I2ZTJlNDcwYTI3NDQ5NzBjYmZhZGI0YjA0ODI4ODY1MTE1YTZmMzUwNWY1YTU3ZDU5Nzk1MzE1MWQ4NmQ1NTAzOGVhMWYyZmM0NjdjNTQwYzYxNiIsInQiOjE2NzUwNjUyNjUsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.rEWlmSvaSRWTE-erfmvOLBkB97NKKAz2_q2R-9IrMgs/ClearClock.tar.gz</payload>
+  <tags>cool,clock,clocks,kde,extension,gplv3,linux,minimal,minimalist,widget,unix,original-product,plasma,plasma##majorversion=5</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Window Buttons Applet Prebuilt</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1906579</homepage>
+  <licence></licence>
+  <version>0.11.1-prebuilt-1</version>
+  <rating>64</rating>
+  <downloads>2261</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/org.kde.windowbuttons</installedfile>
+  <id>1906579</id>
+  <releasedate>2023-01-27</releasedate>
+  <summary>This is a prebuilt distribution of &lt;a href="https://store.kde.org/p/1272871/" target="_blank" rel="nofollow">Window Buttons Applet&lt;/a> by &lt;a href="https://store.kde.org/u/Psifidotos" target="_blank" rel="nofollow">Psifidotos&lt;/a>. I am in no way the original developer of this product nor have I...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1906579/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1906579/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzQ4MTExODciLCJvIjoiMSIsInMiOiJlMjUzZGY1MzZlMjc0NTZiNmEwMzZjYWNhNTZmOWQwYmY4YmYwNDFjZGM5MDI2ZWQ2NmQ2MDJjMDk4NzFlNWZiYzQ3OThlYzg0NWE2ZjMyODUzMWM4NWRiZDFiOTQzYWU0NzMyNzdhMzkwY2I4NTY0YWJjNTliMmU2MTRiOGU2MyIsInQiOjE2NzQ5MDA0MjgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0._zDm_rW0qknovQ2OQTOYSmYprfuTqo4WnWTp_D5P5KM/Window-Buttons-Applet.plasmoid</payload>
+  <tags>widget,kde,extension,gplv2-later,plasma,plasma##majorversion=5,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="399">
+  <name>Better inline clock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>marianarlt</author>
+  <homepage>https://store.kde.org/p/1245902</homepage>
+  <licence></licence>
+  <version>3.1</version>
+  <rating>82</rating>
+  <downloads>238453</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/org.kde.plasma.betterinlineclock</installedfile>
+  <id>1245902</id>
+  <releasedate>2020-06-23</releasedate>
+  <summary>The hottest clock around!&lt;br />
+· Formats not found in any other clock, including custom!&lt;br />
+· Disable the separator with a simple check box!&lt;br />
+· Option for manual font size!&lt;br />
+· Correctly calculated width at any time and date!&lt;br />
+· Manual spacing and offsetting!&lt;br />
+·...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTI5NjY2NTUiLCJvIjoiMSIsInMiOiJiYzA5NWFhOGEyY2NiOGNmZjc1ODRjODkzMTA2NzBkMzNjN2Y2MjhkZTE5NjAxN2Y1YThiZDExMDg1MzExMjU3MDg0YmZhNTY1NTkxNmFkMDhiMDNlZTkwOTU3NmUzZjcxZTFmYzE1MTFhY2RmYTcwNzlmYTE2NTY0ZGY2NDczYiIsInQiOjE2NzQ5MDA2NTgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0._YcWpg69i6cksJpZ_3E8MtG361jDIhmilmw_3UiDKO8/betterinlineclock.tar.gz</payload>
+  <tags>kde,extension,gplv3,clock,widget,modification-product,linux,plasma,plasma##majorversion=5,plasmoid,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Currently Playing</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>junongx</author>
+  <homepage>https://store.kde.org/p/1821551</homepage>
+  <licence></licence>
+  <version>1.01</version>
+  <rating>64</rating>
+  <downloads>3835</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/com.junongx.kde.currentlyplaying</installedfile>
+  <id>1821551</id>
+  <releasedate>2022-12-09</releasedate>
+  <summary>A minimal media info widget for KDE Plasma, displaying the title and artist of the item currently playing.&lt;br />
+&lt;br />
+Features&lt;br />
+ - Display of current media using the data engine `mpris2`&lt;br />
+ - Switch sequence of track title and artist&lt;br />
+ - Customizable separator string between...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/44/36/1821551/screenshot-20220609-000705.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/44/36/1821551/screenshot-20220609-000705.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzA1OTcxNTkiLCJvIjoiMSIsInMiOiJmY2ZlMmI5N2QwYjQ2YzZmYWY5NmNjZjcyYzQ4YzJhNDY3ZDgyMTc0ZDFjMjI4NWU4NDNhNWI4YmQ5NjVjMDBkYzgyM2Y0MTZkOGJhZWM2MjIyYjFhY2ZiODFmNDU3OTY5NGIwNzFiMDA5ZjJmYmMwNWRlZGUyMWYyMmM0OGU5MCIsInQiOjE2NzQ5MDYzNzMsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.w30VX3HIbHE-wI-yPXV8V5xc6R4mWiWLsF5bOBmwu90/currentlyplaying-v1.01.plasmoid</payload>
+  <tags>kde,kde5,extension,media,linux,mit-license,widget,original-product,unix,plasma,plasma##majorversion=5,plasma5</tags>
+  <status>installed</status>
+ </stuff>
  <stuff category="105">
   <name>Control Centre</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
@@ -9,7 +102,7 @@
   <licence></licence>
   <version>0.1.0</version>
   <rating>76</rating>
-  <downloads>16440</downloads>
+  <downloads>16876</downloads>
   <installedfile>/home/tommi/.local/share/plasma/plasmoids/com.github.prayag2.controlcentre</installedfile>
   <id>1916655</id>
   <releasedate>2022-10-17</releasedate>
@@ -26,78 +119,7 @@ This is a...</summary>
   <preview>https://images.pling.com/cache/100x100-0/img/00/00/60/43/39/1916655/logo1.jpg</preview>
   <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/60/43/39/1916655/logo1.jpg</previewBig>
   <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjU5OTA5NzgiLCJvIjoiMSIsInMiOiI2MzhmNjUwNTQ2ZDljZTE0MDRiMGNjZjFlYWUxMThlYjE1ZDczZjA0MDRkMTNjMWZhN2I3M2RiM2ZmNjk0YzUwYjI3YTA2YWQ0OGQ4MDhmYThjMDU2MjI0YWQ5NjllYTczY2Y2NDliNzA1NDY2MGM2Y2YxZTE5NjU1YTczZGJiYyIsInQiOjE2NzQ5MDA1OTAsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.WgBHXiJWuo0U4BjN3xO4VdDEr1yDg_J-wvhZ5llq380/kde-controlcentre0.1.0.tar.gz</payload>
-  <tags>center,centre,control,gplv3,extension,kde,linux,mac,macos,original-product,plasma,plasma##majorversion=5,unix,widget</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="399">
-  <name>Better inline clock</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>marianarlt</author>
-  <homepage>https://store.kde.org/p/1245902</homepage>
-  <licence></licence>
-  <version>3.1</version>
-  <rating>82</rating>
-  <downloads>237879</downloads>
-  <installedfile>/home/tommi/.local/share/plasma/plasmoids/org.kde.plasma.betterinlineclock</installedfile>
-  <id>1245902</id>
-  <releasedate>2020-06-23</releasedate>
-  <summary>The hottest clock around!&lt;br />
-· Formats not found in any other clock, including custom!&lt;br />
-· Disable the separator with a simple check box!&lt;br />
-· Option for manual font size!&lt;br />
-· Correctly calculated width at any time and date!&lt;br />
-· Manual spacing and offsetting!&lt;br />
-·...</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTI5NjY2NTUiLCJvIjoiMSIsInMiOiJiYzA5NWFhOGEyY2NiOGNmZjc1ODRjODkzMTA2NzBkMzNjN2Y2MjhkZTE5NjAxN2Y1YThiZDExMDg1MzExMjU3MDg0YmZhNTY1NTkxNmFkMDhiMDNlZTkwOTU3NmUzZjcxZTFmYzE1MTFhY2RmYTcwNzlmYTE2NTY0ZGY2NDczYiIsInQiOjE2NzQ5MDA2NTgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0._YcWpg69i6cksJpZ_3E8MtG361jDIhmilmw_3UiDKO8/betterinlineclock.tar.gz</payload>
-  <tags>unix,plasma##majorversion=5,plasmoid,plasma,modification-product,linux,widget,kde,extension,gplv3,clock</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="105">
-  <name>Window Buttons Applet Prebuilt</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>himdek</author>
-  <homepage>https://store.kde.org/p/1906579</homepage>
-  <licence></licence>
-  <version>0.11.1-prebuilt-1</version>
-  <rating>64</rating>
-  <downloads>1110</downloads>
-  <installedfile>/home/tommi/.local/share/plasma/plasmoids/org.kde.windowbuttons</installedfile>
-  <id>1906579</id>
-  <releasedate>2023-01-27</releasedate>
-  <summary>This is a prebuilt distribution of &lt;a href="https://store.kde.org/p/1272871/" target="_blank" rel="nofollow">Window Buttons Applet&lt;/a> by &lt;a href="https://store.kde.org/u/Psifidotos" target="_blank" rel="nofollow">Psifidotos&lt;/a>. I am in no way the original developer of this product nor have I...</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1906579/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1906579/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzQ4MTExODciLCJvIjoiMSIsInMiOiJlMjUzZGY1MzZlMjc0NTZiNmEwMzZjYWNhNTZmOWQwYmY4YmYwNDFjZGM5MDI2ZWQ2NmQ2MDJjMDk4NzFlNWZiYzQ3OThlYzg0NWE2ZjMyODUzMWM4NWRiZDFiOTQzYWU0NzMyNzdhMzkwY2I4NTY0YWJjNTliMmU2MTRiOGU2MyIsInQiOjE2NzQ5MDA0MjgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0._zDm_rW0qknovQ2OQTOYSmYprfuTqo4WnWTp_D5P5KM/Window-Buttons-Applet.plasmoid</payload>
-  <tags>widget,gplv2-later,kde,extension,plasma,plasma##majorversion=5,unix,linux</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="105">
-  <name>Currently Playing</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>junongx</author>
-  <homepage>https://store.kde.org/p/1821551</homepage>
-  <licence></licence>
-  <version>1.01</version>
-  <rating>64</rating>
-  <downloads>3813</downloads>
-  <installedfile>/home/tommi/.local/share/plasma/plasmoids/com.junongx.kde.currentlyplaying</installedfile>
-  <id>1821551</id>
-  <releasedate>2022-12-09</releasedate>
-  <summary>A minimal media info widget for KDE Plasma, displaying the title and artist of the item currently playing.&lt;br />
-&lt;br />
-Features&lt;br />
- - Display of current media using the data engine `mpris2`&lt;br />
- - Switch sequence of track title and artist&lt;br />
- - Customizable separator string between...</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/44/36/1821551/screenshot-20220609-000705.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/44/36/1821551/screenshot-20220609-000705.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzA1OTcxNTkiLCJvIjoiMSIsInMiOiJmY2ZlMmI5N2QwYjQ2YzZmYWY5NmNjZjcyYzQ4YzJhNDY3ZDgyMTc0ZDFjMjI4NWU4NDNhNWI4YmQ5NjVjMDBkYzgyM2Y0MTZkOGJhZWM2MjIyYjFhY2ZiODFmNDU3OTY5NGIwNzFiMDA5ZjJmYmMwNWRlZGUyMWYyMmM0OGU5MCIsInQiOjE2NzQ5MDYzNzMsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.w30VX3HIbHE-wI-yPXV8V5xc6R4mWiWLsF5bOBmwu90/currentlyplaying-v1.01.plasmoid</payload>
-  <tags>extension,kde,kde5,media,mit-license,linux,widget,original-product,unix,plasma,plasma##majorversion=5,plasma5</tags>
+  <tags>control,center,centre,extension,gplv3,kde,linux,mac,macos,original-product,plasma,plasma##majorversion=5,unix,widget</tags>
   <status>installed</status>
  </stuff>
  <stuff category="398">
@@ -143,6 +165,27 @@ You can install this applet directly from Plasma 5 Widgets Explorer</summary>
   <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</previewBig>
   <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjQwMDMyNDIiLCJvIjoiMSIsInMiOiI0MWEzNjlhNjg5ZTliZGM2M2ExNDlhMGJjZmUzMjA0ZjdiNTBlZjI0MGIxNDU4MjdhZTA3ZmM3ZjBiMzVmZGQxYjVlMGFjOTYxOTMxYTAwNjI2MDFmYTkzZTRlMDUyMWRlZGEwYjEyZGJjZjY3YWNiOWFjMWZhNGM2ZDkzYmJlYyIsInQiOjE2NzQ5MDIwNzIsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.oM-b8fxdQguotwruf5cdJowyLx1U_BcXJpjh8jWQfNI/applet-window-title-0.7.1.plasmoid</payload>
   <tags>panel,original-product,title,plasma##majorversion=5,plasma,unix,widget,window,kde,gplv2,extension,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Plasma Customization Saver</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>paju</author>
+  <homepage>https://store.kde.org/p/1298955</homepage>
+  <licence></licence>
+  <version>1.6</version>
+  <rating>86</rating>
+  <downloads>20593</downloads>
+  <installedfile>/home/tommi/.local/share/plasma/plasmoids/com.pajuelo.plasmaConfSaver</installedfile>
+  <id>1298955</id>
+  <releasedate>2022-02-12</releasedate>
+  <summary>This is a widget to save and manage your desktop customizations, you can save your current desktop customization and it will list all your past saved ones, you can restore the customization with just one click, also you can export/import customization to other machines.&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/14/60/66/1298955/9795004b23f5eef53a328ed399b4ee5f34ee1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/14/60/66/1298955/9795004b23f5eef53a328ed399b4ee5f34ee1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQ2NjEyMjYiLCJvIjoiMSIsInMiOiJhZDdiZDhkYzk4MWFlODg1ZmI3MTM5Y2RlMDEzZDk5MjUyODI5ZDRjNTIxNGQ2MTJhNWQyZmUyNGUwM2MxZmFkZjYxNDAwNzYyYzBmNDZjNTg3MjNhYjlhNGRlN2FmZGM0YWY0NDI4ZjAyZTNhZGU1ZjhlYmZkYTg0ZjdiYTdhYSIsInQiOjE2NzUwNjUxNjgsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4yNDkuMTcuMTQ2In0.7O119IQ838dNxIWqvmRjQ-C8tX7THVLBxUHj26R9-0Y/com.pajuelo.plasmaConfSaver-1.6.tar.gz</payload>
+  <tags>unix,original-product,plasma,plasma##majorversion=5,linux,manager,widget,gplv3,layouts,extension,kde,config</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

@@ -1,3 +1,4 @@
 [Global]
-LastNotificationTime=2023,1,24,14,10,33.249
+LastNotificationTime=2023,1,31,17,58,7.633
 RequiredNotificationInterval=604800
+UseUnattendedUpdates=true
