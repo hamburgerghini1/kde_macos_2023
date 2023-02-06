@@ -1,0 +1,78 @@
+{
+    "applicationSourceName": {
+        "data": {
+            "value": "packagekit-backend"
+        },
+        "description": "The source for applications",
+        "telemetryMode": "DetailedUsageStatistics"
+    },
+    "applicationVersion": {
+        "data": {
+            "value": "5.26.5"
+        },
+        "description": "The version of the application.",
+        "telemetryMode": "BasicSystemInformation"
+    },
+    "locale": {
+        "data": {
+            "language": "English",
+            "region": "United Kingdom"
+        },
+        "description": "The current region and language settings.",
+        "telemetryMode": "DetailedSystemInformation"
+    },
+    "opengl": {
+        "data": {
+            "glslVersion": "4.60",
+            "profile": "compat",
+            "renderer": "AMD Radeon RX 6700 XT",
+            "type": "GL",
+            "vendor": "AMD",
+            "vendorVersion": "Mesa 22.3.3",
+            "version": "4.6"
+        },
+        "description": "Information about type, version and vendor of the OpenGL stack.",
+        "telemetryMode": "DetailedSystemInformation"
+    },
+    "platform": {
+        "data": {
+            "os": "linux",
+            "version": "nobara-37"
+        },
+        "description": "Type and version of the operating system.",
+        "telemetryMode": "BasicSystemInformation"
+    },
+    "qtVersion": {
+        "data": {
+            "value": "5.15.8"
+        },
+        "description": "The Qt version used by this application.",
+        "telemetryMode": "BasicSystemInformation"
+    },
+    "screens": {
+        "data": [
+            {
+                "devicePixelRatio": 1,
+                "dpi": 109,
+                "height": 1440,
+                "width": 2560
+            }
+        ],
+        "description": "Size and resolution of all connected screens.",
+        "telemetryMode": "DetailedSystemInformation"
+    },
+    "startCount": {
+        "data": {
+            "value": 41
+        },
+        "description": "How often the application has been started.",
+        "telemetryMode": "BasicUsageStatistics"
+    },
+    "usageTime": {
+        "data": {
+            "value": 106
+        },
+        "description": "The total amount of time the application has been used.",
+        "telemetryMode": "BasicUsageStatistics"
+    }
+}

@@ -1,12 +1,12 @@
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=JSON
+Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=JSON
+Mode=Normal
 Mode Set By User=false
-URL=file:///home/tommi/.icons/MacOs-Icon-Theme/index.theme
+URL=file:///home/tommi/*message*-20230203-093054
 
 [Kate Plugins]
 cmaketoolsplugin=false
@@ -41,25 +41,27 @@ textfilterplugin=true
 [MainWindow0]
 Active ViewSpace=0
 DisplayPort-2=DisplayPort-2
-DisplayPort-2 XPosition 2560x1440 DisplayPort-2=512
-DisplayPort-2 YPosition 2560x1440 DisplayPort-2=324
-Kate-MDI-H-Splitter=0,596,0
+DisplayPort-2 Height 2560x1440 DisplayPort-2=1381
+DisplayPort-2 Width 2560x1440 DisplayPort-2=1272
+DisplayPort-2 XPosition 2560x1440 DisplayPort-2=644
+DisplayPort-2 YPosition 2560x1440 DisplayPort-2=55
+Kate-MDI-H-Splitter=0,1228,0
 Kate-MDI-Sidebar-0-Bar-0-TvList=kate_private_plugin_katefiletreeplugin,kateproject,kateprojectgit,kate_private_plugin_katefileselectorplugin,lspclient_symbol_outline
 Kate-MDI-Sidebar-0-LastSize=200
 Kate-MDI-Sidebar-0-SectSizes=0
-Kate-MDI-Sidebar-0-Splitter=404
+Kate-MDI-Sidebar-0-Splitter=1311
 Kate-MDI-Sidebar-1-Bar-0-TvList=
 Kate-MDI-Sidebar-1-LastSize=200
 Kate-MDI-Sidebar-1-SectSizes=0
-Kate-MDI-Sidebar-1-Splitter=404
+Kate-MDI-Sidebar-1-Splitter=1311
 Kate-MDI-Sidebar-2-Bar-0-TvList=
 Kate-MDI-Sidebar-2-LastSize=200
 Kate-MDI-Sidebar-2-SectSizes=0
-Kate-MDI-Sidebar-2-Splitter=596
+Kate-MDI-Sidebar-2-Splitter=1228
 Kate-MDI-Sidebar-3-Bar-0-TvList=output,kate_plugin_katesearch,kateprojectinfo,kate_private_plugin_katekonsoleplugin,kate_lspclient
 Kate-MDI-Sidebar-3-LastSize=200
 Kate-MDI-Sidebar-3-SectSizes=0
-Kate-MDI-Sidebar-3-Splitter=308
+Kate-MDI-Sidebar-3-Splitter=926
 Kate-MDI-Sidebar-Style=2
 Kate-MDI-Sidebar-Visible=true
 Kate-MDI-ToolView-kate_lspclient-Position=3
@@ -92,37 +94,39 @@ Kate-MDI-ToolView-lspclient_symbol_outline-Visible=false
 Kate-MDI-ToolView-output-Position=3
 Kate-MDI-ToolView-output-Show-Button-In-Sidebar=true
 Kate-MDI-ToolView-output-Visible=false
-Kate-MDI-V-Splitter=0,404,0
+Kate-MDI-V-Splitter=0,1311,0
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAHx/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABPgAAAU7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAH0/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [MainWindow0 Settings]
 DisplayPort-2=DisplayPort-2
-DisplayPort-2 XPosition 2560x1440 DisplayPort-2=512
-DisplayPort-2 YPosition 2560x1440 DisplayPort-2=324
+DisplayPort-2 Height 2560x1440 DisplayPort-2=1381
+DisplayPort-2 Width 2560x1440 DisplayPort-2=1272
+DisplayPort-2 XPosition 2560x1440 DisplayPort-2=644
+DisplayPort-2 YPosition 2560x1440 DisplayPort-2=55
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAHx/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABPgAAAU7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAH0/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 WindowState=8
 
 [MainWindow0-Splitter 0]
 Children=MainWindow0-ViewSpace 0
 Orientation=1
-Sizes=596
+Sizes=1228
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/tommi/.icons/MacOs-Icon-Theme/index.theme
+Active View=file:///home/tommi/*message*-20230203-093054
 Count=1
-Documents=file:///home/tommi/.icons/MacOs-Icon-Theme/index.theme
-View 0=file:///home/tommi/.icons/MacOs-Icon-Theme/index.theme
+Documents=file:///home/tommi/*message*-20230203-093054
+View 0=file:///home/tommi/*message*-20230203-093054
 
-[MainWindow0-ViewSpace 0 file:///home/tommi/.icons/MacOs-Icon-Theme/index.theme]
+[MainWindow0-ViewSpace 0 file:///home/tommi/*message*-20230203-093054]
 CursorColumn=0
 CursorLine=0
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"19404fc924c80e3b4ac3cf29e538ecd6b976423c","ranges":[]}
+TextFolding={"checksum":"9f60d7206bebdcfb4a39371edf8e1c6cce5e6048","ranges":[]}
 ViMarks=
 
 [Open Documents]
@@ -145,7 +149,7 @@ View Style=DetailTree
 auto sync folder=true
 filter history=
 highlight current file=true
-location=file:///home/tommi/.icons/MacOs-Icon-Theme/
+location=file:///home/tommi/
 
 [Plugin:kateprojectplugin:]
 projects=
@@ -175,10 +179,22 @@ UseRegExp=false
 
 [Recent Files]
 File1[$e]=$HOME/Mac OS Wallpapers/.directory
+File10[$e]=$HOME/*message*-20230203-093054
 File2[$e]=$HOME/.local/share/icons/macOS Cursor Set/COPYRIGHT
 File3[$e]=$HOME/.icons/MacOs-Icon-Theme/COPYING
 File4[$e]=$HOME/.icons/MacOs-Icon-Theme/index.theme
+File5[$e]=$HOME/.local/share/chezmoi/dot_bashrc
+File6[$e]=$HOME/Documents/GitHub/kde_macos_2023/.xsession-errors
+File7[$e]=$HOME/.config/rpcs3/GuiConfigs/CurrentSettings.ini
+File8[$e]=$HOME/Downloads/v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff
+File9[$e]=$HOME/Games/Emu/xenia/xenia.config.toml
 Name1[$e]=.directory
+Name10[$e]=*message*-20230203-093054
 Name2[$e]=COPYRIGHT
 Name3[$e]=COPYING
 Name4[$e]=index.theme
+Name5[$e]=dot_bashrc
+Name6[$e]=.xsession-errors
+Name7[$e]=CurrentSettings.ini
+Name8[$e]=v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff
+Name9[$e]=xenia.config.toml

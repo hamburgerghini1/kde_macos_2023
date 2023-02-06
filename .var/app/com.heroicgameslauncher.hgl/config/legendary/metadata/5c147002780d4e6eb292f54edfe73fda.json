@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "5c147002780d4e6eb292f54edfe73fda",
       "asset_id": "5c147002780d4e6eb292f54edfe73fda",
-      "build_version": "S1850_Patch14",
+      "build_version": "S1962_Patch15",
       "catalog_item_id": "4a896599a11348d0925d66f852977059",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -62,6 +62,338 @@
     "developer": "Saber Interactive",
     "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
     "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-27T18:32:50.315Z",
+        "customAttributes": {},
+        "description": "mantis SeasonPassAudience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "17182d55864b478c8aa689ef0a7ce07a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "17182d55864b478c8aa689ef0a7ce07a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-02-01T23:11:58.735Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mantis SeasonPassAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-27T18:33:41.731Z",
+        "customAttributes": {},
+        "description": "mantis ClassicsBundleDLCAudience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "88f647c048224023abbd190afe896a35",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "88f647c048224023abbd190afe896a35",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-02-01T23:16:46.568Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mantis ClassicsBundleDLCAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-27T18:34:39.266Z",
+        "customAttributes": {},
+        "description": "mantis PowerWithoutFearDLCAudience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "0fad4f53ba2343e7975a6c632048cefb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0fad4f53ba2343e7975a6c632048cefb",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-02-01T23:10:05.970Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mantis PowerWithoutFearDLCAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-26T15:37:39.668Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Ash - Gallant Knight Outfit audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "caefafaebc4a4a478bed21b092cfad48",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "caefafaebc4a4a478bed21b092cfad48",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-01T23:16:04.384Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ash - Gallant Knight Outfit audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-26T15:38:48.958Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Ash - S-Mart Employee Outfit audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "0b8dd58f578c42a9aa2597b1d1d240eb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0b8dd58f578c42a9aa2597b1d1d240eb",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-01T23:16:11.881Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ash - S-Mart Employee Outfit audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-26T16:45:38.196Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Army of Darkness Medieval Bundle audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "3440b677416e4bd2b14d1084b6e0289a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3440b677416e4bd2b14d1084b6e0289a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-01T23:15:40.942Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Army of Darkness Medieval Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-26T16:48:09.567Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Hail to the King Bundle audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "b4cf0eb66c7448d698c3c5b54e138048",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b4cf0eb66c7448d698c3c5b54e138048",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-01T23:12:08.716Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hail to the King Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-26T20:48:35.463Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Evil Dead 2013 Bundle audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "6b21c55717f34a1eabbe763c26a22a5a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6b21c55717f34a1eabbe763c26a22a5a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-01T23:11:50.114Z",
+        "mainGameItem": {
+          "id": "4a896599a11348d0925d66f852977059",
+          "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+          "unsearchable": false
+        },
+        "namespace": "95e09a8c24c44684bca1a6f25aea920c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Evil Dead 2013 Bundle audience",
+        "unsearchable": true
+      },
       {
         "ageGatings": {},
         "applicationId": "",
@@ -134,7 +466,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2022-05-12T22:45:29.326Z",
+    "lastModifiedDate": "2023-02-01T23:16:46.789Z",
     "namespace": "95e09a8c24c44684bca1a6f25aea920c",
     "releaseInfo": [
       {

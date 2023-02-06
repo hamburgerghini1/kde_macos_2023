@@ -9,9 +9,10 @@
 			"extra": {
 				"about": {
 					"description": "Just Die Already",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/just-die-already"
 			},
 			"folder_name": "JustDieAlready",
 			"install": {
@@ -37,9 +38,10 @@
 			"extra": {
 				"about": {
 					"description": "Saints Row Boss Factory",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/saints-row-boss-factory"
 			},
 			"folder_name": "SaintsRowBossFactory",
 			"install": {
@@ -65,9 +67,10 @@
 			"extra": {
 				"about": {
 					"description": "Fall Guys",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/fall-guys"
 			},
 			"folder_name": "FallGuys",
 			"install": {
@@ -93,9 +96,10 @@
 			"extra": {
 				"about": {
 					"description": "Solve challenging cable-based puzzles and uncover what really happened to the crew of The Alabaster. Now with Hint System (for those ultra tricky puzzles).",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/filament"
 			},
 			"folder_name": "FilamentKfF5w",
 			"install": {
@@ -121,9 +125,10 @@
 			"extra": {
 				"about": {
 					"description": "Redout: Enhanced Edition",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/redout-enhanced-edition"
 			},
 			"folder_name": "RedoutEnhancedEdition",
 			"install": {
@@ -149,9 +154,10 @@
 			"extra": {
 				"about": {
 					"description": "Mendoza",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/mendoza"
 			},
 			"folder_name": "Mendoza",
 			"install": {
@@ -177,9 +183,10 @@
 			"extra": {
 				"about": {
 					"description": "Submerged Hidden Depths",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/submerged-hidden-depths"
 			},
 			"folder_name": "SubmergedHiddenDepths",
 			"install": {
@@ -205,9 +212,10 @@
 			"extra": {
 				"about": {
 					"description": "KillingFloor2Beta",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/killingfloor2beta"
 			},
 			"folder_name": "KillingFloor2Beta",
 			"install": {
@@ -233,9 +241,10 @@
 			"extra": {
 				"about": {
 					"description": "HITMAN 1 Complete First Season",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/hitman-1-complete-first-season"
 			},
 			"folder_name": "HITMAN1CFS",
 			"install": {
@@ -261,9 +270,10 @@
 			"extra": {
 				"about": {
 					"description": "Genshin Impact",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/genshin-impact"
 			},
 			"folder_name": "GenshinImpact",
 			"install": {
@@ -289,9 +299,10 @@
 			"extra": {
 				"about": {
 					"description": "Chongquing",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/chongquing"
 			},
 			"folder_name": "Chongquing",
 			"install": {
@@ -317,9 +328,10 @@
 			"extra": {
 				"about": {
 					"description": "PREY",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/prey"
 			},
 			"folder_name": "PREY",
 			"install": {
@@ -345,9 +357,10 @@
 			"extra": {
 				"about": {
 					"description": "Pinball FX",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/pinball-fx"
 			},
 			"folder_name": "PinballFX",
 			"install": {
@@ -373,9 +386,10 @@
 			"extra": {
 				"about": {
 					"description": "The Vanishing of Ethan Carter Redux",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/the-vanishing-of-ethan-carter-redux"
 			},
 			"folder_name": "VanishingEthanCarterRedux",
 			"install": {
@@ -401,9 +415,10 @@
 			"extra": {
 				"about": {
 					"description": "Destiny 2",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/destiny-2"
 			},
 			"folder_name": "Destiny2",
 			"install": {
@@ -429,9 +444,10 @@
 			"extra": {
 				"about": {
 					"description": "DOOM 64",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/doom-64"
 			},
 			"folder_name": "DOOM64",
 			"install": {
@@ -457,9 +473,10 @@
 			"extra": {
 				"about": {
 					"description": "Evil Dead The Game",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/evil-dead-the-game"
 			},
 			"folder_name": "EvilDeadTheGame",
 			"install": {
@@ -485,9 +502,10 @@
 			"extra": {
 				"about": {
 					"description": "The Drone Racing League Simulator",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/the-drone-racing-league-simulator"
 			},
 			"folder_name": "DroneRacingLeagueSim",
 			"install": {
@@ -513,9 +531,10 @@
 			"extra": {
 				"about": {
 					"description": "VALORANT",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/valorant"
 			},
 			"folder_name": "VALORANT",
 			"install": {
@@ -541,9 +560,10 @@
 			"extra": {
 				"about": {
 					"description": "Carpathian Mountains",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/carpathian-mountains"
 			},
 			"folder_name": "CarpathianMountains",
 			"install": {
@@ -569,9 +589,10 @@
 			"extra": {
 				"about": {
 					"description": "Cook, serve and manage your food truck as you dish out hundreds of different foods across war-torn America in this massive sequel to the million-selling series!",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/cook-serve-delicious-3"
 			},
 			"folder_name": "CookServeDelicious3Dwgf7",
 			"install": {
@@ -597,9 +618,10 @@
 			"extra": {
 				"about": {
 					"description": "Discord",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/discord"
 			},
 			"folder_name": "Discord",
 			"install": {
@@ -625,9 +647,10 @@
 			"extra": {
 				"about": {
 					"description": "MultiVersus",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/multiversus"
 			},
 			"folder_name": "Multiversus",
 			"install": {
@@ -653,9 +676,10 @@
 			"extra": {
 				"about": {
 					"description": "Experience the beauty and detail of mowing the Great British countryside in Lawn Mowing Simulator, the only simulator that allows you to ride an authentic and expansive roster of real-world licensed lawn mowers from prestigious manufacturers as you manage your business.",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/lawn-mowing-simulator"
 			},
 			"folder_name": "LawnMowingSimulatorK96FI",
 			"install": {
@@ -681,9 +705,10 @@
 			"extra": {
 				"about": {
 					"description": "Runbow",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/runbow"
 			},
 			"folder_name": "Runbow",
 			"install": {
@@ -709,9 +734,10 @@
 			"extra": {
 				"about": {
 					"description": "Even the smallest person can make a big difference. Join Alba, as she sets out to save her beautiful island and its wildlife. And possibly start a revolution.",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/alba--a-wildlife-adventure"
 			},
 			"folder_name": "AlbaAWildlifeAdventusiuFk",
 			"install": {
@@ -737,9 +763,10 @@
 			"extra": {
 				"about": {
 					"description": "Confront various terrains as a lonely mountaineer and endure the countless dangers of climbing! Many tough decisions await you in a risky environment. Make your way up and down the mountain, overcoming insurmountable heights!",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/insurmountable"
 			},
 			"folder_name": "Insurmountable",
 			"install": {
@@ -765,9 +792,10 @@
 			"extra": {
 				"about": {
 					"description": "Knockout City",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/knockout-city"
 			},
 			"folder_name": "KnockoutCity",
 			"install": {
@@ -793,9 +821,10 @@
 			"extra": {
 				"about": {
 					"description": "Darkwood",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/darkwood"
 			},
 			"folder_name": "Darkwood",
 			"install": {
@@ -821,9 +850,10 @@
 			"extra": {
 				"about": {
 					"description": "The Vanishing of Ethan Carter",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/the-vanishing-of-ethan-carter"
 			},
 			"folder_name": "TheVanishingofEthanCarter",
 			"install": {
@@ -849,9 +879,10 @@
 			"extra": {
 				"about": {
 					"description": "HITMAN 2 Standard",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/hitman-2-standard"
 			},
 			"folder_name": "HITMAN2Standard",
 			"install": {
@@ -877,9 +908,10 @@
 			"extra": {
 				"about": {
 					"description": "Grand Theft Auto V",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/grand-theft-auto-v"
 			},
 			"folder_name": "GTAV",
 			"install": {
@@ -905,9 +937,10 @@
 			"extra": {
 				"about": {
 					"description": "Saturnalia",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/saturnalia"
 			},
 			"folder_name": "Saturnalia",
 			"install": {
@@ -933,24 +966,20 @@
 			"extra": {
 				"about": {
 					"description": "Saints Row",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/saints-row"
 			},
 			"folder_name": "SaintsRow",
 			"install": {
-				"executable": "sr5/SRLauncher.exe",
-				"install_path": "/run/user/1000/doc/c1ed32d7/Heroic/SaintsRow",
-				"install_size": "44.37 GiB",
-				"is_dlc": false,
-				"version": "PD_RC5_CL4519289-230117_1657UTC",
-				"platform": "Windows"
+				"install_size": "0",
+				"is_dlc": false
 			},
-			"is_installed": true,
+			"is_installed": false,
 			"namespace": "0d23bb77ee2f45b7a571bde68caddb09",
 			"is_mac_native": false,
 			"save_folder": "{InstallDir}/sr5/_cloudfolder/saves/SR",
-			"save_path": null,
 			"title": "Saints Row",
 			"canRunOffline": true,
 			"is_linux_native": false,
@@ -966,9 +995,10 @@
 			"extra": {
 				"about": {
 					"description": "HITMAN 3",
-					"longDescription": "HITMAN 3"
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/hitman-3"
 			},
 			"folder_name": "HITMAN3",
 			"install": {
@@ -994,9 +1024,10 @@
 			"extra": {
 				"about": {
 					"description": "Shadow Tactics: Blades of the Shogun",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/shadow-tactics-blades-of-the-shogun"
 			},
 			"folder_name": "ShadowTactics",
 			"install": {
@@ -1022,9 +1053,10 @@
 			"extra": {
 				"about": {
 					"description": "Killing Floor 2",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/killing-floor-2"
 			},
 			"folder_name": "KillingFloor2",
 			"install": {
@@ -1050,9 +1082,10 @@
 			"extra": {
 				"about": {
 					"description": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Find it all in Fortnite!",
-					"longDescription": "**What's New**\nFortnite Chapter 4 Season 1\n\nIn the fourth Chapter of Fortnite's Battle Royale, go forth in a new realm and get around in new ways — ride a dirt bike, roll in a snowball, launch yourself with the Shockwave Hammer, and hurdle over obstacles. Power yourself up with Reality Augments and claim territory for your squad, leaving behind Banners to declare what’s yours. And of course, venture with newly-forged weapons.\n\n**Description**\nFortnite is a world of many experiences. Drop onto the Island and compete to be the last player — or team — standing. Hang out with friends to catch a concert or a movie. Create a world of your own with your own rules, or discover a world created by other players. \n\nFortnite on mobile brings everything you love about the game onto your favorite on-the-go device. Join and chat with your friends -- regardless of what platform they’re on -- and make progress on your Battle Pass the same way you would on a PC or console!\n\nTHE BATTLE IS BUILDING - Explore a large, destructible world where no two games are ever the same. Build huge forts, find loot and squad up with friends to earn your Victory Royale. \n\nSQUAD UP WITH FRIENDS - Take the party with you! Regardless of where your friends are playing, the Fortnite app lets you stay connected with your friends. \n\nEPIC UPDATES & EVENTS - Updates constantly fuel the fun. New gameplay modes, serious and insane new looks for your avatar, new weapons and items… Fortnite is always expanding.\n\nCONSOLE GAMING EXPERIENCE ON THE GO - Fortnite on mobile supports the most popular Bluetooth controllers on the market. After a quick pairing, you’ll be able to use the same control scheme you’re used to on consoles. \n\nRequires an internet connection.\n\nPowered by Unreal Engine."
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/fortnite"
 			},
 			"folder_name": "Fortnite",
 			"install": {
@@ -1078,9 +1111,10 @@
 			"extra": {
 				"about": {
 					"description": "Jotun Valhalla Edition",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/jotun-valhalla-edition"
 			},
 			"folder_name": "Jotun",
 			"install": {
@@ -1106,9 +1140,10 @@
 			"extra": {
 				"about": {
 					"description": "Shenmue 3",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/shenmue-3"
 			},
 			"folder_name": "Shenmue3",
 			"install": {
@@ -1134,9 +1169,10 @@
 			"extra": {
 				"about": {
 					"description": "Trackmania",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/trackmania"
 			},
 			"folder_name": "TrackmaniaNext",
 			"install": {
@@ -1162,9 +1198,10 @@
 			"extra": {
 				"about": {
 					"description": "Rocket League®",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/rocket-league"
 			},
 			"folder_name": "rocketleague",
 			"install": {
@@ -1190,9 +1227,10 @@
 			"extra": {
 				"about": {
 					"description": "Brothers - A Tale of Two Sons",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/brothers--a-tale-of-two-sons"
 			},
 			"folder_name": "BrothersATOTS",
 			"install": {
@@ -1218,9 +1256,10 @@
 			"extra": {
 				"about": {
 					"description": "Maneater",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/maneater"
 			},
 			"folder_name": "Maneater",
 			"install": {
@@ -1246,9 +1285,10 @@
 			"extra": {
 				"about": {
 					"description": "Gamedec - Definitive Edition",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/gamedec"
 			},
 			"folder_name": "gamedec",
 			"install": {
@@ -1274,9 +1314,10 @@
 			"extra": {
 				"about": {
 					"description": "Wolfenstein: The New Order",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/wolfenstein-the-new-order"
 			},
 			"folder_name": "WolfensteinTNO",
 			"install": {
@@ -1302,9 +1343,10 @@
 			"extra": {
 				"about": {
 					"description": "Hundred Days - Winemaking Simulator",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/hundred-days--winemaking-simulator"
 			},
 			"folder_name": "HundredDaysWineSim",
 			"install": {
@@ -1330,9 +1372,10 @@
 			"extra": {
 				"about": {
 					"description": "Berlin",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/berlin"
 			},
 			"folder_name": "Berlin",
 			"install": {
@@ -1358,9 +1401,10 @@
 			"extra": {
 				"about": {
 					"description": "Windbound",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/windbound"
 			},
 			"folder_name": "Windbound",
 			"install": {
@@ -1386,9 +1430,10 @@
 			"extra": {
 				"about": {
 					"description": "Core",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/core"
 			},
 			"folder_name": "Core",
 			"install": {
@@ -1414,9 +1459,10 @@
 			"extra": {
 				"about": {
 					"description": "GOG GALAXY",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/gog-galaxy"
 			},
 			"folder_name": "GOGGALAXY",
 			"install": {
@@ -1442,9 +1488,10 @@
 			"extra": {
 				"about": {
 					"description": "Rage 2",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/rage-2"
 			},
 			"folder_name": "Rage2",
 			"install": {
@@ -1470,9 +1517,10 @@
 			"extra": {
 				"about": {
 					"description": "HITMAN 1 GOTY Upgrade",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/hitman-1-goty-upgrade"
 			},
 			"folder_name": "HITMAN1GOTYUpgrade",
 			"install": {
@@ -1498,9 +1546,10 @@
 			"extra": {
 				"about": {
 					"description": "Fallout 3: Game of the Year Edition",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/fallout-3-game-of-the-year-edition"
 			},
 			"folder_name": "fallout3",
 			"install": {
@@ -1526,9 +1575,10 @@
 			"extra": {
 				"about": {
 					"description": "BioShock 2 Remastered",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/bioshock-2-remastered"
 			},
 			"folder_name": "BioShock2Remastered",
 			"install": {
@@ -1554,9 +1604,10 @@
 			"extra": {
 				"about": {
 					"description": "Relicta",
-					"longDescription": "Relicta"
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/relicta"
 			},
 			"folder_name": "Relicta",
 			"install": {
@@ -1582,9 +1633,10 @@
 			"extra": {
 				"about": {
 					"description": "Horizon Chase Turbo",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/horizon-chase-turbo"
 			},
 			"folder_name": "HorizonChaseTurbo",
 			"install": {
@@ -1610,9 +1662,10 @@
 			"extra": {
 				"about": {
 					"description": "BioShock Remastered",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/bioshock-remastered"
 			},
 			"folder_name": "BioshockRemastered",
 			"install": {
@@ -1638,9 +1691,10 @@
 			"extra": {
 				"about": {
 					"description": "Cities Skylines",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/cities-skylines"
 			},
 			"folder_name": "CitiesSkylines",
 			"install": {
@@ -1658,6 +1712,36 @@
 			"store_url": "https://www.epicgames.com/store/product/cities-skylines"
 		},
 		{
+			"app_name": "bobcat",
+			"art_cover": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/item/MAV_EPIC_LANDSCAPE-Product-Image_2560x1440-2560x1440-f09b204b4eb17f85e997a247901b8d81-2560x1440-f09b204b4eb17f85e997a247901b8d81.jpg",
+			"art_square": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/item/MAV_EPIC_PORTRAIT-Product-Image_1200x1600-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Electronic Arts",
+			"extra": {
+				"about": {
+					"description": "Star Wars Squadrons",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/star-wars-squadrons"
+			},
+			"folder_name": "StarWarsSquadrons",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "bc2b0372eaa448469cb9a769f27acea1",
+			"is_mac_native": false,
+			"save_folder": "",
+			"title": "Star Wars Squadrons",
+			"canRunOffline": true,
+			"thirdPartyManagedApp": "Origin",
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/star-wars-squadrons"
+		},
+		{
 			"app_name": "cfcad5e03dd543da9922c6a6751710f5",
 			"art_cover": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Landscape-2560x1440-bd7696342eacc951048c0765a204f371.jpg",
 			"art_square": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Portrait-1200x1600-3fc0bd6600d6b73d5aef1754e68f2e9a.jpg",
@@ -1666,9 +1750,10 @@
 			"extra": {
 				"about": {
 					"description": "HITMAN 2 Expansion",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/hitman-2-expansion"
 			},
 			"folder_name": "HITMAN2Expansion",
 			"install": {
@@ -1694,9 +1779,10 @@
 			"extra": {
 				"about": {
 					"description": "Spirit of the North",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/spirit-of-the-north"
 			},
 			"folder_name": "SpiritoftheNorth1sjns",
 			"install": {
@@ -1722,9 +1808,10 @@
 			"extra": {
 				"about": {
 					"description": "Tomb Raider GAME OF THE YEAR EDITION",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/tomb-raider-game-of-the-year-edition"
 			},
 			"folder_name": "TombRaiderGOTYE",
 			"install": {
@@ -1750,9 +1837,10 @@
 			"extra": {
 				"about": {
 					"description": "A heavy metal inspired arcade combat with puzzle elements and gore galore. Stunning visuals and true old school gameplay accompanied by the most metal soundtrack you've ever heard.",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/slain-back-from-hell"
 			},
 			"folder_name": "Slain",
 			"install": {
@@ -1778,9 +1866,10 @@
 			"extra": {
 				"about": {
 					"description": "Aven Colony",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/aven-colony"
 			},
 			"folder_name": "AvenColony",
 			"install": {
@@ -1806,9 +1895,10 @@
 			"extra": {
 				"about": {
 					"description": "The Captain",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/the-captain"
 			},
 			"folder_name": "TheCaptain",
 			"install": {
@@ -1834,9 +1924,10 @@
 			"extra": {
 				"about": {
 					"description": "Never Alone (Kisima Ingitchuna)",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/never-alone-(kisima-ingitchuna)"
 			},
 			"folder_name": "NeverAlone",
 			"install": {
@@ -1862,9 +1953,10 @@
 			"extra": {
 				"about": {
 					"description": "Amnesia: Rebirth",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/amnesia-rebirth"
 			},
 			"folder_name": "AmnesiaRebirth",
 			"install": {
@@ -1890,9 +1982,10 @@
 			"extra": {
 				"about": {
 					"description": "Dubai",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/dubai"
 			},
 			"folder_name": "Dubai",
 			"install": {
@@ -1918,9 +2011,10 @@
 			"extra": {
 				"about": {
 					"description": "Rise of the Tomb Raider: 20 Year Celebration",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/rise-of-the-tomb-raider-20-year-celebration"
 			},
 			"folder_name": "RiseoftheTombRaider",
 			"install": {
@@ -1946,9 +2040,10 @@
 			"extra": {
 				"about": {
 					"description": "BioShock Infinite: Complete Edition",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/bioshock-infinite-complete-edition"
 			},
 			"folder_name": "BioshockInfiniteCompleteEdition",
 			"install": {
@@ -1974,9 +2069,10 @@
 			"extra": {
 				"about": {
 					"description": "Dartmoor",
-					"longDescription": ""
+					"shortDescription": ""
 				},
-				"reqs": []
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/dartmoor"
 			},
 			"folder_name": "Dartmoor",
 			"install": {
@@ -1992,35 +2088,6 @@
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/dartmoor"
-		},
-		{
-			"app_name": "bobcat",
-			"art_cover": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/item/MAV_EPIC_LANDSCAPE-Product-Image_2560x1440-2560x1440-f09b204b4eb17f85e997a247901b8d81-2560x1440-f09b204b4eb17f85e997a247901b8d81.jpg",
-			"art_square": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/item/MAV_EPIC_PORTRAIT-Product-Image_1200x1600-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33.jpg",
-			"cloud_save_enabled": false,
-			"developer": "Electronic Arts",
-			"extra": {
-				"about": {
-					"description": "Star Wars Squadrons",
-					"longDescription": ""
-				},
-				"reqs": []
-			},
-			"folder_name": "StarWarsSquadrons",
-			"install": {
-				"install_size": "0",
-				"is_dlc": false
-			},
-			"is_installed": false,
-			"namespace": "bc2b0372eaa448469cb9a769f27acea1",
-			"is_mac_native": false,
-			"save_folder": "",
-			"title": "Star Wars Squadrons",
-			"canRunOffline": true,
-			"thirdPartyManagedApp": "Origin",
-			"is_linux_native": false,
-			"runner": "legendary",
-			"store_url": "https://www.epicgames.com/store/product/star-wars-squadrons"
 		}
 	]
 }

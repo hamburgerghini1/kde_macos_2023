@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=proton_recovery_codes.txt
+Type=Link
+URL[$e]=file:$HOME/Downloads/proton_recovery_codes.txt
+X-KDE-LastOpenedWith=org.freedesktop.impl.portal.desktop.kde

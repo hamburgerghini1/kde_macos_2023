@@ -1,0 +1,214 @@
+[thread ffffffff][I][0]: Log system initialised
+[thread ffffffff][I][4]: Default allowed number of simultaneously open files in the system is 9816.
+[thread ffffffff][I][4]: Current memlock limit is 8388608.
+[thread ffffffff][I][4]: setrlimit(RLIMIT_MEMLOCK) failed, (1) Operation not permitted
+[thread ffffffff][I][50]: setup_teb_register() - using LDT entry 13
+[thread 00000001][I][50]: Linux kernel version: 6.1.8-202.fsync.fc37.x86_64
+[thread 00000001][I][50]: Linux glibc version: 2.36
+[thread 00000001][I][60]: Forcing OpenGL Core context usage
+[thread 00000001][I][62]: OpenGL Core context version 4.6 detected
+[thread 00000001][I][76]: OpenGL information:
+[thread 00000001][I][77]:     renderer: AMD Radeon RX 6700 XT (navi22, LLVM 15.0.7, DRM 3.49, 6.1.8-202.fsync.fc37.x86_64)
+[thread 00000001][I][77]:     vendor: AMD
+[thread 00000001][I][77]:     version: 4.6 (Core Profile) Mesa 22.3.4
+[thread 00000001][I][77]:     GLSL version: 4.60
+[thread 00000001][I][77]:     Max surface size: 16384
+[thread 00000001][I][77]:     Supported and usable: texture_mirror_clamp_to_edge: yes
+[thread 00000001][I][77]:     Supported and usable: texture_storage: yes
+[thread 00000001][I][77]:     Supported and usable: copy_image: yes
+[thread 00000001][I][77]:     Supported and usable: texture_storage_multisample: yes
+[thread 00000001][I][77]:     Supported and usable: texture_view: yes
+[thread 00000001][I][77]:     Supported and usable: ATI_separate_stencil: yes
+[thread 00000001][I][77]:     Supported and usable: EXT_stencil_two_side: no
+[thread 00000001][I][77]:     Supported and usable: texture_filter_anisotropic: yes
+[thread 00000001][I][77]:     Supported and usable: explicit_attrib_location: yes
+[thread 00000001][I][77]:     Supported and usable: compressed 3D textures (VTC): no
+[thread 00000001][I][77]:     Supported and usable: clear_buffer_object: yes
+[thread 00000001][I][77]:     Supported and usable: clear_texture: yes
+[thread 00000001][I][77]:     Available texture memory (from NVidia extension): 28963366 kB
+[thread 00000001][I][77]:     Multisample textures test:
+[thread 00000001][I][77]:         GL_RGBA8 (0x8058): 8 samples
+[thread 00000001][I][77]:         GL_RGBA8UI (0x8d7c): 8 samples
+[thread 00000001][I][77]:         GL_RGBA8I (0x8d8e): 8 samples
+[thread 00000001][I][77]:         GL_RGBA12 (0x805a): 8 samples
+[thread 00000001][I][77]:         GL_RGBA16 (0x805b): 8 samples
+[thread 00000001][I][77]:         GL_RGBA16F (0x881a): 8 samples
+[thread 00000001][I][78]:         GL_RGBA32 (0x8814): 8 samples
+[thread 00000001][I][78]:         GL_RGBA16I (0x8d88): 8 samples
+[thread 00000001][I][78]:         GL_RGBA16UI (0x8d76): 8 samples
+[thread 00000001][I][78]:         GL_RGBA32I (0x8d82): 8 samples
+[thread 00000001][I][78]:         GL_RGBA32UI (0x8d70): 8 samples
+[thread 00000001][I][78]:         GL_RGB8 (0x8051): 8 samples
+[thread 00000001][I][78]:         GL_RGB32F (0x8815): 8 samples
+[thread 00000001][I][79]:         GL_RGB32I (0x8d83): 8 samples
+[thread 00000001][I][79]:         GL_RGB32UI (0x8d71): 8 samples
+[thread 00000001][I][79]:         GL_RG8 (0x822b): 8 samples
+[thread 00000001][I][79]:         GL_RG16 (0x822c): 8 samples
+[thread 00000001][I][79]:         GL_RG16F (0x822f): 8 samples
+[thread 00000001][I][79]:         GL_RG32F (0x8230): 8 samples
+[thread 00000001][I][79]:         GL_RG8I (0x8237): 8 samples
+[thread 00000001][I][80]:         GL_RG8UI (0x8238): 8 samples
+[thread 00000001][I][80]:         GL_RG16I (0x8239): 8 samples
+[thread 00000001][I][80]:         GL_RG16UI (0x823a): 8 samples
+[thread 00000001][I][80]:         GL_RG32I (0x823b): 8 samples
+[thread 00000001][I][80]:         GL_RG32UI (0x823c): 8 samples
+[thread 00000001][I][80]:         GL_R8 (0x8229): 8 samples
+[thread 00000001][I][81]:         GL_R16 (0x822a): 8 samples
+[thread 00000001][I][81]:         GL_R16F (0x822d): 8 samples
+[thread 00000001][I][81]:         GL_R32F (0x822e): 8 samples
+[thread 00000001][I][81]:         GL_R8I (0x8231): 8 samples
+[thread 00000001][I][81]:         GL_R8UI (0x8232): 8 samples
+[thread 00000001][I][81]:         GL_R16I (0x8233): 8 samples
+[thread 00000001][I][81]:         GL_R16UI (0x8234): 8 samples
+[thread 00000001][I][82]:         GL_R32I (0x8235): 8 samples
+[thread 00000001][I][82]:         GL_R32UI (0x8236): 8 samples
+[thread 00000001][I][82]:         GL_R8_SNORM (0x8f94): 8 samples
+[thread 00000001][I][82]:         GL_R16_SNORM (0x8f98): 8 samples
+[thread 00000001][I][82]:         GL_RG8_SNORM (0x8f95): 8 samples
+[thread 00000001][I][83]:         GL_RG16_SNORM (0x8f99): 8 samples
+[thread 00000001][I][83]:         GL_RGBA8_SNORM (0x8f97): 8 samples
+[thread 00000001][I][83]:         GL_RGBA16_SNORM (0x8f9b): 8 samples
+[thread 00000001][I][83]:         GL_SRGB8 (0x8c41): 8 samples
+[thread 00000001][I][83]:         GL_SRGB8_ALPHA8 (0x8c43): 8 samples
+[thread 00000001][I][83]:         GL_DEPTH_COMPONENT32F (0x8cac): 8 samples
+[thread 00000001][I][84]:         GL_DEPTH24_STENCIL8 (0x88f0): 8 samples
+[thread 00000001][I][84]:         GL_DEPTH_COMPONENT16 (0x81a5): 8 samples
+[thread 00000001][I][84]:         GL_DEPTH_COMPONENT24 (0x81a6): 8 samples
+[thread 00000001][I][84]:         GL_DEPTH32F_STENCIL8 (0x8cad): 8 samples
+[thread 00000001][I][84]:         GL_RGB10_A2 (0x8059): 8 samples
+[thread 00000001][I][84]:         GL_RGB10_A2UI (0x906f): 8 samples
+[thread 00000001][I][84]:         GL_R11F_G11F_B10F (0x8c3a): 8 samples
+[thread 00000001][I][84]:         GL_RGB565 (0x8d62): 8 samples
+[thread 00000001][I][85]:         GL_RGB5_A1 (0x8057): 8 samples
+[thread 00000001][I][85]:         GL_RGB9_E5 (0x8c3d): 8 samples
+[thread 00000001][I][87]: Gamepads: SDL_GAMECONTROLLERCONFIG - 03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux
+03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux
+[thread 00000001][I][87]: Gamepads: registered gamepad mapping for device GUID 03000000de280000ff11000001000000
+[thread 00000001][I][87]: Gamepads: registered gamepad mapping for device GUID 03000000de280000fc11000001000000
+[thread 00000001][I][87]: Gamepads: registered gamepad mapping for device GUID 030000006d0400001dc2000014400000
+[thread 00000001][I][87]: Gamepads: registered gamepad mapping for device GUID 030000006d0400001ec2000020200000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000019c2000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d0400001fc2000005030000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000016c2000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000011c2000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000019c2000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000018c2000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d0400009ac2000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d0400009bc2000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000020b3000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000023b3000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000009d0000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000008d0000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000000b3000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000015b3000006000000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000008916000000fd000024010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000008916000001fd000024010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000321500000009000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 050000003215000000090000163a0000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 05000000362800000100000002010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 05000000362800000100000003010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 050000007e0500003003000001000000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006f0e00001304000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006f0e00001f01000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400008502000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400008902000021010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400008e02000014010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400008e02000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400001907000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400009102000007010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400009102000014010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400008e02000004010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e040000d102000001010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000100800000100000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000250900000500000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006f0e00003001000001010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 060000004c0500006802000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004c0500006802000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 050000004c050000c405000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004c050000c405000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 0500000047532047616d657061640000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000ba2200002010000001010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000a306000023f6000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000008f0e00000300000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000008f0e00001200000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000260900008888000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 05000000d6200000ad0d000001000000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 0300000000f000000300000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 0300000000f00000f100000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000280400000140000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006f0e00001e01000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000ad1b000001f5000033050000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000790000000600000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000666600000488000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000790000001100000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400008e02000062230000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 0500000047532047616d657061640000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000ba2200002010000001010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000019c2000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d0400001dc2000014400000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d0400001ec2000020200000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000019c2000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d0400001fc2000005030000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004c0500006802000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400008e02000014010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400008e02000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400001907000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004c050000c405000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000de280000ff11000001000000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000100800000100000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000a306000023f6000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000020b3000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000023b3000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000008f0e00000300000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000008f0e00001200000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400009102000007010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000016c2000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000260900008888000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000011c2000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006d04000018c2000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 05000000d6200000ad0d000001000000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000009d0000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000008d0000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 0300000000f000000300000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 0300000000f00000f100000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006f0e00001f01000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000280400000140000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000005e0400008902000021010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000006f0e00001e01000011010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000250900000500000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000008916000000fd000024010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000004f04000000b3000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000ad1b000001f5000033050000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 050000004c050000c405000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 060000004c0500006802000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000790000000600000010010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 03000000666600000488000000010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 05000000362800000100000002010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 05000000362800000100000003010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 030000008916000001fd000024010000
+[thread 00000001][I][88]: Gamepads: registered gamepad mapping for device GUID 0000000058626f782047616d65706100
+[thread 00000001][I][100]: Gamepads: New potential device at device file '/dev/input/event258'
+[thread 00000001][I][100]: Gamepads:     New potential device under path '/dev/input/event258' is 'Microsoft X-Box 360 pad 0'
+[thread 00000001][I][100]: Gamepads:     Device GUID calculated as: 03000000de280000ff11000001000000
+[thread 00000001][I][100]: Gamepads:     Device 'Microsoft X-Box 360 pad 0' reports supporting FF_RUMBLE force feedback effect
+[thread 00000001][I][104]: Gamepads: New device added to gamepads list.
+[thread 00000001][I][104]: Gamepads: New potential device at device file '/dev/input/js2'
+[thread 00000001][I][130]: Gamepads:     New potential device rejected, couldn't get device name for device under path '/dev/input/js2'
+[thread 00000001][I][130]: Gamepads: New potential device at device file '/dev/input/event31'
+[thread 00000001][I][130]: Gamepads:     New potential device under path '/dev/input/event31' is 'Xbox Wireless Controller'
+[thread 00000001][I][130]: Gamepads:     Device GUID calculated as: 050000005e0400008e02000030110000
+[thread 00000001][I][130]: Gamepads:     Device 'Xbox Wireless Controller' reports supporting FF_RUMBLE force feedback effect
+[thread 00000001][I][130]: Gamepads: New device added to gamepads list.
+[thread 00000001][I][130]: Gamepads: New potential device at device file '/dev/input/js1'
+[thread 00000001][I][147]: Gamepads:     New potential device rejected, couldn't get device name for device under path '/dev/input/js1'
+[thread 00000001][I][152]: Found no valid VPFS database; created empty one.
+[thread 00000001][I][152]: Command line: '"C:\media\pelissd\SteamLibrary\steamapps\common\Saints Row IV\sre4_pc_release_final_dx11.exe"'
+[thread 00000001][E][182]: eON_GetProcAddress( 0x1693db0 ) for module 0x102ea080, in dylib 'crypt32.dll' FAILED, symbol 'CryptBinaryToStringW' not found! Returning EmptyFunction()
+[thread 00000001][I][182]: TomCrypt initializing...
+[thread 00000001][I][182]: TomCrypt initialized
+[thread 00000001][I][182]: DLL_PROCESS_ATTACH start.
+[thread 00000001][I][182]: DLL_PROCESS_ATTACH done.
+[thread 00000004][W][182]: eON_HeapSetInformation() - requested heap corruption termination, ignoring
+[thread 00000004][W][191]: REGISTRY OPERATION: RegOpenKeyExW() returns ERROR_NOT_FOUND (subkey not found) key = HKEY_CURRENT_USER, subkey = Control Panel\Desktop
+[thread 00000004][W][735]: Refreshing folder '/media/pelissd/SteamLibrary/steamapps/common/Saints Row IV/', temp folder is 'C:\tmp\Saintu8Z1IX\'.
+[thread 00000004][I][764]: ===enforcing log flush===

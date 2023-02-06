@@ -1,0 +1,1 @@
+2023-01-29T10:34:49 [WARN ] default: Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)

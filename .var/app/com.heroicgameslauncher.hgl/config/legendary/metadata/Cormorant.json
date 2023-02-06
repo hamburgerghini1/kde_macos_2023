@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Cormorant",
       "asset_id": "Cormorant",
-      "build_version": "PD_RC5_CL4519289-230117_1657UTC",
+      "build_version": "PD_RC6_CL4537292-230131_1926UTC",
       "catalog_item_id": "d5326cb42d704158bab2dc1629295838",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -13,11 +13,11 @@
     }
   },
   "base_urls": [
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
     "https://download.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
     "https://download2.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
     "https://download3.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
     "https://download4.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
-    "https://epicgames-download1.akamaized.net/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default",
     "https://fastly-download.epicgames.com/Builds/Org/o-jskfz28ywm2l56px6h9rlxplaysrtl/e9b00dcbdbed48278bebb3cfeb08a454/default"
   ],
   "metadata": {

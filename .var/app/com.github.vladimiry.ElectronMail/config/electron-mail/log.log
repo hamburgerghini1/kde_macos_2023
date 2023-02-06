@@ -1,0 +1,21 @@
+[2023-02-06 10:35:43.424] [error] src/electron-main/web-contents.ts {"level":3,"message":"[object Object]","line":9488,"sourceId":"file:///app/ElectronMail/resources/app.asar/app/web/browser-window/index.mjs"}
+[2023-02-06 10:35:43.429] [error] src/web/browser-window/app/app.error-handler.service.ts {
+  name: 'AbortError',
+  message: 'The user aborted a request.',
+  stack: 'AbortError: The user aborted a request.\n' +
+    '    at deserializeError (<anonymous>:728:17)\n' +
+    '    at <anonymous>:955:63\n' +
+    '    at Observable.init [as _subscribe] (<anonymous>:5192:35)\n' +
+    '    at Observable._trySubscribe (<anonymous>:3207:25)\n' +
+    '    at <anonymous>:3201:121\n' +
+    '    at Object.errorContext (<anonymous>:10331:16)\n' +
+    '    at Observable.subscribe (<anonymous>:3199:26)\n' +
+    '    at doInnerSub (<anonymous>:6915:58)\n' +
+    '    at outerNext (<anonymous>:6909:40)\n' +
+    '    at OperatorSubscriber._this._next (<anonymous>:5367:15)'
+}
+[2023-02-06 10:35:46.418] [error] src/electron-preload/webview/lib/const.ts [preload: webview/primary] src/electron-preload/webview/primary/api/index.ts [pubsub-to-rpc-api] [provider] notification.error {"name":"notification","channel":"electron-mail:webview-api:primary","payloadType":"request","uid":"13e6eb41-5893-4fe6-a016-fefc02cd93ee"} {
+  code: '20',
+  message: 'The user aborted a request.',
+  name: 'AbortError'
+}

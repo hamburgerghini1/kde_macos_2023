@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="steam.desktop" score="159" last-seen="1675329949"/>
+    <application id="discord.desktop" score="1" last-seen="1675320325"/>
+    <application id="firefox.desktop" score="20" last-seen="1675327118"/>
+    <application id="blueman-manager.desktop" score="0" last-seen="1675320311"/>
+    <application id="org.gnome.Settings.desktop" score="1" last-seen="1675271642"/>
+  </context>
+</application-state>

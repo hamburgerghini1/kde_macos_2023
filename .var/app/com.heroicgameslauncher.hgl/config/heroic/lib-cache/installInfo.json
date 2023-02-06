@@ -3,9 +3,9 @@
 		"game": {
 			"app_name": "Cormorant",
 			"title": "Saints Row",
-			"version": "PD_RC5_CL4519289-230117_1657UTC",
+			"version": "PD_RC6_CL4537292-230131_1926UTC",
 			"platform_versions": {
-				"Windows": "PD_RC5_CL4519289-230117_1657UTC"
+				"Windows": "PD_RC6_CL4537292-230131_1926UTC"
 			},
 			"cloud_saves_supported": true,
 			"cloud_save_folder": "{InstallDir}/sr5/_cloudfolder/saves/SR",
@@ -15,25 +15,35 @@
 			"launch_options": [],
 			"owned_dlc": []
 		},
-		"install": null,
+		"install": {
+			"platform": "Windows",
+			"version": "PD_RC5_CL4519289-230117_1657UTC",
+			"disk_size": 47645737956,
+			"install_path": "/run/user/1000/doc/c1ed32d7/Heroic/SaintsRow",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": true,
+			"installed_dlc": []
+		},
 		"manifest": {
-			"size": 2953577,
+			"size": 2953327,
 			"type": "binary",
 			"version": 17,
 			"feature_level": 17,
 			"app_name": "f97926ecd621464b97a2f1a40a3539e7",
 			"launch_exe": "sr5/SRLauncher.exe",
 			"launch_command": "-packfiles thqnocfg=thqnocfg_epic_standalone_voice",
-			"build_version": "PD_RC5_CL4519289-230117_1657UTC",
-			"build_id": "EiFU6Z3DlHWSIJoWRxdbHpjlehQ",
+			"build_version": "PD_RC6_CL4537292-230131_1926UTC",
+			"build_id": "2rH1cDZjE-byuDV7Gq-P8Y56E58",
 			"prerequisites": null,
 			"install_tags": [
 				""
 			],
 			"num_files": 40,
-			"num_chunks": 43448,
-			"disk_size": 47645737956,
-			"download_size": 40968654708,
+			"num_chunks": 43445,
+			"disk_size": 47641853941,
+			"download_size": 40968586006,
 			"tag_disk_size": [],
 			"tag_download_size": []
 		}

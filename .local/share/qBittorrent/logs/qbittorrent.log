@@ -1,0 +1,47 @@
+(N) 2023-02-04T16:02:34 - qBittorrent v4.5.0 started
+(N) 2023-02-04T16:02:34 - Using config directory: /home/tommi/.config/qBittorrent
+(N) 2023-02-04T16:02:36 - Trying to listen on the following list of IP addresses: "0.0.0.0:50850,[::]:50850"
+(I) 2023-02-04T16:02:36 - Peer ID: "-qB4500-"
+(I) 2023-02-04T16:02:36 - HTTP User-Agent: "qBittorrent/4.5.0"
+(I) 2023-02-04T16:02:36 - Distributed Hash Table (DHT) support: ON
+(I) 2023-02-04T16:02:36 - Local Peer Discovery support: ON
+(I) 2023-02-04T16:02:36 - Peer Exchange (PeX) support: ON
+(I) 2023-02-04T16:02:36 - Anonymous mode: OFF
+(I) 2023-02-04T16:02:36 - Encryption support: ON
+(I) 2023-02-04T16:02:36 - UPnP/NAT-PMP support: ON
+(I) 2023-02-04T16:02:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/50850"
+(I) 2023-02-04T16:02:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/50850"
+(I) 2023-02-04T16:02:36 - Successfully listening on IP. IP: "192.168.1.86". Port: "TCP/50850"
+(I) 2023-02-04T16:02:36 - Successfully listening on IP. IP: "192.168.1.86". Port: "UTP/50850"
+(I) 2023-02-04T16:02:36 - Successfully listening on IP. IP: "::1". Port: "TCP/50850"
+(I) 2023-02-04T16:02:36 - Successfully listening on IP. IP: "::1". Port: "UTP/50850"
+(I) 2023-02-04T16:02:36 - Successfully listening on IP. IP: "fe80::77eb:ca2f:2761:c8b2%enp6s0". Port: "TCP/50850"
+(I) 2023-02-04T16:02:36 - Successfully listening on IP. IP: "fe80::77eb:ca2f:2761:c8b2%enp6s0". Port: "UTP/50850"
+(W) 2023-02-04T16:02:36 - Couldn't load IP geolocation database. Reason: No such file or directory
+(I) 2023-02-04T16:02:36 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: TCP/50850"
+(I) 2023-02-04T16:02:36 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: UDP/50850"
+(I) 2023-02-04T16:02:36 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.1.86 external port: TCP/50850"
+(I) 2023-02-04T16:02:36 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.1.86 external port: UDP/50850"
+(I) 2023-02-04T16:02:36 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: ke helmik. 1 03:23:30 2023.
+(I) 2023-02-04T16:02:36 - Successfully updated IP geolocation database.
+(N) 2023-02-04T16:02:41 - Added new torrent. Torrent: "elementaryos-7.0-stable.20230129rc.iso"
+(N) 2023-02-04T16:03:33 - Torrent download finished. Torrent: "elementaryos-7.0-stable.20230129rc.iso"
+(I) 2023-02-04T16:47:36 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: TCP/50850"
+(I) 2023-02-04T16:47:36 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: UDP/50850"
+(I) 2023-02-04T17:32:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: TCP/50850"
+(I) 2023-02-04T17:32:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: UDP/50850"
+(I) 2023-02-04T18:17:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: TCP/50850"
+(I) 2023-02-04T18:17:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: UDP/50850"
+(I) 2023-02-04T19:02:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: TCP/50850"
+(I) 2023-02-04T19:02:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: UDP/50850"
+(N) 2023-02-04T19:14:09 - Removed torrent and deleted its content. Torrent: "elementaryos-7.0-stable.20230129rc.iso"
+(N) 2023-02-04T19:14:14 - Added new torrent. Torrent: "Red Dead Redemtion GOTY [Xbox 360].rar"
+(N) 2023-02-04T19:17:54 - Torrent download finished. Torrent: "Red Dead Redemtion GOTY [Xbox 360].rar"
+(N) 2023-02-04T19:18:22 - Removed torrent. Torrent: "Red Dead Redemtion GOTY [Xbox 360].rar"
+(I) 2023-02-04T19:47:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: TCP/50850"
+(I) 2023-02-04T19:47:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: UDP/50850"
+(I) 2023-02-04T20:32:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: TCP/50850"
+(I) 2023-02-04T20:32:35 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. local: 192.168.1.86 external port: UDP/50850"
+(N) 2023-02-04T21:14:55 - qBittorrent termination initiated
+(I) 2023-02-04T21:14:55 - UPnP/NAT-PMP support: OFF
+(N) 2023-02-04T21:14:55 - qBittorrent is now ready to exit

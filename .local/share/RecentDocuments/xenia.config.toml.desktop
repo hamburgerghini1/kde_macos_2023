@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-toml
+Name=xenia.config.toml
+Type=Link
+URL[$e]=file:$HOME/Games/Emu/xenia/xenia.config.toml
+X-KDE-LastOpenedWith=org.kde.kate

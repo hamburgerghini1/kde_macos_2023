@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-octet-stream
+Name=Chromium.Web.Store.crx
+Type=Link
+URL[$e]=file:$HOME/Downloads/Chromium.Web.Store.crx
+X-KDE-LastOpenedWith=org.freedesktop.impl.portal.desktop.kde
