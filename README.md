@@ -22,7 +22,7 @@ System tray is default KDE program
 
 Clone the git repository
 ```javascript
-git clone https://github.com/hamburgerghini1/kde_macos_2023 ');
+git clone https://github.com/hamburgerghini1/kde_macos_2023
 ```
 
 Move everything toi your home directory
