@@ -6,14 +6,20 @@
 
 # Config has few depedencies:
 [Plank-dock](https://github.com/ricotz/plank)
+
 [Ulauncher](https://github.com/Ulauncher/Ulauncher)
 
 # Plasma applets:
 [Kpple menu](https://www.pling.com/p/1384156)
+
 [Clear clock](https://www.pling.com/p/1666554)
+
 [Better inline clock](https://www.pling.com/p/1245902)
+
 [Currently playing](https://www.pling.com/p/1821551)
+
 [Control centre](https://www.pling.com/p/1916655)
+
 [Window title](https://www.pling.com/p/1274218)
 
 System tray is default KDE program
