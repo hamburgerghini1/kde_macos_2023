@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+	[Desktop Entry]
+	Name=Ryujinx EmuDeck
+	Exec=/media/pelissd/Emudeck/Emulation/tools/launchers/ryujinx.sh
+	Icon=/home/tommi/.local/share/icons/emudeck/Ryujinx.svg
+	Terminal=false
+	Type=Application
+	Categories=Game;
+	StartupNotify=false

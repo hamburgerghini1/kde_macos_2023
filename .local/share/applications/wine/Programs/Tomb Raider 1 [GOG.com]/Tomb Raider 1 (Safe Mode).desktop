@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Tomb Raider 1 (Safe Mode)
+Exec=env WINEPREFIX="/home/tommi/Games/tomb-raider-1" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Tomb\\ Raider\\ 1\\ [GOG.com]\\\\Tomb\\ Raider\\ 1\\ \\(Safe\\ Mode\\).lnk
+Type=Application
+StartupNotify=true
+Comment=Tomb Raider 1 (Safe Mode)
+Path=/home/tommi/Games/tomb-raider-1/dosdevices/c:/GOG Games/Tomb Raider 1/DOSBOX
+Icon=5A4D_goggame-1207663463.0
+StartupWMClass=dosbox.exe

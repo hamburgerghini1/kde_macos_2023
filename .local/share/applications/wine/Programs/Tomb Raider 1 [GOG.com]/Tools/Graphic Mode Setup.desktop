@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Graphic Mode Setup
+Exec=env WINEPREFIX="/home/tommi/Games/tomb-raider-1" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Tomb\\ Raider\\ 1\\ [GOG.com]\\\\Tools\\\\Graphic\\ Mode\\ Setup.lnk
+Type=Application
+StartupNotify=true
+Comment=Graphic Mode Setup
+Path=/home/tommi/Games/tomb-raider-1/dosdevices/c:/GOG Games/Tomb Raider 1/DOSBOX
+Icon=8FD3_GOGDOSConfig.0
+StartupWMClass=gogdosconfig.exe

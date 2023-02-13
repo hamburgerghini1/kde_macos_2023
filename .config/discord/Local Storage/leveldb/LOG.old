@@ -1,0 +1,8 @@
+2023/02/11-11:02:03.551 cd8 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/02/11-11:02:03.551 cd8 Recovering log #1930
+2023/02/11-11:02:03.557 cd8 Level-0 table #1934: started
+2023/02/11-11:02:03.611 cd8 Level-0 table #1934: 1382570 bytes OK
+2023/02/11-11:02:03.616 cd8 Delete type=0 #1930
+2023/02/11-11:03:04.205 ed4 Level-0 table #1937: started
+2023/02/11-11:03:04.207 ed4 Level-0 table #1937: 23569 bytes OK
+2023/02/11-11:03:04.208 ed4 Delete type=0 #1935

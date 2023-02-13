@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-cd-image
+Name=ubuntu-20.04.5-desktop-amd64.iso
+Type=Link
+URL[$e]=file:$HOME/Downloads/ubuntu-20.04.5-desktop-amd64.iso
+X-KDE-LastOpenedWith=VirtualBox

@@ -1,0 +1,24 @@
+2023-02-08T09:57:20.368Z - info: [ui] [AppStore] loading 5 repositories from store
+2023-02-08T09:57:20.372Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-02-08T09:57:20.512Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.8-202.fsync.fc37.x86_64)
+2023-02-08T09:57:20.512Z - info: [ui] execPath: '/tmp/.mount_GitHubE0z7ej/github-desktop'
+2023-02-08T09:57:20.977Z - info: [ui] Stats reported.
+2023-02-08T09:57:21.066Z - info: [ui] [BranchPruner] Last prune took place 1 second ago - skipping
+2023-02-08T09:57:21.067Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-02-08T09:57:21.374Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-08T09:57:28.958Z - warn: [ui] fetchRepository: 'hamburgerghini1/dotfiles' returned a 404
+2023-02-08T09:57:29.132Z - warn: [ui] fetchRepository: 'hamburgerghini1/dotfiles' returned a 404
+2023-02-08T09:57:29.132Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - hamburgerghini1 (has token)
+2023-02-08T09:57:29.570Z - error: [ui] `git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+stderr:
+remote: Repository not found.
+fatal: repository 'https://github.com/hamburgerghini1/dotfiles.git/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2023-02-08T09:57:30.237Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 5 repositories took 2.4s of which 0.0s paused, total 2.4s
+2023-02-08T09:58:10.231Z - info: [ui] [AppStore] adding repository at /home/tommi/Documents/GitHub/KMac to store
+2023-02-08T09:59:17.573Z - info: [ui] [Timing] Action 'create commit' for 'KMac' took 0.251s
+2023-02-08T09:59:27.912Z - info: [ui] Executing push: git -c credential.helper= push origin main --set-upstream --progress (took 1.523s)
+2023-02-08T09:59:29.218Z - info: [ui] [BranchPruner] No branches to prune.
+2023-02-08T09:59:31.728Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: KMac - hamburgerghini1 (has token)

@@ -1,0 +1,10 @@
+Godot Engine v3.5.1.stable.custom_build.6fed1ffa3 - https://godotengine.org
+Godot Engine v3.5.1.stable.custom_build.6fed1ffa3 - https://godotengine.org
+Godot Engine v3.5.1.stable.custom_build.6fed1ffa3 - https://godotengine.org
+OpenGL ES 3.0 Renderer: AMD Radeon RX 6700 XT (navi22, LLVM 15.0.7, DRM 3.49, 6.1.8-202.fsync.fc37.x86_64)
+Async. shader compilation: OFF
+ 
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: cleanup (core/object.cpp:2070) - ObjectDB instances leaked at exit (run with --verbose for details).
+ERROR: Resources still in use at exit (run with --verbose for details).
+   at: clear (core/resource.cpp:417) - Resources still in use at exit (run with --verbose for details).

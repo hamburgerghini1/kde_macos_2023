@@ -1,12 +1,12 @@
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=None
+Highlighting=.desktop
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Normal
+Mode=.desktop
 Mode Set By User=false
-URL=file:///home/tommi/*message*-20230203-093054
+URL=file:///usr/share/applications/spotify_modded.desktop
 
 [Kate Plugins]
 cmaketoolsplugin=false
@@ -61,7 +61,7 @@ Kate-MDI-Sidebar-2-Splitter=1228
 Kate-MDI-Sidebar-3-Bar-0-TvList=output,kate_plugin_katesearch,kateprojectinfo,kate_private_plugin_katekonsoleplugin,kate_lspclient
 Kate-MDI-Sidebar-3-LastSize=200
 Kate-MDI-Sidebar-3-SectSizes=0
-Kate-MDI-Sidebar-3-Splitter=926
+Kate-MDI-Sidebar-3-Splitter=917
 Kate-MDI-Sidebar-Style=2
 Kate-MDI-Sidebar-Visible=true
 Kate-MDI-ToolView-kate_lspclient-Position=3
@@ -116,17 +116,17 @@ Orientation=1
 Sizes=1228
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/tommi/*message*-20230203-093054
+Active View=file:///usr/share/applications/spotify_modded.desktop
 Count=1
-Documents=file:///home/tommi/*message*-20230203-093054
-View 0=file:///home/tommi/*message*-20230203-093054
+Documents=file:///usr/share/applications/spotify_modded.desktop
+View 0=file:///usr/share/applications/spotify_modded.desktop
 
-[MainWindow0-ViewSpace 0 file:///home/tommi/*message*-20230203-093054]
+[MainWindow0-ViewSpace 0 file:///usr/share/applications/spotify_modded.desktop]
 CursorColumn=0
 CursorLine=0
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"9f60d7206bebdcfb4a39371edf8e1c6cce5e6048","ranges":[]}
+TextFolding={"checksum":"55736416dea483fb4dc86d532ed09396d747e8b8","ranges":[]}
 ViMarks=
 
 [Open Documents]
@@ -149,7 +149,7 @@ View Style=DetailTree
 auto sync folder=true
 filter history=
 highlight current file=true
-location=file:///home/tommi/
+location=file:///usr/share/applications/
 
 [Plugin:kateprojectplugin:]
 projects=
@@ -178,23 +178,23 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Mac OS Wallpapers/.directory
-File10[$e]=$HOME/*message*-20230203-093054
-File2[$e]=$HOME/.local/share/icons/macOS Cursor Set/COPYRIGHT
-File3[$e]=$HOME/.icons/MacOs-Icon-Theme/COPYING
-File4[$e]=$HOME/.icons/MacOs-Icon-Theme/index.theme
-File5[$e]=$HOME/.local/share/chezmoi/dot_bashrc
-File6[$e]=$HOME/Documents/GitHub/kde_macos_2023/.xsession-errors
-File7[$e]=$HOME/.config/rpcs3/GuiConfigs/CurrentSettings.ini
-File8[$e]=$HOME/Downloads/v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff
-File9[$e]=$HOME/Games/Emu/xenia/xenia.config.toml
-Name1[$e]=.directory
-Name10[$e]=*message*-20230203-093054
-Name2[$e]=COPYRIGHT
-Name3[$e]=COPYING
-Name4[$e]=index.theme
-Name5[$e]=dot_bashrc
-Name6[$e]=.xsession-errors
-Name7[$e]=CurrentSettings.ini
-Name8[$e]=v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff
-Name9[$e]=xenia.config.toml
+File1[$e]=$HOME/.local/share/chezmoi/dot_bashrc
+File10[$e]=/usr/share/applications/spotify_modded.desktop
+File2[$e]=$HOME/Documents/GitHub/kde_macos_2023/.xsession-errors
+File3[$e]=$HOME/.config/rpcs3/GuiConfigs/CurrentSettings.ini
+File4[$e]=$HOME/Downloads/v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff
+File5[$e]=$HOME/Games/Emu/xenia/xenia.config.toml
+File6[$e]=$HOME/*message*-20230203-093054
+File7[$e]=$HOME/.local/share/plasma/desktoptheme/Noctis-round/metadata.desktop
+File8[$e]=$HOME/Downloads/FAR.CRY.3.V1.05.PLUS25TRN.FLING/FAR.CRY.3.V1.05.PLUS25TRN.FLING.ZIP.txt
+File9[$e]=$HOME/Documents/surfshark_pass.txt
+Name1[$e]=dot_bashrc
+Name10[$e]=spotify_modded.desktop
+Name2[$e]=.xsession-errors
+Name3[$e]=CurrentSettings.ini
+Name4[$e]=v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff
+Name5[$e]=xenia.config.toml
+Name6[$e]=*message*-20230203-093054
+Name7[$e]=metadata.desktop
+Name8[$e]=FAR.CRY.3.V1.05.PLUS25TRN.FLING.ZIP.txt
+Name9[$e]=surfshark_pass.txt

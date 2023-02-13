@@ -2,7 +2,7 @@
 Type=Application
 Name=notepad
 MimeType=text/plain;
-Exec=env WINEPREFIX="/home/tommi/Games/epic-games-store" wine start /ProgIDOpen txtfile %f
+Exec=env WINEPREFIX="/home/tommi/Games/tr3" wine start /ProgIDOpen txtfile %f
 NoDisplay=true
 StartupNotify=true
 Icon=2E40_notepad.0

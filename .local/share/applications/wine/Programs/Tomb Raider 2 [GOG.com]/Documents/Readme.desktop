@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Readme
+Exec=env WINEPREFIX="/home/tommi/Games/tr2" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Tomb\\ Raider\\ 2\\ [GOG.com]\\\\Documents\\\\Readme.lnk
+Type=Application
+StartupNotify=true
+Comment=Readme
+Path=/home/tommi/Games/tr2/dosdevices/c:/GOG Games/Tomb Raider 2
+Icon=A363_Readme.0
+StartupWMClass=readme.txt

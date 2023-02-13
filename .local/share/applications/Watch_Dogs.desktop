@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Watch_Dogs
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/243470
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

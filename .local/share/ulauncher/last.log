@@ -1,124 +1,236 @@
-2023-02-06 10:19:59,021 | INFO | ulauncher: main() | Ulauncher version 0.0.0
-2023-02-06 10:19:59,021 | INFO | ulauncher: main() | Extension API version 2.0.0
-2023-02-06 10:19:59,021 | INFO | ulauncher: main() | GTK+ 3.24.36
-2023-02-06 10:19:59,021 | INFO | ulauncher: main() | Is Wayland: False
-2023-02-06 10:19:59,022 | INFO | ulauncher: main() | Wayland compatibility: off
-2023-02-06 10:19:59,048 | DEBUG | ulauncher.ui.windows.Builder: __init__() | consider using a pythonic name instead of design name 'input-box'
-2023-02-06 10:19:59,050 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'ulauncher_window','destroy', 'on_destroy'
-2023-02-06 10:19:59,051 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'ulauncher_window','focus_in_event', 'on_focus_in_event'
-2023-02-06 10:19:59,051 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'ulauncher_window','focus_out_event', 'on_focus_out_event'
-2023-02-06 10:19:59,052 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'input','key_press_event', 'on_input_key_press_event'
-2023-02-06 10:19:59,052 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_input_changed'
-2023-02-06 10:19:59,052 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_mnu_about_activate'
-2023-02-06 10:19:59,052 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_mnu_close_activate'
-2023-02-06 10:19:59,052 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_mnu_preferences_activate'
-2023-02-06 10:19:59,052 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_preferences_dialog_destroyed'
-2023-02-06 10:19:59,054 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:19:59,054 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:19:59,157 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
-2023-02-06 10:19:59,161 | INFO | ulauncher.search.apps.app_watcher: start() | Started scanning desktop dirs
-2023-02-06 10:19:59,161 | INFO | ulauncher.api.server.ExtensionServer: _start_thread() | Starting WS server on port 5054
-2023-02-06 10:19:59,180 | INFO | ulauncher.ui.windows.UlauncherWindow: bind_show_app_hotkey() | Trying to bind app hotkey: Super_L
-2023-02-06 10:19:59,201 | INFO | ulauncher.utils.desktop.reader: find_apps_cached() | Found 133 apps in cache
-2023-02-06 10:19:59,213 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/org.kde.kwin_rules_dialog.desktop": constructor returned NULL
-2023-02-06 10:19:59,216 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/org.kde.kded5.desktop": constructor returned NULL
-2023-02-06 10:19:59,229 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/evolution-calendar.desktop": constructor returned NULL
-2023-02-06 10:19:59,235 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/org.kde.kdeconnect_open.desktop": constructor returned NULL
-2023-02-06 10:19:59,236 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kipiplugins.desktop": constructor returned NULL
-2023-02-06 10:19:59,248 | INFO | ulauncher.utils.desktop.reader: find_apps_cached() | Found 134 apps in the system
-2023-02-06 10:19:59,248 | INFO | ulauncher.search.apps.app_watcher: start() | Scanned desktop dirs in 0.09 seconds
-2023-02-06 10:19:59,252 | DEBUG | ulauncher.search.apps.app_watcher: start() | Start watching desktop files...
-2023-02-06 10:20:08,051 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:20:08,051 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:20:08,074 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:20:31,294 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:20:31,294 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:20:31,300 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:20:32,048 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
-2023-02-06 10:20:32,050 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
-2023-02-06 10:20:32,053 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
-2023-02-06 10:20:32,501 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
-2023-02-06 10:20:32,962 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
-2023-02-06 10:20:33,897 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
-2023-02-06 10:20:34,073 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
-2023-02-06 10:20:34,194 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
-2023-02-06 10:20:34,370 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
-2023-02-06 10:20:35,254 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "BlueMail" (/var/lib/flatpak/exports/share/applications/net.blix.BlueMail.desktop)
-2023-02-06 10:20:35,628 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:20:35,628 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:20:35,632 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:20:36,077 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
-2023-02-06 10:20:37,205 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application BlueMail (/var/lib/flatpak/exports/share/applications/net.blix.BlueMail.desktop) Exec ['/usr/bin/flatpak', 'run', '--branch=stable', '--arch=x86_64', '--command=bluemail', '--file-forwarding', 'net.blix.BlueMail', '@@', '@@']
-2023-02-06 10:20:37,213 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:22:01,215 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:22:01,215 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:22:01,221 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:22:01,592 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:22:02,032 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
-2023-02-06 10:22:02,227 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 8 results
-2023-02-06 10:22:02,417 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:22:02,621 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:22:03,237 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:22:03,463 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 8 results
-2023-02-06 10:22:03,678 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
-2023-02-06 10:22:05,095 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application ProtonMail Import-Export app (/var/lib/flatpak/exports/share/applications/ch.protonmail.protonmail-import-export-app.desktop) Exec ['/usr/bin/flatpak', 'run', '--branch=stable', '--arch=x86_64', '--command=protonmail-import-export-app', 'ch.protonmail.protonmail-import-export-app']
-2023-02-06 10:22:05,104 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:22:17,260 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "RPCS3 (1)" (/home/tommi/.local/share/applications/appimagekit_9d546e706a1b13adaaa0ecf95105b565-RPCS3.desktop)
-2023-02-06 10:22:17,261 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "RPCS3 (1)" (/home/tommi/.local/share/applications/appimagekit_e31080ac9e61ffe2b81de6daef02ff95-RPCS3.desktop)
-2023-02-06 10:31:25,939 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:31:25,939 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:31:25,945 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:31:26,457 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
-2023-02-06 10:31:26,624 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
-2023-02-06 10:31:26,796 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
-2023-02-06 10:31:27,075 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Terminal (/usr/share/applications/org.gnome.Terminal.desktop) Exec ['gnome-terminal']
-2023-02-06 10:31:27,085 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:31:49,805 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:31:49,805 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:31:49,811 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:31:50,159 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:31:50,295 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
-2023-02-06 10:31:50,439 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 8 results
-2023-02-06 10:31:50,533 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
-2023-02-06 10:31:50,664 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:31:51,283 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "Proton Mail Bridge" (/var/lib/flatpak/exports/share/applications/ch.protonmail.protonmail-bridge.desktop)
-2023-02-06 10:31:52,876 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
-2023-02-06 10:31:53,040 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:31:53,257 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:31:53,840 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:31:54,173 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Proton Mail Bridge (/var/lib/flatpak/exports/share/applications/ch.protonmail.protonmail-bridge.desktop) Exec ['/usr/bin/flatpak', 'run', '--branch=stable', '--arch=x86_64', '--command=protonmail-bridge', 'ch.protonmail.protonmail-bridge']
-2023-02-06 10:31:54,183 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:32:30,925 | INFO | ulauncher.search.apps.app_watcher: _remove_file() | App was removed (/var/lib/flatpak/exports/share/applications/ch.protonmail.protonmail-bridge.desktop)
-2023-02-06 10:32:30,970 | INFO | ulauncher.search.apps.app_watcher: _remove_file() | App was removed (/var/lib/flatpak/exports/share/applications/ch.protonmail.protonmail-import-export-app.desktop)
-2023-02-06 10:33:50,789 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:33:50,789 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:33:50,795 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:33:51,227 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
-2023-02-06 10:33:51,374 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
-2023-02-06 10:33:51,473 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
-2023-02-06 10:33:53,077 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
-2023-02-06 10:33:53,288 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "ElectronMail" (/var/lib/flatpak/exports/share/applications/com.github.vladimiry.ElectronMail.desktop)
-2023-02-06 10:33:53,414 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
-2023-02-06 10:33:53,575 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
-2023-02-06 10:33:54,063 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application ElectronMail (/var/lib/flatpak/exports/share/applications/com.github.vladimiry.ElectronMail.desktop) Exec ['/usr/bin/flatpak', 'run', '--branch=stable', '--arch=x86_64', '--command=/app/bin/electron-mail', '--file-forwarding', 'com.github.vladimiry.ElectronMail', '--js-flags=--max-old-space-size=12288', '@@u', '@@']
-2023-02-06 10:33:54,073 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:35:03,004 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:35:03,004 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:35:03,010 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:35:03,415 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:35:03,809 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:35:04,205 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
-2023-02-06 10:35:04,383 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
-2023-02-06 10:35:04,470 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 8 results
-2023-02-06 10:35:05,222 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application ElectronMail (/var/lib/flatpak/exports/share/applications/com.github.vladimiry.ElectronMail.desktop) Exec ['/usr/bin/flatpak', 'run', '--branch=stable', '--arch=x86_64', '--command=/app/bin/electron-mail', '--file-forwarding', 'com.github.vladimiry.ElectronMail', '--js-flags=--max-old-space-size=12288', '@@u', '@@']
-2023-02-06 10:35:05,232 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:57:20,834 | INFO | ulauncher.search.apps.app_watcher: _remove_file() | App was removed (/var/lib/flatpak/exports/share/applications/net.blix.BlueMail.desktop)
-2023-02-06 10:58:40,749 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
-2023-02-06 10:58:40,749 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
-2023-02-06 10:58:40,753 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
-2023-02-06 10:58:41,231 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
-2023-02-06 10:58:41,390 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
-2023-02-06 10:58:41,505 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
-2023-02-06 10:58:41,674 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
-2023-02-06 10:58:42,591 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application GitHub Desktop (3.1.1-linux1) (/home/tommi/.local/share/applications/appimagekit_383fe3d02587a5b9e775e88e5a3b8ab4-GitHub_Desktop.desktop) Exec ['/home/tommi/Applications/GitHubDesktop-linux-3.1.1-linux1_e9bec7a83b86c3eb0fb2993e19e990a2.AppImage', '--no-sandbox']
-2023-02-06 10:58:42,598 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:27:50,655 | INFO | ulauncher: main() | Ulauncher version 0.0.0
+2023-02-11 11:27:50,656 | INFO | ulauncher: main() | Extension API version 2.0.0
+2023-02-11 11:27:50,656 | INFO | ulauncher: main() | GTK+ 3.24.36
+2023-02-11 11:27:50,656 | INFO | ulauncher: main() | Is Wayland: False
+2023-02-11 11:27:50,656 | INFO | ulauncher: main() | Wayland compatibility: off
+2023-02-11 11:27:50,676 | DEBUG | ulauncher.ui.windows.Builder: __init__() | consider using a pythonic name instead of design name 'input-box'
+2023-02-11 11:27:50,679 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'ulauncher_window','destroy', 'on_destroy'
+2023-02-11 11:27:50,679 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'ulauncher_window','focus_in_event', 'on_focus_in_event'
+2023-02-11 11:27:50,679 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'ulauncher_window','focus_out_event', 'on_focus_out_event'
+2023-02-11 11:27:50,680 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'input','key_press_event', 'on_input_key_press_event'
+2023-02-11 11:27:50,681 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_input_changed'
+2023-02-11 11:27:50,681 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_mnu_about_activate'
+2023-02-11 11:27:50,681 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_mnu_close_activate'
+2023-02-11 11:27:50,681 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_mnu_preferences_activate'
+2023-02-11 11:27:50,681 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_preferences_dialog_destroyed'
+2023-02-11 11:27:50,694 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 11:27:50,695 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 11:27:50,707 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
+2023-02-11 11:27:50,710 | INFO | ulauncher.search.apps.app_watcher: start() | Started scanning desktop dirs
+2023-02-11 11:27:50,711 | INFO | ulauncher.api.server.ExtensionServer: _start_thread() | Starting WS server on port 5054
+2023-02-11 11:27:50,730 | INFO | ulauncher.ui.windows.UlauncherWindow: bind_show_app_hotkey() | Trying to bind app hotkey: Super_L
+2023-02-11 11:27:50,757 | INFO | ulauncher.utils.desktop.reader: find_apps_cached() | Found 166 apps in cache
+2023-02-11 11:27:50,764 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/home/tommi/.local/share/applications/EmuDeck.desktop": constructor returned NULL
+2023-02-11 11:27:50,778 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/org.kde.kwin_rules_dialog.desktop": constructor returned NULL
+2023-02-11 11:27:50,782 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/org.kde.kded5.desktop": constructor returned NULL
+2023-02-11 11:27:50,795 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/evolution-calendar.desktop": constructor returned NULL
+2023-02-11 11:27:50,800 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/org.kde.kdeconnect_open.desktop": constructor returned NULL
+2023-02-11 11:27:50,800 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kipiplugins.desktop": constructor returned NULL
+2023-02-11 11:27:50,818 | INFO | ulauncher.utils.desktop.reader: find_apps_cached() | Found 166 apps in the system
+2023-02-11 11:27:50,818 | INFO | ulauncher.search.apps.app_watcher: start() | Scanned desktop dirs in 0.11 seconds
+2023-02-11 11:27:50,826 | DEBUG | ulauncher.search.apps.app_watcher: start() | Start watching desktop files...
+2023-02-11 11:28:19,882 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 11:28:19,882 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 11:28:19,898 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:28:20,236 | INFO | ulauncher.utils.image_loader: get_app_icon_pixbuf() | Could not load icon for steamdeck-gaming-return. E: gtk-icon-theme-error-quark: Icon 'steamdeck-gaming-return' not present in theme BigSur-dark (0)
+2023-02-11 11:28:20,238 | INFO | ulauncher.utils.image_loader: get_app_icon_pixbuf() | Could not load icon for appimagekit_41b40c901e2b5bc5317584c4f8b90dd4_PCSX2. E: gtk-icon-theme-error-quark: Icon 'appimagekit_41b40c901e2b5bc5317584c4f8b90dd4_PCSX2' not present in theme BigSur-dark (0)
+2023-02-11 11:28:20,488 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:28:20,493 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-11 11:28:20,582 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-11 11:28:20,759 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
+2023-02-11 11:28:21,153 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Oracle VM VirtualBox (/usr/share/applications/virtualbox.desktop) Exec ['VirtualBox']
+2023-02-11 11:28:21,162 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:55:05,276 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 11:55:05,276 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 11:55:05,280 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:55:06,878 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 11:55:06,878 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 11:55:06,882 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:55:07,518 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 11:55:07,518 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 11:55:07,522 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:56:20,890 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "Spotify (adblock)" (/usr/share/applications/spotify_modded.desktop)
+2023-02-11 11:56:24,002 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 11:56:24,002 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 11:56:24,007 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:56:24,283 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-11 11:56:24,540 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-02-11 11:56:24,775 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-02-11 11:56:24,786 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-02-11 11:56:24,864 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:56:25,067 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-02-11 11:56:25,973 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-02-11 11:56:26,216 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-02-11 11:56:51,291 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 11:56:51,291 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 11:56:51,297 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:56:51,567 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-11 11:56:51,770 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-02-11 11:56:51,992 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-02-11 11:56:52,080 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-02-11 11:56:52,084 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-11 11:56:52,740 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Spotify (adblock) (/usr/share/applications/spotify_modded.desktop) Exec ['flatpak', 'run', '--file-forwarding', '--command=sh', 'com.spotify.Client', '-c', 'eval "$(sed s#LD_PRELOAD=#LD_PRELOAD=$HOME/.spotify-adblock/spotify-adblock.so:#g /app/bin/spotify)"', '@@u', '@@']
+2023-02-11 11:56:52,748 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:56:58,390 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 11:56:58,390 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 11:56:58,393 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 11:56:58,823 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-11 11:56:58,921 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-11 11:56:59,421 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Plank (/usr/share/applications/plank.desktop) Exec ['plank']
+2023-02-11 11:56:59,429 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 12:09:22,204 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 12:09:22,205 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 12:09:22,208 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 12:09:23,331 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-11 12:09:23,673 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-02-11 12:09:23,890 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-02-11 12:29:48,109 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 12:29:48,109 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 12:29:48,114 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 15:11:53,365 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "Saints Row IV" (/home/tommi/.local/share/applications/Saints Row IV.desktop)
+2023-02-11 15:11:54,346 | INFO | ulauncher.search.apps.app_watcher: _remove_file() | App was removed (/home/tommi/.local/share/applications/My dream setup Demo.desktop)
+2023-02-11 17:01:59,075 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 17:01:59,076 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 17:01:59,085 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 17:01:59,480 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-11 17:01:59,584 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-11 17:02:00,085 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Plank (/usr/share/applications/plank.desktop) Exec ['plank']
+2023-02-11 17:02:00,095 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 17:38:07,622 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-11 17:38:07,623 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-11 17:38:07,627 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 17:38:08,220 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 17:38:08,471 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-11 17:38:08,676 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-11 17:38:08,859 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
+2023-02-11 17:38:09,237 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Oracle VM VirtualBox (/usr/share/applications/virtualbox.desktop) Exec ['VirtualBox']
+2023-02-11 17:38:09,252 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-11 18:43:35,874 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "Hi-Fi RUSH" (/home/tommi/.local/share/applications/Hi-Fi RUSH.desktop)
+2023-02-11 18:56:51,906 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "ToS Gamepad Tester" (/home/tommi/.local/share/applications/ToS Gamepad Tester.desktop)
+2023-02-12 10:47:36,553 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 10:47:36,553 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 10:47:36,558 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 10:47:37,275 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 10:47:37,456 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 10:47:37,768 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 10:47:38,091 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-02-12 10:47:39,477 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application balenaEtcher (1.15.5) (/home/tommi/.local/share/applications/appimagekit_90e0bc46eed0f8b5b3031577bb252335-balenaEtcher.desktop) Exec ['/home/tommi/Applications/balenaEtcher-1.15.5-x64_787f8776dc26091cb586db22da3309a4.AppImage', '--no-sandbox']
+2023-02-12 10:47:39,486 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 10:47:43,219 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 10:47:43,219 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 10:47:43,223 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 10:47:44,281 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 10:47:44,421 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-02-12 10:47:45,236 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 10:47:45,375 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 10:47:46,235 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 10:47:46,363 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 8 results
+2023-02-12 10:47:46,629 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-12 10:47:46,838 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-02-12 10:47:46,954 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-02-12 10:47:47,410 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application KDE Partition Manager (/usr/share/applications/org.kde.partitionmanager.desktop) Exec ['partitionmanager']
+2023-02-12 10:47:47,424 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 10:59:22,089 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 10:59:22,090 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 10:59:22,105 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 10:59:22,674 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 10:59:23,294 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 10:59:23,523 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 10:59:23,717 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-02-12 10:59:24,331 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application balenaEtcher (1.15.5) (/home/tommi/.local/share/applications/appimagekit_90e0bc46eed0f8b5b3031577bb252335-balenaEtcher.desktop) Exec ['/home/tommi/Applications/balenaEtcher-1.15.5-x64_787f8776dc26091cb586db22da3309a4.AppImage', '--no-sandbox']
+2023-02-12 10:59:24,340 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 11:25:36,562 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 11:25:36,562 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 11:25:36,566 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 11:25:37,031 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 11:25:37,259 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 11:25:37,456 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
+2023-02-12 11:26:21,450 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "GeForce NOW" (/var/lib/flatpak/exports/share/applications/io.github.hmlendea.geforcenow-electron.desktop)
+2023-02-12 11:26:33,456 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "Citra" (/var/lib/flatpak/exports/share/applications/org.citra_emu.citra.desktop)
+2023-02-12 11:27:08,018 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 11:27:08,018 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 11:27:08,032 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 11:27:08,469 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 11:27:08,567 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 11:27:08,748 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-02-12 11:27:09,193 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application GeForce NOW (/var/lib/flatpak/exports/share/applications/io.github.hmlendea.geforcenow-electron.desktop) Exec ['/usr/bin/flatpak', 'run', '--branch=stable', '--arch=x86_64', 'io.github.hmlendea.geforcenow-electron']
+2023-02-12 11:27:09,226 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 11:36:16,291 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 11:36:16,292 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 11:36:16,299 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 11:36:16,985 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 11:36:16,985 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 11:36:16,988 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 11:36:21,555 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 11:36:21,556 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 11:36:21,560 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 11:36:22,349 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 11:36:22,349 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 11:36:22,353 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 11:43:48,037 | INFO | ulauncher.search.apps.app_watcher: _remove_file() | App was removed (/home/tommi/.local/share/applications/Road 96.desktop)
+2023-02-12 11:44:01,519 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "Heavy Rain" (/home/tommi/.local/share/applications/Heavy Rain.desktop)
+2023-02-12 12:05:15,616 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 12:05:15,616 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 12:05:15,622 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 12:05:16,033 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-12 12:05:16,237 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
+2023-02-12 12:05:16,681 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Brave (/var/lib/flatpak/exports/share/applications/com.brave.Browser.desktop) Exec ['/usr/bin/flatpak', 'run', '--branch=stable', '--arch=x86_64', '--command=brave', '--file-forwarding', 'com.brave.Browser', '@@u', '@@']
+2023-02-12 12:05:16,690 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 12:39:17,793 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 12:39:17,793 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 12:39:17,799 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 13:52:01,591 | INFO | ulauncher.search.apps.app_watcher: _remove_file() | App was removed (/home/tommi/.local/share/applications/METAL GEAR SOLID V THE PHANTOM PAIN.desktop)
+2023-02-12 13:52:13,898 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "Grand Theft Auto IV: The Complete Edition" (/home/tommi/.local/share/applications/Grand Theft Auto IV The Complete Edition.desktop)
+2023-02-12 13:57:19,542 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 13:57:19,543 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 13:57:19,548 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 13:57:20,126 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-12 13:57:20,283 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
+2023-02-12 13:57:20,780 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Brave (/var/lib/flatpak/exports/share/applications/com.brave.Browser.desktop) Exec ['/usr/bin/flatpak', 'run', '--branch=stable', '--arch=x86_64', '--command=brave', '--file-forwarding', 'com.brave.Browser', '@@u', '@@']
+2023-02-12 13:57:20,789 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 15:04:14,067 | INFO | ulauncher.search.apps.app_watcher: _remove_file() | App was removed (/home/tommi/.local/share/applications/Cyberpunk 2077.desktop)
+2023-02-12 15:04:28,096 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "The Dark Pictures Anthology: Man of Medan" (/home/tommi/.local/share/applications/The Dark Pictures Anthology Man of Medan.desktop)
+2023-02-12 17:46:51,815 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 17:46:51,815 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 17:46:51,820 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 17:46:53,090 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-02-12 17:46:54,470 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 17:46:55,339 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-12 17:46:55,562 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
+2023-02-12 17:46:57,515 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Brave (/var/lib/flatpak/exports/share/applications/com.brave.Browser.desktop) Exec ['/usr/bin/flatpak', 'run', '--branch=stable', '--arch=x86_64', '--command=brave', '--file-forwarding', 'com.brave.Browser', '@@u', '@@']
+2023-02-12 17:46:57,524 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 22:20:30,485 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 22:20:30,486 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 22:20:30,491 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 22:20:31,074 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 22:20:31,152 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-12 22:20:31,648 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Plank (/usr/share/applications/plank.desktop) Exec ['plank']
+2023-02-12 22:20:31,658 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 22:26:22,786 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-12 22:26:22,786 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-12 22:26:22,791 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 22:26:23,191 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-12 22:26:23,420 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-12 22:26:23,606 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-12 22:26:23,772 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 1 results
+2023-02-12 22:26:24,094 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application Oracle VM VirtualBox (/usr/share/applications/virtualbox.desktop) Exec ['VirtualBox']
+2023-02-12 22:26:24,113 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-13 09:11:27,658 | INFO | ulauncher.search.apps.app_watcher: _add_file_sync() | New app was added "Wallpaper Engine" (/home/tommi/.local/share/applications/Wallpaper Engine.desktop)
+2023-02-13 09:18:55,140 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-13 09:18:55,142 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-13 09:18:55,157 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-13 09:18:55,534 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-13 09:18:55,752 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-13 09:18:55,986 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-13 09:18:56,135 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 6 results
+2023-02-13 09:18:58,798 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application System Settings (/usr/share/applications/systemsettings.desktop) Exec ['systemsettings']
+2023-02-13 09:18:58,808 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-13 09:22:55,940 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-02-13 09:22:55,940 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 2560, H: 1440
+2023-02-13 09:22:55,944 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-02-13 09:22:56,432 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-02-13 09:22:56,659 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-02-13 09:22:56,686 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
+2023-02-13 09:22:56,967 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-02-13 09:22:57,710 | INFO | ulauncher.api.shared.action.LaunchAppAction: run() | Run application GitHub Desktop (3.1.1-linux1) (/home/tommi/.local/share/applications/appimagekit_383fe3d02587a5b9e775e88e5a3b8ab4-GitHub_Desktop.desktop) Exec ['/home/tommi/Applications/GitHubDesktop-linux-3.1.1-linux1_e9bec7a83b86c3eb0fb2993e19e990a2.AppImage', '--no-sandbox']
+2023-02-13 09:22:57,723 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results

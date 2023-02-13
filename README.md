@@ -31,5 +31,5 @@ Clone the git repository
 git clone https://github.com/hamburgerghini1/kde_macos_2023
 ```
 
-Move everything toi your home directory
+Move everything to your home directory
 Make sure that show hidden files is checked on your file manager.

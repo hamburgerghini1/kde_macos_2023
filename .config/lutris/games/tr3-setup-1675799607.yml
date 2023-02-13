@@ -1,0 +1,28 @@
+game:
+  exe: /home/tommi/Games/tr3/drive_c/GOG Games/Tomb Raider 3/Launch Tomb Raider 3.lnk
+  prefix: /home/tommi/Games/tr3
+game_slug: tr3
+name: tr3
+requires: null
+script:
+  files:
+  - setupfile: N/A:Select the setup file
+  game:
+    exe: _xXx_AUTO_WIN32_xXx_
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      env: {}
+      executable: /home/tommi/Downloads/setup_tomb_raider_3_20171016_(15705).exe
+      prefix: /home/tommi/Games/tr3
+      wine_path: /home/tommi/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  wine:
+    version: lutris-7.2-2-x86_64
+slug: tr3-setup
+system: {}
+variables: {}
+version: Setup file
+wine:
+  version: lutris-7.2-2-x86_64
+year: null

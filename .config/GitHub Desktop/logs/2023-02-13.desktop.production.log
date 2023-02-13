@@ -1,0 +1,24 @@
+2023-02-13T07:23:00.107Z - info: [ui] [AppStore] loading 6 repositories from store
+2023-02-13T07:23:00.110Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-02-13T07:23:00.199Z - info: [ui] [BranchPruner] No branches to prune.
+2023-02-13T07:23:00.304Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.9-200.fsync.fc37.x86_64)
+2023-02-13T07:23:00.305Z - info: [ui] execPath: '/tmp/.mount_GitHub5JtPjy/github-desktop'
+2023-02-13T07:23:00.579Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-02-13T07:23:00.686Z - info: [ui] Stats reported.
+2023-02-13T07:23:06.415Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: KMac - hamburgerghini1 (has token)
+2023-02-13T07:23:07.607Z - warn: [ui] fetchRepository: 'hamburgerghini1/dotfiles' returned a 404
+2023-02-13T07:23:07.775Z - warn: [ui] fetchRepository: 'hamburgerghini1/dotfiles' returned a 404
+2023-02-13T07:23:07.775Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - hamburgerghini1 (has token)
+2023-02-13T07:23:08.152Z - error: [ui] `git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+stderr:
+remote: Repository not found.
+fatal: repository 'https://github.com/hamburgerghini1/dotfiles.git/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2023-02-13T07:23:27.144Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 5 repositories took 2.7s of which 17.8s paused, total 20.5s
+2023-02-13T07:23:28.537Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:23:31.262Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:23:32.434Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read

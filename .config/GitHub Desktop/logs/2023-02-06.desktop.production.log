@@ -1,0 +1,82 @@
+2023-02-06T08:58:44.866Z - info: [ui] [AppStore] loading 5 repositories from store
+2023-02-06T08:58:44.868Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-02-06T08:58:44.924Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.8-202.fsync.fc37.x86_64)
+2023-02-06T08:58:44.924Z - info: [ui] execPath: '/tmp/.mount_GitHubqjN6tl/github-desktop'
+2023-02-06T08:58:45.380Z - info: [ui] Stats reported.
+2023-02-06T08:58:45.445Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-02-06T08:58:47.043Z - info: [ui] [BranchPruner] No branches to prune.
+2023-02-06T08:58:58.812Z - error: [ui] 'git status' emitted 33462919 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T08:58:58.823Z - error: [ui] 'git status' emitted 33462919 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T08:59:01.835Z - warn: [ui] fetchRepository: 'hamburgerghini1/dotfiles' returned a 404
+2023-02-06T08:59:02.009Z - warn: [ui] fetchRepository: 'hamburgerghini1/dotfiles' returned a 404
+2023-02-06T08:59:02.009Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - hamburgerghini1 (has token)
+2023-02-06T08:59:02.440Z - error: [ui] `git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+stderr:
+remote: Repository not found.
+fatal: repository 'https://github.com/hamburgerghini1/dotfiles.git/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2023-02-06T08:59:02.829Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 3 repositories took 1.9s of which 0.0s paused, total 1.9s
+2023-02-06T08:59:09.459Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/kde_macos_2023.git - hamburgerghini1 (has token)
+2023-02-06T09:01:23.282Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/kde_macos_2023.git /home/tommi/Documents/GitHub/kde_macos_2023 (took 133.822s)
+2023-02-06T09:01:23.298Z - info: [ui] [AppStore] adding repository at /home/tommi/Documents/GitHub/kde_macos_2023 to store
+2023-02-06T09:01:23.462Z - info: [ui] [BranchPruner] Last prune took place 3 minutes ago - skipping
+2023-02-06T09:01:28.967Z - info: [ui] Executing getChangesFiles: git log b8a05be90dd1450d660abb32ca7e743ffe0f9c24 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 4.978s)
+2023-02-06T09:11:09.745Z - error: [ui] 'git status' emitted 33418693 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:15.746Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:18.492Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:18.645Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:22.513Z - info: [ui] [BranchPruner] Last prune took place 10 minutes ago - skipping
+2023-02-06T09:11:25.779Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:28.432Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:28.503Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:31.667Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:32.566Z - info: [ui] [BranchPruner] Last prune took place 10 minutes ago - skipping
+2023-02-06T09:11:34.582Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:38.461Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:38.584Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:11:40.271Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 2.819s
+2023-02-06T09:11:44.378Z - error: [ui] 'git status' emitted 36610618 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:12:20.113Z - info: [ui] [BranchPruner] Last prune took place 11 minutes ago - skipping
+2023-02-06T09:12:20.431Z - error: [ui] 'git status' emitted 36540889 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:12:23.295Z - error: [ui] 'git status' emitted 36540889 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:12:25.094Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 2.374s
+2023-02-06T09:12:26.066Z - error: [ui] 'git status' emitted 36540889 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:12:26.146Z - error: [ui] 'git status' emitted 36540889 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:12:32.109Z - error: [ui] 'git status' emitted 36540889 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:12:41.489Z - info: [ui] [BranchPruner] Last prune took place 11 minutes ago - skipping
+2023-02-06T09:12:44.930Z - error: [ui] 'git status' emitted 36540889 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:12:47.547Z - error: [ui] 'git status' emitted 36540889 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:12:47.619Z - error: [ui] 'git status' emitted 36540889 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:12:50.740Z - info: [ui] Executing unstageAll: git reset -- . (took 4.963s)
+2023-02-06T09:12:53.450Z - error: [ui] 'git status' emitted 36540889 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:13:02.387Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 11.631s)
+2023-02-06T09:13:03.663Z - info: [ui] Executing createCommit: git commit -F - (took 1.276s)
+2023-02-06T09:13:04.809Z - error: [ui] 'git status' emitted 27732414 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:13:04.822Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 21.322s
+2023-02-06T09:13:05.991Z - error: [ui] 'git status' emitted 27732414 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:13:23.158Z - error: [ui] 'git status' emitted 27732414 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-02-06T09:14:33.120Z - warn: [ui] fetchRepository: 'hamburgerghini1/dotfiles' returned a 404
+2023-02-06T09:14:33.295Z - warn: [ui] fetchRepository: 'hamburgerghini1/dotfiles' returned a 404
+2023-02-06T09:14:33.304Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - hamburgerghini1 (has token)
+2023-02-06T09:14:33.328Z - info: [ui] [BranchPruner] Last prune took place 13 minutes ago - skipping
+2023-02-06T09:14:33.730Z - error: [ui] `git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+stderr:
+remote: Repository not found.
+fatal: repository 'https://github.com/hamburgerghini1/dotfiles.git/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2023-02-06T09:14:35.211Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.480s)
+2023-02-06T09:14:35.211Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 4 repositories took 3.4s of which 0.0s paused, total 3.4s
+2023-02-06T09:14:43.960Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 4.856s
+2023-02-06T09:15:58.528Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 55.026s)
+2023-02-06T09:16:05.027Z - info: [ui] Executing createCommit: git commit -F - (took 6.337s)
+2023-02-06T09:16:05.811Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 63.677s
+2023-02-06T09:16:05.842Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-06T09:16:12.850Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-02-06T09:19:04.966Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 172.100s)
+2023-02-06T09:19:43.167Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 0.903s
+2023-02-06T09:19:45.803Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-02-06T09:19:47.174Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 1.365s)
+2023-02-06T09:19:50.789Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)

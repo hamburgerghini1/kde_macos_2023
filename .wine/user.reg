@@ -247,6 +247,146 @@ WINE REGISTRY Version 2
 #time=1d938bba20db5da
 "1"="00000809"
 
+[Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\Default MidiOut Device] 1675940830
+#time=1d93c76a806eee8
+"CLSID"="{07B65360-C445-11CE-AFDE-00AA006C14F4}"
+"FilterData"=hex:02,00,00,00,00,00,80,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,6d,69,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Default MidiOut Device"
+"MidiOutId"=dword:ffffffff
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\Midi Through Port-0] 1675940830
+#time=1d93c76a8070b6c
+"CLSID"="{07B65360-C445-11CE-AFDE-00AA006C14F4}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,6d,69,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Midi Through Port-0"
+"MidiOutId"=dword:00000002
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\PipeWire-RT-Event - input] 1675940830
+#time=1d93c76a8070216
+"CLSID"="{07B65360-C445-11CE-AFDE-00AA006C14F4}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,6d,69,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="PipeWire-RT-Event - input"
+"MidiOutId"=dword:00000001
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\PipeWire-System - input] 1675940830
+#time=1d93c76a806f956
+"CLSID"="{07B65360-C445-11CE-AFDE-00AA006C14F4}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,6d,69,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="PipeWire-System - input"
+"MidiOutId"=dword:00000000
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Built-in Audio Digital Stereo (] 1675940830
+#time=1d93c76a806d908
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Built-in Audio Digital Stereo ("
+"WaveOutId"=dword:00000002
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default DirectSound Device] 1675940830
+#time=1d93c76a806812e
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{00000000-0000-0000-0000-000000000000}"
+"FilterData"=hex:02,00,00,00,00,00,80,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="Default DirectSound Device"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default WaveOut Device] 1675940830
+#time=1d93c76a806be3c
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Default WaveOut Device"
+"WaveOutId"=dword:ffffffff
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound: Built-in Audio Digital Stereo (IEC958)] 1675940830
+#time=1d93c76a806a2b2
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{66E1BF37-890B-4CEC-82BC-7D52DD22096F}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="DirectSound: Built-in Audio Digital Stereo (IEC958)"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound: Navi 21/23 HDMI/DP Audio Controller Digital Stereo (HDMI 5)] 1675940830
+#time=1d93c76a806b298
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{CE2F0268-4AB9-4E8A-BEF7-3E3510D61089}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="DirectSound: Navi 21/23 HDMI/DP Audio Controller Digital Stereo (HDMI 5)"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound: PulseAudio] 1675940830
+#time=1d93c76a8068dae
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{FD47D9CC-4218-4135-9CE2-0C195C87405B}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="DirectSound: PulseAudio"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound: TUF H3 Wireless Analog Stereo] 1675940830
+#time=1d93c76a8069862
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{17B24EB4-EB45-4E21-830D-A270E51F97D8}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="DirectSound: TUF H3 Wireless Analog Stereo"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Navi 21/23 HDMI/DP Audio Contro] 1675940830
+#time=1d93c76a806e308
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Navi 21/23 HDMI/DP Audio Contro"
+"WaveOutId"=dword:00000003
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\PulseAudio] 1675940830
+#time=1d93c76a806c71a
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="PulseAudio"
+"WaveOutId"=dword:00000000
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\TUF H3 Wireless Analog Stereo] 1675940830
+#time=1d93c76a806d03e
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="TUF H3 Wireless Analog Stereo"
+"WaveOutId"=dword:00000001
+
 [Software\\Microsoft\\Internet Explorer\\Main] 1675530660
 #time=1d938bba7a018f8
 "Search Page"="https://www.google.com"
@@ -844,13 +984,13 @@ WINE REGISTRY Version 2
 #time=1d938bba7a106aa
 "winebrowser"="\"C:\\windows\\system32\\winebrowser.exe\" -nohome"
 
-[Software\\Wine\\Fonts] 1675531350
-#time=1d938bd42cd1ffa
+[Software\\Wine\\Fonts] 1675940828
+#time=1d93c76a6fa2f92
 "Codepages"="1252,850"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1675531350
-#time=1d938bd42ce762a
+[Software\\Wine\\Fonts\\External Fonts] 1675940828
+#time=1d93c76a6fb7eba
 "@Droid Sans Fallback (TrueType)"="Z:\\usr\\share\\fonts\\google-droid-sans-fonts\\DroidSansFallbackFull.ttf"
 "@Microsoft Yahei (TrueType)"="Z:\\opt\\wine-staging\\share\\wine\\fonts\\msyh.ttf"
 "@Noto Sans CJK HK (TrueType)"="Z:\\usr\\share\\fonts\\google-noto-cjk\\NotoSansCJK-Regular.ttc"

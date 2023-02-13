@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Heavy Rain
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/960910
+Icon=steam_icon_960910
+Terminal=false
+Type=Application
+Categories=Game;

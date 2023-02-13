@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Manual
+Exec=env WINEPREFIX="/home/tommi/Games/tomb-raider-1" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Tomb\\ Raider\\ 1\\ [GOG.com]\\\\Documents\\\\Manual.lnk
+Type=Application
+StartupNotify=true
+Comment=Manual
+Path=/home/tommi/Games/tomb-raider-1/dosdevices/c:/GOG Games/Tomb Raider 1
+Icon=6ECE_Manual.0
+StartupWMClass=manual.pdf

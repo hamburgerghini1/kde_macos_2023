@@ -1,0 +1,28 @@
+game:
+  exe: /home/tommi/Games/tr2/drive_c/GOG Games/Tomb Raider 2/Launch Tomb Raider 2.lnk
+  prefix: /home/tommi/Games/tr2
+game_slug: tr2
+name: tr2
+requires: null
+script:
+  files:
+  - setupfile: N/A:Select the setup file
+  game:
+    exe: _xXx_AUTO_WIN32_xXx_
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      env: {}
+      executable: /home/tommi/Downloads/setup_tomb_raider_2_20180108_(17720).exe
+      prefix: /home/tommi/Games/tr2
+      wine_path: /home/tommi/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  wine:
+    version: lutris-7.2-2-x86_64
+slug: tr2-setup
+system: {}
+variables: {}
+version: Setup file
+wine:
+  version: lutris-7.2-2-x86_64
+year: null

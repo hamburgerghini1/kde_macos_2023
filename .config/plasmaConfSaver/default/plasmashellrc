@@ -3,9 +3,6 @@ Recent Files[$e]=macos-logo.png,file:$HOME/Mac OS Wallpapers/macOS-BS1.jpg,file:
 Recent URLs[$e]=file:$HOME/.local/share/icons/,file:$HOME/Downloads/,file:$HOME/.local/share/icons/55995-apple_logo/,file:$HOME/.local/share/,file:$HOME/Mac OS Wallpapers/
 detailViewIconSize=16
 
-[PlasmaTransientsConfig]
-PreloadWeight=34
-
 [PlasmaViews][Panel 2][Defaults]
 thickness=44
 

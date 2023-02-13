@@ -1,0 +1,36 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=PCSX2
+StartupWMClass=PCSX2
+GenericName=PlayStation 2 Emulator
+Comment=Sony PlayStation 2 emulator
+Exec=/home/tommi/Applications/pcsx2-Qt.AppImage
+Icon=appimagekit_41b40c901e2b5bc5317584c4f8b90dd4_PCSX2
+Keywords=game;emulator;
+Categories=Game;Emulator;
+
+TryExec=/home/tommi/Applications/pcsx2-Qt.AppImage
+X-AppImage-Old-Icon=PCSX2
+X-AppImage-Identifier=41b40c901e2b5bc5317584c4f8b90dd4
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2020-09-29 21:36:22 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/tommi/Applications/pcsx2-Qt.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

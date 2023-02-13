@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall Tomb Raider 1
+Exec=env WINEPREFIX="/home/tommi/Games/tomb-raider-1" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Tomb\\ Raider\\ 1\\ [GOG.com]\\\\Uninstall\\ Tomb\\ Raider\\ 1.lnk
+Type=Application
+StartupNotify=true
+Path=/home/tommi/Games/tomb-raider-1/dosdevices/c:/GOG Games/Tomb Raider 1
+Icon=18DC_unins000.0
+StartupWMClass=unins000.exe

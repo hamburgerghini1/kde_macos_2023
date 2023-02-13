@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=com.spotify.Client
+Name=spotify_modded.desktop
+Type=Link
+URL[$e]=file:///usr/share/applications/spotify_modded.desktop
+X-KDE-LastOpenedWith=org.kde.kate

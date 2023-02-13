@@ -1,0 +1,29 @@
+game:
+  exe: /home/tommi/Games/tomb-raider-1/drive_c/GOG Games/Tomb Raider 1/Launch Tomb
+    Raider 1.lnk
+  prefix: /home/tommi/Games/tomb-raider-1
+game_slug: tomb-raider-1
+name: Tomb raider 1
+requires: null
+script:
+  files:
+  - setupfile: N/A:Select the setup file
+  game:
+    exe: _xXx_AUTO_WIN32_xXx_
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      env: {}
+      executable: /home/tommi/Downloads/setup_tomb_raider_1_20180105_(17652).exe
+      prefix: /home/tommi/Games/tomb-raider-1
+      wine_path: /home/tommi/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  wine:
+    version: lutris-7.2-2-x86_64
+slug: tomb-raider-1-setup
+system: {}
+variables: {}
+version: Setup file
+wine:
+  version: lutris-7.2-2-x86_64
+year: null

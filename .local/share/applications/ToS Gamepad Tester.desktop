@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ToS Gamepad Tester
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/2104320
+Icon=steam_icon_2104320
+Terminal=false
+Type=Application
+Categories=Game;

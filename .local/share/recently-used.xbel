@@ -1,128 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
-  <bookmark href="file:///home/tommi/Downloads/flathub.flatpakrepo" added="2023-01-24T14:36:20.019078Z" modified="2023-01-24T14:36:20.019082Z" visited="2023-01-24T14:36:20.019079Z">
+  <bookmark href="file:///home/tommi/.fonts.conf" added="2023-02-08T18:56:41.958000Z" modified="2023-02-08T18:56:41.958000Z" visited="2023-02-08T18:56:41.958000Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.flatpak.repo"/>
+        <mime:mime-type type="application/xml"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-24T14:36:20.019080Z" count="1"/>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-02-08T18:56:41.958000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/appimagelauncher-2.2.0-travis995.0f91801.i386.rpm" added="2023-01-24T14:37:21.451074Z" modified="2023-01-24T14:37:35.802000Z" visited="2023-01-24T14:37:35.802000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-24T14:37:21.451077Z" count="1"/>
-          <bookmark:application name="org.kde.discover" exec="plasma-discover %F %u" modified="2023-01-24T14:37:35.802000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/appimagepool-5.0.0-x86_64.AppImage" added="2023-01-24T14:38:08.086420Z" modified="2023-01-24T14:38:08.086432Z" visited="2023-01-24T14:38:08.086422Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.appimage"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-24T14:38:08.086426Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/ProtonUp-Qt-2.7.7-x86_64.AppImage" added="2023-01-24T14:38:24.047862Z" modified="2023-01-24T14:38:24.047868Z" visited="2023-01-24T14:38:24.047863Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.appimage"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-24T14:38:24.047866Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/appimagelauncher-2.2.0-travis995.0f91801.x86_64.rpm" added="2023-01-24T14:39:12.585053Z" modified="2023-01-24T14:39:15.545000Z" visited="2023-01-24T14:39:15.545000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-rpm"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-24T14:39:12.585059Z" count="1"/>
-          <bookmark:application name="org.kde.discover" exec="plasma-discover %F %u" modified="2023-01-24T14:39:15.545000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://discordapp.com/handoff?rpc=6463&amp;key=07339bd2-2949-4d2d-8bd3-dffdd76fc0f8" added="2023-01-24T14:41:17.785000Z" modified="2023-01-24T14:41:17.785000Z" visited="2023-01-24T14:41:17.785000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-01-24T14:41:17.785000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/" added="2023-01-24T15:03:26.563000Z" modified="2023-01-24T15:03:26.563000Z" visited="2023-01-24T15:03:26.563000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-01-24T15:03:26.563000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/dotfiles-master-.config-doom.zip" added="2023-01-24T16:41:24.849855Z" modified="2023-01-24T16:41:24.849861Z" visited="2023-01-24T16:41:24.849856Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-24T16:41:24.849859Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/dotfiles-master-.config-alacritty.zip" added="2023-01-24T16:41:51.795951Z" modified="2023-01-24T16:41:51.795956Z" visited="2023-01-24T16:41:51.795952Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-24T16:41:51.795953Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi" added="2023-01-25T07:53:37.187000Z" modified="2023-01-25T09:50:08.186000Z" visited="2023-01-25T09:50:08.186000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-01-25T09:50:08.186000Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/topgrade-v10.2.4-aarch64-unknown-linux-gnu.tar.gz" added="2023-01-25T07:54:41.800037Z" modified="2023-01-25T07:54:41.800045Z" visited="2023-01-25T07:54:41.800039Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-25T07:54:41.800043Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/topgrade-v10.2.4-x86_64-unknown-linux-gnu.tar.gz" added="2023-01-25T07:54:47.655934Z" modified="2023-01-25T07:54:47.655941Z" visited="2023-01-25T07:54:47.655936Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-25T07:54:47.655939Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230125_134537.png" added="2023-01-25T11:45:43.786000Z" modified="2023-01-25T11:45:53.195860Z" visited="2023-01-25T11:45:44.161000Z">
+  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230209_095816.png" added="2023-02-09T07:58:21.074000Z" modified="2023-02-09T07:58:50.801279Z" visited="2023-02-09T07:58:37.004000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -130,1123 +18,214 @@
           <bookmark:group>Graphics</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-25T11:45:44.161000Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-25T11:45:53.195859Z" count="1"/>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-02-09T07:58:21.204000Z" count="2"/>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-02-09T07:58:37.004000Z" count="2"/>
+          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-02-09T07:58:50.801278Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/PlayStationPlus-12.2.0.exe" added="2023-01-26T09:27:38.390414Z" modified="2023-01-26T09:27:38.390419Z" visited="2023-01-26T09:27:38.390415Z">
+  <bookmark href="file:///home/tommi/Downloads/far_cry_3_v105_plus_25_trainer.zip" added="2023-02-09T10:54:05.774000Z" modified="2023-02-09T10:54:05.774000Z" visited="2023-02-09T10:54:05.774000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-09T10:54:05.774000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/far_cry_3_v105_plus_25_trainer/Far%20Cry%203%20v1.05%20Plus%2025%20Trainer.exe" added="2023-02-09T10:55:12.379000Z" modified="2023-02-09T11:07:27.587000Z" visited="2023-02-09T11:07:27.587000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-ms-dos-executable"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-26T09:27:38.390416Z" count="1"/>
+          <bookmark:application name="com.github.Matoking.protontricks-launch" exec="/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=protontricks-launch --file-forwarding com.github.Matoking.protontricks --no-term @@ %f @@ %u" modified="2023-02-09T11:07:27.587000Z" count="3"/>
+          <bookmark:application name="org.gnome.FileRoller" exec="file-roller %U %u" modified="2023-02-09T11:07:23.722000Z" count="1"/>
+          <bookmark:application name="File Roller" exec="'file-roller'" modified="2023-02-09T11:07:23.976006Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/msvcr120.dll.tar.xz" added="2023-01-26T09:30:48.347937Z" modified="2023-01-26T09:30:50.354000Z" visited="2023-01-26T09:30:50.354000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-26T09:30:48.347939Z" count="1"/>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-01-26T09:30:50.354000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230126_160113.png" added="2023-01-26T14:01:17.066000Z" modified="2023-01-26T14:02:02.636883Z" visited="2023-01-26T14:01:47.917000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-26T14:01:17.305000Z" count="2"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-26T14:01:47.917000Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-26T14:02:02.636882Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&amp;scope=repo%20user%20workflow&amp;state=4604ffad-d657-4c99-abd0-ac331cf2f673" added="2023-01-27T08:51:31.664000Z" modified="2023-01-27T08:51:31.664000Z" visited="2023-01-27T08:51:31.664000Z">
+  <bookmark href="file:///home/tommi/Downloads/FAR.CRY.3.V1.05.PLUS25TRN.FLING.zipd" added="2023-02-09T10:57:58.190000Z" modified="2023-02-09T10:57:58.190000Z" visited="2023-02-09T10:57:58.190000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-01-27T08:51:31.664000Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-09T10:57:58.190000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&amp;scope=repo%20user%20workflow&amp;state=81d22436-bbe7-4b66-8fe8-ee0f29cdd36a" added="2023-01-27T08:51:57.006000Z" modified="2023-01-27T08:51:57.006000Z" visited="2023-01-27T08:51:57.006000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-01-27T08:51:57.006000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&amp;scope=repo%20user%20workflow&amp;state=3bb72198-c512-45a2-941e-c5f9857b5f62" added="2023-01-27T08:52:45.749000Z" modified="2023-01-27T08:52:45.749000Z" visited="2023-01-27T08:52:45.749000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-01-27T08:52:45.749000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230127_105358.png" added="2023-01-27T08:54:01.417000Z" modified="2023-01-27T08:54:47.698030Z" visited="2023-01-27T08:54:37.289000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-27T08:54:01.640000Z" count="2"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-27T08:54:37.289000Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-27T08:54:47.698024Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Plank_Separators.zip" added="2023-01-28T09:16:21.894260Z" modified="2023-01-28T09:16:21.894263Z" visited="2023-01-28T09:16:21.894261Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T09:16:21.894262Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/mcOS-BS-iMacM1-THEME-PACK.zip" added="2023-01-28T09:16:38.922827Z" modified="2023-01-28T09:16:38.922836Z" visited="2023-01-28T09:16:38.922828Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T09:16:38.922833Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Launchpad-ICON-for-Plank.zip" added="2023-01-28T09:16:43.418154Z" modified="2023-01-28T09:16:43.418159Z" visited="2023-01-28T09:16:43.418155Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T09:16:43.418157Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/macOS-BS-Walls.zip" added="2023-01-28T09:16:44.339109Z" modified="2023-01-28T09:16:44.339113Z" visited="2023-01-28T09:16:44.339110Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T09:16:44.339111Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&amp;scope=repo%20user%20workflow&amp;state=fd78f9f1-66ea-49b8-bc05-1ace23414351" added="2023-01-28T09:24:21.225000Z" modified="2023-01-28T09:24:21.225000Z" visited="2023-01-28T09:24:21.225000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-01-28T09:24:21.225000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/.directory" added="2023-01-28T09:24:52.168000Z" modified="2023-01-28T09:24:52.168000Z" visited="2023-01-28T09:24:52.168000Z">
+  <bookmark href="file:///home/tommi/Downloads/FAR.CRY.3.V1.05.PLUS25TRN.FLING/FAR.CRY.3.V1.05.PLUS25TRN.FLING.ZIP.txt" added="2023-02-09T10:58:15.418000Z" modified="2023-02-09T10:58:15.418000Z" visited="2023-02-09T10:58:15.418000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-01-28T09:24:52.168000Z" count="1"/>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-02-09T10:58:15.418000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/MacOs-Icon-Theme.zip" added="2023-01-28T09:31:45.599449Z" modified="2023-01-28T09:31:45.599454Z" visited="2023-01-28T09:31:45.599450Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T09:31:45.599451Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/macOS%20Cursor%20Set.zip" added="2023-01-28T09:32:20.029960Z" modified="2023-01-28T09:32:20.029970Z" visited="2023-01-28T09:32:20.029960Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T09:32:20.029962Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/proxy-image.png" added="2023-01-28T09:37:03.864267Z" modified="2023-01-28T09:39:45.647000Z" visited="2023-01-28T09:39:45.647000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T09:39:28.076274Z" count="4"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-28T09:39:30.384000Z" count="1"/>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T09:39:45.647000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.local/share/icons/macos-logo.png" added="2023-01-28T09:38:42.761000Z" modified="2023-01-28T09:38:42.761000Z" visited="2023-01-28T09:38:42.761000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T09:38:42.761000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/55995-apple_logo.tar.tar" added="2023-01-28T09:40:25.602536Z" modified="2023-01-28T09:40:25.602541Z" visited="2023-01-28T09:40:25.602537Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T09:40:25.602539Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.local/share/icons/55995-apple_logo/apple_logo_black.svg" added="2023-01-28T09:41:55.739000Z" modified="2023-01-28T09:41:55.739000Z" visited="2023-01-28T09:41:55.739000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/svg+xml"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T09:41:55.739000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/alphablackcontrol-v8.plasmoid" added="2023-01-28T09:43:27.505509Z" modified="2023-01-28T09:43:27.505518Z" visited="2023-01-28T09:43:27.505510Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-plasma"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T09:43:27.505513Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.local/share/plasma/desktoptheme/Noctis-round/widgets/plot-background.svg" added="2023-01-28T09:44:38.829000Z" modified="2023-01-28T09:44:39.974831Z" visited="2023-01-28T09:44:38.829000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/svg+xml"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.inkscape.Inkscape" exec="'org.inkscape.Inkscape %u'" modified="2023-01-28T09:44:39.974829Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.local/share/icons/55995-apple_logo/apple_logo_grey.svg" added="2023-01-28T09:51:10.619000Z" modified="2023-01-28T09:51:10.619000Z" visited="2023-01-28T09:51:10.619000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/svg+xml"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T09:51:10.619000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230128_115333.png" added="2023-01-28T09:53:37.130000Z" modified="2023-01-28T09:53:53.464556Z" visited="2023-01-28T09:53:37.303000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-28T09:53:37.303000Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-28T09:53:53.464555Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.local/share/icons/MacOs-Icon-Theme/README.md" added="2023-01-28T09:54:57.559000Z" modified="2023-01-28T09:54:57.559000Z" visited="2023-01-28T09:54:57.559000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/markdown"/>
-        <bookmark:applications>
-          <bookmark:application name="okularApplication_md" exec="okular %U %u" modified="2023-01-28T09:54:57.559000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/LightlyShaders/screenshot.png" added="2023-01-28T09:55:31.081000Z" modified="2023-01-28T09:55:31.081000Z" visited="2023-01-28T09:55:31.081000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-28T09:55:31.081000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.local/share/icons/macOS%20Cursor%20Set/COPYRIGHT" added="2023-01-28T09:55:56.085000Z" modified="2023-01-28T09:55:56.085000Z" visited="2023-01-28T09:55:56.085000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-01-28T09:55:56.085000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.local/share/icons/macOS%20Cursor%20Set/Preview.png" added="2023-01-28T09:56:01.370000Z" modified="2023-01-28T09:56:01.370000Z" visited="2023-01-28T09:56:01.370000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-28T09:56:01.370000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.icons/MacOs-Icon-Theme/README.md" added="2023-01-28T09:59:00.453000Z" modified="2023-01-28T09:59:00.453000Z" visited="2023-01-28T09:59:00.453000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/markdown"/>
-        <bookmark:applications>
-          <bookmark:application name="okularApplication_md" exec="okular %U %u" modified="2023-01-28T09:59:00.453000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.icons/MacOs-Icon-Theme/Thanks.md" added="2023-01-28T09:59:07.649000Z" modified="2023-01-28T09:59:07.649000Z" visited="2023-01-28T09:59:07.649000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/markdown"/>
-        <bookmark:applications>
-          <bookmark:application name="okularApplication_md" exec="okular %U %u" modified="2023-01-28T09:59:07.649000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.icons/MacOs-Icon-Theme/screenshots/screenshot1.png" added="2023-01-28T09:59:12.269000Z" modified="2023-01-28T09:59:12.269000Z" visited="2023-01-28T09:59:12.269000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-28T09:59:12.269000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.icons/MacOs-Icon-Theme/COPYING" added="2023-01-28T09:59:24.630000Z" modified="2023-01-28T09:59:24.630000Z" visited="2023-01-28T09:59:24.630000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-copying"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-01-28T09:59:24.630000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.icons/MacOs-Icon-Theme/index.theme" added="2023-01-28T10:00:08.966000Z" modified="2023-01-28T10:00:08.966000Z" visited="2023-01-28T10:00:08.966000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-theme"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-01-28T10:00:08.966000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/BigSur.tar.xz" added="2023-01-28T10:03:46.745633Z" modified="2023-01-28T10:03:46.745637Z" visited="2023-01-28T10:03:46.745633Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T10:03:46.745635Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/mcOS-BS7.jpeg" added="2023-01-28T10:21:53.044000Z" modified="2023-01-28T10:21:53.044000Z" visited="2023-01-28T10:21:53.044000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.044000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/mcOS-BS6.jpeg" added="2023-01-28T10:21:53.048000Z" modified="2023-01-28T10:22:08.240000Z" visited="2023-01-28T10:22:08.240000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.048000Z" count="1"/>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-01-28T10:22:08.240000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/mcOS-BS5.jpeg" added="2023-01-28T10:21:53.052000Z" modified="2023-01-28T10:21:53.052000Z" visited="2023-01-28T10:21:53.052000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.052000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/mcOS-BS4.jpeg" added="2023-01-28T10:21:53.055000Z" modified="2023-01-28T10:21:53.055000Z" visited="2023-01-28T10:21:53.055000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.055000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/mcOS-BS3.jpeg" added="2023-01-28T10:21:53.057000Z" modified="2023-01-28T10:21:53.057000Z" visited="2023-01-28T10:21:53.057000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.057000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/mcOS-BS2.png" added="2023-01-28T10:21:53.060000Z" modified="2023-01-28T10:21:53.060000Z" visited="2023-01-28T10:21:53.060000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.060000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/mcOS-BS1.png" added="2023-01-28T10:21:53.062000Z" modified="2023-01-28T10:21:53.062000Z" visited="2023-01-28T10:21:53.062000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.062000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/macOS-BS3.jpg" added="2023-01-28T10:21:53.065000Z" modified="2023-01-28T10:21:53.065000Z" visited="2023-01-28T10:21:53.065000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.065000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/macOS-BS2.jpg" added="2023-01-28T10:21:53.068000Z" modified="2023-01-28T10:21:53.068000Z" visited="2023-01-28T10:21:53.068000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.068000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Mac%20OS%20Wallpapers/macOS-BS1.jpg" added="2023-01-28T10:21:53.071000Z" modified="2023-01-28T10:21:53.071000Z" visited="2023-01-28T10:21:53.071000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-01-28T10:21:53.071000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230128_122217.png" added="2023-01-28T10:22:19.806000Z" modified="2023-01-28T10:22:26.315010Z" visited="2023-01-28T10:22:20.032000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-28T10:22:20.032000Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-28T10:22:26.315006Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/plasmoids.zip" added="2023-01-28T10:26:29.932116Z" modified="2023-01-28T10:26:29.932119Z" visited="2023-01-28T10:26:29.932117Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T10:26:29.932118Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Icon-Launchpad.zip" added="2023-01-28T10:26:47.174811Z" modified="2023-01-28T10:26:47.174815Z" visited="2023-01-28T10:26:47.174812Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T10:26:47.174813Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Lightly-Config.zip" added="2023-01-28T10:26:52.642646Z" modified="2023-01-28T10:26:52.642653Z" visited="2023-01-28T10:26:52.642647Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T10:26:52.642649Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Fonts.zip" added="2023-01-28T10:26:54.089093Z" modified="2023-01-28T10:26:54.089103Z" visited="2023-01-28T10:26:54.089094Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T10:26:54.089100Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Ulauncher-Theme.zip" added="2023-01-28T10:26:55.031787Z" modified="2023-01-28T10:26:55.031795Z" visited="2023-01-28T10:26:55.031787Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T10:26:55.031790Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Lightly-Config/Lightly-Application-Style-1.png" added="2023-01-28T10:30:19.992000Z" modified="2023-01-28T10:30:19.992000Z" visited="2023-01-28T10:30:19.992000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-28T10:30:19.992000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/WhiteSur-firefox-theme-2021-08-17.zip" added="2023-01-28T10:48:17.088394Z" modified="2023-01-28T10:48:19.101000Z" visited="2023-01-28T10:48:19.101000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T10:48:17.088396Z" count="1"/>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-01-28T10:48:19.101000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230128_125332.png" added="2023-01-28T10:53:37.279000Z" modified="2023-01-28T11:25:10.500456Z" visited="2023-01-28T10:53:39.051000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-28T10:53:37.389000Z" count="2"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-28T10:53:39.051000Z" count="1"/>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T11:25:10.500430Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-28T10:55:16.928815Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Documents/GitHub/kde_macos_2023" added="2023-01-28T10:57:52.922000Z" modified="2023-02-01T06:20:29.170290Z" visited="2023-01-28T11:42:24.364000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-01-28T11:42:24.364000Z" count="2"/>
-          <bookmark:application name="github-desktop" exec="'github-desktop %u'" modified="2023-02-01T06:20:29.170289Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/WhiteSur-firefox-theme-2021-08-17(1).zip" added="2023-01-28T11:16:21.647835Z" modified="2023-01-28T11:16:21.647839Z" visited="2023-01-28T11:16:21.647836Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T11:16:21.647837Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Documents/GitHub/kde_macos_2023/.local/share" added="2023-01-28T11:39:17.028000Z" modified="2023-01-28T11:39:17.028000Z" visited="2023-01-28T11:39:17.028000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-01-28T11:39:17.028000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://steamcommunity.com/linkfilter/?url=https://www.amazon.com/Dead-Space-Standard-Steam-Online/dp/B0BQTWWZG9?th=1" added="2023-01-28T17:48:53.231000Z" modified="2023-01-28T17:48:53.231000Z" visited="2023-01-28T17:48:53.231000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-01-28T17:48:53.231000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/2023-01-28%2022-33-40.mkv" added="2023-01-28T20:34:44.275031Z" modified="2023-01-28T20:35:06.981214Z" visited="2023-01-28T20:34:44.275031Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/x-matroska"/>
-        <bookmark:applications>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-28T20:34:44.275032Z" count="1"/>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-28T20:35:06.981211Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/helveticaneue.ttf" added="2023-01-29T08:06:01.608328Z" modified="2023-01-29T08:06:01.608331Z" visited="2023-01-29T08:06:01.608329Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="font/ttf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-29T08:06:01.608330Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/CascadiaCode.zip" added="2023-01-29T08:09:04.876016Z" modified="2023-01-29T08:09:04.876024Z" visited="2023-01-29T08:09:04.876017Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-29T08:09:04.876022Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/CascadiaCode/readme.md" added="2023-01-29T08:09:26.197000Z" modified="2023-01-29T08:09:26.197000Z" visited="2023-01-29T08:09:26.197000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/markdown"/>
-        <bookmark:applications>
-          <bookmark:application name="okularApplication_md" exec="okular %U %u" modified="2023-01-29T08:09:26.197000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/cantarell-fonts-0.303.tar.xz" added="2023-01-29T08:21:09.934575Z" modified="2023-01-29T08:21:11.411000Z" visited="2023-01-29T08:21:11.411000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-xz-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-29T08:21:09.934578Z" count="1"/>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-01-29T08:21:11.411000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230129_102702.png" added="2023-01-29T08:27:06.248000Z" modified="2023-01-29T08:27:21.809336Z" visited="2023-01-29T08:27:06.482000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-29T08:27:06.482000Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-29T08:27:21.809330Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://github.com/tkashkin/Adwaita-for-Steam" added="2023-01-29T10:45:47.716000Z" modified="2023-01-29T10:45:47.716000Z" visited="2023-01-29T10:45:47.716000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-01-29T10:45:47.716000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/cv.docx.pdf" added="2023-01-30T06:19:44.857664Z" modified="2023-01-30T06:22:07.459538Z" visited="2023-01-30T06:19:44.857666Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-30T06:22:07.459522Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/October%202022%20Sales.xlsx" added="2023-01-30T06:24:56.791872Z" modified="2023-01-30T06:24:56.791876Z" visited="2023-01-30T06:24:56.791873Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-30T06:24:56.791874Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230130_082905.png" added="2023-01-30T06:29:09.399000Z" modified="2023-01-30T06:29:42.834068Z" visited="2023-01-30T06:29:31.600000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-30T06:29:09.516000Z" count="2"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-01-30T06:29:31.600000Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-01-30T06:29:42.834062Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.config/plasmaConfSaver/default/screenshot.png" added="2023-01-30T06:55:29.944000Z" modified="2023-01-30T06:55:29.944000Z" visited="2023-01-30T06:55:29.944000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-01-30T06:55:29.944000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/default.tar.gz" added="2023-01-30T06:55:47.383000Z" modified="2023-01-30T06:56:36.653472Z" visited="2023-01-30T06:55:47.473000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-compressed-tar"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kdialog" exec="kdialog %u" modified="2023-01-30T06:55:47.473000Z" count="2"/>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-01-30T06:56:36.653460Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.local/share/chezmoi/dot_bashrc" added="2023-02-01T06:06:14.708000Z" modified="2023-02-01T06:06:14.708000Z" visited="2023-02-01T06:06:14.708000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-02-01T06:06:14.708000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.local/share/chezmoi" added="2023-02-01T06:06:28.357000Z" modified="2023-02-01T06:06:28.357000Z" visited="2023-02-01T06:06:28.357000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
-        <bookmark:applications>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-02-01T06:06:28.357000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&amp;scope=repo%20user%20workflow&amp;state=9208fd7f-6c1d-48c7-8f07-7d63d147cdb3" added="2023-02-01T06:08:32.789000Z" modified="2023-02-01T06:08:32.789000Z" visited="2023-02-01T06:08:32.789000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-02-01T06:08:32.789000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Documents/GitHub/kde_macos_2023/.xsession-errors" added="2023-02-01T06:19:03.484000Z" modified="2023-02-01T06:19:03.484000Z" visited="2023-02-01T06:19:03.484000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-02-01T06:19:03.484000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/ee-tll.prod.surfshark.comsurfshark_openvpn_udp.ovpn" added="2023-02-02T05:28:34.666494Z" modified="2023-02-02T05:30:09.393000Z" visited="2023-02-02T05:30:09.393000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T05:28:34.666496Z" count="1"/>
-          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2023-02-02T05:30:09.393000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Surfshark_Config.zip" added="2023-02-02T05:28:42.245648Z" modified="2023-02-02T05:28:42.245655Z" visited="2023-02-02T05:28:42.245648Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T05:28:42.245650Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Surfshark_CA&amp;TLS.zip" added="2023-02-02T05:28:45.939905Z" modified="2023-02-02T05:28:57.571000Z" visited="2023-02-02T05:28:57.571000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T05:28:45.939908Z" count="1"/>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-02-02T05:28:57.571000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/fi-hel.prod.surfshark.comsurfshark_openvpn_udp.ovpn" added="2023-02-02T05:28:55.501169Z" modified="2023-02-02T05:29:34.479000Z" visited="2023-02-02T05:29:34.479000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T05:28:55.501172Z" count="1"/>
-          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2023-02-02T05:29:34.479000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Surfshark_CA&amp;TLS/surfshark_ca.crt" added="2023-02-02T05:30:43.320000Z" modified="2023-02-02T05:30:43.320000Z" visited="2023-02-02T05:30:43.320000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pkix-cert"/>
-        <bookmark:applications>
-          <bookmark:application name="gcr-viewer" exec="/usr/bin/gcr-viewer %u" modified="2023-02-02T05:30:43.320000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/rpcs3-v0.0.26-14637-c471120a_linux64.AppImage" added="2023-02-02T05:41:29.947767Z" modified="2023-02-02T05:41:29.947782Z" visited="2023-02-02T05:41:29.947769Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.appimage"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T05:41:29.947777Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Red%20Dead%20Redemption%20-%20Game%20of%20the%20Year%20Edition%20(USA)%20(EnFrDeEsIt).7z" added="2023-02-02T05:41:48.453620Z" modified="2023-02-02T05:41:48.453631Z" visited="2023-02-02T05:41:48.453621Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-7z-compressed"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T05:41:48.453625Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Gran%20Turismo%206%20(USA)%20(EnJaFr).7z" added="2023-02-02T05:49:04.726404Z" modified="2023-02-02T05:49:04.726408Z" visited="2023-02-02T05:49:04.726404Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-7z-compressed"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T05:49:04.726406Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/PS3UPDAT.PUP" added="2023-02-02T05:54:57.658261Z" modified="2023-02-02T05:54:57.658266Z" visited="2023-02-02T05:54:57.658262Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T05:54:57.658263Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://rpcs3.net/quickstart" added="2023-02-02T06:02:53.327000Z" modified="2023-02-02T06:17:05.573000Z" visited="2023-02-02T06:17:05.573000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-02-02T06:17:05.573000Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://rpcs3.net/compatibility?g=BLUS30758" added="2023-02-02T06:09:31.601000Z" modified="2023-02-02T06:09:31.601000Z" visited="2023-02-02T06:09:31.601000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-02-02T06:09:31.601000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/.config/rpcs3/GuiConfigs/CurrentSettings.ini" added="2023-02-02T06:15:37.727000Z" modified="2023-02-02T06:15:37.727000Z" visited="2023-02-02T06:15:37.727000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-02-02T06:15:37.727000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/ps3-disc-dumper_lin64_v3.3.4.zip" added="2023-02-02T06:18:26.712902Z" modified="2023-02-02T06:18:30.552000Z" visited="2023-02-02T06:18:30.552000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T06:18:26.712913Z" count="1"/>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-02-02T06:18:30.552000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230202_120707.png" added="2023-02-02T10:07:10.921000Z" modified="2023-02-02T10:10:27.264770Z" visited="2023-02-02T10:07:35.550000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-02-02T10:07:11.045000Z" count="2"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-02-02T10:07:35.550000Z" count="2"/>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T10:07:48.840690Z" count="1"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-02-02T10:10:27.264769Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff" added="2023-02-02T10:41:24.563534Z" modified="2023-02-02T10:42:07.445000Z" visited="2023-02-02T10:42:07.445000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-patch"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T10:41:24.563537Z" count="1"/>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-02-02T10:42:07.445000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/2023-02-02%2012-54-57.mkv" added="2023-02-02T10:56:11.436850Z" modified="2023-02-02T10:56:11.436857Z" visited="2023-02-02T10:56:11.436851Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="video/x-matroska"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-02T10:56:11.436853Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230202_210525.png" added="2023-02-02T19:05:48.145000Z" modified="2023-02-02T19:06:04.527416Z" visited="2023-02-02T19:05:48.722000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-02-02T19:05:48.722000Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-02-02T19:06:04.527414Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230203_094731.png" added="2023-02-03T07:47:35.806000Z" modified="2023-02-03T07:48:07.113472Z" visited="2023-02-03T07:47:37.456000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-02-03T07:47:36.141000Z" count="2"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-02-03T07:47:37.456000Z" count="1"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-02-03T07:48:07.113471Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton7-48" added="2023-02-03T14:43:56.756000Z" modified="2023-02-03T14:43:56.756000Z" visited="2023-02-03T14:43:56.756000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-02-03T14:43:56.756000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///run/media/tommi/Ventoy/elementaryos-7.0-stable.20230129rc.iso" added="2023-02-04T14:10:56.832000Z" modified="2023-02-04T14:10:56.832000Z" visited="2023-02-04T14:10:56.832000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="gnome-disk-image-mounter" exec="gnome-disk-image-mounter %U %u" modified="2023-02-04T14:10:56.832000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/elementaryos-7.0-stable.20230129rc.iso" added="2023-02-04T14:13:08.910173Z" modified="2023-02-04T14:13:08.910177Z" visited="2023-02-04T14:13:08.910174Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-cd-image"/>
-        <bookmark:applications>
-          <bookmark:application name="balena-etcher.bin" exec="'balena-etcher.bin %u'" modified="2023-02-04T14:13:08.910175Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/xenia_master.zip" added="2023-02-04T17:00:19.064650Z" modified="2023-02-04T17:03:53.759973Z" visited="2023-02-04T17:00:56.015000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-04T17:03:53.759972Z" count="2"/>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-02-04T17:00:56.015000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/xenia_canary.zip" added="2023-02-04T17:02:26.333570Z" modified="2023-02-04T17:02:26.333574Z" visited="2023-02-04T17:02:26.333570Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-04T17:02:26.333572Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Games/Emu/xenia/xenia.exe" added="2023-02-04T17:09:46.075830Z" modified="2023-02-04T17:09:46.075832Z" visited="2023-02-04T17:09:46.075830Z">
+  <bookmark href="file:///home/tommi/Downloads/FAR.CRY.3.V1.05.PLUS25TRN.FLING/Far%20Cry%203%20v1.05%20Plus%2025%20Trainer.exe" added="2023-02-09T10:58:27.652000Z" modified="2023-02-09T11:07:08.770000Z" visited="2023-02-09T11:07:08.770000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-ms-dos-executable"/>
         <bookmark:applications>
-          <bookmark:application name="Lutris" exec="'lutris-bin %u'" modified="2023-02-04T17:09:46.075831Z" count="1"/>
+          <bookmark:application name="org.gnome.FileRoller" exec="file-roller %U %u" modified="2023-02-09T10:58:27.652000Z" count="1"/>
+          <bookmark:application name="File Roller" exec="'file-roller'" modified="2023-02-09T10:58:27.909603Z" count="1"/>
+          <bookmark:application name="com.github.Matoking.protontricks-launch" exec="/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=protontricks-launch --file-forwarding com.github.Matoking.protontricks --no-term @@ %f @@ %u" modified="2023-02-09T10:58:31.268000Z" count="1"/>
+          <bookmark:application name="wine" exec="wine start /unix %f %u" modified="2023-02-09T11:07:08.770000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Games/Emu/xenia-lutris" added="2023-02-04T17:10:33.073199Z" modified="2023-02-04T17:10:33.073201Z" visited="2023-02-04T17:10:33.073199Z">
+  <bookmark href="http://go.microsoft.com/fwlink/?prd=11324&amp;pver=4.5&amp;sbp=AppLaunch2&amp;plcid=0x409&amp;o1=SHIM_NOVERSION_FOUND&amp;version=(null)&amp;processName=rundll32.exe&amp;platform=0009&amp;osver=5&amp;isServer=0&amp;shimver=4.0.30319.0" added="2023-02-09T15:20:48.949000Z" modified="2023-02-09T15:20:48.949000Z" visited="2023-02-09T15:20:48.949000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-02-09T15:20:48.949000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.nexusmods.com/sso?application=vortex&amp;id=8ab7fee1-b75d-4f1a-9354-78f486008e27" added="2023-02-09T15:22:15.360000Z" modified="2023-02-09T15:22:15.360000Z" visited="2023-02-09T15:22:15.360000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-02-09T15:22:15.360000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Documents/surfshark_pass.txt" added="2023-02-10T10:52:10.639000Z" modified="2023-02-10T10:52:10.639000Z" visited="2023-02-10T10:52:10.639000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-02-10T10:52:10.639000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/veracrypt-1.25.9-CentOS-8-x86_64.rpm" added="2023-02-10T10:53:28.119000Z" modified="2023-02-10T10:53:28.119000Z" visited="2023-02-10T10:53:28.119000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-10T10:53:28.119000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Documents/vc/1.hc" added="2023-02-10T10:55:38.085911Z" modified="2023-02-10T11:01:49.019498Z" visited="2023-02-10T10:55:38.085911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-veracrypt-volume"/>
+        <bookmark:applications>
+          <bookmark:application name="veracrypt" exec="'veracrypt %u'" modified="2023-02-10T11:01:49.019497Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/veracrypt1" added="2023-02-10T11:02:34.803000Z" modified="2023-02-10T11:04:09.092000Z" visited="2023-02-10T11:04:09.092000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Lutris" exec="'lutris-bin %u'" modified="2023-02-04T17:10:33.073200Z" count="1"/>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-02-10T11:04:09.092000Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Games/Emu/xenia/xenia.config.toml" added="2023-02-04T17:15:39.069000Z" modified="2023-02-04T17:15:39.069000Z" visited="2023-02-04T17:15:39.069000Z">
+  <bookmark href="file:///home/tommi/Downloads/AltServer-x86_64" added="2023-02-11T09:08:39.594000Z" modified="2023-02-11T09:08:39.594000Z" visited="2023-02-11T09:08:39.594000Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/toml"/>
+        <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-02-04T17:15:39.069000Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-11T09:08:39.594000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Games/Emu/Red%20Dead%20Redemtion%20GOTY/Red%20Dead%20Redemtion%20GOTY%20%5BRF%5D%5BDVD1%5D.iso" added="2023-02-04T17:21:30.813539Z" modified="2023-02-04T17:21:30.813542Z" visited="2023-02-04T17:21:30.813540Z">
+  <bookmark href="file:///home/tommi/Downloads/6-Spotify++%20v8.7.32.ipa" added="2023-02-11T09:12:35.540000Z" modified="2023-02-11T09:12:35.540000Z" visited="2023-02-11T09:12:35.540000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-11T09:12:35.540000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/ubuntu-20.04.5-desktop-amd64.iso" added="2023-02-11T09:23:59.542000Z" modified="2023-02-11T09:28:28.874000Z" visited="2023-02-11T09:28:28.874000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-cd-image"/>
         <bookmark:applications>
-          <bookmark:application name="Lutris" exec="'lutris-bin %u'" modified="2023-02-04T17:21:30.813541Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-11T09:23:59.542000Z" count="1"/>
+          <bookmark:application name="VirtualBox" exec="VirtualBox %u" modified="2023-02-11T09:28:28.874000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/tommi/Pictures/Screenshot_20230204_235131.png" added="2023-02-04T21:51:35.589000Z" modified="2023-02-04T21:52:18.610260Z" visited="2023-02-04T21:52:02.017000Z">
+  <bookmark href="file:///usr/share/applications/spotify_modded.desktop" added="2023-02-11T09:56:32.247000Z" modified="2023-02-11T09:56:32.247000Z" visited="2023-02-11T09:56:32.247000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-02-11T09:56:32.247000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/Win10_22H2_English_x64.iso" added="2023-02-11T10:29:56.009000Z" modified="2023-02-11T10:31:02.774000Z" visited="2023-02-11T10:31:02.774000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-11T10:29:56.009000Z" count="1"/>
+          <bookmark:application name="VirtualBox" exec="VirtualBox %u" modified="2023-02-11T10:31:02.774000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/Appliance.ova" added="2023-02-11T15:37:58.397000Z" modified="2023-02-11T15:38:22.328000Z" visited="2023-02-11T15:38:22.328000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/ovf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-11T15:37:58.397000Z" count="1"/>
+          <bookmark:application name="VirtualBox" exec="VirtualBox %u" modified="2023-02-11T15:38:22.328000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/HoloISO_4.0_OfflineInstaller-20221211_1636-x86_64.iso" added="2023-02-12T08:47:19.262000Z" modified="2023-02-12T08:50:35.463512Z" visited="2023-02-12T08:47:19.262000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-12T08:47:19.262000Z" count="1"/>
+          <bookmark:application name="balena-etcher.bin" exec="'balena-etcher.bin %u'" modified="2023-02-12T08:50:35.463511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/Downloads/openSUSE-Leap-15.4-GNOME-Live-x86_64-Build31.98-Media.iso" added="2023-02-12T08:59:01.357000Z" modified="2023-02-12T08:59:30.020960Z" visited="2023-02-12T08:59:01.357000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-12T08:59:01.357000Z" count="1"/>
+          <bookmark:application name="balena-etcher.bin" exec="'balena-etcher.bin %u'" modified="2023-02-12T08:59:30.020955Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tommi/.config/plasmaConfSaver/default/screenshot.png" added="2023-02-13T07:22:44.204000Z" modified="2023-02-13T07:22:44.204000Z" visited="2023-02-13T07:22:44.204000Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -1254,60 +233,7 @@
           <bookmark:group>Graphics</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-02-04T21:51:35.825000Z" count="2"/>
-          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2023-02-04T21:52:02.017000Z" count="2"/>
-          <bookmark:application name="discord-bin" exec="'discord-bin %u'" modified="2023-02-04T21:52:18.610256Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://steamcommunity.com/linkfilter/?url=https://hiddenpalace.org/" added="2023-02-05T10:35:07.336000Z" modified="2023-02-05T10:35:07.336000Z" visited="2023-02-05T10:35:07.336000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-02-05T10:35:07.336000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/Chromium.Web.Store.crx" added="2023-02-05T12:24:58.930000Z" modified="2023-02-05T12:24:58.930000Z" visited="2023-02-05T12:24:58.930000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-05T12:24:58.930000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://epicgames.com/id/login/steam/forward?extLoginState=eyJ0cmFja2luZ1V1aWQiOm51bGwsImxvZ2luUmVxdWVzdElkIjoiOTdjYjZhNDhhMDlhNDY1NzllYzhmNWJjODFkOTQ4NmMiLCJhdXRoQ29kZSI6bnVsbCwiaXNQb3B1cCI6dHJ1ZX0%253D&amp;lang=en-US" added="2023-02-05T15:12:54.023000Z" modified="2023-02-05T15:12:54.023000Z" visited="2023-02-05T15:12:54.023000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-02-05T15:12:54.023000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/Downloads/proton_recovery_codes.txt" added="2023-02-06T08:55:14.851000Z" modified="2023-02-06T08:55:40.700244Z" visited="2023-02-06T08:55:14.851000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/libexec/xdg-desktop-portal-kde %u" modified="2023-02-06T08:55:14.851000Z" count="1"/>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-02-06T08:55:40.700226Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/tommi/*message*-20230203-093054" added="2023-02-06T09:02:38.534000Z" modified="2023-02-06T09:02:38.534000Z" visited="2023-02-06T09:02:38.534000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-02-06T09:02:38.534000Z" count="1"/>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2023-02-13T07:22:44.204000Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

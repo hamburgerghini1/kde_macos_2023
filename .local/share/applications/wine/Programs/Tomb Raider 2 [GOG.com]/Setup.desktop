@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Setup
+Exec=env WINEPREFIX="/home/tommi/Games/tr2" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Tomb\\ Raider\\ 2\\ [GOG.com]\\\\Setup.lnk
+Type=Application
+StartupNotify=true
+Comment=Setup
+Path=/home/tommi/Games/tr2/dosdevices/c:/GOG Games/Tomb Raider 2
+Icon=ADE8_tomb2.0
+StartupWMClass=tomb2.exe

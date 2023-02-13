@@ -1,0 +1,12 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display cd737c4c-cb4b-424a-802b-5af18395f337]
+last-seen-name=kubuntu-22
+uuid=cd737c4c-cb4b-424a-802b-5af18395f337
+run-in-bg=false
+access-last-time=1676107295114155
+access-ntimes=3

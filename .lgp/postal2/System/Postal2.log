@@ -1,0 +1,336 @@
+Log: Log file open, Thu Feb  9 14:59:14 2023
+Init: Name subsystem initialized
+Log: Detected Linux distribution: Nobara Linux 37 (KDE Plasma)
+Init: Version: 5022
+Init: Compiled: Apr 24 2018 21:28:31
+Init: Command line: 
+Init: Base directory: /media/pelissd/SteamLibrary/steamapps/common/POSTAL2Complete/System/
+Init: Character set: Unicode
+Init: (This is Linux patch version 5022.4)
+Init: Object subsystem initialized
+Init: OS Type=Nobara Linux 37 (KDE Plasma)
+Init: CPU Detected: PentiumPro-class processor (GenuineIntel)
+Init: CPU Features: CMov FPU RDTSC PAE MMX SSE
+Init: Physical RAM: 4294967295 bytes (4095 megabytes)
+Init: CPU Speed=4104.083984 MHz
+Init: File handle limit is soft=(9816), hard=(1048576).
+Warning: Failed to load 'Sound ReopeningJune2016SO.DudeDialogue.DudeDialog.yuck2': Failed to find object 'Sound ReopeningJune2016SO.DudeDialogue.DudeDialog.yuck2'
+Warning: Failed to load 'Sound GMaleDialog.gay_beg_dontkillvirginv': Failed to find object 'Sound GMaleDialog.gay_beg_dontkillvirginv'
+Warning: Failed to load 'Sound GMaleDialog.gay_deadtaunt_onyourfaace1': Failed to find object 'Sound GMaleDialog.gay_deadtaunt_onyourfaace1'
+Warning: Failed to load 'Sound HabibDialog.habib_30': Failed to find object 'Sound HabibDialog.habib_30'
+Warning: Failed to load 'Sound WFemaleAltDialog.wf_leadout_shankyouv': Failed to find object 'Sound WFemaleAltDialog.wf_leadout_shankyouv'
+Warning: Failed to load 'Sound WFemaleAltDialog.wf_sleez_sup': Failed to find object 'Sound WFemaleAltDialog.wf_sleez_sup'
+Warning: Failed to load 'Sound BFemaleDialog.bf_seewang_didn': Failed to find object 'Sound BFemaleDialog.bf_seewang_didn'
+Warning: Failed to load 'Sound BMaleDialog.bm_ohokayiguessV1n': Failed to find object 'Sound BMaleDialog.bm_ohokayiguessV1n'
+Warning: ReadToken: Bad quoted string
+Warning: ReadToken: Bad quoted string
+Warning: Missing Class Class Editor.TransBuffer
+Init: Unreal engine initialized
+Init: Detected 1 joysticks
+Init: Joystick [0] : Unknown Joystick
+Init: Joystick has 11 buttons
+Init: Joystick has 1 hats
+Init: Joystick has 0 balls
+Init: Joystick has 6 axes
+Init: SDLClient initialized.
+Log: (Karma): Beginning Karma for game.
+Log: (Karma): Creating MeAssetDB.
+Log: (Karma): Loading: All_Big.kaw
+Log: (Karma): Loading: All_Characters.kaw
+Log: (Karma): Loading: All_Fat.kaw
+Log: (Karma): Loading: All_Fem.kaw
+Log: (Karma): Loading: All_Mini.kaw
+Log: (Karma): Loading: Avg_Big.ka
+Log: (Karma): Loading: Avg_Big_Skel.ka
+Log: (Karma): Loading: Avg_Dude.ka
+Log: (Karma): Loading: Avg_Dude_Skel.ka
+Log: (Karma): Loading: Avg_Fat.ka
+Log: (Karma): Loading: Avg_Fat_Skel.ka
+Log: (Karma): Loading: Avg_Fem.ka
+Log: (Karma): Loading: Avg_Fem_Skel.ka
+Log: (Karma): Loading: Avg_Mini.ka
+Log: (Karma): Loading: Avg_Mini_Skel.ka
+Log: (Karma): Finished Creating MeAssetDB (10 Assets).
+Log: LoadMap: Entry
+Log: Game class is 'GameInfo'
+Log: Initializing PhysicsVolumes list
+Log: Level is Level Entry.MyLevel
+Log: Bringing Level Entry.MyLevel up for play (0)...
+ScriptLog: InitGame: 
+ScriptLog: Base Mutator is Entry.Mutator0
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: Entry.DialogLoader0 Preloading dialog...
+ScriptLog: Entry.DialogLoader0 Preloading BasePeople.DialogFemaleCop
+Warning: DialogFemaleCop Entry.DialogFemaleCop0 (Function BasePeople.DialogFemale.FillInLines:0648) Accessed None 'Game'
+ScriptLog: Entry.DialogLoader0 Preloading BasePeople.DialogMaleCop
+Warning: DialogMaleCop Entry.DialogMaleCop0 (Function BasePeople.DialogMale.FillInLines:05FE) Accessed None 'Game'
+ScriptLog: Entry.DialogLoader0 Preloading BasePeople.DialogDude
+Warning: DialogDude Entry.DialogDude0 (Function BasePeople.DialogMale.FillInLines:05FE) Accessed None 'Game'
+ScriptLog: FOV( float 85.00 )
+Log: Browse: Startup.fuk?Name=Player?Class=GameTypes.AWPostalDude?team=255
+Log: LoadMap: Startup.fuk?Name=Player?Class=GameTypes.AWPostalDude?team=255
+Log: (Karma): Initialising Karma for Level.
+
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 59605->59529; refs: 612395
+Log: Game class is 'AWPGameInfo'
+Log: Initializing PhysicsVolumes list
+Log: Level is Level Startup.MyLevel
+Log: Bringing Level Startup.MyLevel up for play (0)...
+ScriptLog: InitGame: ?team=255?Name=Player?Class=GameTypes.AWPostalDude
+ScriptLog: Base Mutator is Startup.P2GameMod0
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: Startup.ScriptedTrigger1 (loop): waiting for trigger
+ScriptLog: Startup.ScriptedTrigger2 (CheckStart): waiting for trigger
+Init: Initializing Steam
+Init: Successfully connected to Steam. App ID: 223470
+Log: Initializing OpenGLDrv...
+Init: Initializing OpenGLDrv...
+Log: binding OpenGL library...
+Log: Postal 2
+Log: Copyright 2003 Running With Scissors, Inc.
+Log: Unreal Engine
+Log: Copyright 2001 Epic Games, Inc.
+ScriptLog: Postal2: Steam-US-5021
+Log: Got here
+Log: Created and initialized a new SDL viewport.
+Init: Game engine initialized
+ScriptLog: Team 255
+ScriptLog: Login: Player
+ScriptLog: FOV( float 85.00 )
+Log: Possessed PlayerPawn: AWDudePlayer Startup.AWDudePlayer0
+Log: AWDudePlayer0 got player SDLViewport0
+Log: SpawnPlayActor() before login, pawn=None
+ScriptLog: Transient.InteractionMaster0.MapScreen0 P2Screen.Initialized()
+ScriptLog: PlayerStart Startup.PlayerStart0 is triggering event CheckStart
+ScriptLog: Startup.ScriptedTrigger2 (CheckStart): waiting for valid GameInfo
+ScriptLog: Startup.AWPGameInfo0 No ScoreBoardType specified in GameInfo
+Log: SpawnPlayActor() after login, pawn=AWPostalDude0
+ScriptLog: Startup.AWPGameInfo0 PostTravel(): Starting new game (creating new GameState)
+ScriptLog: Startup.ScriptedTrigger2 (CheckStart): starting up now
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): action[0]=Unlock Achievement: TestAchievement
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): action[1]=IfShellMenu:  if VirginMenu is False
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): action[3]=end section
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): action[4]=IfShellMenu:  if VirginMenu is True
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): action[5]=trigger event StartFirstTime
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): action[6]=Wait for external event PrecacheMenu
+ScriptLog: Transient.InteractionMaster0.MapScreen0 P2Screen.PostTravel()
+Init: UALAudioSubsystem::Init(): using libopenal.so.1
+Init: ALAudio: ALC_ENUMERATION_EXT supported.
+Init: ALAudio:  Available device: "PulseAudio Default"
+Init: ALAudio:  Available device: "ALSA Default"
+Init: ALAudio:  Available device: "No Output"
+Init: ALAudio: Default audio device is "PulseAudio Default"
+Init: ALAudio: Opening audio device "PulseAudio Default"
+Init: AL_VENDOR     : OpenAL Community
+Init: AL_RENDERER   : OpenAL Soft
+Init: AL_VERSION    : 1.1 ALSOFT 1.13
+Init: Device supports: AL
+Init: ALAudio: subsystem initialized.
+Init: Input system initialized for SDLViewport0
+Log: Enter SetRes: 2560x1440 Fullscreen 1
+Log: OpenGL
+Log: GL_VENDOR     : AMD
+Log: GL_RENDERER   : AMD Radeon RX 6700 XT (navi22, LLVM 15.0.7, DRM 3.49, 6.1.9-200.fsync.fc37.x86_64)
+Log: GL_VERSION    : 4.6 (Compatibility Profile) Mesa 22.3.4
+Init: Device supports: GL
+Init: Device supports: GL_EXT_bgra
+Init: Device supports: GL_ARB_texture_compression
+Init: Device supports: GL_EXT_texture_compression_s3tc
+Init: Device supports: GL_ARB_texture_cube_map
+Init: Device supports: GL_ARB_texture_env_combine
+Init: Device supports: GL_NV_texture_env_combine4
+Init: Device supports: GL_ATI_texture_env_combine3
+Init: Device supports: GL_ARB_texture_env_crossbar
+Init: Device supports: GL_EXT_texture_lod_bias
+Init: Device supports: GL_ARB_multitexture
+Init: Device supports: GL_ARB_multisample
+Init: Device supports: GL_EXT_texture_filter_anisotropic
+Init: Device supports: GL_ARB_vertex_buffer_object
+Init: Device supports: GL_ARB_fragment_program
+Init: Device supports: GL_ARB_vertex_program
+Init: Device supports: GL_EXT_framebuffer_object
+Init: Device supports: GL_ARB_texture_non_power_of_two
+Init: Device supports: GL_EXT_stencil_wrap
+Init: C32 RGB888 Z24 S8
+Init: OpenGL: Level of anisotropy is 1.000000 (max 16.000000).
+Log: OpenGL: Have 0 multisamples buffers, 0 samples.
+Init: OpenGL: Failed to get a multisample GL context
+Log: OpenGL: Forcibly disabled pixel shaders.
+Init: Using GL_ARB_vertex_buffer_object.
+Log: OpenGL: Using GL_EXT_framebuffer_object for render-to-texture.
+Log: OpenGL: Using GL_EXT_stencil_wrap for stencil operations.
+ScriptLog: FOV( float 85.00 )
+Init: Game engine initialized
+Log: Startup time: 3.664145 seconds
+ScriptLog: Startup.SceneManager2 SceneStarted(): Tag='StartFirstTime' PlayerScriptTag='None' PrecedingScenesPawn=None
+Warning: AWPostalDude Startup.AWPostalDude0 (Function Postal2Game.P2MoCapPawn.SetAnimRunning:00BB) Accessed None 'Controller'
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): action[6]=Wait for external event PrecacheMenu
+Log: Allocating dynamic index buffer.
+Log: Allocating dynamic vertex buffer.
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): action[7]=shell menu - precache
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): action[8]=end section
+ScriptLog: Startup.ScriptedTriggerController0 Script=Startup.ScriptedTrigger2 (CheckStart): reached end of script
+Log: Search ..\WorkshopContent
+ScriptLog: Startup.SceneManager2 SceneEnded(): Tag='StartFirstTime' NextSceneTag='RWSLogo'
+ScriptLog: Startup.SceneManager3 SceneStarted(): Tag='RWSLogo' PlayerScriptTag='None' PrecedingScenesPawn=Startup.AWPostalDude0
+ScriptLog: Startup.SceneManager3 SceneEnded(): Tag='RWSLogo' NextSceneTag='Postal2Logo'
+ScriptLog: Startup.SceneManager1 SceneStarted(): Tag='Postal2Logo' PlayerScriptTag='None' PrecedingScenesPawn=Startup.AWPostalDude0
+ScriptLog: Startup.SceneManager1 SceneEnded(): Tag='Postal2Logo' NextSceneTag='loop'
+ScriptLog: Startup.ScriptedTrigger1 (loop): starting up now
+ScriptLog: Startup.ScriptedTriggerController1 Script=Startup.ScriptedTrigger1 (loop): action[0]=Wait for timer 0.50
+ScriptLog: Startup.ScriptedTriggerController1 Script=Startup.ScriptedTrigger1 (loop): action[0]=Wait for timer 0.50
+ScriptLog: Startup.SceneManager0 SceneStarted(): Tag='loop' PlayerScriptTag='None' PrecedingScenesPawn=Startup.AWPostalDude0
+ScriptLog: Startup.ScriptedTriggerController1 Script=Startup.ScriptedTrigger1 (loop): action[1]=shell menu - show menu
+ScriptLog: Startup.ScriptedTriggerController1 Script=Startup.ScriptedTrigger1 (loop): reached end of script
+Warning: MenuGameSettings Transient.MenuGameSettings0 (Function Shell.MenuGameSettings.LoadValues:02E1) Accessed None 'MpHintsCheckbox'
+ScriptLog: Startup.AWPGameInfo0 LoadGame(): Slot=21
+ScriptLog: Transient.InteractionMaster0.MapScreen0 P2Screen.PreTravel(): bEndWhenTravling=True IsRunning()=False
+ScriptLog: Startup.AWPGameInfo0 SendPlayerTo(): discarded TheGameState
+Warning: MenuLoad Transient.MenuLoad0 (Function Shell.MenuLoad.OnSlotChoice:004B) Accessed None 'ViewportOwner'
+Warning: MenuLoad Transient.MenuLoad0 (Function Shell.MenuLoad.OnSlotChoice:0053) Accessed None (Could not determine property)
+Warning: AWPGameInfo Startup.AWPGameInfo0 (Function Postal2Game.P2GameInfoSingle.SendPlayerEx:0044) Accessed None 'Pawn'
+ScriptLog: Startup.SceneManager0 Cleanup()
+Log: Browse: Startup.fuk?Name=Player?Class=GameTypes.AWPostalDude?team=255?load=21
+Log: LoadMap: ..\Save\Save21.usa?Name=Player?Class=GameTypes.AWPostalDude?team=255?load
+Log: (Karma): Initialising Karma for Level.
+
+Log: Initializing PhysicsVolumes list
+Log: Collecting garbage
+Log: Purging garbage
+Log: 24806.0ms Unloading: Package Package0
+Log: Garbage: objects: 69001->68845; refs: 849081
+Log: Spawning new actor for Viewport SDLViewport0
+ScriptLog: Team 255
+ScriptLog: Login: Player
+ScriptLog: FOV( float 85.00 )
+Log: Possessed PlayerPawn: AWDudePlayer Package1.AWDudePlayer3
+Log: AWDudePlayer3 got player SDLViewport0
+Log: SpawnPlayActor() before login, pawn=AWPostalDude3
+ScriptLog: Package1.AWPGameInfo3 No ScoreBoardType specified in GameInfo
+Log: SpawnPlayActor() after login, pawn=AWPostalDude3
+ScriptLog: Package1.AWPGameInfo3 PostTravel(): Loaded a saved game (using the loaded GameState)
+ScriptLog: Transient.InteractionMaster0.MapScreen0 P2Screen.PostTravel()
+ScriptLog: Package1.AWDudePlayer3 restarting gary head effect?? 0
+Log: Allocating dynamic index buffer.
+Log: Allocating dynamic vertex buffer.
+ScriptLog: Register last weapon current Package1.HandsWeapon240 pending Package1.MatchesWeapon3
+ScriptLog: Last weapon registered as 0 2
+ScriptLog: Package1.ScriptedTrigger0 (cellalarm): starting up now
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[0]=trigger event DisallowEscapeAchievement
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[1]=trigger event alarmsound
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[2]=Wait for timer 1.00
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[2]=Wait for timer 1.00
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[3]=trigger event sprinkler
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[4]=trigger event sprinklersound
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[5]=Wait for timer 1.00
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[6]=trigger event L2
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[7]=trigger event L3
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[8]=Wait for timer 1.00
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[9]=trigger event jaildoor
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[10]=Wait for timer 20.00
+ScriptLog: Package1.ScriptedTrigger1 (sc1): starting up now
+ScriptLog: Package1.ScriptedTriggerController3 Script=Package1.ScriptedTrigger1 (sc1): action[0]=Wait for external event sc1
+ScriptLog: Package1.ScriptedTriggerController3 Script=Package1.ScriptedTrigger1 (sc1): action[1]=action notify
+ScriptLog: Package1.ScriptedTriggerController3 Script=Package1.ScriptedTrigger1 (sc1): action[2]=trigger event alarmsound
+ScriptLog: Package1.ScriptedTriggerController3 Script=Package1.ScriptedTrigger1 (sc1): action[3]=Wait for timer 45.00
+Error: BatonWeapon Package1.BatonWeapon31 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Package1.BatonWeapon29 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Package1.BatonWeapon33 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+ScriptLog: Register last weapon current Package1.MatchesWeapon3 pending Package1.HandsWeapon240
+ScriptLog: Last weapon registered as 5 2
+Error: PoliceController Package1.PoliceController16 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+Error: PoliceController Package1.PoliceController16 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+Error: BatonWeapon Package1.BatonWeapon16 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[11]=trigger event alarmsound
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[12]=Wait for timer 1.00
+Error: PoliceController Package1.PoliceController16 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+Error: PoliceController Package1.PoliceController16 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+ScriptLog: Package1.CopBlack0 and Package1.PoliceController16 ERROR: in RunToAttacker:  no mynextstate
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[13]=trigger event sprinkler
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[14]=trigger event sprinklersound
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[15]=Wait for timer 1.00
+Error: PoliceController Package1.PoliceController20 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+Error: BatonWeapon Package1.BatonWeapon20 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Package1.BatonWeapon31 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[16]=trigger event L2
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[17]=trigger event L3
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[18]=Wait for timer 2.00
+Error: PoliceController Package1.PoliceController16 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+Error: PoliceController Package1.PoliceController32 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): action[19]=trigger event jaildoor
+ScriptLog: Package1.ScriptedTriggerController2 Script=Package1.ScriptedTrigger0 (cellalarm): reached end of script
+Error: PoliceController Package1.PoliceController16 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+Error: PoliceController Package1.PoliceController16 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+Error: PoliceController Package1.PoliceController16 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+Error: PoliceController Package1.PoliceController16 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+Error: PoliceController Package1.PoliceController20 (Function AIPack.PoliceController.SetLastWeaponSeen:000A) Accessed null class context
+ScriptLog: Package1.ScriptedTriggerController3 Script=Package1.ScriptedTrigger1 (sc1): action[4]=trigger event alarmsound
+ScriptLog: Package1.ScriptedTriggerController3 Script=Package1.ScriptedTrigger1 (sc1): reached end of script
+ScriptLog: Package1.Telepad0sending animal friends 
+ScriptLog: Transient.InteractionMaster0.MapScreen0 P2Screen.PreTravel(): bEndWhenTravling=True IsRunning()=False
+ScriptLog: Package1.AWPGameInfo3 SendPlayerTo(): added GameState to player's inventory
+ScriptLog: Package1.AWPGameInfo3 SendPlayerTo(): discarded TheGameState
+Log: Export travel for: Player
+Log: Exporting travelling actor of class GameTypes.AWPostalDude
+Log: Exporting travelling actor of class Inventory.MapInv
+Log: Exporting travelling actor of class Inventory.StatInv
+Log: Exporting travelling actor of class Inventory.CellPhoneWeapon
+Log: Exporting travelling actor of class Inventory.CellPhoneAmmoInv
+Log: Exporting travelling actor of class Inventory.HandsWeapon
+Log: Exporting travelling actor of class Inventory.HandsAmmoInv
+Log: Exporting travelling actor of class Inventory.UrethraWeapon
+Log: Exporting travelling actor of class Inventory.UrethraAmmoInv
+Log: Exporting travelling actor of class Inventory.FootAmmoInv
+Log: Exporting travelling actor of class Inventory.MatchesWeapon
+Log: Exporting travelling actor of class Inventory.MatchesAmmoInv
+Log: Exporting travelling actor of class Postal2Game.PickupTravelInv
+Log: Exporting travelling actor of class Postal2Game.WeaponTravelInv
+Log: Exporting travelling actor of class Postal2Game.PowerupTravelInv
+Log: Exporting travelling actor of class GameTypes.AWGameState
+Log: Browse: Suburbs-2?Name=Player?Class=GameTypes.AWPostalDude?team=255?Game=GameTypes.AWPGameInfo?Mutator=?Workshop=0?peer#pod69
+Log: LoadMap: Suburbs-2?Name=Player?Class=GameTypes.AWPostalDude?team=255?Game=GameTypes.AWPGameInfo?Mutator=?Workshop=0?peer#pod69
+Log: (Karma): Initialising Karma for Level.
+
+Log: Initializing PhysicsVolumes list
+Log: Collecting garbage
+Log: Purging garbage
+Log: 111991.0ms Unloading: Package Footsteps
+Log: Garbage: objects: 81656->80003; refs: 1124540
+Log: Game class is 'AWPGameInfo'
+Log: Level is Level Suburbs-2.MyLevel
+Log: Bringing Level Suburbs-2.MyLevel up for play (0)...
+ScriptLog: InitGame: ?team=255?Game=GameTypes.AWPGameInfo?Mutator=?Workshop=0?peer?Name=Player?Class=GameTypes.AWPostalDude
+ScriptLog: Base Mutator is Suburbs-2.P2GameMod1
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+Error: BatonWeapon Suburbs-2.BatonWeapon0 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon1 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon2 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon3 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon4 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon5 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon6 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon7 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon8 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon9 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon10 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon11 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon12 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon13 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon14 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon15 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon16 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon17 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon18 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+Error: BatonWeapon Suburbs-2.BatonWeapon19 (Function Postal2Game.P2BloodWeapon.CleanWeapon:0017) Accessed array 'Skins' out of bounds (1/1)
+ScriptLog: Suburbs-2.InterestPoint7 ERROR: could not match with tag FoodCourtStand2a
+Log: Spawning new actor for Viewport SDLViewport0
+ScriptLog: Team 255
+ScriptLog: Login: Player
+ScriptLog: FOV( float 85.00 )
+Log: Possessed PlayerPawn: AWDudePlayer Suburbs-2.AWDudePlayer2
+Log: AWDudePlayer2 got player SDLViewport0
+Log: SpawnPlayActor() before login, pawn=None
+ScriptLog: Suburbs-2.AWPGameInfo1 No ScoreBoardType specified in GameInfo
+L

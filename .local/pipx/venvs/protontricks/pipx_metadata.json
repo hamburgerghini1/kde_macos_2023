@@ -1,0 +1,36 @@
+{
+    "injected_packages": {},
+    "main_package": {
+        "app_paths": [
+            {
+                "__Path__": "/home/tommi/.local/pipx/venvs/protontricks/bin/protontricks",
+                "__type__": "Path"
+            },
+            {
+                "__Path__": "/home/tommi/.local/pipx/venvs/protontricks/bin/protontricks-desktop-install",
+                "__type__": "Path"
+            },
+            {
+                "__Path__": "/home/tommi/.local/pipx/venvs/protontricks/bin/protontricks-launch",
+                "__type__": "Path"
+            }
+        ],
+        "app_paths_of_dependencies": {},
+        "apps": [
+            "protontricks",
+            "protontricks-desktop-install",
+            "protontricks-launch"
+        ],
+        "apps_of_dependencies": [],
+        "include_apps": true,
+        "include_dependencies": false,
+        "package": "protontricks",
+        "package_or_url": "protontricks",
+        "package_version": "1.10.1",
+        "pip_args": [],
+        "suffix": ""
+    },
+    "pipx_metadata_version": "0.2",
+    "python_version": "Python 3.11.1",
+    "venv_args": []
+}

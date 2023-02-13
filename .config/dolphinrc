@@ -15,9 +15,12 @@ Places Icons Static Size=22
 [KPropertiesDialog]
 DP-3 Height 2560x1440 DP-3=532
 DP-3 Width 2560x1440 DP-3=438
-DisplayPort-2 Height 2560x1440 DisplayPort-2=619
+DisplayPort-2 Height 2560x1440 DisplayPort-2=559
 DisplayPort-2 Width 2560x1440 DisplayPort-2=434
 
 [MainWindow]
 MenuBar=Disabled
 ToolBarsMovable=Disabled
+
+[Notification Messages]
+ConfirmDelete=true

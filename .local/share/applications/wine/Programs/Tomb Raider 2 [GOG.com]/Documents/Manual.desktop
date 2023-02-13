@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Manual
+Exec=env WINEPREFIX="/home/tommi/Games/tr2" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Tomb\\ Raider\\ 2\\ [GOG.com]\\\\Documents\\\\Manual.lnk
+Type=Application
+StartupNotify=true
+Comment=Manual
+Path=/home/tommi/Games/tr2/dosdevices/c:/GOG Games/Tomb Raider 2
+Icon=912A_Manual.0
+StartupWMClass=manual.pdf

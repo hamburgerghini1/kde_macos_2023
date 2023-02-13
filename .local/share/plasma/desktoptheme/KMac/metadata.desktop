@@ -1,0 +1,20 @@
+[ContrastEffect]
+contrast=1.0
+enabled=true
+intensity=0.45
+saturation=1.4
+
+[Desktop Entry]
+Comment=Mac OS styled theme for KDE Plasma
+Name=KMac
+X-KDE-PluginInfo-Author=Hambbaa
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=tommipontinen76@proton.me
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=KMac
+X-KDE-PluginInfo-Version=5.84.0
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+

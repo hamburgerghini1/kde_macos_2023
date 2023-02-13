@@ -1,0 +1,53 @@
+    87.0ms (setup:755): 2023-02-09 13:22:32
+    87.1ms (setup:756): /usr/bin/pipx install protontrickas
+    87.1ms (setup:757): pipx version is 1.1.0
+    87.1ms (setup:758): Default python interpreter is '/usr/bin/python3'
+    87.2ms (mkdir:81): creating directory /home/tommi/.local/pipx/venvs
+    87.2ms (mkdir:81): creating directory /home/tommi/.local/pipx/.cache
+    87.3ms (setup:766): Adding CACHEDIR.TAG to cache directory
+    87.6ms (package_name_from_spec:323): Determined package name: protontrickas
+    87.7ms (package_name_from_spec:324): Package name determined in 0.0s
+    88.0ms (run_subprocess:173): running /usr/bin/python3 -m venv --without-pip /home/tommi/.local/pipx/venvs/protontrickas
+   121.5ms (run_subprocess:186): stdout:
+   121.6ms (run_subprocess:188): stderr:
+   121.6ms (run_subprocess:189): returncode: 0
+   122.0ms (run_subprocess:173): running /usr/bin/python3 -m venv --clear /home/tommi/.local/pipx/shared
+  2461.6ms (run_subprocess:186): stdout:
+  2461.7ms (run_subprocess:188): stderr:
+  2461.7ms (run_subprocess:189): returncode: 0
+  2461.8ms (upgrade:91): Upgrading shared libraries in /home/tommi/.local/pipx/shared
+  2462.1ms (run_subprocess:173): running /home/tommi/.local/pipx/shared/bin/python -m pip --disable-pip-version-check install --force-reinstall -q --upgrade pip setuptools wheel
+  4518.9ms (run_subprocess:186): stdout:
+  4519.0ms (run_subprocess:188): stderr:
+  4519.0ms (run_subprocess:189): returncode: 0
+  4519.2ms (run_subprocess:173): running /home/tommi/.local/pipx/venvs/protontrickas/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+  4529.4ms (run_subprocess:186): stdout: /home/tommi/.local/pipx/venvs/protontrickas/lib/python3.11/site-packages
+  4529.5ms (run_subprocess:189): returncode: 0
+  4529.7ms (run_subprocess:173): running /home/tommi/.local/pipx/shared/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+  4539.1ms (run_subprocess:186): stdout: /home/tommi/.local/pipx/shared/lib/python3.11/site-packages
+  4539.1ms (run_subprocess:189): returncode: 0
+  4539.4ms (run_subprocess:173): running /home/tommi/.local/pipx/venvs/protontrickas/bin/python --version
+  4540.8ms (run_subprocess:186): stdout: Python 3.11.1
+  4540.8ms (run_subprocess:188): stderr:
+  4540.9ms (run_subprocess:189): returncode: 0
+  4541.3ms (_parsed_package_to_package_or_url:128): cleaned package spec: protontrickas
+  4541.5ms (run_subprocess:173): running /home/tommi/.local/pipx/venvs/protontrickas/bin/python -m pip install protontrickas
+  4984.7ms (run_subprocess:189): returncode: 1
+  4984.7ms (subprocess_post_check_handle_pip_error:335): '/home/tommi/.local/pipx/venvs/protontrickas/bin/python -m pip install protontrickas' failed
+  4984.9ms (subprocess_post_check_handle_pip_error:352): Fatal error from pip prevented installation. Full pip output in file:
+    /home/tommi/.local/pipx/logs/cmd_2023-02-09_13.22.32_pip_errors.log
+  4985.6ms (rmdir:55): removing directory /home/tommi/.local/pipx/venvs/protontrickas
+  4986.0ms (cli:822): PipxError: Error installing protontrickas.
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/pipx/main.py", line 819, in cli
+    return run_pipx_command(parsed_pipx_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/pipx/main.py", line 202, in run_pipx_command
+    return commands.install(
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/pipx/commands/install.py", line 60, in install
+    venv.install_package(
+  File "/usr/lib/python3.11/site-packages/pipx/venv.py", line 240, in install_package
+    raise PipxError(
+pipx.util.PipxError: Error installing protontrickas.
+  4986.5ms (cli:830): pipx finished.

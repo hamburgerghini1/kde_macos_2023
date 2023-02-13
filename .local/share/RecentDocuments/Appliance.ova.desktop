@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-ovf
+Name=Appliance.ova
+Type=Link
+URL[$e]=file:$HOME/Downloads/Appliance.ova
+X-KDE-LastOpenedWith=VirtualBox

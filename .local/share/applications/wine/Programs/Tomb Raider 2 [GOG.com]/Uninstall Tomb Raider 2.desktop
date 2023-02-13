@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall Tomb Raider 2
+Exec=env WINEPREFIX="/home/tommi/Games/tr2" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Tomb\\ Raider\\ 2\\ [GOG.com]\\\\Uninstall\\ Tomb\\ Raider\\ 2.lnk
+Type=Application
+StartupNotify=true
+Path=/home/tommi/Games/tr2/dosdevices/c:/GOG Games/Tomb Raider 2
+Icon=D8DA_unins000.0
+StartupWMClass=unins000.exe

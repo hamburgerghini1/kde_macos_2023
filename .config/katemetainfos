@@ -70,6 +70,18 @@ Mode Set By User=false
 Time=2023,1,28,9,55,59.229
 URL=file:///home/tommi/.local/share/icons/macOS Cursor Set/COPYRIGHT
 
+[file:///home/tommi/.local/share/plasma/desktoptheme/Noctis-round/metadata.desktop]
+Bookmarks=
+Checksum=0696de9911c86a653358550d1d14b4c6d163d99e
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2023,2,8,9,49,56.514
+URL=file:///home/tommi/.local/share/plasma/desktoptheme/Noctis-round/metadata.desktop
+
 [file:///home/tommi/Documents/GitHub/kde_macos_2023/.xsession-errors]
 Bookmarks=
 Checksum=54d8d4663207dcefcbda24aa6b5aac9b255c8cdb
@@ -81,6 +93,30 @@ Mode=Normal
 Mode Set By User=false
 Time=2023,2,1,6,19,19.557
 URL=file:///home/tommi/Documents/GitHub/kde_macos_2023/.xsession-errors
+
+[file:///home/tommi/Documents/surfshark_pass.txt]
+Bookmarks=
+Checksum=7b520773aa9eab1fe4544d03a555b9a0f346338a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,2,10,10,52,14.737
+URL=file:///home/tommi/Documents/surfshark_pass.txt
+
+[file:///home/tommi/Downloads/FAR.CRY.3.V1.05.PLUS25TRN.FLING/FAR.CRY.3.V1.05.PLUS25TRN.FLING.ZIP.txt]
+Bookmarks=
+Checksum=bd2bae26fa17e5b6b77ed9d4819ef05b7cf8213f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,2,9,10,58,20.087
+URL=file:///home/tommi/Downloads/FAR.CRY.3.V1.05.PLUS25TRN.FLING/FAR.CRY.3.V1.05.PLUS25TRN.FLING.ZIP.txt
 
 [file:///home/tommi/Downloads/v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff]
 Bookmarks=
@@ -117,3 +153,19 @@ Mode=Normal
 Mode Set By User=false
 Time=2023,1,28,9,24,54.955
 URL=file:///home/tommi/Mac OS Wallpapers/.directory
+
+[file:///tmp/proton_tommi/run]
+Checksum=eeaf67e77dcdf09a368ee955c3e2d5d1aa3f4cb0
+Time=2023,2,9,11,46,23.551
+
+[file:///usr/share/applications/spotify_modded.desktop]
+Bookmarks=
+Checksum=55736416dea483fb4dc86d532ed09396d747e8b8
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2023,2,11,9,56,35.441
+URL=file:///usr/share/applications/spotify_modded.desktop

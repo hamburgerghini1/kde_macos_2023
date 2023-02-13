@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<string name="ROMDirectory" value="/media/pelissd/Emudeck/Emulation/roms" />
+<string name="ThemeSet" value="es-epicnoir" />
+<string name="MediaDirectory" value="/media/pelissd/Emudeck/Emulation/tools/downloaded_media" />

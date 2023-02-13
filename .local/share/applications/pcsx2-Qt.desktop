@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+	[Desktop Entry]
+	Name=pcsx2-Qt EmuDeck
+	Exec=/media/pelissd/Emudeck/Emulation/tools/launchers/pcsx2-qt.sh
+	Icon=/home/tommi/.local/share/icons/emudeck/pcsx2-Qt.png
+	Terminal=false
+	Type=Application
+	Categories=Game;
+	StartupNotify=false

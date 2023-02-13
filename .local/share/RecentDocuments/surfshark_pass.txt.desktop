@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=surfshark_pass.txt
+Type=Link
+URL[$e]=file:$HOME/Documents/surfshark_pass.txt
+X-KDE-LastOpenedWith=org.kde.kate

@@ -3,6 +3,6 @@ DisplayPort-2 Height 2560x1440 DisplayPort-2=773
 DisplayPort-2 Width 2560x1440 DisplayPort-2=1300
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Downloads/Chromium.Web.Store.crx,file:$HOME/Downloads/proton_recovery_codes.txt
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Documents/
+Recent Files[$e]=file:$HOME/Downloads/veracrypt-1.25.9-CentOS-8-x86_64.rpm,file:$HOME/Downloads/openSUSE-Leap-15.4-GNOME-Live-x86_64-Build31.98-Media.iso,file:$HOME/Downloads/HoloISO_4.0_OfflineInstaller-20221211_1636-x86_64.iso,file:$HOME/Downloads/Appliance.ova,file:$HOME/Downloads/Win10_22H2_English_x64.iso,file:$HOME/Downloads/ubuntu-20.04.5-desktop-amd64.iso,file:$HOME/Downloads/6-Spotify++ v8.7.32.ipa
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Documents/,file:$HOME/
 detailViewIconSize=16

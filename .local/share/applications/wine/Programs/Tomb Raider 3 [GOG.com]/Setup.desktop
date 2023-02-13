@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Setup
+Exec=env WINEPREFIX="/home/tommi/Games/tr3" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Tomb\\ Raider\\ 3\\ [GOG.com]\\\\Setup.lnk
+Type=Application
+StartupNotify=true
+Comment=Setup
+Path=/home/tommi/Games/tr3/dosdevices/c:/GOG Games/Tomb Raider 3
+Icon=A469_tomb3.0
+StartupWMClass=tomb3.exe
