@@ -1,0 +1,9 @@
+2023-02-16T09:18:21.017Z - info: [ui] [AppStore] loading 6 repositories from store
+2023-02-16T09:18:21.020Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-02-16T09:18:21.178Z - info: [ui] launching: 3.1.1-linux1 (Linux 6.1.9-200.fsync.fc37.x86_64)
+2023-02-16T09:18:21.179Z - info: [ui] execPath: '/tmp/.mount_GitHubVFem82/github-desktop'
+2023-02-16T09:18:21.585Z - info: [ui] Stats reported.
+2023-02-16T09:18:21.650Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-16T09:18:21.732Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-02-16T09:18:30.440Z - info: [ui] Executing getChangesFiles: git log 25788ed0d6063c1617587b11d7c8fe0b9474289c -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 8.742s)

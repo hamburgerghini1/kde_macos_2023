@@ -1,0 +1,461 @@
+(17:01:17) INFO:    [Connection]:       Connectivity: check-online
+(17:01:17) INFO:    [Connection]:       Pinging external endpoints
+(17:01:17) INFO:    [Legendary]:        Running command: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(17:01:17) INFO:    [Legendary]:        Legendary location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(17:01:17) INFO:    [Gog]:              GOGDL location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(17:01:17) INFO:    [Gog]:              GOGDL location: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(17:01:17) WARNING: [Backend]:          Failed to register protocol with OS.
+(17:01:17) INFO:    [Connection]:       Connectivity: online
+(17:01:17) INFO:    [Gog]:              Running command: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(17:01:17) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(17:01:17) INFO:    [Backend]:          Loading Screen Ready
+(17:01:18) INFO:    [Frontend]:         Refreshing Library
+(17:01:18) INFO:    [Legendary]:        Refreshing library...
+(17:01:18) INFO:    [Legendary]:        Refreshing Epic Games...
+(17:01:18) INFO:    [Legendary]:        Game list updated, got 72 games & DLCs
+(17:01:18) INFO:    [Backend]:          Frontend Ready
+(17:01:18) INFO:    [Backend]:          
+
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: Freedesktop SDK KERNEL: 6.1.8-202.fsync.fc37.x86_64 ARCH: x64
+CPU: Intel Core™ i5-10600K @4.1 GOVERNOR: powersave
+RAM: Total: 31.24 GiB Available: 24.69 GiB
+GRAPHICS: GPU0: Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M] VRAM: 1MB  
+PROTOCOL: x11
+
+(17:01:18) INFO:    [Backend]:          Checking for current version changelog
+(17:01:18) INFO:    [Frontend]:         Updated to a new version, cleaaning up the cache.
+(17:01:18) INFO:    [Legendary]:        Running command: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary cleanup
+(17:01:18) INFO:    [Legendary]:        Checking for game updates: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(17:01:18) INFO:    [Legendary]:        Running command: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(17:01:20) INFO:    [Winetricks]:       Downloading Winetricks
+(17:01:20) INFO:    [DXVKInstaller]:    Updating vkd3d to: vkd3d-proton-v2.8
+(17:01:20) INFO:    [DXVKInstaller]:    downloaded vkd3d
+(17:01:20) INFO:    [DXVKInstaller]:    extracting vkd3d
+(17:01:20) INFO:    [DXVKInstaller]:    vkd3d updated!
+(17:01:21) DEBUG:   [Legendary]:        Update is available for Cormorant: PD_RC5_CL4519289-230117_1657UTC != PD_RC6_CL4537292-230131_1926UTC
+(17:01:21) INFO:    [Legendary]:        Found 1 game to update
+(17:01:21) INFO:    [Gog]:              Found 0 game(s) to update
+(17:01:23) INFO:    [Backend]:          Starting the Download Queue
+(17:01:32) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(17:01:32) INFO:    [Backend]:          Preventing machine to sleep
+(17:01:33) INFO:    [Legendary]:        Running command: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Cormorant --platform Windows --json
+(17:01:36) INFO:    [DownloadManager]:  Saints Row  was added to the download queue.
+(17:01:37) DEBUG:   [Legendary]:        Using cached install info
+(17:01:37) INFO:    [Legendary]:        Updating Cormorant: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary update Cormorant -y
+(17:01:37) DEBUG:   [Legendary]:        Logging to file "/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/GamesConfig/Cormorant.log"
+(17:01:40) INFO:    [Legendary]:        Progress for Saints Row: 85.97%/10.41MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:41) INFO:    [Legendary]:        Progress for Saints Row: 86.03%/31.42MiB/00:09:02 Down: 20.98MiB/s / Disk: 0MiB/s
+(17:01:42) INFO:    [Legendary]:        Progress for Saints Row: 86.08%/52.35MiB/00:10:44 Down: 20.91MiB/s / Disk: 0MiB/s
+(17:01:43) INFO:    [Legendary]:        Progress for Saints Row: 86.13%/70.54MiB/00:08:02 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:44) INFO:    [Legendary]:        Progress for Saints Row: 86.19%/94.58MiB/00:06:41 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:45) INFO:    [Legendary]:        Progress for Saints Row: 86.25%/116.84MiB/00:07:01 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:46) INFO:    [Legendary]:        Progress for Saints Row: 86.31%/142.40MiB/00:06:52 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:47) INFO:    [Legendary]:        Progress for Saints Row: 86.37%/164.26MiB/00:07:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:48) INFO:    [Legendary]:        Progress for Saints Row: 86.42%/184.31MiB/00:06:22 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:49) INFO:    [Legendary]:        Progress for Saints Row: 86.47%/203.09MiB/00:05:03 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:50) INFO:    [Legendary]:        Progress for Saints Row: 86.53%/225.79MiB/00:04:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:51) INFO:    [Legendary]:        Progress for Saints Row: 86.57%/243.58MiB/00:03:40 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:52) INFO:    [Legendary]:        Progress for Saints Row: 86.64%/271.00MiB/00:03:19 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:53) INFO:    [Legendary]:        Progress for Saints Row: 86.7%/292.33MiB/00:03:02 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:54) INFO:    [Legendary]:        Progress for Saints Row: 86.74%/310.93MiB/00:02:51 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:55) INFO:    [Legendary]:        Progress for Saints Row: 86.79%/327.29MiB/00:02:41 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:56) INFO:    [Legendary]:        Progress for Saints Row: 86.84%/349.38MiB/00:02:32 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:57) INFO:    [Legendary]:        Progress for Saints Row: 86.89%/368.85MiB/00:02:26 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:58) INFO:    [Legendary]:        Progress for Saints Row: 86.92%/380.18MiB/00:02:21 Down: 0MiB/s / Disk: 0MiB/s
+(17:01:59) INFO:    [Legendary]:        Progress for Saints Row: 86.96%/394.03MiB/00:02:15 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:00) INFO:    [Legendary]:        Progress for Saints Row: 87.01%/415.56MiB/00:02:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:01) INFO:    [Legendary]:        Progress for Saints Row: 87.06%/433.22MiB/00:02:08 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:02) INFO:    [Legendary]:        Progress for Saints Row: 87.11%/452.36MiB/00:02:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:03) INFO:    [Legendary]:        Progress for Saints Row: 87.15%/471.24MiB/00:02:08 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:04) INFO:    [Legendary]:        Progress for Saints Row: 87.2%/490.07MiB/00:02:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:05) INFO:    [Legendary]:        Progress for Saints Row: 87.25%/510.63MiB/00:02:08 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:06) INFO:    [Legendary]:        Progress for Saints Row: 87.31%/530.56MiB/00:02:10 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:07) INFO:    [Legendary]:        Progress for Saints Row: 87.36%/551.41MiB/00:02:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:08) INFO:    [Legendary]:        Progress for Saints Row: 87.41%/570.16MiB/00:02:10 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:09) INFO:    [Legendary]:        Progress for Saints Row: 87.46%/591.95MiB/00:02:12 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:10) INFO:    [Legendary]:        Progress for Saints Row: 87.52%/613.62MiB/00:02:14 Down: 21.65MiB/s / Disk: 0MiB/s
+(17:02:11) INFO:    [Legendary]:        Progress for Saints Row: 87.56%/628.83MiB/00:02:18 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:12) INFO:    [Legendary]:        Progress for Saints Row: 87.61%/648.34MiB/00:02:22 Down: 19.49MiB/s / Disk: 0MiB/s
+(17:02:13) INFO:    [Legendary]:        Progress for Saints Row: 87.65%/663.79MiB/00:02:26 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:14) INFO:    [Legendary]:        Progress for Saints Row: 87.7%/686.13MiB/00:02:29 Down: 22.31MiB/s / Disk: 0MiB/s
+(17:02:15) INFO:    [Legendary]:        Progress for Saints Row: 87.76%/707.38MiB/00:02:33 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:16) INFO:    [Legendary]:        Progress for Saints Row: 87.81%/727.12MiB/00:02:37 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:17) INFO:    [Legendary]:        Progress for Saints Row: 87.87%/750.68MiB/00:02:41 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:18) INFO:    [Legendary]:        Progress for Saints Row: 87.92%/771.81MiB/00:02:43 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:19) INFO:    [Legendary]:        Progress for Saints Row: 87.98%/795.85MiB/00:02:46 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:20) INFO:    [Legendary]:        Progress for Saints Row: 88.04%/815.79MiB/00:02:49 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:21) INFO:    [Legendary]:        Progress for Saints Row: 88.1%/840.89MiB/00:02:52 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:22) INFO:    [Legendary]:        Progress for Saints Row: 88.16%/863.48MiB/00:02:56 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:23) INFO:    [Legendary]:        Progress for Saints Row: 88.21%/884.89MiB/00:02:59 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:24) INFO:    [Legendary]:        Progress for Saints Row: 88.27%/909.13MiB/00:03:02 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:25) INFO:    [Legendary]:        Progress for Saints Row: 88.32%/927.20MiB/00:03:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:26) INFO:    [Legendary]:        Progress for Saints Row: 88.39%/953.87MiB/00:03:08 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:28) INFO:    [Legendary]:        Progress for Saints Row: 88.5%/995.94MiB/00:03:15 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:29) INFO:    [Legendary]:        Progress for Saints Row: 88.55%/1018.32MiB/00:03:17 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:30) INFO:    [Legendary]:        Progress for Saints Row: 88.62%/1042.99MiB/00:03:16 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:31) INFO:    [Legendary]:        Progress for Saints Row: 88.66%/1061.28MiB/00:03:16 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:32) INFO:    [Legendary]:        Progress for Saints Row: 88.72%/1084.36MiB/00:03:19 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:33) INFO:    [Legendary]:        Progress for Saints Row: 88.76%/1099.40MiB/00:03:19 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:34) INFO:    [Legendary]:        Progress for Saints Row: 88.81%/1119.12MiB/00:03:21 Down: 19.7MiB/s / Disk: 0MiB/s
+(17:02:35) INFO:    [Legendary]:        Progress for Saints Row: 88.85%/1134.87MiB/00:03:23 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:36) INFO:    [Legendary]:        Progress for Saints Row: 88.9%/1154.47MiB/00:03:25 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:37) INFO:    [Legendary]:        Progress for Saints Row: 88.96%/1176.83MiB/00:03:26 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:38) INFO:    [Legendary]:        Progress for Saints Row: 89.01%/1198.15MiB/00:03:28 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:39) INFO:    [Legendary]:        Progress for Saints Row: 89.06%/1216.12MiB/00:03:29 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:41) INFO:    [Legendary]:        Progress for Saints Row: 89.17%/1257.57MiB/00:03:27 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:42) INFO:    [Legendary]:        Progress for Saints Row: 89.23%/1281.30MiB/00:03:23 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:43) INFO:    [Legendary]:        Progress for Saints Row: 89.28%/1300.18MiB/00:03:19 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:44) INFO:    [Legendary]:        Progress for Saints Row: 89.33%/1320.09MiB/00:03:17 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:45) INFO:    [Legendary]:        Progress for Saints Row: 89.39%/1345.80MiB/00:03:16 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:46) INFO:    [Legendary]:        Progress for Saints Row: 89.45%/1369.70MiB/00:03:17 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:47) INFO:    [Legendary]:        Progress for Saints Row: 89.52%/1394.69MiB/00:03:19 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:48) INFO:    [Legendary]:        Progress for Saints Row: 89.57%/1415.08MiB/00:03:21 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:49) INFO:    [Legendary]:        Progress for Saints Row: 89.62%/1433.11MiB/00:03:23 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:50) INFO:    [Legendary]:        Progress for Saints Row: 89.65%/1447.72MiB/00:03:25 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:51) INFO:    [Legendary]:        Progress for Saints Row: 89.72%/1472.13MiB/00:03:28 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:52) INFO:    [Legendary]:        Progress for Saints Row: 89.76%/1491.40MiB/00:03:30 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:53) INFO:    [Legendary]:        Progress for Saints Row: 89.81%/1507.82MiB/00:03:32 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:54) INFO:    [Legendary]:        Progress for Saints Row: 89.86%/1530.56MiB/00:03:35 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:55) INFO:    [Legendary]:        Progress for Saints Row: 89.92%/1550.33MiB/00:03:38 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:56) INFO:    [Legendary]:        Progress for Saints Row: 89.97%/1572.10MiB/00:03:40 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:57) INFO:    [Legendary]:        Progress for Saints Row: 90.02%/1591.61MiB/00:03:43 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:58) INFO:    [Legendary]:        Progress for Saints Row: 90.07%/1612.51MiB/00:03:46 Down: 0MiB/s / Disk: 0MiB/s
+(17:02:59) INFO:    [Legendary]:        Progress for Saints Row: 90.13%/1632.25MiB/00:03:49 Down: 19.72MiB/s / Disk: 0MiB/s
+(17:03:00) INFO:    [Legendary]:        Progress for Saints Row: 90.19%/1656.39MiB/00:03:52 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:01) INFO:    [Legendary]:        Progress for Saints Row: 90.24%/1678.06MiB/00:03:55 Down: 21.65MiB/s / Disk: 0MiB/s
+(17:03:02) INFO:    [Legendary]:        Progress for Saints Row: 90.3%/1701.32MiB/00:03:58 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:03) INFO:    [Legendary]:        Progress for Saints Row: 90.34%/1717.14MiB/00:04:01 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:04) INFO:    [Legendary]:        Progress for Saints Row: 90.41%/1741.78MiB/00:04:03 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:05) INFO:    [Legendary]:        Progress for Saints Row: 90.45%/1759.64MiB/00:04:06 Down: 17.85MiB/s / Disk: 0MiB/s
+(17:03:06) INFO:    [Legendary]:        Progress for Saints Row: 90.51%/1781.55MiB/00:03:59 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:07) INFO:    [Legendary]:        Progress for Saints Row: 90.57%/1804.85MiB/00:03:57 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:08) INFO:    [Legendary]:        Progress for Saints Row: 90.64%/1833.35MiB/00:03:57 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:09) INFO:    [Legendary]:        Progress for Saints Row: 90.7%/1856.34MiB/00:03:58 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:10) INFO:    [Legendary]:        Progress for Saints Row: 90.74%/1873.65MiB/00:03:57 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:11) INFO:    [Legendary]:        Progress for Saints Row: 90.82%/1901.92MiB/00:03:55 Down: 28.24MiB/s / Disk: 164.19MiB/s
+(17:03:12) INFO:    [Legendary]:        Progress for Saints Row: 90.86%/1921.24MiB/00:03:58 Down: 19.29MiB/s / Disk: 3MiB/s
+(17:03:13) INFO:    [Legendary]:        Progress for Saints Row: 90.91%/1939.83MiB/00:03:59 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:14) INFO:    [Legendary]:        Progress for Saints Row: 90.97%/1962.87MiB/00:04:01 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:15) INFO:    [Legendary]:        Progress for Saints Row: 91.03%/1984.13MiB/00:04:02 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:16) INFO:    [Legendary]:        Progress for Saints Row: 91.08%/2005.99MiB/00:04:03 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:17) INFO:    [Legendary]:        Progress for Saints Row: 91.15%/2032.25MiB/00:04:04 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:18) INFO:    [Legendary]:        Progress for Saints Row: 91.19%/2049.04MiB/00:04:05 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:19) INFO:    [Legendary]:        Progress for Saints Row: 91.24%/2067.83MiB/00:04:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:20) INFO:    [Legendary]:        Progress for Saints Row: 91.29%/2088.74MiB/00:04:07 Down: 20.89MiB/s / Disk: 0MiB/s
+(17:03:21) INFO:    [Legendary]:        Progress for Saints Row: 91.36%/2114.64MiB/00:04:08 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:22) INFO:    [Legendary]:        Progress for Saints Row: 91.41%/2135.41MiB/00:04:01 Down: 20.75MiB/s / Disk: 0MiB/s
+(17:03:23) INFO:    [Legendary]:        Progress for Saints Row: 91.46%/2152.05MiB/00:04:03 Down: 16.63MiB/s / Disk: 0MiB/s
+(17:03:24) INFO:    [Legendary]:        Progress for Saints Row: 91.52%/2177.28MiB/00:04:04 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:25) INFO:    [Legendary]:        Progress for Saints Row: 91.58%/2199.75MiB/00:04:05 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:26) INFO:    [Legendary]:        Progress for Saints Row: 91.62%/2217.03MiB/00:04:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:27) INFO:    [Legendary]:        Progress for Saints Row: 91.68%/2239.99MiB/00:04:05 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:28) INFO:    [Legendary]:        Progress for Saints Row: 91.7%/2249.16MiB/00:04:05 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:29) INFO:    [Legendary]:        Progress for Saints Row: 91.74%/2264.59MiB/00:04:07 Down: 15.41MiB/s / Disk: 0MiB/s
+(17:03:30) INFO:    [Legendary]:        Progress for Saints Row: 91.81%/2289.24MiB/00:04:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:31) INFO:    [Legendary]:        Progress for Saints Row: 91.85%/2304.79MiB/00:04:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:32) INFO:    [Legendary]:        Progress for Saints Row: 91.92%/2332.99MiB/00:04:05 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:33) INFO:    [Legendary]:        Progress for Saints Row: 91.98%/2355.59MiB/00:04:01 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:34) INFO:    [Legendary]:        Progress for Saints Row: 92.04%/2378.67MiB/00:03:56 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:35) INFO:    [Legendary]:        Progress for Saints Row: 92.09%/2400.80MiB/00:03:53 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:36) INFO:    [Legendary]:        Progress for Saints Row: 92.14%/2419.20MiB/00:03:53 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:37) INFO:    [Legendary]:        Progress for Saints Row: 92.19%/2437.99MiB/00:03:52 Down: 18.77MiB/s / Disk: 0MiB/s
+(17:03:38) INFO:    [Legendary]:        Progress for Saints Row: 92.24%/2459.17MiB/00:03:49 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:39) INFO:    [Legendary]:        Progress for Saints Row: 92.3%/2481.36MiB/00:03:46 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:40) INFO:    [Legendary]:        Progress for Saints Row: 92.36%/2504.47MiB/00:03:45 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:41) INFO:    [Legendary]:        Progress for Saints Row: 92.4%/2522.02MiB/00:03:45 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:42) INFO:    [Legendary]:        Progress for Saints Row: 92.46%/2546.31MiB/00:03:44 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:43) INFO:    [Legendary]:        Progress for Saints Row: 92.52%/2567.87MiB/00:03:45 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:44) INFO:    [Legendary]:        Progress for Saints Row: 92.58%/2591.62MiB/00:03:43 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:45) INFO:    [Legendary]:        Progress for Saints Row: 92.65%/2616.89MiB/00:03:41 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:46) INFO:    [Legendary]:        Progress for Saints Row: 92.71%/2640.30MiB/00:03:41 Down: 23.39MiB/s / Disk: 110.26MiB/s
+(17:03:47) INFO:    [Legendary]:        Progress for Saints Row: 92.77%/2664.04MiB/00:03:41 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:48) INFO:    [Legendary]:        Progress for Saints Row: 92.82%/2685.51MiB/00:03:35 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:49) INFO:    [Legendary]:        Progress for Saints Row: 92.88%/2707.72MiB/00:03:32 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:50) INFO:    [Legendary]:        Progress for Saints Row: 92.92%/2724.89MiB/00:03:33 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:51) INFO:    [Legendary]:        Progress for Saints Row: 92.97%/2742.43MiB/00:03:35 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:52) INFO:    [Legendary]:        Progress for Saints Row: 93.03%/2766.19MiB/00:03:29 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:53) INFO:    [Legendary]:        Progress for Saints Row: 93.08%/2787.33MiB/00:03:22 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:54) INFO:    [Legendary]:        Progress for Saints Row: 93.15%/2812.61MiB/00:03:16 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:55) INFO:    [Legendary]:        Progress for Saints Row: 93.19%/2831.36MiB/00:03:10 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:57) INFO:    [Legendary]:        Progress for Saints Row: 93.3%/2870.93MiB/00:03:04 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:58) INFO:    [Legendary]:        Progress for Saints Row: 93.35%/2892.61MiB/00:03:01 Down: 0MiB/s / Disk: 0MiB/s
+(17:03:59) INFO:    [Legendary]:        Progress for Saints Row: 93.4%/2910.07MiB/00:03:00 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:00) INFO:    [Legendary]:        Progress for Saints Row: 93.45%/2932.19MiB/00:02:58 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:01) INFO:    [Legendary]:        Progress for Saints Row: 93.51%/2955.11MiB/00:02:57 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:02) INFO:    [Legendary]:        Progress for Saints Row: 93.56%/2975.58MiB/00:02:56 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:03) INFO:    [Legendary]:        Progress for Saints Row: 93.62%/2997.79MiB/00:02:54 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:04) INFO:    [Legendary]:        Progress for Saints Row: 93.68%/3022.06MiB/00:02:53 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:05) INFO:    [Legendary]:        Progress for Saints Row: 93.71%/3032.89MiB/00:02:52 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:06) INFO:    [Legendary]:        Progress for Saints Row: 93.76%/3053.38MiB/00:02:50 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:07) INFO:    [Legendary]:        Progress for Saints Row: 93.82%/3074.47MiB/00:02:49 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:08) INFO:    [Legendary]:        Progress for Saints Row: 93.88%/3097.40MiB/00:02:46 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:09) INFO:    [Legendary]:        Progress for Saints Row: 93.94%/3121.35MiB/00:02:46 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:11) INFO:    [Legendary]:        Progress for Saints Row: 94.06%/3168.37MiB/00:02:42 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:12) INFO:    [Legendary]:        Progress for Saints Row: 94.11%/3189.63MiB/00:02:41 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:13) INFO:    [Legendary]:        Progress for Saints Row: 94.19%/3219.61MiB/00:02:39 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:14) INFO:    [Legendary]:        Progress for Saints Row: 94.22%/3232.63MiB/00:02:38 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:15) INFO:    [Legendary]:        Progress for Saints Row: 94.27%/3252.92MiB/00:02:37 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:16) INFO:    [Legendary]:        Progress for Saints Row: 94.32%/3272.51MiB/00:02:36 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:17) INFO:    [Legendary]:        Progress for Saints Row: 94.37%/3291.93MiB/00:02:34 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:18) INFO:    [Legendary]:        Progress for Saints Row: 94.43%/3315.29MiB/00:02:32 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:19) INFO:    [Legendary]:        Progress for Saints Row: 94.5%/3340.84MiB/00:02:31 Down: 25.53MiB/s / Disk: 0MiB/s
+(17:04:20) INFO:    [Legendary]:        Progress for Saints Row: 94.55%/3361.79MiB/00:02:30 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:21) INFO:    [Legendary]:        Progress for Saints Row: 94.6%/3381.41MiB/00:02:28 Down: 19.61MiB/s / Disk: 0MiB/s
+(17:04:22) INFO:    [Legendary]:        Progress for Saints Row: 94.65%/3399.75MiB/00:02:27 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:23) INFO:    [Legendary]:        Progress for Saints Row: 94.71%/3424.73MiB/00:02:26 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:24) INFO:    [Legendary]:        Progress for Saints Row: 94.75%/3440.44MiB/00:02:25 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:25) INFO:    [Legendary]:        Progress for Saints Row: 94.8%/3459.51MiB/00:02:25 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:26) INFO:    [Legendary]:        Progress for Saints Row: 94.84%/3476.09MiB/00:02:24 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:27) INFO:    [Legendary]:        Progress for Saints Row: 94.9%/3496.15MiB/00:02:23 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:28) INFO:    [Legendary]:        Progress for Saints Row: 94.94%/3514.12MiB/00:02:23 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:29) INFO:    [Legendary]:        Progress for Saints Row: 95.01%/3541.85MiB/00:02:22 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:30) INFO:    [Legendary]:        Progress for Saints Row: 95.06%/3561.34MiB/00:02:22 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:31) INFO:    [Legendary]:        Progress for Saints Row: 95.11%/3581.33MiB/00:02:21 Down: 19.96MiB/s / Disk: 0MiB/s
+(17:04:32) INFO:    [Legendary]:        Progress for Saints Row: 95.16%/3598.40MiB/00:02:21 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:33) INFO:    [Legendary]:        Progress for Saints Row: 95.21%/3618.83MiB/00:02:20 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:34) INFO:    [Legendary]:        Progress for Saints Row: 95.25%/3636.35MiB/00:02:20 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:35) INFO:    [Legendary]:        Progress for Saints Row: 95.31%/3658.54MiB/00:02:21 Down: 22.16MiB/s / Disk: 0MiB/s
+(17:04:36) INFO:    [Legendary]:        Progress for Saints Row: 95.37%/3680.31MiB/00:02:21 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:37) INFO:    [Legendary]:        Progress for Saints Row: 95.4%/3693.84MiB/00:02:21 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:38) INFO:    [Legendary]:        Progress for Saints Row: 95.44%/3710.13MiB/00:02:21 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:39) INFO:    [Legendary]:        Progress for Saints Row: 95.49%/3726.55MiB/00:02:22 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:40) INFO:    [Legendary]:        Progress for Saints Row: 95.53%/3743.71MiB/00:02:23 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:41) INFO:    [Legendary]:        Progress for Saints Row: 95.58%/3765.31MiB/00:02:24 Down: 21.57MiB/s / Disk: 0MiB/s
+(17:04:42) INFO:    [Legendary]:        Progress for Saints Row: 95.63%/3784.68MiB/00:02:24 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:43) INFO:    [Legendary]:        Progress for Saints Row: 95.69%/3806.86MiB/00:02:24 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:44) INFO:    [Legendary]:        Progress for Saints Row: 95.74%/3825.09MiB/00:02:25 Down: 18.21MiB/s / Disk: 0MiB/s
+(17:04:45) INFO:    [Legendary]:        Progress for Saints Row: 95.79%/3844.28MiB/00:02:25 Down: 19.17MiB/s / Disk: 0MiB/s
+(17:04:46) INFO:    [Legendary]:        Progress for Saints Row: 95.85%/3868.47MiB/00:02:26 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:47) INFO:    [Legendary]:        Progress for Saints Row: 95.91%/3891.62MiB/00:02:27 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:48) INFO:    [Legendary]:        Progress for Saints Row: 95.97%/3915.13MiB/00:02:28 Down: 23.49MiB/s / Disk: 0MiB/s
+(17:04:49) INFO:    [Legendary]:        Progress for Saints Row: 96.02%/3934.49MiB/00:02:26 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:50) INFO:    [Legendary]:        Progress for Saints Row: 96.09%/3961.20MiB/00:02:23 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:51) INFO:    [Legendary]:        Progress for Saints Row: 96.14%/3983.32MiB/00:02:21 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:52) INFO:    [Legendary]:        Progress for Saints Row: 96.21%/4008.81MiB/00:02:20 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:53) INFO:    [Legendary]:        Progress for Saints Row: 96.25%/4023.68MiB/00:02:19 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:54) INFO:    [Legendary]:        Progress for Saints Row: 96.31%/4046.79MiB/00:02:17 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:55) INFO:    [Legendary]:        Progress for Saints Row: 96.36%/4067.41MiB/00:02:15 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:56) INFO:    [Legendary]:        Progress for Saints Row: 96.42%/4089.92MiB/00:02:14 Down: 22.48MiB/s / Disk: 0MiB/s
+(17:04:57) INFO:    [Legendary]:        Progress for Saints Row: 96.48%/4114.87MiB/00:02:13 Down: 24.93MiB/s / Disk: 140.87MiB/s
+(17:04:58) INFO:    [Legendary]:        Progress for Saints Row: 96.55%/4141.67MiB/00:02:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:04:59) INFO:    [Legendary]:        Progress for Saints Row: 96.6%/4161.99MiB/00:02:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:00) INFO:    [Legendary]:        Progress for Saints Row: 96.66%/4187.12MiB/00:02:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:01) INFO:    [Legendary]:        Progress for Saints Row: 96.72%/4208.19MiB/00:02:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:02) INFO:    [Legendary]:        Progress for Saints Row: 96.76%/4225.77MiB/00:02:11 Down: 17.56MiB/s / Disk: 46.2MiB/s
+(17:05:03) INFO:    [Legendary]:        Progress for Saints Row: 96.82%/4248.42MiB/00:02:11 Down: 22.62MiB/s / Disk: 0MiB/s
+(17:05:04) INFO:    [Legendary]:        Progress for Saints Row: 96.87%/4266.23MiB/00:02:11 Down: 17.8MiB/s / Disk: 0MiB/s
+(17:05:05) INFO:    [Legendary]:        Progress for Saints Row: 96.93%/4289.80MiB/00:02:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:06) INFO:    [Legendary]:        Progress for Saints Row: 96.99%/4313.16MiB/00:02:12 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:07) INFO:    [Legendary]:        Progress for Saints Row: 97.04%/4333.97MiB/00:02:12 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:08) INFO:    [Legendary]:        Progress for Saints Row: 97.09%/4355.06MiB/00:02:12 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:09) INFO:    [Legendary]:        Progress for Saints Row: 97.15%/4375.51MiB/00:02:13 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:10) INFO:    [Legendary]:        Progress for Saints Row: 97.21%/4399.91MiB/00:02:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:11) INFO:    [Legendary]:        Progress for Saints Row: 97.26%/4420.94MiB/00:02:05 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:12) INFO:    [Legendary]:        Progress for Saints Row: 97.32%/4443.06MiB/00:02:00 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:14) INFO:    [Legendary]:        Progress for Saints Row: 97.43%/4485.65MiB/00:01:56 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:15) INFO:    [Legendary]:        Progress for Saints Row: 97.49%/4510.00MiB/00:01:53 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:16) INFO:    [Legendary]:        Progress for Saints Row: 97.55%/4533.89MiB/00:01:50 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:17) INFO:    [Legendary]:        Progress for Saints Row: 97.61%/4556.96MiB/00:01:48 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:18) INFO:    [Legendary]:        Progress for Saints Row: 97.67%/4579.35MiB/00:01:45 Down: 22.36MiB/s / Disk: 0MiB/s
+(17:05:20) INFO:    [Legendary]:        Progress for Saints Row: 97.78%/4621.51MiB/00:01:42 Down: 20.9MiB/s / Disk: 0MiB/s
+(17:05:21) INFO:    [Legendary]:        Progress for Saints Row: 97.84%/4646.42MiB/00:01:43 Down: 24.88MiB/s / Disk: 0MiB/s
+(17:05:22) INFO:    [Legendary]:        Progress for Saints Row: 97.91%/4673.08MiB/00:01:43 Down: 26.64MiB/s / Disk: 0MiB/s
+(17:05:23) INFO:    [Legendary]:        Progress for Saints Row: 97.96%/4694.00MiB/00:01:43 Down: 20.9MiB/s / Disk: 0MiB/s
+(17:05:24) INFO:    [Legendary]:        Progress for Saints Row: 98.01%/4713.95MiB/00:01:44 Down: 19.93MiB/s / Disk: 0MiB/s
+(17:05:25) INFO:    [Legendary]:        Progress for Saints Row: 98.07%/4737.52MiB/00:01:44 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:26) INFO:    [Legendary]:        Progress for Saints Row: 98.14%/4762.03MiB/00:01:45 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:27) INFO:    [Legendary]:        Progress for Saints Row: 98.19%/4781.89MiB/00:01:45 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:28) INFO:    [Legendary]:        Progress for Saints Row: 98.25%/4808.45MiB/00:01:46 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:29) INFO:    [Legendary]:        Progress for Saints Row: 98.3%/4828.06MiB/00:01:46 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:30) INFO:    [Legendary]:        Progress for Saints Row: 98.35%/4846.39MiB/00:01:47 Down: 18.31MiB/s / Disk: 0MiB/s
+(17:05:31) INFO:    [Legendary]:        Progress for Saints Row: 98.41%/4868.06MiB/00:01:47 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:32) INFO:    [Legendary]:        Progress for Saints Row: 98.46%/4889.69MiB/00:01:48 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:33) INFO:    [Legendary]:        Progress for Saints Row: 98.53%/4914.70MiB/00:01:48 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:34) INFO:    [Legendary]:        Progress for Saints Row: 98.59%/4938.12MiB/00:01:49 Down: 23.39MiB/s / Disk: 0MiB/s
+(17:05:36) INFO:    [Legendary]:        Progress for Saints Row: 98.7%/4983.45MiB/00:01:49 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:37) INFO:    [Legendary]:        Progress for Saints Row: 98.76%/5007.00MiB/00:01:50 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:38) INFO:    [Legendary]:        Progress for Saints Row: 98.8%/5021.84MiB/00:01:50 Down: 14.83MiB/s / Disk: 0MiB/s
+(17:05:39) INFO:    [Legendary]:        Progress for Saints Row: 98.86%/5046.24MiB/00:01:51 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:40) INFO:    [Legendary]:        Progress for Saints Row: 98.94%/5076.99MiB/00:01:51 Down: 30.72MiB/s / Disk: 0MiB/s
+(17:05:41) INFO:    [Legendary]:        Progress for Saints Row: 98.99%/5097.09MiB/00:01:52 Down: 20.07MiB/s / Disk: 0MiB/s
+(17:05:42) INFO:    [Legendary]:        Progress for Saints Row: 99.04%/5116.51MiB/00:01:52 Down: 19.41MiB/s / Disk: 0MiB/s
+(17:05:43) INFO:    [Legendary]:        Progress for Saints Row: 99.09%/5135.76MiB/00:01:53 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:44) INFO:    [Legendary]:        Progress for Saints Row: 99.15%/5158.50MiB/00:01:53 Down: 22.72MiB/s / Disk: 0MiB/s
+(17:05:45) INFO:    [Legendary]:        Progress for Saints Row: 99.21%/5179.98MiB/00:01:54 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:46) INFO:    [Legendary]:        Progress for Saints Row: 99.28%/5207.76MiB/00:01:50 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:47) INFO:    [Legendary]:        Progress for Saints Row: 99.34%/5230.82MiB/00:01:48 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:48) INFO:    [Legendary]:        Progress for Saints Row: 99.39%/5253.01MiB/00:01:45 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:50) INFO:    [Legendary]:        Progress for Saints Row: 99.53%/5306.62MiB/00:01:40 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:51) INFO:    [Legendary]:        Progress for Saints Row: 99.58%/5325.31MiB/00:01:38 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:52) INFO:    [Legendary]:        Progress for Saints Row: 99.64%/5348.75MiB/00:01:36 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:53) INFO:    [Legendary]:        Progress for Saints Row: 99.69%/5368.61MiB/00:01:33 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:54) INFO:    [Legendary]:        Progress for Saints Row: 99.75%/5393.82MiB/00:01:31 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:55) INFO:    [Legendary]:        Progress for Saints Row: 99.8%/5412.64MiB/00:01:29 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:56) INFO:    [Legendary]:        Progress for Saints Row: 99.84%/5428.67MiB/00:01:26 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:57) INFO:    [Legendary]:        Progress for Saints Row: 99.88%/5443.08MiB/00:01:24 Down: 0MiB/s / Disk: 0MiB/s
+(17:05:58) INFO:    [Legendary]:        Progress for Saints Row: 99.92%/5458.57MiB/00:01:21 Down: 15.47MiB/s / Disk: 304.87MiB/s
+(17:05:59) INFO:    [Legendary]:        Progress for Saints Row: 99.95%/5469.81MiB/00:01:19 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:00) INFO:    [Legendary]:        Progress for Saints Row: 99.98%/5483.36MiB/00:01:17 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:01) INFO:    [Legendary]:        Progress for Saints Row: 100%/5489.91MiB/00:01:15 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:02) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:14 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:03) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:14 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:04) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:14 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:05) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:15 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:07) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:15 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:08) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:15 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:09) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:16 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:10) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:16 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:11) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:16 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:12) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:16 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:13) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:14 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:14) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:12 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:15) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:10 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:16) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:17) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:08 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:18) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:08 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:19) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:20) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:21) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:22) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:23) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:10 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:24) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:10 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:25) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:10 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:26) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:10 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:27) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:28) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:29) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:30) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:05 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:31) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:03 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:32) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:01:02 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:33) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:59 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:34) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:58 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:35) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:57 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:36) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:57 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:37) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:57 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:38) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:55 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:39) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:54 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:40) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:51 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:41) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:49 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:42) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:46 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:43) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:43 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:44) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:41 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:45) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:38 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:46) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:35 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:47) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:33 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:48) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:31 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:49) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:30 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:50) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:28 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:51) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:26 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:52) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:24 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:53) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:22 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:55) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:19 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:56) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:18 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:57) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:17 Down: 0MiB/s / Disk: 0MiB/s
+(17:06:58) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:15 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:00) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:12 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:01) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:11 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:02) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:09 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:03) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:08 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:04) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:05) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:07) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:08) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:09) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:10) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:11) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:12) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:13) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:14) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:15) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:16) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:17) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:19) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:20) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:21) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:22) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:23) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:24) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:25) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:06 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:26) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:27) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:28) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:29) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:30) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:31) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:32) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:33) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:34) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:35) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:07 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:36) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:04 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:37) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:01 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:38) INFO:    [Legendary]:        Progress for Saints Row: 100%/5490.40MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(17:07:40) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:07:40) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:07:40) INFO:    [DownloadManager]:  Finished updating of Cormorant
+(17:07:40) INFO:    [DownloadManager]:  Cormorant added to download manager finished.
+(17:07:40) INFO:    [DownloadManager]:  Cormorant removed from download manager.
+(17:07:40) INFO:    [Frontend]:         Refreshing Library
+(17:07:40) INFO:    [Legendary]:        Refreshing library...
+(17:07:40) INFO:    [Legendary]:        Game list updated, got 72 games & DLCs
+(17:07:40) INFO:    [Legendary]:        Checking for game updates: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(17:07:42) INFO:    [Legendary]:        Found 0 games to update
+(17:07:42) INFO:    [Gog]:              Found 0 game(s) to update
+(17:07:46) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(17:07:46) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(17:07:46) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(17:07:47) INFO:    [Legendary]:        Computing default save path for Cormorant
+(17:07:47) INFO:    [Legendary]:        Getting default save path: STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/tommi/.var/app/com.heroicgameslauncher.hgl/.steam/steam STEAM_COMPAT_DATA_PATH="/home/tommi/Games/Heroic/Prefixes/Saints Row" PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-0 PROTON_LOG_DIR=/home/tommi/.var/app/com.heroicgameslauncher.hgl /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary sync-saves Cormorant --skip-upload --skip-download --accept-path
+(17:07:49) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:07:49) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:07:49) ERROR:   [Legendary]:        Unable to compute default save path for Cormorant
+(17:07:49) INFO:    [Backend]:          Cormorant: Setting savesPath to "{InstallDir}/sr5/_cloudfolder/saves/SR"
+(17:07:51) INFO:    [Backend]:          Cormorant: Setting wineVersion to {"bin":"/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/tools/proton/GE-Proton7-47/proton","name":"Proton - GE-Proton7-47","type":"proton"}
+(17:08:12) INFO:    [Legendary]:        Syncing saves for Saints Row: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary sync-saves --skip-upload --save-path {InstallDir}/sr5/_cloudfolder/saves/SR Cormorant -y
+(17:08:13) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:08:16) INFO:    [Backend]:          Cormorant: Setting autoSyncSaves to true
+(17:08:16) INFO:    [Backend]:          [Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Got 12 remote save game(s)
+[cli] INFO: Checking "Saints Row" (Cormorant)
+[cli] INFO: Overriding save path with "{InstallDir}/sr5/_cloudfolder/saves/SR"...
+[cli] INFO: Cloud save for "Saints Row" is newer:
+[cli] INFO: - Cloud save date: 2023-01-21 11:34:25
+[cli] INFO: - Local save date: N/A
+[cli] INFO: Downloading remote savegame...
+[Core] INFO: Deleting old save files...
+[Core] INFO: Downloading "Cormorant/manifests/2023.01.21-11.34.25.manifest"...
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 2988, in main
+  File "legendary/cli.py", line 537, in sync_saves
+  File "legendary/core.py", line 1065, in download_saves
+  File "os.py", line 215, in makedirs
+  File "os.py", line 215, in makedirs
+  File "os.py", line 215, in makedirs
+  [Previous line repeated 1 more time]
+  File "os.py", line 225, in makedirs
+OSError: [Errno 30] Read-only file system: '{InstallDir}'
+[408] Failed to execute script 'cli' due to unhandled exception!
+
+(17:08:37) INFO:    [Legendary]:        Uninstalling Cormorant: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary uninstall Cormorant -y
+(17:08:38) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:08:38) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:08:38) INFO:    [Backend]:          Removing prefix /home/tommi/Games/Heroic/Prefixes/Saints Row
+(17:08:38) INFO:    [Backend]:          Removing Cormorant.json
+(17:08:38) INFO:    [Backend]:          Removing Cormorant.log
+(17:08:38) INFO:    [Backend]:          Removing Cormorant-lastPlay.log
+(17:08:38) INFO:    [Backend]:          Finished uninstalling
+(17:08:38) INFO:    [Backend]:          Desktop shortcut removed
+(17:08:38) INFO:    [Backend]:          Applications shortcut removed
+(17:08:38) INFO:    [Frontend]:         Refreshing Library
+(17:08:38) INFO:    [Legendary]:        Refreshing library...
+(17:08:38) INFO:    [Legendary]:        Refreshing Epic Games...
+(17:08:38) INFO:    [Legendary]:        Game list updated, got 72 games & DLCs
+(17:08:38) INFO:    [Legendary]:        Running command: /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party

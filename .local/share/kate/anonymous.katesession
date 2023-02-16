@@ -1,12 +1,12 @@
 [Document 0]
 Bookmarks=
-Encoding=UTF-8
-Highlighting=.desktop
+Encoding=ISO-8859-15
+Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=.desktop
+Mode=Normal
 Mode Set By User=false
-URL=file:///usr/share/applications/spotify_modded.desktop
+URL=file:///home/tommi/.spotify-adblock/spotify-adblock.so
 
 [Kate Plugins]
 cmaketoolsplugin=false
@@ -61,7 +61,7 @@ Kate-MDI-Sidebar-2-Splitter=1228
 Kate-MDI-Sidebar-3-Bar-0-TvList=output,kate_plugin_katesearch,kateprojectinfo,kate_private_plugin_katekonsoleplugin,kate_lspclient
 Kate-MDI-Sidebar-3-LastSize=200
 Kate-MDI-Sidebar-3-SectSizes=0
-Kate-MDI-Sidebar-3-Splitter=917
+Kate-MDI-Sidebar-3-Splitter=894
 Kate-MDI-Sidebar-Style=2
 Kate-MDI-Sidebar-Visible=true
 Kate-MDI-ToolView-kate_lspclient-Position=3
@@ -116,17 +116,17 @@ Orientation=1
 Sizes=1228
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///usr/share/applications/spotify_modded.desktop
+Active View=file:///home/tommi/.spotify-adblock/spotify-adblock.so
 Count=1
-Documents=file:///usr/share/applications/spotify_modded.desktop
-View 0=file:///usr/share/applications/spotify_modded.desktop
+Documents=file:///home/tommi/.spotify-adblock/spotify-adblock.so
+View 0=file:///home/tommi/.spotify-adblock/spotify-adblock.so
 
-[MainWindow0-ViewSpace 0 file:///usr/share/applications/spotify_modded.desktop]
+[MainWindow0-ViewSpace 0 file:///home/tommi/.spotify-adblock/spotify-adblock.so]
 CursorColumn=0
 CursorLine=0
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"55736416dea483fb4dc86d532ed09396d747e8b8","ranges":[]}
+TextFolding={"checksum":"57f96ccef08bb9d91b371b41503005fcd792787d","ranges":[]}
 ViMarks=
 
 [Open Documents]
@@ -149,7 +149,7 @@ View Style=DetailTree
 auto sync folder=true
 filter history=
 highlight current file=true
-location=file:///usr/share/applications/
+location=file:///home/tommi/.spotify-adblock/
 
 [Plugin:kateprojectplugin:]
 projects=
@@ -178,23 +178,23 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/.local/share/chezmoi/dot_bashrc
-File10[$e]=/usr/share/applications/spotify_modded.desktop
-File2[$e]=$HOME/Documents/GitHub/kde_macos_2023/.xsession-errors
-File3[$e]=$HOME/.config/rpcs3/GuiConfigs/CurrentSettings.ini
-File4[$e]=$HOME/Downloads/v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff
-File5[$e]=$HOME/Games/Emu/xenia/xenia.config.toml
-File6[$e]=$HOME/*message*-20230203-093054
-File7[$e]=$HOME/.local/share/plasma/desktoptheme/Noctis-round/metadata.desktop
-File8[$e]=$HOME/Downloads/FAR.CRY.3.V1.05.PLUS25TRN.FLING/FAR.CRY.3.V1.05.PLUS25TRN.FLING.ZIP.txt
-File9[$e]=$HOME/Documents/surfshark_pass.txt
-Name1[$e]=dot_bashrc
-Name10[$e]=spotify_modded.desktop
-Name2[$e]=.xsession-errors
-Name3[$e]=CurrentSettings.ini
-Name4[$e]=v3-Bluetooth-btusb-Fix-and-detect-most-of-the-Chinese-Bluetooth-controllers.diff
-Name5[$e]=xenia.config.toml
-Name6[$e]=*message*-20230203-093054
-Name7[$e]=metadata.desktop
-Name8[$e]=FAR.CRY.3.V1.05.PLUS25TRN.FLING.ZIP.txt
-Name9[$e]=surfshark_pass.txt
+File1[$e]=$HOME/*message*-20230203-093054
+File10[$e]=$HOME/.spotify-adblock/spotify-adblock.so
+File2[$e]=$HOME/.local/share/plasma/desktoptheme/Noctis-round/metadata.desktop
+File3[$e]=$HOME/Downloads/FAR.CRY.3.V1.05.PLUS25TRN.FLING/FAR.CRY.3.V1.05.PLUS25TRN.FLING.ZIP.txt
+File4[$e]=$HOME/Documents/surfshark_pass.txt
+File5[$e]=/usr/share/applications/spotify_modded.desktop
+File6[$e]=$HOME/Documents/GitHub/kde_macos_2023/README.md
+File7[$e]=$HOME/Documents/GitHub/kde_macos_2023/.bash_profile
+File8[$e]=$HOME/Documents/GitHub/kde_macos_2023/.steam-stdout.log
+File9[$e]=$HOME/.VeraCrypt-lock-tommi
+Name1[$e]=*message*-20230203-093054
+Name10[$e]=spotify-adblock.so
+Name2[$e]=metadata.desktop
+Name3[$e]=FAR.CRY.3.V1.05.PLUS25TRN.FLING.ZIP.txt
+Name4[$e]=surfshark_pass.txt
+Name5[$e]=spotify_modded.desktop
+Name6[$e]=README.md
+Name7[$e]=.bash_profile
+Name8[$e]=.steam-stdout.log
+Name9[$e]=.VeraCrypt-lock-tommi

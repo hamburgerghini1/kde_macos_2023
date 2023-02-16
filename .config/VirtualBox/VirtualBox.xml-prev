@@ -8,11 +8,11 @@
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.12-linux">
   <Global>
     <ExtraData>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=d8814fe9-d019-44a7-ba82-f3a1121cdfb1"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=5245a5e2-fb6c-4a97-a7d4-cc1a6612fe91"/>
       <ExtraDataItem name="GUI/LastWindowPosition" value="0,51,2560,1389,max"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/tommi/Downloads"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/home/tommi/Downloads/Win10_22H2_English_x64.iso,/home/tommi/Downloads/ubuntu-20.04.5-desktop-amd64.iso,/home/tommi/Downloads/kubuntu-22.04.1-desktop-amd64.iso"/>
-      <ExtraDataItem name="GUI/SuppressMessages" value="confirmGoingFullscreen"/>
+      <ExtraDataItem name="GUI/SuppressMessages" value="confirmGoingFullscreen,confirmPowerOffMachine"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
     </ExtraData>
     <MachineRegistry>

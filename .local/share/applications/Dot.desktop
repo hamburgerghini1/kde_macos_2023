@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dot
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/2263970
+Icon=steam_icon_2263970
+Terminal=false
+Type=Application
+Categories=Game;

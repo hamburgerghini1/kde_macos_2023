@@ -22,3 +22,43 @@ Error: EISDIR: illegal operation on a directory, read
 Error: EISDIR: illegal operation on a directory, read
 2023-02-13T07:23:32.434Z - error: [ui] Could not load new contents for syntax highlighting
 Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:26:46.445Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-02-13T07:28:55.438Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-02-13T07:29:19.602Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 5.251s
+2023-02-13T07:29:22.665Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 4.557s
+2023-02-13T07:30:16.789Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 7.804s
+2023-02-13T07:30:46.292Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-02-13T07:31:15.695Z - info: [ui] Executing unstageAll: git reset -- . (took 10.376s)
+2023-02-13T07:31:32.992Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 17.282s)
+2023-02-13T07:31:38.328Z - info: [ui] Executing createCommit: git commit -F - (took 5.173s)
+2023-02-13T07:31:38.604Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/kde_macos_2023' took 34.413s
+2023-02-13T07:31:38.627Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:31:48.970Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: kde_macos_2023 - hamburgerghini1 (has token)
+2023-02-13T07:32:30.192Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 41.217s)
+2023-02-13T07:32:48.466Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:50.069Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:50.705Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:51.333Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:51.868Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:52.339Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:53.250Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:53.704Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:54.167Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:54.587Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:54.967Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:55.360Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-02-13T07:32:55.917Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read

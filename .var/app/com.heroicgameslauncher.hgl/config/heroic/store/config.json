@@ -1,0 +1,125 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/logs/heroic-2023-02-07T10_11_20.253Z.log",
+		"lastLogFile": "/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/logs/heroic-2023-02-05T15_01_17.495Z.log",
+		"legendaryLogFile": "/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/logs/legendary-2023-02-07T10_11_20.253Z.log",
+		"gogdlLogFile": "/home/tommi/.var/app/com.heroicgameslauncher.hgl/config/heroic/logs/gogdl-2023-02-07T10_11_20.253Z.log"
+	},
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/tommi/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/tommi/.steam/steam",
+		"defaultWinePrefix": "/home/tommi/Games/Heroic/Prefixes",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": false,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"userInfo": {
+			"name": "tommi"
+		},
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/tommi/.wine",
+		"wineVersion": {
+			"bin": "",
+			"name": "Default Wine - Not Found",
+			"type": "wine"
+		}
+	},
+	"userHome": "/home/tommi",
+	"language": "en",
+	"window-props": {
+		"x": 0,
+		"y": 51,
+		"width": 2560,
+		"height": 1389
+	},
+	"games": {
+		"recent": [
+			{
+				"appName": "Cormorant",
+				"title": "Saints Row"
+			}
+		]
+	},
+	"HITMAN 3": {
+		"timestampLastFetch": "Tue Feb 07 2023 12:11:27 GMT+0200 (Eastern European Standard Time)",
+		"pcgamingwiki": {
+			"steamID": "1659040",
+			"howLongToBeatID": "79774",
+			"metacritic": {
+				"score": "87",
+				"urlid": "hitman-3"
+			},
+			"opencritic": {
+				"score": "86",
+				"urlid": "10039/hitman-3"
+			},
+			"igdb": {
+				"score": "86",
+				"urlid": "hitman-3"
+			},
+			"direct3DVersions": [
+				"12"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"id": "79774",
+			"name": "Hitman 3",
+			"description": "",
+			"platforms": [
+				"Google Stadia",
+				"Nintendo Switch",
+				"PC",
+				"PlayStation 4",
+				"PlayStation 5",
+				"Xbox One",
+				"Xbox Series X/S"
+			],
+			"imageUrl": "https://howlongtobeat.com/games/79774_Hitman_III.jpg",
+			"timeLabels": [
+				[
+					"Main",
+					"Main"
+				],
+				[
+					"Main + Extra",
+					"Main + Extra"
+				],
+				[
+					"Completionist",
+					"Completionist"
+				]
+			],
+			"gameplayMain": 8,
+			"gameplayMainExtra": 19,
+			"gameplayCompletionist": 45,
+			"similarity": 1,
+			"searchTerm": "HITMAN 3",
+			"playableOn": [
+				"Google Stadia",
+				"Nintendo Switch",
+				"PC",
+				"PlayStation 4",
+				"PlayStation 5",
+				"Xbox One",
+				"Xbox Series X/S"
+			]
+		}
+	}
+}

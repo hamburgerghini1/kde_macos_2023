@@ -1,352 +1,102 @@
-00:00:00.000304 main     VirtualBox XPCOM Server 7.0.6_rpmfusion r155176 linux.amd64 (Jan 18 2023 00:00:00) release log
-00:00:00.000307 main     Log opened 2023-02-11T09:28:21.367249000Z
-00:00:00.000308 main     Build Type: release
-00:00:00.000311 main     OS Product: Linux
-00:00:00.000312 main     OS Release: 6.1.9-200.fsync.fc37.x86_64
-00:00:00.000312 main     OS Version: #1 SMP PREEMPT_DYNAMIC TKG Wed Feb  8 09:36:29 UTC 2023
-00:00:00.000331 main     DMI Product Name: System Product Name
-00:00:00.000335 main     DMI Product Version: System Version
-00:00:00.000340 main     Firmware type: UEFI
-00:00:00.000529 main     Secure Boot: Disabled
-00:00:00.000567 main     Host RAM: 31992MB (31.2GB) total, 28984MB (28.3GB) available
-00:00:00.000571 main     Executable: /usr/lib64/virtualbox/VBoxSVC
-00:00:00.000571 main     Process ID: 8275
-00:00:00.000571 main     Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.001516 main     IPC socket path: /tmp/.vbox-tommi-ipc/ipcd
-00:00:00.103369 nspr-2   VirtualBox: object creation starts
-00:00:00.103423 nspr-2   Home directory: '/home/tommi/.config/VirtualBox'
-00:00:00.103536 nspr-2   Loading settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:00.105084 nspr-2   Successfully initialised host USB using sysfs
-00:00:00.110547 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.115393 nspr-2   HostDnsMonitor: initializing
-00:00:00.115515 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
-00:00:00.115527 nspr-2   NAT: resolv.conf: ignoring "options edns0 trust-ad"
-00:00:00.115537 nspr-2   HostDnsMonitor: updating information
-00:00:00.115550 nspr-2   HostDnsMonitor: old information
-00:00:00.115555 nspr-2     no server entries
-00:00:00.115558 nspr-2     no domain set
-00:00:00.115561 nspr-2     no search string entries
-00:00:00.115565 nspr-2   HostDnsMonitor: new information
-00:00:00.115568 nspr-2     server 1: 127.0.0.53
-00:00:00.115572 nspr-2     domain: lan
-00:00:00.115575 nspr-2     search string 1: lan
-00:00:00.117041 nspr-2   VD: VDInit finished with VINF_SUCCESS
-00:00:00.117126 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-00:00:00.117624 nspr-2   VirtualBox: object created
-00:00:02.949231 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-00:00:07.542517 nspr-2   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:07.544525 nspr-2   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-00:00:25.897514 createBase Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:25.899698 createBase Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-00:00:25.905890 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:00:25.910240 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:00:25.910379 nspr-5   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:25.912291 nspr-5   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-00:00:25.913369 nspr-3   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:25.915198 nspr-3   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-00:00:25.916128 nspr-4   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:25.918113 nspr-4   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-00:00:25.918408 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:00:25.920345 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:00:25.948405 nspr-3   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:25.950363 nspr-3   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-00:00:26.299489 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:00:28.868391 nspr-3   Launched VM: 3489705056 pid: 9442 (0x24e2) frontend: GUI/Qt name: ubuntu
-00:00:28.883609 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:00:29.071530 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:00:29.527771 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
-00:00:29.568259 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:00:29.590819 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:29.624931 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
-00:00:29.734980 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
-00:00:29.735706 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
-00:00:29.758518 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:00:29.883072 nspr-2   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:00:29.885241 nspr-2   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:00:29.894617 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:00:31.475868 nspr-3   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:00:31.478125 nspr-3   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:00:31.487004 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:00:34.006323 USBPROXY USBProxyBackendLinux: Device 05ac:12a8 (sysfs:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-12//device:/dev/vboxusb/001/010) isn't accessible. giving udev a few seconds to fix this...
-00:01:14.575152 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:01:14.585781 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:01:14.587677 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:01:14.602748 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:01:31.626696 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:01:31.651584 nspr-8   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:01:31.653688 nspr-8   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:01:31.670999 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:06:09.866542 nspr-3   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:06:09.869024 nspr-3   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:06:09.880322 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:06:15.209447 nspr-3   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:06:15.211391 nspr-3   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:06:15.220638 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:06:20.000767 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:06:22.168601 nspr-2   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:06:22.170669 nspr-2   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:06:22.176377 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:06:34.396190 nspr-2   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:06:34.398462 nspr-2   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:06:34.408561 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:06:34.982201 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:06:34.984519 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:06:34.994373 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:07:30.271094 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:07:30.273341 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:07:30.283222 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:07:38.016117 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:07:38.027772 nspr-6   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:07:38.030000 nspr-6   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:07:38.043696 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:07:41.219399 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:07:41.241374 nspr-7   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:07:41.243382 nspr-7   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:07:41.258199 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:07:51.886668 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:07:51.897012 nspr-8   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:07:51.899196 nspr-8   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:07:51.911958 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:08:41.255587 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:08:41.277798 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:08:41.280067 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:08:41.293830 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:08:42.901041 nspr-8   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:08:42.903123 nspr-8   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:08:42.911623 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:08:43.355755 nspr-2   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:08:43.357930 nspr-2   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:08:43.368159 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:08:55.984226 nspr-8   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:08:55.986486 nspr-8   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:08:55.994739 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:09:00.400071 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:09:00.402438 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:09:00.411151 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:09:02.412753 nspr-6   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:09:02.423174 nspr-6   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:09:02.425223 nspr-6   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:09:02.439008 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:10:22.115857 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:10:22.141331 nspr-7   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:10:22.145023 nspr-7   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:10:22.162590 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:10:22.482608 nspr-3   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:10:22.484614 nspr-3   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:10:22.497420 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:10:41.577613 nspr-8   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:10:41.579800 nspr-8   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:10:41.590410 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:11:52.840331 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:11:52.849922 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:11:52.857037 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:12:03.909618 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:12:03.911977 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:12:03.936711 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:12:07.768075 nspr-5   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-00:13:32.643713 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
-00:13:32.899622 nspr-7   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:13:32.901776 nspr-7   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:13:32.913564 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:13:34.412564 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:13:37.681766 nspr-6   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:13:37.683875 nspr-6   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-00:13:38.171051 nspr-7   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:13:38.173167 nspr-7   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-00:13:46.212576 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
-00:13:46.221058 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:13:46.230421 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:13:46.346329 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:13:59.716436 nspr-3   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:13:59.718529 nspr-3   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:13:59.763814 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:14:01.507023 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
-00:14:01.515460 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:14:01.525273 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:14:01.638632 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:14:11.093931 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:14:11.095876 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:14:11.142086 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:14:12.313086 nspr-5   Launched VM: 3154201968 pid: 10932 (0x2ab4) frontend: GUI/Qt name: ubuntu
-00:14:12.327354 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:14:12.515947 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-00:14:12.973265 nspr-8   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
-00:14:13.013150 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:14:13.035182 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:14:13.070698 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
-00:14:13.189543 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
-00:14:13.214298 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:14:24.510811 nspr-4   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-00:29:04.763266 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:29:04.765462 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:29:04.779647 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:29:04.782025 nspr-2   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:29:04.784202 nspr-2   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:29:04.799294 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:29:05.142270 nspr-7   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:29:05.144417 nspr-7   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:29:05.155240 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:29:05.168101 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:29:05.170453 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:29:05.181686 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-00:29:17.880527 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:29:17.882780 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:29:17.887045 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-00:29:17.889549 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-00:29:17.901395 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:00:41.489996 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
-01:00:43.085243 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-01:00:43.087586 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-01:00:43.101302 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
-01:00:43.116202 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
-01:00:43.394231 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.19-linux"
-01:00:43.396665 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/ubuntu/ubuntu.vbox"
-01:00:43.407977 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:00:44.412287 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:00:51.315405 nspr-8   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:00:51.317521 nspr-8   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:00:51.317550 nspr-8   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:00:51.319319 nspr-8   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:00:51.323357 DeleteVM Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:00:51.325432 DeleteVM Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:00:51.325949 nspr-6   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:00:51.327716 nspr-6   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:00:51.338218 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {0d7e3d4b-a5d6-4473-8a42-7acd6858de50}}, preserve=false aResultDetail=0
-01:00:52.800786 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {0d7e3d4b-a5d6-4473-8a42-7acd6858de50}}, preserve=false aResultDetail=0
-01:02:34.071272 nspr-5   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:02:34.073879 nspr-5   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:02:35.059711 nspr-4   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-01:02:41.438444 nspr-9   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:02:41.440628 nspr-9   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:03:00.372640 createBase Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:03:00.374538 createBase Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:03:00.379843 nspr-9   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:03:00.381663 nspr-9   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:03:00.381717 nspr-9   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:03:00.383515 nspr-9   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:03:00.384480 nspr-4   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:03:00.386227 nspr-4   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:03:00.386712 nspr-8   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:03:00.388491 nspr-8   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:03:00.388691 nspr-7   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:03:00.390439 nspr-7   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:03:00.413044 nspr-9   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-01:03:00.415138 nspr-9   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
-01:03:00.762121 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:03:02.177124 nspr-9   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
-01:03:02.185409 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-01:03:02.194542 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-01:03:02.297959 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:03:11.462378 nspr-9   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:03:11.464380 nspr-9   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:03:11.514656 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:03:12.765814 nspr-6   Launched VM: 3690993920 pid: 17920 (0x4600) frontend: GUI/Qt name: win10
-01:03:12.775749 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:03:12.944305 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:03:13.389669 nspr-8   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
-01:03:13.429947 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-01:03:13.452010 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-01:03:13.489137 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
-01:03:13.611162 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
-01:03:13.611867 nspr-7   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
-01:03:13.631299 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:03:13.748001 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:03:13.761688 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:03:13.767006 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:03:15.569221 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:03:15.571321 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:03:15.576495 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:05:22.843120 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:05:22.846954 nspr-7   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:05:22.849332 nspr-7   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:05:22.855243 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:09:10.087453 nspr-9   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:09:10.090829 nspr-9   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:09:10.111478 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:09:10.508430 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:09:10.511000 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:09:10.517056 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:09:44.772999 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:09:44.786741 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-01:09:44.793233 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-01:09:51.567842 nspr-9   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:09:51.570199 nspr-9   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:09:51.576092 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:11:01.950864 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:11:01.953277 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:11:01.960152 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:12:10.320408 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:12:10.338202 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-01:12:10.344149 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-01:12:15.031452 nspr-6   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:12:15.033822 nspr-6   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:12:15.047345 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:14:14.351670 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-01:15:03.928288 USBPROXY USBProxyBackendLinux: Device 05ac:12a8 (sysfs:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-12//device:/dev/vboxusb/001/012) isn't accessible. giving udev a few seconds to fix this...
-01:15:28.515194 nspr-8   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:15:28.518485 nspr-8   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:15:28.539249 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:15:31.611369 nspr-6   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-01:15:31.623795 nspr-6   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:15:31.626432 nspr-6   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:15:31.641932 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:18:19.778152 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-01:18:19.800960 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:18:19.803344 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:18:19.817931 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:18:21.452187 nspr-3   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:18:21.454546 nspr-3   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:18:21.459426 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:18:23.793239 nspr-6   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:18:23.795582 nspr-6   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:18:23.800862 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:18:37.990486 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
-01:18:39.466226 nspr-7   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:18:39.468467 nspr-7   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:18:39.482423 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
-01:18:39.495208 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
-01:18:39.772774 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:18:39.774910 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:18:39.782489 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:18:41.790748 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:18:44.665662 nspr-2   Launched VM: 3758943888 pid: 20458 (0x4fea) frontend: GUI/Qt name: win10
-01:18:44.676019 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:18:44.914568 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:18:45.360731 nspr-8   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
-01:18:45.400346 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-01:18:45.423389 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-01:18:45.448566 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
-01:18:45.576330 nspr-7   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
-01:18:45.595984 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:18:59.188572 nspr-5   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-01:18:59.198747 nspr-2   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:18:59.200986 nspr-2   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:18:59.212730 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:20:15.760676 USBPROXY USBProxyBackendLinux: Device 05ac:12a8 (sysfs:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-12//device:/dev/vboxusb/001/013) isn't accessible. giving udev a few seconds to fix this...
-01:20:18.494414 USBPROXY USBProxyBackendLinux: Device 05ac:12a8 (sysfs:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-12//device:/dev/vboxusb/001/014) isn't accessible. giving udev a few seconds to fix this...
-01:30:15.397054 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
-01:30:16.617645 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
-01:30:16.903651 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:30:16.906142 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:30:16.913619 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:30:17.916946 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:32:26.818047 nspr-6   Launched VM: 25120624 pid: 22259 (0x56f3) frontend: GUI/Qt name: win10
-01:32:26.828898 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:32:26.999701 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:32:27.448715 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
-01:32:27.469352 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-01:32:27.485691 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
-01:32:27.517802 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
-01:32:27.636055 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
-01:32:27.655679 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
-01:40:09.680440 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
-01:40:09.960718 nspr-4   Saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
-01:40:09.963205 nspr-4   Finished saving settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox"
-01:40:09.970477 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:40:10.972192 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
-01:40:31.548277 main     VirtualBox: object deletion starts
-01:40:31.548368 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/tommi/VirtualBox VMs/win10/win10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
-01:40:31.553358 main     HostDnsMonitor: shutting down ...
-01:40:31.553880 main     HostDnsMonitor: shut down
-01:40:31.567564 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
-01:40:31.567767 main     VirtualBox: object deleted
+00:00:00.006306 main     VirtualBox XPCOM Server 7.0.6_rpmfusion r155176 linux.amd64 (Jan 18 2023 00:00:00) release log
+00:00:00.006309 main     Log opened 2023-02-13T15:02:16.242830000Z
+00:00:00.006310 main     Build Type: release
+00:00:00.006312 main     OS Product: Linux
+00:00:00.006313 main     OS Release: 6.1.9-200.fsync.fc37.x86_64
+00:00:00.006313 main     OS Version: #1 SMP PREEMPT_DYNAMIC TKG Wed Feb  8 09:36:29 UTC 2023
+00:00:00.006330 main     DMI Product Name: System Product Name
+00:00:00.006335 main     DMI Product Version: System Version
+00:00:00.006339 main     Firmware type: UEFI
+00:00:00.006477 main     Secure Boot: Disabled
+00:00:00.006508 main     Host RAM: 31992MB (31.2GB) total, 24941MB (24.3GB) available
+00:00:00.006512 main     Executable: /usr/lib64/virtualbox/VBoxSVC
+00:00:00.006512 main     Process ID: 257861
+00:00:00.006512 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.007450 main     IPC socket path: /tmp/.vbox-tommi-ipc/ipcd
+00:00:00.109525 nspr-2   VirtualBox: object creation starts
+00:00:00.109592 nspr-2   Home directory: '/home/tommi/.config/VirtualBox'
+00:00:00.109735 nspr-2   Loading settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.110830 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.115466 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.116027 nspr-2   HostDnsMonitor: initializing
+00:00:00.116136 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.116227 nspr-2   NAT: resolv.conf: ignoring "options edns0 trust-ad"
+00:00:00.116235 nspr-2   HostDnsMonitor: updating information
+00:00:00.116245 nspr-2   HostDnsMonitor: old information
+00:00:00.116247 nspr-2     no server entries
+00:00:00.116249 nspr-2     no domain set
+00:00:00.116251 nspr-2     no search string entries
+00:00:00.116253 nspr-2   HostDnsMonitor: new information
+00:00:00.116255 nspr-2     server 1: 127.0.0.53
+00:00:00.116257 nspr-2     domain: lan
+00:00:00.116259 nspr-2     search string 1: lan
+00:00:00.117280 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.117337 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.117914 nspr-2   Loading settings file "/home/tommi/VirtualBox VMs/win10/win10.vbox" with version "1.19-linux"
+00:00:00.118428 nspr-2   Loading settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox" with version "1.19-linux"
+00:00:00.118872 nspr-2   Loading settings file "/home/tommi/VirtualBox VMs/Whonix-Workstation-XFCE/Whonix-Workstation-XFCE.vbox" with version "1.19-linux"
+00:00:00.119138 nspr-2   VirtualBox: object created
+00:00:00.655665 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:02.327272 nspr-4   Launched VM: 3556776576 pid: 257940 (0x3ef94) frontend: GUI/Qt name: Whonix-Gateway-XFCE
+00:00:02.342890 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:02.517147 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:02.969111 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:03.009085 nspr-6   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:03.034538 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:03.071311 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:03.158868 nspr-8   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:03.179469 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:03.492867 nspr-7   Saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox" with version "1.19-linux"
+00:00:03.496003 nspr-7   Finished saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox"
+00:00:03.502014 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:04.015054 nspr-7   Saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox" with version "1.19-linux"
+00:00:04.017448 nspr-7   Finished saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox"
+00:00:04.023586 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:06.503801 nspr-8   Saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox" with version "1.19-linux"
+00:00:06.505875 nspr-8   Finished saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox"
+00:00:06.512374 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:07.813282 nspr-3   Saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox" with version "1.19-linux"
+00:00:07.815553 nspr-3   Finished saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox"
+00:00:07.821719 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:13.232689 nspr-5   Saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox" with version "1.19-linux"
+00:00:13.235189 nspr-5   Finished saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox"
+00:00:13.242292 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:17.026216 nspr-8   Saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:17.028565 nspr-8   Finished saving settings file "/home/tommi/.config/VirtualBox/VirtualBox.xml"
+00:00:17.037977 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:17.366270 nspr-4   Launched VM: 3556784336 pid: 258032 (0x3eff0) frontend: GUI/Qt name: Whonix-Workstation-XFCE
+00:00:17.377894 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:17.569308 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:18.021538 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:18.044866 nspr-5   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:18.062668 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp0s20f0u10: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:18.094355 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:18.178350 nspr-10  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:18.206101 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:05.197275 nspr-7   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:05.219297 nspr-10  Saving settings file "/home/tommi/VirtualBox VMs/Whonix-Workstation-XFCE/Whonix-Workstation-XFCE.vbox" with version "1.19-linux"
+00:01:05.221896 nspr-10  Finished saving settings file "/home/tommi/VirtualBox VMs/Whonix-Workstation-XFCE/Whonix-Workstation-XFCE.vbox"
+00:01:05.242775 nspr-10  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:07.573374 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:07.584274 nspr-2   Saving settings file "/home/tommi/VirtualBox VMs/Whonix-Workstation-XFCE/Whonix-Workstation-XFCE.vbox" with version "1.19-linux"
+00:01:07.586836 nspr-2   Finished saving settings file "/home/tommi/VirtualBox VMs/Whonix-Workstation-XFCE/Whonix-Workstation-XFCE.vbox"
+00:01:07.610894 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:08:26.189024 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:08:27.863391 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:08:27.892652 nspr-9   Saving settings file "/home/tommi/VirtualBox VMs/Whonix-Workstation-XFCE/Whonix-Workstation-XFCE.vbox" with version "1.19-linux"
+00:08:27.894950 nspr-9   Finished saving settings file "/home/tommi/VirtualBox VMs/Whonix-Workstation-XFCE/Whonix-Workstation-XFCE.vbox"
+00:08:27.903471 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:08:29.403948 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:08:32.786639 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:08:33.667662 nspr-8   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:08:33.700564 nspr-9   Saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox" with version "1.19-linux"
+00:08:33.703152 nspr-9   Finished saving settings file "/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Whonix-Gateway-XFCE.vbox"
+00:08:33.709180 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:08:47.711257 main     VirtualBox: object deletion starts
+00:08:47.711371 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/tommi/VirtualBox VMs/win10/win10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:08:47.711827 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/tommi/VirtualBox VMs/Whonix-Gateway-XFCE/Appliance-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:08:47.712108 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/tommi/VirtualBox VMs/Whonix-Workstation-XFCE/Appliance-disk002.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:08:47.713232 main     HostDnsMonitor: shutting down ...
+00:08:47.713689 main     HostDnsMonitor: shut down
+00:08:47.726160 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:08:47.726420 main     VirtualBox: object deleted

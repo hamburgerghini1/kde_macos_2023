@@ -10,6 +10,18 @@ Mode Set By User=false
 Time=2023,2,6,9,2,41.7
 URL=file:///home/tommi/*message*-20230203-093054
 
+[file:///home/tommi/.VeraCrypt-lock-tommi]
+Bookmarks=
+Checksum=d202d8867f4302e61646dffd622352fe1d7e86e2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,2,13,7,28,15.019
+URL=file:///home/tommi/.VeraCrypt-lock-tommi
+
 [file:///home/tommi/.config/rpcs3/GuiConfigs/CurrentSettings.ini]
 Bookmarks=
 Checksum=98de7aa271e95df65c263aaff34da6008c753070
@@ -82,6 +94,42 @@ Mode Set By User=false
 Time=2023,2,8,9,49,56.514
 URL=file:///home/tommi/.local/share/plasma/desktoptheme/Noctis-round/metadata.desktop
 
+[file:///home/tommi/.spotify-adblock/spotify-adblock.so]
+Bookmarks=
+Checksum=57f96ccef08bb9d91b371b41503005fcd792787d
+Encoding=ISO-8859-15
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,2,13,7,28,38.937
+URL=file:///home/tommi/.spotify-adblock/spotify-adblock.so
+
+[file:///home/tommi/Documents/GitHub/kde_macos_2023/.bash_profile]
+Bookmarks=
+Checksum=ef23725cde20d6419558ca89cf77c81274b706ff
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,2,13,7,26,2.8529999999999998
+URL=file:///home/tommi/Documents/GitHub/kde_macos_2023/.bash_profile
+
+[file:///home/tommi/Documents/GitHub/kde_macos_2023/.steam-stdout.log]
+Bookmarks=
+Checksum=637e3b44437f9a9073b7fcf47c47b72aec4948f2
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,2,13,7,27,48.73
+URL=file:///home/tommi/Documents/GitHub/kde_macos_2023/.steam-stdout.log
+
 [file:///home/tommi/Documents/GitHub/kde_macos_2023/.xsession-errors]
 Bookmarks=
 Checksum=54d8d4663207dcefcbda24aa6b5aac9b255c8cdb
@@ -93,6 +141,18 @@ Mode=Normal
 Mode Set By User=false
 Time=2023,2,1,6,19,19.557
 URL=file:///home/tommi/Documents/GitHub/kde_macos_2023/.xsession-errors
+
+[file:///home/tommi/Documents/GitHub/kde_macos_2023/README.md]
+Bookmarks=
+Checksum=cd3a56a829026f0e0a4988b4196b03c7421447c0
+Encoding=UTF-8
+Highlighting=Markdown
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Markdown
+Mode Set By User=false
+Time=2023,2,13,7,25,37.816
+URL=file:///home/tommi/Documents/GitHub/kde_macos_2023/README.md
 
 [file:///home/tommi/Documents/surfshark_pass.txt]
 Bookmarks=

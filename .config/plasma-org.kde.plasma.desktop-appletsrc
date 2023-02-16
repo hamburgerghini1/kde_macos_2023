@@ -23,7 +23,7 @@ immutability=1
 plugin=com.pajuelo.plasmaConfSaver
 
 [Containments][53][Applets][120][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 
 [Containments][53][Applets][120][Configuration][ConfigDialog]
 DialogHeight=480
@@ -434,7 +434,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][87][Applets][100][Configuration]
-PreloadWeight=11
+PreloadWeight=0
 
 [Containments][87][Applets][101]
 immutability=1

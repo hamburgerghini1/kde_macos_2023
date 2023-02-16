@@ -8,7 +8,7 @@ SideBarPage=operations
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=32
-Recent Files[$e]=Screenshot_20230126_160113.png,file:$HOME/Pictures/Screenshot_20230209_095816.png
+Recent Files[$e]=Screenshot_20230126_160113.png,file:$HOME/Pictures/Screenshot_20230215_093819.png,file:$HOME/Pictures/Screenshot_20230209_095816.png
 Recent URLs[$e]=file:$HOME/Pictures/
 detailViewIconSize=16
 
@@ -27,26 +27,26 @@ State=AAAA/wAAAAD9AAAAAAAACgAAAAVDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Lightly-Config/Lightly-Window-Decorations-2.png
-File10[$e]=$HOME/Pictures/Screenshot_20230209_095816.png
-File2[$e]=$HOME/Downloads/Lightly-Config/Lightly-Application-Style-2.png
-File3[$e]=$HOME/Downloads/Lightly-Config/Lightly-Window-Decorations-3.png
-File4[$e]=$HOME/Downloads/Lightly-Config/Lightly-Application-Style-1.png
-File5[$e]=$HOME/Pictures/Screenshot_20230128_125332.png
-File6[$e]=$HOME/Pictures/Screenshot_20230130_082905.png
-File7[$e]=$HOME/Pictures/Screenshot_20230202_120707.png
-File8[$e]=$HOME/Pictures/Screenshot_20230203_094731.png
-File9[$e]=$HOME/Pictures/Screenshot_20230204_235131.png
-Name1[$e]=Lightly-Window-Decorations-2.png
-Name10[$e]=Screenshot_20230209_095816.png
-Name2[$e]=Lightly-Application-Style-2.png
-Name3[$e]=Lightly-Window-Decorations-3.png
-Name4[$e]=Lightly-Application-Style-1.png
-Name5[$e]=Screenshot_20230128_125332.png
-Name6[$e]=Screenshot_20230130_082905.png
-Name7[$e]=Screenshot_20230202_120707.png
-Name8[$e]=Screenshot_20230203_094731.png
-Name9[$e]=Screenshot_20230204_235131.png
+File1[$e]=$HOME/Downloads/Lightly-Config/Lightly-Application-Style-2.png
+File10[$e]=$HOME/Pictures/Screenshot_20230215_093819.png
+File2[$e]=$HOME/Downloads/Lightly-Config/Lightly-Window-Decorations-3.png
+File3[$e]=$HOME/Downloads/Lightly-Config/Lightly-Application-Style-1.png
+File4[$e]=$HOME/Pictures/Screenshot_20230128_125332.png
+File5[$e]=$HOME/Pictures/Screenshot_20230130_082905.png
+File6[$e]=$HOME/Pictures/Screenshot_20230202_120707.png
+File7[$e]=$HOME/Pictures/Screenshot_20230203_094731.png
+File8[$e]=$HOME/Pictures/Screenshot_20230204_235131.png
+File9[$e]=$HOME/Pictures/Screenshot_20230209_095816.png
+Name1[$e]=Lightly-Application-Style-2.png
+Name10[$e]=Screenshot_20230215_093819.png
+Name2[$e]=Lightly-Window-Decorations-3.png
+Name3[$e]=Lightly-Application-Style-1.png
+Name4[$e]=Screenshot_20230128_125332.png
+Name5[$e]=Screenshot_20230130_082905.png
+Name6[$e]=Screenshot_20230202_120707.png
+Name7[$e]=Screenshot_20230203_094731.png
+Name8[$e]=Screenshot_20230204_235131.png
+Name9[$e]=Screenshot_20230209_095816.png
 
 [SideBar]
 InformationSplitterSizes=221,254

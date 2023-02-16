@@ -1,0 +1,168 @@
+[07/02/2023, 12:11:20] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+legendary version "0.20.32", codename "Dark Energy (hotfix #6)"
+[07/02/2023, 12:11:21] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[07/02/2023, 12:11:21] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[cli] INFO: Logging in...
+[Core] INFO: Logging in...
+[Core] INFO: Logging in...
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.auth_token.invalid_refresh_token
+[Core] ERROR: Stored credentials are no longer valid! Please login again.
+[cli] ERROR: Login failed, cannot continue!
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.auth_token.invalid_refresh_token
+[Core] ERROR: Stored credentials are no longer valid! Please login again.
+[cli] ERROR: Login failed, cannot continue!
+[07/02/2023, 12:11:27] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[07/02/2023, 12:11:27] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[07/02/2023, 12:11:27] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[07/02/2023, 12:11:27] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1587, in info
+  File "legendary/api/egs.py", line 190, in get_user_entitlements
+AttributeError: 'NoneType' object has no attribute 'get'
+[227] Failed to execute script 'cli' due to unhandled exception!
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1587, in info
+  File "legendary/api/egs.py", line 190, in get_user_entitlements
+AttributeError: 'NoneType' object has no attribute 'get'
+[228] Failed to execute script 'cli' due to unhandled exception!
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1587, in info
+  File "legendary/api/egs.py", line 190, in get_user_entitlements
+AttributeError: 'NoneType' object has no attribute 'get'
+[229] Failed to execute script 'cli' due to unhandled exception!
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1587, in info
+  File "legendary/api/egs.py", line 190, in get_user_entitlements
+AttributeError: 'NoneType' object has no attribute 'get'
+[230] Failed to execute script 'cli' due to unhandled exception!
+[07/02/2023, 12:11:29] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary cleanup
+[cli] INFO: Cleanup complete! Removed 6.24 MiB.
+[07/02/2023, 12:11:31] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[07/02/2023, 12:11:31] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[Core] INFO: Fetching metadata for 71 app(s).
+[Core] INFO: Fetching metadata for 71 app(s).
+[Core] WARNING: Fetching metadata for 06621054d7d24f44bf13e3c31c9ec05d failed, retrying
+[Core] WARNING: Fetching metadata for 06621054d7d24f44bf13e3c31c9ec05d failed, retrying
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1565, in info
+  File "legendary/core.py", line 385, in get_game
+  File "legendary/core.py", line 389, in get_game_list
+  File "legendary/core.py", line 463, in get_game_and_dlc_list
+  File "legendary/core.py", line 438, in fetch_game_meta
+  File "legendary/api/egs.py", line 201, in get_game_info
+  File "requests/models.py", line 1021, in raise_for_status
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/8c7ed85dae4341d385919ee4d832eb1a/bulk/items?id=337333962e364b4bb2ce8f907c7c7d4d&includeDLCDetails=True&includeMainGameDetails=True&country=GB&locale=en
+[245] Failed to execute script 'cli' due to unhandled exception!
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1565, in info
+  File "legendary/core.py", line 385, in get_game
+  File "legendary/core.py", line 389, in get_game_list
+  File "legendary/core.py", line 463, in get_game_and_dlc_list
+  File "legendary/core.py", line 438, in fetch_game_meta
+  File "legendary/api/egs.py", line 201, in get_game_info
+  File "requests/models.py", line 1021, in raise_for_status
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/8c7ed85dae4341d385919ee4d832eb1a/bulk/items?id=337333962e364b4bb2ce8f907c7c7d4d&includeDLCDetails=True&includeMainGameDetails=True&country=GB&locale=en
+[244] Failed to execute script 'cli' due to unhandled exception!
+[07/02/2023, 12:11:33] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[07/02/2023, 12:11:33] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[07/02/2023, 12:11:33] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[Core] INFO: Fetching metadata for 71 app(s).
+[Core] INFO: Fetching metadata for 71 app(s).
+[07/02/2023, 12:11:33] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[07/02/2023, 12:11:34] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[07/02/2023, 12:11:34] /app/bin/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Eider --platform Windows --json
+[Core] INFO: Fetching metadata for 71 app(s).
+[Core] INFO: Fetching metadata for 71 app(s).
+[Core] INFO: Fetching metadata for 71 app(s).
+[Core] INFO: Fetching metadata for 71 app(s).
+[Core] WARNING: Fetching metadata for 06621054d7d24f44bf13e3c31c9ec05d failed, retrying
+[Core] WARNING: Fetching metadata for 06621054d7d24f44bf13e3c31c9ec05d failed, retrying
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1565, in info
+  File "legendary/core.py", line 385, in get_game
+  File "legendary/core.py", line 389, in get_game_list
+  File "legendary/core.py", line 463, in get_game_and_dlc_list
+  File "legendary/core.py", line 438, in fetch_game_meta
+  File "legendary/api/egs.py", line 201, in get_game_info
+  File "requests/models.py", line 1021, in raise_for_status
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/8c7ed85dae4341d385919ee4d832eb1a/bulk/items?id=337333962e364b4bb2ce8f907c7c7d4d&includeDLCDetails=True&includeMainGameDetails=True&country=GB&locale=en
+[285] Failed to execute script 'cli' due to unhandled exception!
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1565, in info
+  File "legendary/core.py", line 385, in get_game
+  File "legendary/core.py", line 389, in get_game_list
+  File "legendary/core.py", line 463, in get_game_and_dlc_list
+  File "legendary/core.py", line 438, in fetch_game_meta
+  File "legendary/api/egs.py", line 201, in get_game_info
+  File "requests/models.py", line 1021, in raise_for_status
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/8c7ed85dae4341d385919ee4d832eb1a/bulk/items?id=337333962e364b4bb2ce8f907c7c7d4d&includeDLCDetails=True&includeMainGameDetails=True&country=GB&locale=en
+[333] Failed to execute script 'cli' due to unhandled exception!
+[Core] WARNING: Fetching metadata for 06621054d7d24f44bf13e3c31c9ec05d failed, retrying
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1565, in info
+  File "legendary/core.py", line 385, in get_game
+  File "legendary/core.py", line 389, in get_game_list
+  File "legendary/core.py", line 463, in get_game_and_dlc_list
+  File "legendary/core.py", line 438, in fetch_game_meta
+  File "legendary/api/egs.py", line 201, in get_game_info
+  File "requests/models.py", line 1021, in raise_for_status
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/8c7ed85dae4341d385919ee4d832eb1a/bulk/items?id=337333962e364b4bb2ce8f907c7c7d4d&includeDLCDetails=True&includeMainGameDetails=True&country=GB&locale=en
+[284] Failed to execute script 'cli' due to unhandled exception!
+[Core] WARNING: Fetching metadata for 06621054d7d24f44bf13e3c31c9ec05d failed, retrying
+[Core] WARNING: Fetching metadata for 06621054d7d24f44bf13e3c31c9ec05d failed, retrying
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1565, in info
+  File "legendary/core.py", line 385, in get_game
+  File "legendary/core.py", line 389, in get_game_list
+  File "legendary/core.py", line 463, in get_game_and_dlc_list
+  File "legendary/core.py", line 438, in fetch_game_meta
+  File "legendary/api/egs.py", line 201, in get_game_info
+  File "requests/models.py", line 1021, in raise_for_status
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/8c7ed85dae4341d385919ee4d832eb1a/bulk/items?id=337333962e364b4bb2ce8f907c7c7d4d&includeDLCDetails=True&includeMainGameDetails=True&country=GB&locale=en
+[330] Failed to execute script 'cli' due to unhandled exception!
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1565, in info
+  File "legendary/core.py", line 385, in get_game
+  File "legendary/core.py", line 389, in get_game_list
+  File "legendary/core.py", line 463, in get_game_and_dlc_list
+  File "legendary/core.py", line 438, in fetch_game_meta
+  File "legendary/api/egs.py", line 201, in get_game_info
+  File "requests/models.py", line 1021, in raise_for_status
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/8c7ed85dae4341d385919ee4d832eb1a/bulk/items?id=337333962e364b4bb2ce8f907c7c7d4d&includeDLCDetails=True&includeMainGameDetails=True&country=GB&locale=en
+[318] Failed to execute script 'cli' due to unhandled exception!
+[Core] WARNING: Fetching metadata for 06621054d7d24f44bf13e3c31c9ec05d failed, retrying
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1565, in info
+  File "legendary/core.py", line 385, in get_game
+  File "legendary/core.py", line 389, in get_game_list
+  File "legendary/core.py", line 463, in get_game_and_dlc_list
+  File "legendary/core.py", line 438, in fetch_game_meta
+  File "legendary/api/egs.py", line 201, in get_game_info
+  File "requests/models.py", line 1021, in raise_for_status
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/8c7ed85dae4341d385919ee4d832eb1a/bulk/items?id=337333962e364b4bb2ce8f907c7c7d4d&includeDLCDetails=True&includeMainGameDetails=True&country=GB&locale=en
+[325] Failed to execute script 'cli' due to unhandled exception!
