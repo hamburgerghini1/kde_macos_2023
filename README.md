@@ -1,5 +1,7 @@
 # kde_macos_2023
 
+Tested on Nobara 37 and Arco Linux
+
 # Screenshot of the desktop
 
 ![Alt text](https://github.com/hamburgerghini1/kde_macos_2023/blob/main/Screenshot_20230207_093029.png)
