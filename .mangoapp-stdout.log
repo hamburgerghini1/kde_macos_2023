@@ -1,4 +1,0 @@
-[2023-02-03 16:57:31.914] [info] [config.cpp:123] parsing config: '/tmp/mangohud.fkTaFtD7'
-[2023-02-03 16:57:31.933] [info] [overlay.cpp:798] Uploading is disabled (permit_upload = 0)
-[2023-02-03 16:57:34.134] [info] [config.cpp:123] parsing config: '/tmp/mangohud.fkTaFtD7'
-[2023-02-03 16:57:34.134] [error] [overlay_params.cpp:715] Unknown option 'nis_steam_sharpness'

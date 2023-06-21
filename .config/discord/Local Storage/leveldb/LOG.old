@@ -1,8 +1,0 @@
-2023/02/13-17:32:43.820 c5e Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/02/13-17:32:43.823 c5e Recovering log #2193
-2023/02/13-17:32:43.825 c5e Level-0 table #2197: started
-2023/02/13-17:32:43.828 c5e Level-0 table #2197: 30385 bytes OK
-2023/02/13-17:32:43.852 c5e Delete type=0 #2193
-2023/02/13-17:33:44.415 c61 Level-0 table #2200: started
-2023/02/13-17:33:44.417 c61 Level-0 table #2200: 24078 bytes OK
-2023/02/13-17:33:44.418 c61 Delete type=0 #2198

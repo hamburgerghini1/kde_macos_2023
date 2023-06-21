@@ -1,7 +1,0 @@
-[Common]
-CornerRadius=8
-
-[Style]
-MenuOpacity=80
-TabDrawHighlight=true
-ViewDrawFocusIndicator=false
