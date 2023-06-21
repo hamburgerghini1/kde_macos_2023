@@ -1,6 +1,6 @@
 # kde_macos_2023
 
-Tested on Nobara 37 and Arco Linux
+Tested on Nobara 37, Arco Linux and Debian 12.
 
 # Screenshot of the desktop
 
