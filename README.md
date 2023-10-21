@@ -24,6 +24,8 @@ Tested on Nobara 37, Arco Linux and Debian 12.
 
 [Window title](https://www.pling.com/p/1274218)
 
+[Window buttons applet](https://store.kde.org/p/1906579)
+
 System tray is default KDE program
 
 Apple logos for task bar are from https://store.kde.org/p/1107444
