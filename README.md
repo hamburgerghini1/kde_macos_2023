@@ -26,6 +26,8 @@ Tested on Nobara 37, Arco Linux and Debian 12.
 
 System tray is default KDE program
 
+Apple logos for task bar are from https://store.kde.org/p/1107444
+
 # Installation
 
 Clone the git repository
