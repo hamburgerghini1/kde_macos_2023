@@ -24,7 +24,8 @@ Tested on Nobara 37, Arco Linux and Debian 12.
 
 [Window title](https://www.pling.com/p/1274218)
 
-[Window buttons applet](https://store.kde.org/p/1906579)
+[Window buttons applet](https://store.kde.org/p/1906579) But I would suggest to install it manually, I couldn't get it to work from kde store...
+https://github.com/psifidotos/applet-window-buttons
 
 System tray is default KDE program
 
